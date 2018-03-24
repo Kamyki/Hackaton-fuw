@@ -45,7 +45,7 @@ DĄBROWSKA ALICJA                    za     KOPACZ EWA                          
 DROZD EWA                           za     KOPACZEWSKA DOMICELA                za       PIECHOTA SŁAWOMIR JAN             za   WITCZAK MARIUSZ                 za
 DUNIN ARTUR                         za     KORZENIOWSKI LESZEK                 za       PIERZCHAŁA ELŻBIETA APOLONIA      za   WITKOWSKI RADOSŁAW              za
 DURKA ZENON                         za     KOSECKI ROMAN JACEK                 za       PIETRZCZYK LUCJAN MAREK           za   WOJTKOWSKI MAREK                za
-DZIĘCIOŁ JANUSZ                     za     KOWALSKI SŁAWOMIR                   za       PIĘ TA JAROSŁAW                   za   WOLAK EWA                       za
+DZIĘCIOŁ JANUSZ                     za     KOWALSKI SŁAWOMIR                   za       PIĘTA JAROSŁAW                   za   WOLAK EWA                       za
 DZIKOWSKI WALDY                     za     KOZACZYŃSKI JACEK                   za       PIOTROWSKA TERESA                 za   WÓJCIK MAREK                    za
 FABISIAK JOANNA                     za     KOZDROŃ JERZY                       za       PITERA JULIA                      za   ZAKRZEWSKA JADWIGA              za
 FEDOROWICZ JERZY                    za     KOZŁOWSKA IWONA                     za       PLOCKE KAZIMIERZ                  za   ZAREMBA RENATA                  za
@@ -53,7 +53,7 @@ FIEDLER ARKADY                      za     KOZŁOWSKA-RAJEWICZ AGNIESZKA        
 GADOWSKI KRZYSZTOF                  za     KOŹLAKIEWICZ MIROSŁAW               za       PLUTA MIROSŁAW                    za   ZDROJEWSKI BOGDAN               za
 GAŁAŻEWSKI ANDRZEJ                  za     KRAJEWSKA LIGIA                     za       POMASKA AGNIESZKA                 za   ZIELIŃSKI MACIEJ                za
 GAPIŃSKA ELŻBIETA                   za     KROPIWNICKI ROBERT                  za       POŚLEDNIA KRYSTYNA                za   ZIEMNIAK WOJCIECH               za
-GAW ŁOWSKI STANISŁAW                za     KRZĄKAŁA MAREK                      za       RACZKOWSKI DAMIAN                 za   ZIĘ TEK JERZY                   za
+GAW ŁOWSKI STANISŁAW                za     KRZĄKAŁA MAREK                      za       RACZKOWSKI DAMIAN                 za   ZIĘTEK JERZY                   za
 GĄDEK LIDIA                         za     KUCHARSKI CEZARY                    za       RADZISZEWSKA ELŻBIETA             za   ŻALEK JACEK                     za
 GĄSIOR-MAREK MAGDALENA              za     KUDRYCKA BARBARA                    za       RANIEWICZ GRZEGORZ                za   ŻMIJAN STANISŁAW                za
 GELERT ELŻBIETA                     za     KULESZA TOMASZ                      za       RAŚ IRENEUSZ                      za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -80,7 +80,7 @@ ARCISZEWSKA-MIELEWCZYK DOROTA   pr.   KACZMAREK TOMASZ             pr.       OŻ
 ARDANOWSKI JAN KRZYSZTOF        pr.   KACZYŃSKI JAROSŁAW           pr.       PALUCH ANNA                      pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 ARENT IWONA EWA                 pr.   KAMIŃSKI MARIUSZ             pr.       PAW ŁOWICZ KRYSTYNA              pr.   TELUS ROBERT                  pr.
 AST MAREK                       pr.   KAMIŃSKI MARIUSZ ANTONI      pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TERLECKI RYSZARD              pr.
-BABALSKI ZBIGNIEW               pr.   KLOC IZABELA                 pr.       PIĘ TA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
+BABALSKI ZBIGNIEW               pr.   KLOC IZABELA                 pr.       PIĘTA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
 BABINETZ PIOTR                  pr.   KŁOSOWSKI SŁAWOMIR           pr.       PIONTKOWSKI DARIUSZ              pr.   TOMASZEWSKI JAN               pr.
 BARTUŚ BARBARA                  pr.   KOŁAKOWSKI LECH              pr.       PIOTROWICZ STANISŁAW             pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BĄK DARIUSZ                     pr.   KOŁAKOWSKI ROBERT            pr.       POLACZEK JERZY                   pr.   WARZECHA JAN                  pr.
@@ -110,13 +110,13 @@ JACH MICHAŁ                     pr.   MICHAŁKIEWICZ KRZYSZTOF      pr.       S
 
  RP (43)                      GŁOSOWAŁO - 40             ZA - 1    PRZECIW - 7                WSTRZYM. - 32            NIE GŁOS. - 3
 
-CHMIELOWSKI PIOTR               za    BODIO BARTŁ OMIEJ            ws.       KMIECIK HENRYK                   ws.   PENKALSKI WOJCIECH            ws.
+CHMIELOWSKI PIOTR               za    BODIO BARTŁOMIEJ            ws.       KMIECIK HENRYK                   ws.   PENKALSKI WOJCIECH            ws.
 ELSNER WINCENTY                 pr.   BORKOWSKI JERZY              ws.       KOTLIŃSKI ROMAN                  ws.   POZNAŃSKI MAREK               ws.
 GRODZKA ANNA                    pr.   BRAMORA ARTUR                ws.       KRUPA ŁUKASZ                     ws.   ROZENEK ANDRZEJ               ws.
 KĘPIŃSKI ADAM                   pr.   CEDZYŃSKI JAN                ws.       KWIATKOWSKI JACEK                ws.   RYBAKOWICZ ADAM               ws.
 KOPYCIŃSKI SŁAWOMIR             pr.   DĘBSKI ARTUR                 ws.       LEWANDOWSKI ANDRZEJ              ws.   SAJAK PAWEŁ                   ws.
 NAJDER JACEK                    pr.   DOMARACKI MAREK              ws.       MAKOWSKI TOMASZ                  ws.   SZYMIEC-RACZYŃSKA HALINA      ws.
-PIĄ TAK ANDRZEJ                 pr.   DZIADZIO DARIUSZ CEZAR       ws.       MARCINKIEWICZ MAŁGORZATA         ws.   WYDRZYŃSKI MACIEJ             ws.
+PIĄTAK ANDRZEJ                 pr.   DZIADZIO DARIUSZ CEZAR       ws.       MARCINKIEWICZ MAŁGORZATA         ws.   WYDRZYŃSKI MACIEJ             ws.
 POPIOŁEK ZOFIA                  pr.   GÓRCZYŃSKI ARTUR             ws.       MROCZEK MACIEJ                   ws.   GIBAŁA ŁUKASZ                 ng.
 BANASZAK MACIEJ                 ws.   KABACIŃSKI MICHAŁ            ws.       NOWICKA WANDA                    ws.   RYFIŃSKI ARMAND KAMIL         ng.
 BAUĆ PIOTR PAWEŁ                ws.   KLEPACZ WITOLD               ws.       PACHOLSKI MICHAŁ TOMASZ          ws.   STOLARSKI MAREK               ng.

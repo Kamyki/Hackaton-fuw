@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    pr.   KOPACZ EWA                         
 DĄBROWSKA ALICJA                      pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.   WITCZAK MARIUSZ                 pr.
 DROZD EWA                             pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITKOWSKI RADOSŁAW              pr.
 DUNIN ARTUR                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOJTKOWSKI MAREK                pr.
-DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.   WOLAK EWA                       pr.
+DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.   WOLAK EWA                       pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.   WÓJCIK MAREK                    pr.
 DZIKOWSKI WALDY                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.   ZAKRZEWSKA JADWIGA              pr.
 FABISIAK JOANNA                       pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.   ZAREMBA RENATA                  pr.
@@ -51,7 +51,7 @@ FEDOROWICZ JERZY                      pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA       
 FIEDLER ARKADY                        pr.   KOŹLAKIEWICZ MIROSŁAW                 pr.       PLUTA MIROSŁAW                   pr.   ZDROJEWSKI BOGDAN               pr.
 GADOWSKI KRZYSZTOF                    pr.   KRAJEWSKA LIGIA                       pr.       POMASKA AGNIESZKA                pr.   ZIELIŃSKI MACIEJ                pr.
 GAŁAŻEWSKI ANDRZEJ                    pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.   ZIEMNIAK WOJCIECH               pr.
-GAPIŃSKA ELŻBIETA                     pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIĘ TEK JERZY                   pr.
+GAPIŃSKA ELŻBIETA                     pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIĘTEK JERZY                   pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ŻALEK JACEK                     pr.
 GĄDEK LIDIA                           pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ŻMIJAN STANISŁAW                pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -81,7 +81,7 @@ ARDANOWSKI JAN KRZYSZTOF        ws.   JĘDRYSEK MARIUSZ ORION       ws.       O�
 ARENT IWONA EWA                 ws.   JURGIEL KRZYSZTOF            ws.       PALUCH ANNA                       ws.   TELUS ROBERT                  ws.
 AST MAREK                       ws.   KACZMAREK TOMASZ             ws.       PAW ŁOWICZ KRYSTYNA               ws.   TERLECKI RYSZARD              ws.
 BABALSKI ZBIGNIEW               ws.   KACZYŃSKI JAROSŁAW           ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   TOBISZOWSKI GRZEGORZ          ws.
-BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ             ws.       PIĘ TA STANISŁAW                  ws.   TOMASZEWSKI JAN               ws.
+BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ             ws.       PIĘTA STANISŁAW                  ws.   TOMASZEWSKI JAN               ws.
 BARTUŚ BARBARA                  ws.   KAMIŃSKI MARIUSZ ANTONI      ws.       PIONTKOWSKI DARIUSZ               ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 BĄK DARIUSZ                     ws.   KLOC IZABELA                 ws.       PIOTROWICZ STANISŁAW              ws.   WARZECHA JAN                  ws.
 BERNACKI W ŁODZIMIERZ           ws.   KŁOSOWSKI SŁAWOMIR           ws.       POLACZEK JERZY                    ws.   WASZCZYKOWSKI WITOLD          ws.
@@ -117,8 +117,8 @@ KMIECIK HENRYK                  za    ELSNER WINCENTY              pr.       NAJ
 KOPYCIŃSKI SŁAWOMIR             za    GIBAŁA ŁUKASZ                pr.       NOWICKA WANDA                     pr.   BANASZAK MACIEJ               ws.
 KWIATKOWSKI JACEK               za    GRODZKA ANNA                 pr.       PACHOLSKI MICHAŁ TOMASZ           pr.   STOLARSKI MAREK               ws.
 SAJAK PAWEŁ                     za    KLEPACZ WITOLD               pr.       PALIKOT JANUSZ                    pr.   BAUĆ PIOTR PAWEŁ              ng.
-BIEDROŃ ROBERT                  pr.   KŁOSOWSKI KRZYSZTOF          pr.       PENKALSKI WOJCIECH                pr.   BODIO BARTŁ OMIEJ             ng.
-BORKOWSKI JERZY                 pr.   KOTLIŃSKI ROMAN              pr.       PIĄ TAK ANDRZEJ                   pr.   SZYMIEC-RACZYŃSKA HALINA      ng.
+BIEDROŃ ROBERT                  pr.   KŁOSOWSKI KRZYSZTOF          pr.       PENKALSKI WOJCIECH                pr.   BODIO BARTŁOMIEJ             ng.
+BORKOWSKI JERZY                 pr.   KOTLIŃSKI ROMAN              pr.       PIĄTAK ANDRZEJ                   pr.   SZYMIEC-RACZYŃSKA HALINA      ng.
 BRAMORA ARTUR                   pr.   KRUPA ŁUKASZ                 pr.       POPIOŁEK ZOFIA                    pr.
 
 

@@ -39,10 +39,10 @@ CYCOŃ MARIAN                          pr.   KOŁODZIEJ EWA                     
 CZAPLICKA BARBARA                     pr.   KONWIŃSKI ZBIGNIEW                     pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   ZAKRZEWSKA JADWIGA              pr.
 CZECHYRA CZESŁAW                      pr.   KOPACZ EWA                             pr.       PIETRASZEWSKA DANUTA             pr.   ZAREMBA RENATA                  pr.
 CZERNOW ZOFIA                         pr.   KOPACZEWSKA DOMICELA                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   ZAWADZKI RYSZARD                pr.
-CZERWIŃSKI ANDRZEJ                    pr.   KORZENIOWSKI LESZEK                    pr.       PIĘ TA JAROSŁAW                  pr.   ZDROJEWSKI BOGDAN               pr.
+CZERWIŃSKI ANDRZEJ                    pr.   KORZENIOWSKI LESZEK                    pr.       PIĘTA JAROSŁAW                  pr.   ZDROJEWSKI BOGDAN               pr.
 DĄBROWSKA ALICJA                      pr.   KOSECKI ROMAN JACEK                    pr.       PIOTROWSKA TERESA                pr.   ZIELIŃSKI MACIEJ                pr.
 DROZD EWA                             pr.   KOWALSKI SŁAWOMIR                      pr.       PITERA JULIA                     pr.   ZIEMNIAK WOJCIECH               pr.
-DUNIN ARTUR                           pr.   KOZACZYŃSKI JACEK                      pr.       PLOCKE KAZIMIERZ                 pr.   ZIĘ TEK JERZY                   pr.
+DUNIN ARTUR                           pr.   KOZACZYŃSKI JACEK                      pr.       PLOCKE KAZIMIERZ                 pr.   ZIĘTEK JERZY                   pr.
 DURKA ZENON                           pr.   KOZDROŃ JERZY                          pr.       PLURA MAREK                      pr.   ŻALEK JACEK                     pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOZŁOWSKA IWONA                        pr.       PLUTA MIROSŁAW                   pr.   ŻMIJAN STANISŁAW                pr.
 DZIKOWSKI WALDY                       pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA           pr.       POMASKA AGNIESZKA                pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -78,7 +78,7 @@ AST MAREK                       za    KACZYŃSKI JAROSŁAW               za     
 BABALSKI ZBIGNIEW               za    KAMIŃSKI MARIUSZ                 za        PALUCH ANNA                     za    TERLECKI RYSZARD                za
 BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ ANTONI          za        PAW ŁOWICZ KRYSTYNA             za    TOBISZOWSKI GRZEGORZ            za
 BARTUŚ BARBARA                  za    KLOC IZABELA                     za        PIECHA BOLESŁAW GRZEGORZ        za    TOMASZEWSKI JAN                 za
-BĄK DARIUSZ                     za    KŁOSOWSKI SŁAWOMIR               za        PIĘ TA STANISŁAW                za    WARZECHA JAN                    za
+BĄK DARIUSZ                     za    KŁOSOWSKI SŁAWOMIR               za        PIĘTA STANISŁAW                za    WARZECHA JAN                    za
 BERNACKI W ŁODZIMIERZ           za    KOŁAKOWSKI LECH                  za        PIONTKOWSKI DARIUSZ             za    WASZCZYKOWSKI WITOLD            za
 BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI ROBERT                za        PIOTROWICZ STANISŁAW            za    WIPLER PRZEMYSŁAW               za
 BŁASZCZAK MARIUSZ               za    KOWALCZYK HENRYK                 za        POLACZEK JERZY                  za    WIŚNIEWSKA JADWIGA              za
@@ -114,8 +114,8 @@ CHMIELOWSKI PIOTR               za    KRUPA ŁUKASZ                     za      
 DĘBSKI ARTUR                    za    LEWANDOWSKI ANDRZEJ              za        GÓRCZYŃSKI ARTUR                pr.   RYFIŃSKI ARMAND KAMIL           pr.
 DOMARACKI MAREK                 za    MARCINKIEWICZ MAŁGORZATA         za        KOPYCIŃSKI SŁAWOMIR             pr.   SAJAK PAWEŁ                     pr.
 DZIADZIO DARIUSZ CEZAR          za    PACHOLSKI MICHAŁ TOMASZ          za        KWIATKOWSKI JACEK               pr.   SZYMIEC-RACZYŃSKA HALINA        pr.
-ELSNER WINCENTY                 za    PIĄ TAK ANDRZEJ                  za        MAKOWSKI TOMASZ                 pr.   WYDRZYŃSKI MACIEJ               pr.
-GRODZKA ANNA                    za    POPIOŁEK ZOFIA                   za        MROCZEK MACIEJ                  pr.   BODIO BARTŁ OMIEJ               ws.
+ELSNER WINCENTY                 za    PIĄTAK ANDRZEJ                  za        MAKOWSKI TOMASZ                 pr.   WYDRZYŃSKI MACIEJ               pr.
+GRODZKA ANNA                    za    POPIOŁEK ZOFIA                   za        MROCZEK MACIEJ                  pr.   BODIO BARTŁOMIEJ               ws.
 KABACIŃSKI MICHAŁ               za    RYBAKOWICZ ADAM                  za        NAJDER JACEK                    pr.   KOTLIŃSKI ROMAN                 ng.
 KĘPIŃSKI ADAM                   za    BANASZAK MACIEJ                  pr.       NOWICKA WANDA                   pr.   STOLARSKI MAREK                 ng.
 KLEPACZ WITOLD                  za    BIEDROŃ ROBERT                   pr.       PALIKOT JANUSZ                  pr.

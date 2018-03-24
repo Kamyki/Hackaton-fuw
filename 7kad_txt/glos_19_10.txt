@@ -43,7 +43,7 @@ CZERNOW ZOFIA                        za    KONWIŃSKI ZBIGNIEW                  
 CZERWIŃSKI ANDRZEJ                   za    KOPACZ EWA                          za       PIERZCHAŁA ELŻBIETA APOLONIA      za    WITCZAK MARIUSZ                 za
 DĄBROWSKA ALICJA                     za    KOPACZEWSKA DOMICELA                za       PIETRASZEWSKA DANUTA              za    WITKOWSKI RADOSŁAW              za
 DROZD EWA                            za    KORZENIOWSKI LESZEK                 za       PIETRZCZYK LUCJAN MAREK           za    WOJNAROWSKI NORBERT             za
-DUNIN ARTUR                          za    KOSECKI ROMAN JACEK                 za       PIĘ TA JAROSŁAW                   za    WOJTKOWSKI MAREK                za
+DUNIN ARTUR                          za    KOSECKI ROMAN JACEK                 za       PIĘTA JAROSŁAW                   za    WOJTKOWSKI MAREK                za
 DURKA ZENON                          za    KOWALSKI SŁAWOMIR                   za       PIOTROWSKA TERESA                 za    WOLAK EWA                       za
 DZIĘCIOŁ JANUSZ                      za    KOZACZYŃSKI JACEK                   za       PITERA JULIA                      za    WÓJCIK MAREK                    za
 DZIKOWSKI WALDY                      za    KOZDROŃ JERZY                       za       PLOCKE KAZIMIERZ                  za    ZAKRZEWSKA JADWIGA              za
@@ -52,7 +52,7 @@ FEDOROWICZ JERZY                     za    KOZŁOWSKA-RAJEWICZ AGNIESZKA        
 FIEDLER ARKADY                       za    KOŹLAKIEWICZ MIROSŁAW               za       POMASKA AGNIESZKA                 za    ZDROJEWSKI BOGDAN               za
 GADOWSKI KRZYSZTOF                   za    KRAJEWSKA LIGIA                     za       RADZISZEWSKA ELŻBIETA             za    ZIELIŃSKI MACIEJ                za
 GAŁAŻEWSKI ANDRZEJ                   za    KROPIWNICKI ROBERT                  za       RANIEWICZ GRZEGORZ                za    ZIEMNIAK WOJCIECH               za
-GAPIŃSKA ELŻBIETA                    za    KRZĄKAŁA MAREK                      za       RAŚ IRENEUSZ                      za    ZIĘ TEK JERZY                   za
+GAPIŃSKA ELŻBIETA                    za    KRZĄKAŁA MAREK                      za       RAŚ IRENEUSZ                      za    ZIĘTEK JERZY                   za
 GAW ŁOWSKI STANISŁAW                 za    KUCHARSKI CEZARY                    za       ROSATI DARIUSZ                    za    ŻALEK JACEK                     za
 GĄDEK LIDIA                          za    KUDRYCKA BARBARA                    za       ROZPONDEK HALINA                  za    ŻMIJAN STANISŁAW                za
 GĄSIOR-MAREK MAGDALENA               za    KULESZA TOMASZ                      za       RUTKOWSKA DOROTA                  za    ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -82,7 +82,7 @@ BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ             ws.       O�
 BARTUŚ BARBARA                  ws.   KAMIŃSKI MARIUSZ ANTONI      ws.       PALUCH ANNA                         ws.   ŚWIAT JACEK                   ws.
 BĄK DARIUSZ                     ws.   KLOC IZABELA                 ws.       PAW ŁOWICZ KRYSTYNA                 ws.   TCHÓRZEWSKI KRZYSZTOF         ws.
 BERNACKI W ŁODZIMIERZ           ws.   KŁOSOWSKI SŁAWOMIR           ws.       PIECHA BOLESŁAW GRZEGORZ            ws.   TELUS ROBERT                  ws.
-BĘTKOWSKI ANDRZEJ               ws.   KOŁAKOWSKI LECH              ws.       PIĘ TA STANISŁAW                    ws.   TERLECKI RYSZARD              ws.
+BĘTKOWSKI ANDRZEJ               ws.   KOŁAKOWSKI LECH              ws.       PIĘTA STANISŁAW                    ws.   TERLECKI RYSZARD              ws.
 BŁASZCZAK MARIUSZ               ws.   KOŁAKOWSKI ROBERT            ws.       PIONTKOWSKI DARIUSZ                 ws.   TOBISZOWSKI GRZEGORZ          ws.
 BRUDZIŃSKI JOACHIM              ws.   KOWALCZYK HENRYK             ws.       PIOTROWICZ STANISŁAW                ws.   TOMASZEWSKI JAN               ws.
 BUBULA BARBARA                  ws.   KRACZKOWSKI MAKS             ws.       POLACZEK JERZY                      ws.   WARZECHA JAN                  ws.
@@ -112,13 +112,13 @@ HRYNKIEWICZ JÓZEFA              ws.   MATUSZEWSKI MAREK            ws.       SZ
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       LEWANDOWSKI ANDRZEJ                 pr.   POZNAŃSKI MAREK               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                pr.       MAKOWSKI TOMASZ                     pr.   ROZENEK ANDRZEJ               pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR             pr.       MARCINKIEWICZ MAŁGORZATA            pr.   RYFIŃSKI ARMAND KAMIL         pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                 pr.       MROCZEK MACIEJ                      pr.   SAJAK PAWEŁ                   pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                 pr.       MROCZEK MACIEJ                      pr.   SAJAK PAWEŁ                   pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ            pr.       NAJDER JACEK                        pr.   STOLARSKI MAREK               pr.
 BRAMORA ARTUR                   pr.   KLEPACZ WITOLD               pr.       NOWICKA WANDA                       pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF          pr.       PACHOLSKI MICHAŁ TOMASZ             pr.   WYDRZYŃSKI MACIEJ             pr.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK               pr.       PALIKOT JANUSZ                      pr.   KĘPIŃSKI ADAM                 ng.
 DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PENKALSKI WOJCIECH                  pr.   KOTLIŃSKI ROMAN               ng.
-DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                 pr.       PIĄ TAK ANDRZEJ                     pr.   RYBAKOWICZ ADAM               ng.
+DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                 pr.       PIĄTAK ANDRZEJ                     pr.   RYBAKOWICZ ADAM               ng.
 DZIADZIO DARIUSZ CEZAR          pr.   KWIATKOWSKI JACEK            pr.       POPIOŁEK ZOFIA                      pr.
 
 

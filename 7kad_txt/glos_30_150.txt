@@ -43,7 +43,7 @@ DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                         
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.    WARDZAŁA ROBERT                 pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.    WIELICHOWSKA MONIKA             pr.
 DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.    WITCZAK MARIUSZ                 pr.
-DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
+DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.    WOJTKOWSKI MAREK                pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.    WOLAK EWA                       pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.    WÓJCIK MAREK                    pr.
@@ -53,7 +53,7 @@ GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                   
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.    ZDROJEWSKI BOGDAN               pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.    ZIELIŃSKI MACIEJ                pr.
 GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.    ZIEMNIAK WOJCIECH               pr.
-GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘ TEK JERZY                   pr.
+GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘTEK JERZY                   pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.    ŻALEK JACEK                     pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.    ŻMIJAN STANISŁAW                pr.
 GLUZA CZESŁAW                         pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.    ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -87,7 +87,7 @@ WIŚNIEWSKA JADWIGA              za    JASIŃSKI WOJCIECH           ws.       O�
 ŻYŻYŃSKI JERZY                  za    JAWORSKI ANDRZEJ            ws.       PALUCH ANNA                       ws.   TOMASZEWSKI JAN               ws.
 ABRAMOWICZ ADAM                 ws.   JĘDRYSEK MARIUSZ ORION      ws.       PAW ŁOWICZ KRYSTYNA               ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 ADAMCZYK ANDRZEJ                ws.   JURGIEL KRZYSZTOF           ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   WARZECHA JAN                  ws.
-ARCISZEWSKA-MIELEWCZYK DOROTA   ws.   KACZMAREK TOMASZ            ws.       PIĘ TA STANISŁAW                  ws.   WASZCZYKOWSKI WITOLD          ws.
+ARCISZEWSKA-MIELEWCZYK DOROTA   ws.   KACZMAREK TOMASZ            ws.       PIĘTA STANISŁAW                  ws.   WASZCZYKOWSKI WITOLD          ws.
 ARDANOWSKI JAN KRZYSZTOF        ws.   KACZYŃSKI JAROSŁAW          ws.       PIONTKOWSKI DARIUSZ               ws.   WIPLER PRZEMYSŁAW             ws.
 ARENT IWONA EWA                 ws.   KAMIŃSKI MARIUSZ            ws.       POLACZEK JERZY                    ws.   WITEK ELŻBIETA                ws.
 AST MAREK                       ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       POLAK MAREK                       ws.   WITKO MARCIN                  ws.
@@ -111,12 +111,12 @@ DUDA ANDRZEJ                    ws.   MACHAŁEK MARZENA            ws.       SPR
 
 BANASZAK MACIEJ                 za    GÓRCZYŃSKI ARTUR            za        MARCINKIEWICZ MAŁGORZATA          za    RYFIŃSKI ARMAND KAMIL         za
 BIEDROŃ ROBERT                  za    GRODZKA ANNA                za        MROCZEK MACIEJ                    za    SAJAK PAWEŁ                   za
-BODIO BARTŁ OMIEJ               za    KABACIŃSKI MICHAŁ           za        NAJDER JACEK                      za    STOLARSKI MAREK               za
+BODIO BARTŁOMIEJ               za    KABACIŃSKI MICHAŁ           za        NAJDER JACEK                      za    STOLARSKI MAREK               za
 BORKOWSKI JERZY                 za    KLEPACZ WITOLD              za        NOWICKA WANDA                     za    SZYMIEC-RACZYŃSKA HALINA      za
 BRAMORA ARTUR                   za    KŁOSOWSKI KRZYSZTOF         za        PACHOLSKI MICHAŁ TOMASZ           za    WYDRZYŃSKI MACIEJ             za
 CEDZYŃSKI JAN                   za    KMIECIK HENRYK              za        PALIKOT JANUSZ                    za    BAUĆ PIOTR PAWEŁ              pr.
 CHMIELOWSKI PIOTR               za    KOPYCIŃSKI SŁAWOMIR         za        PENKALSKI WOJCIECH                za    DOMARACKI MAREK               pr.
-DĘBSKI ARTUR                    za    KOTLIŃSKI ROMAN             za        PIĄ TAK ANDRZEJ                   za    KĘPIŃSKI ADAM                 pr.
+DĘBSKI ARTUR                    za    KOTLIŃSKI ROMAN             za        PIĄTAK ANDRZEJ                   za    KĘPIŃSKI ADAM                 pr.
 DZIADZIO DARIUSZ CEZAR          za    KWIATKOWSKI JACEK           za        POPIOŁEK ZOFIA                    za    KRUPA ŁUKASZ                  pr.
 ELSNER WINCENTY                 za    LEWANDOWSKI ANDRZEJ         za        ROZENEK ANDRZEJ                   za    POZNAŃSKI MAREK               pr.
 GIBAŁA ŁUKASZ                   za    MAKOWSKI TOMASZ             za        RYBAKOWICZ ADAM                   za

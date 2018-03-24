@@ -45,7 +45,7 @@ CZERWIŃSKI ANDRZEJ                   za   KOPACZEWSKA DOMICELA                 
 DĄBROWSKA ALICJA                     za   KORZENIOWSKI LESZEK                   za       PIERZCHAŁA ELŻBIETA APOLONIA      za    WARDZAŁA ROBERT                       za
 DROZD EWA                            za   KOSECKI ROMAN JACEK                   za       PIETRASZEWSKA DANUTA              za    WIELICHOWSKA MONIKA                   za
 DUNIN ARTUR                          za   KOWALSKI SŁAWOMIR                     za       PIETRZCZYK LUCJAN MAREK           za    WITCZAK MARIUSZ                       za
-DURKA ZENON                          za   KOZACZYŃSKI JACEK                     za       PIĘ TA JAROSŁAW                   za    WITKOWSKI RADOSŁAW                    za
+DURKA ZENON                          za   KOZACZYŃSKI JACEK                     za       PIĘTA JAROSŁAW                   za    WITKOWSKI RADOSŁAW                    za
 DZIĘCIOŁ JANUSZ                      za   KOZDROŃ JERZY                         za       PIOTROWSKA TERESA                 za    WOJNAROWSKI NORBERT                   za
 DZIKOWSKI WALDY                      za   KOZŁOWSKA IWONA                       za       PITERA JULIA                      za    WOJTKOWSKI MAREK                      za
 FABISIAK JOANNA                      za   KOZŁOWSKA-RAJEWICZ AGNIESZKA          za       PLOCKE KAZIMIERZ                  za    WOLAK EWA                             za
@@ -56,7 +56,7 @@ GAŁAŻEWSKI ANDRZEJ                   za   KRZĄKAŁA MAREK                    
 GAPIŃSKA ELŻBIETA                    za   KUCHARSKI CEZARY                      za       RACZKOWSKI DAMIAN                 za    ZDROJEWSKI BOGDAN                     za
 GAW ŁOWSKI STANISŁAW                 za   KUDRYCKA BARBARA                      za       RADZISZEWSKA ELŻBIETA             za    ZIELIŃSKI MACIEJ                      za
 GĄDEK LIDIA                          za   KULESZA TOMASZ                        za       RANIEWICZ GRZEGORZ                za    ZIEMNIAK WOJCIECH                     za
-GĄSIOR-MAREK MAGDALENA               za   KWIATKOWSKI KRZYSZTOF                 za       RAŚ IRENEUSZ                      za    ZIĘ TEK JERZY                         za
+GĄSIOR-MAREK MAGDALENA               za   KWIATKOWSKI KRZYSZTOF                 za       RAŚ IRENEUSZ                      za    ZIĘTEK JERZY                         za
 GELERT ELŻBIETA                      za   LAMCZYK STANISŁAW                     za       ROSATI DARIUSZ                    za    ŻALEK JACEK                           za
 GIERADA ARTUR                        za   LASSOTA JÓZEF                         za       ROZPONDEK HALINA                  za    ŻMIJAN STANISŁAW                      za
 GLUZA CZESŁAW                        za   LENZ TOMASZ                           za       RUTKOWSKA DOROTA                  za    ŻMUDA-TRZEBIATOWSKA EWA               za
@@ -84,7 +84,7 @@ AST MAREK                       ws.   KACZYŃSKI JAROSŁAW          ws.       O�
 BABALSKI ZBIGNIEW               ws.   KAMIŃSKI MARIUSZ            ws.       PALUCH ANNA                       ws.   ŚWIAT JACEK                   ws.
 BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PAW ŁOWICZ KRYSTYNA               ws.   TCHÓRZEWSKI KRZYSZTOF         ws.
 BARTUŚ BARBARA                  ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   TELUS ROBERT                  ws.
-BĄK DARIUSZ                     ws.   KOŁAKOWSKI LECH             ws.       PIĘ TA STANISŁAW                  ws.   TERLECKI RYSZARD              ws.
+BĄK DARIUSZ                     ws.   KOŁAKOWSKI LECH             ws.       PIĘTA STANISŁAW                  ws.   TERLECKI RYSZARD              ws.
 BERNACKI W ŁODZIMIERZ           ws.   KOŁAKOWSKI ROBERT           ws.       PIONTKOWSKI DARIUSZ               ws.   TOBISZOWSKI GRZEGORZ          ws.
 BĘTKOWSKI ANDRZEJ               ws.   KOWALCZYK HENRYK            ws.       PIOTROWICZ STANISŁAW              ws.   TOMASZEWSKI JAN               ws.
 BŁASZCZAK MARIUSZ               ws.   KOWNACKI BARTOSZ            ws.       POLACZEK JERZY                    ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
@@ -113,14 +113,14 @@ HOC CZESŁAW                     ws.   MATUSIAK GRZEGORZ           ws.       SZA
 BANASZAK MACIEJ                 za    ELSNER WINCENTY             za        KWIATKOWSKI JACEK                 za    POPIOŁEK ZOFIA                za
 BAUĆ PIOTR PAWEŁ                za    GÓRCZYŃSKI ARTUR            za        LEWANDOWSKI ANDRZEJ               za    POZNAŃSKI MAREK               za
 BIEDROŃ ROBERT                  za    GRODZKA ANNA                za        MAKOWSKI TOMASZ                   za    ROZENEK ANDRZEJ               za
-BODIO BARTŁ OMIEJ               za    KABACIŃSKI MICHAŁ           za        MARCINKIEWICZ MAŁGORZATA          za    RYBAKOWICZ ADAM               za
+BODIO BARTŁOMIEJ               za    KABACIŃSKI MICHAŁ           za        MARCINKIEWICZ MAŁGORZATA          za    RYBAKOWICZ ADAM               za
 BORKOWSKI JERZY                 za    KĘPIŃSKI ADAM               za        MROCZEK MACIEJ                    za    RYFIŃSKI ARMAND KAMIL         za
 BRAMORA ARTUR                   za    KLEPACZ WITOLD              za        NAJDER JACEK                      za    SAJAK PAWEŁ                   za
 CEDZYŃSKI JAN                   za    KŁOSOWSKI KRZYSZTOF         za        NOWICKA WANDA                     za    STOLARSKI MAREK               za
 CHMIELOWSKI PIOTR               za    KMIECIK HENRYK              za        PACHOLSKI MICHAŁ TOMASZ           za    SZYMIEC-RACZYŃSKA HALINA      za
 DĘBSKI ARTUR                    za    KOPYCIŃSKI SŁAWOMIR         za        PALIKOT JANUSZ                    za    WYDRZYŃSKI MACIEJ             za
 DOMARACKI MAREK                 za    KOTLIŃSKI ROMAN             za        PENKALSKI WOJCIECH                za    GIBAŁA ŁUKASZ                 ng.
-DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                za        PIĄ TAK ANDRZEJ                   za
+DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                za        PIĄTAK ANDRZEJ                   za
 
 
  PSL (28)                     GŁOSOWAŁO - 27            ZA - 27   PRZECIW - 0                WSTRZYM. - 0              NIE GŁOS. - 1

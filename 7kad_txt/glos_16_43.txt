@@ -35,11 +35,11 @@ BUTRYN RENATA                      pr.   KOLENDA-ŁABUŚ BRYGIDA              pr
 CICHOŃ JANUSZ                      pr.   KOŁACZ-LESZCZYŃSKA AGNIESZKA       pr.       PIECHOTA SŁAWOMIR JAN            pr.   WOJNAROWSKI NORBERT              pr.
 CIEŚLIŃSKI PIOTR                   pr.   KOŁODZIEJ EWA                      pr.       PIETRASZEWSKA DANUTA             pr.   WOJTKOWSKI MAREK                 pr.
 CYCOŃ MARIAN                       pr.   KONWIŃSKI ZBIGNIEW                 pr.       PIETRZCZYK LUCJAN MAREK          pr.   WÓJCIK MAREK                     pr.
-CZAPLICKA BARBARA                  pr.   KOPACZ EWA                         pr.       PIĘ TA JAROSŁAW                  pr.   ZAREMBA RENATA                   pr.
+CZAPLICKA BARBARA                  pr.   KOPACZ EWA                         pr.       PIĘTA JAROSŁAW                  pr.   ZAREMBA RENATA                   pr.
 CZECHYRA CZESŁAW                   pr.   KOPACZEWSKA DOMICELA               pr.       PIOTROWSKA TERESA                pr.   ZAWADZKI RYSZARD                 pr.
 CZERNOW ZOFIA                      pr.   KORZENIOWSKI LESZEK                pr.       PITERA JULIA                     pr.   ZIELIŃSKI MACIEJ                 pr.
 CZERWIŃSKI ANDRZEJ                 pr.   KOSECKI ROMAN JACEK                pr.       PLOCKE KAZIMIERZ                 pr.   ZIEMNIAK WOJCIECH                pr.
-DĄBROWSKA ALICJA                   pr.   KOWALSKI SŁAWOMIR                  pr.       PLURA MAREK                      pr.   ZIĘ TEK JERZY                    pr.
+DĄBROWSKA ALICJA                   pr.   KOWALSKI SŁAWOMIR                  pr.       PLURA MAREK                      pr.   ZIĘTEK JERZY                    pr.
 DROZD EWA                          pr.   KOZACZYŃSKI JACEK                  pr.       PLUTA MIROSŁAW                   pr.   ŻALEK JACEK                      pr.
 DUNIN ARTUR                        pr.   KOZDROŃ JERZY                      pr.       POMASKA AGNIESZKA                pr.   ŻMUDA-TRZEBIATOWSKA EWA          pr.
 DURKA ZENON                        pr.   KOZŁOWSKA IWONA                    pr.       RACZKOWSKI DAMIAN                pr.   ŻYLIŃSKI ADAM                    pr.
@@ -78,7 +78,7 @@ ARDANOWSKI JAN KRZYSZTOF        pr.   JURGIEL KRZYSZTOF                pr.      
 ARENT IWONA EWA                 pr.   KACZMAREK TOMASZ                 pr.       OŻÓG STANISŁAW                  pr.   TOBISZOWSKI GRZEGORZ            pr.
 AST MAREK                       pr.   KAMIŃSKI MARIUSZ                 pr.       PAW ŁOWICZ KRYSTYNA             pr.   TOMASZEWSKI JAN                 pr.
 BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ ANTONI          pr.       PIECHA BOLESŁAW GRZEGORZ        pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ     pr.
-BABINETZ PIOTR                  pr.   KLOC IZABELA                     pr.       PIĘ TA STANISŁAW                pr.   WARZECHA JAN                    pr.
+BABINETZ PIOTR                  pr.   KLOC IZABELA                     pr.       PIĘTA STANISŁAW                pr.   WARZECHA JAN                    pr.
 BARTUŚ BARBARA                  pr.   KŁOSOWSKI SŁAWOMIR               pr.       PIONTKOWSKI DARIUSZ             pr.   WASZCZYKOWSKI WITOLD            pr.
 BĄK DARIUSZ                     pr.   KOŁAKOWSKI LECH                  pr.       PIOTROWICZ STANISŁAW            pr.   WIPLER PRZEMYSŁAW               pr.
 BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI ROBERT                pr.       POLACZEK JERZY                  pr.   WIŚNIEWSKA JADWIGA              pr.
@@ -112,13 +112,13 @@ JACKIEWICZ DAWID                pr.   MOSKAL KAZIMIERZ                 pr.      
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY                  pr.       LEWANDOWSKI ANDRZEJ             pr.   POZNAŃSKI MAREK                 pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                    pr.       MAKOWSKI TOMASZ                 pr.   ROZENEK ANDRZEJ                 pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR                 pr.       MARCINKIEWICZ MAŁGORZATA        pr.   RYFIŃSKI ARMAND KAMIL           pr.
-BODIO BARTŁ OMIEJ               pr.   KABACIŃSKI MICHAŁ                pr.       MROCZEK MACIEJ                  pr.   SAJAK PAWEŁ                     pr.
+BODIO BARTŁOMIEJ               pr.   KABACIŃSKI MICHAŁ                pr.       MROCZEK MACIEJ                  pr.   SAJAK PAWEŁ                     pr.
 BORKOWSKI JERZY                 pr.   KĘPIŃSKI ADAM                    pr.       NAJDER JACEK                    pr.   SZYMIEC-RACZYŃSKA HALINA        pr.
 BRAMORA ARTUR                   pr.   KLEPACZ WITOLD                   pr.       NOWICKA WANDA                   pr.   WYDRZYŃSKI MACIEJ               pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF              pr.       PACHOLSKI MICHAŁ TOMASZ         pr.   GRODZKA ANNA                    ng.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK                   pr.       PALIKOT JANUSZ                  pr.   KOPYCIŃSKI SŁAWOMIR             ng.
 DĘBSKI ARTUR                    pr.   KOTLIŃSKI ROMAN                  pr.       PENKALSKI WOJCIECH              pr.   RYBAKOWICZ ADAM                 ng.
-DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                     pr.       PIĄ TAK ANDRZEJ                 pr.   STOLARSKI MAREK                 ng.
+DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                     pr.       PIĄTAK ANDRZEJ                 pr.   STOLARSKI MAREK                 ng.
 DZIADZIO DARIUSZ CEZAR          pr.   KWIATKOWSKI JACEK                pr.       POPIOŁEK ZOFIA                  pr.
 
 

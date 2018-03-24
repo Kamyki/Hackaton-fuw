@@ -43,7 +43,7 @@ CZERNOW ZOFIA                       za     KOŁODZIEJ EWA                       
 CZERWIŃSKI ANDRZEJ                  za     KONWIŃSKI ZBIGNIEW                  za       PIERZCHAŁA ELŻBIETA APOLONIA     za    WIELICHOWSKA MONIKA             za
 DĄBROWSKA ALICJA                    za     KOPACZ EWA                          za       PIETRASZEWSKA DANUTA             za    WITCZAK MARIUSZ                 za
 DROZD EWA                           za     KOPACZEWSKA DOMICELA                za       PIETRZCZYK LUCJAN MAREK          za    WITKOWSKI RADOSŁAW              za
-DUNIN ARTUR                         za     KORZENIOWSKI LESZEK                 za       PIĘ TA JAROSŁAW                  za    WOJNAROWSKI NORBERT             za
+DUNIN ARTUR                         za     KORZENIOWSKI LESZEK                 za       PIĘTA JAROSŁAW                  za    WOJNAROWSKI NORBERT             za
 DURKA ZENON                         za     KOZACZYŃSKI JACEK                   za       PIOTROWSKA TERESA                za    WOJTKOWSKI MAREK                za
 DZIĘCIOŁ JANUSZ                     za     KOZDROŃ JERZY                       za       PITERA JULIA                     za    WOLAK EWA                       za
 DZIKOWSKI WALDY                     za     KOZŁOWSKA IWONA                     za       PLOCKE KAZIMIERZ                 za    WÓJCIK MAREK                    za
@@ -53,7 +53,7 @@ FIEDLER ARKADY                      za     KRAJEWSKA LIGIA                     z
 GADOWSKI KRZYSZTOF                  za     KROPIWNICKI ROBERT                  za       POŚLEDNIA KRYSTYNA               za    ZDROJEWSKI BOGDAN               za
 GAŁAŻEWSKI ANDRZEJ                  za     KRZĄKAŁA MAREK                      za       RADZISZEWSKA ELŻBIETA            za    ZIELIŃSKI MACIEJ                za
 GAPIŃSKA ELŻBIETA                   za     KUDRYCKA BARBARA                    za       RANIEWICZ GRZEGORZ               za    ZIEMNIAK WOJCIECH               za
-GAW ŁOWSKI STANISŁAW                za     KULESZA TOMASZ                      za       RAŚ IRENEUSZ                     za    ZIĘ TEK JERZY                   za
+GAW ŁOWSKI STANISŁAW                za     KULESZA TOMASZ                      za       RAŚ IRENEUSZ                     za    ZIĘTEK JERZY                   za
 GĄDEK LIDIA                         za     KWIATKOWSKI KRZYSZTOF               za       ROSATI DARIUSZ                   za    ŻALEK JACEK                     za
 GĄSIOR-MAREK MAGDALENA              za     LAMCZYK STANISŁAW                   za       ROZPONDEK HALINA                 za    ŻMIJAN STANISŁAW                za
 GELERT ELŻBIETA                     za     LASSOTA JÓZEF                       za       RUTKOWSKA DOROTA                 za    ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -81,7 +81,7 @@ ARENT IWONA EWA                 ws.   JURGIEL KRZYSZTOF           ws.       OŻ�
 AST MAREK                       ws.   KACZMAREK TOMASZ            ws.       PALUCH ANNA                         ws.   ŚWIAT JACEK                   ws.
 BABALSKI ZBIGNIEW               ws.   KACZYŃSKI JAROSŁAW          ws.       PAW ŁOWICZ KRYSTYNA                 ws.   TCHÓRZEWSKI KRZYSZTOF         ws.
 BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ            ws.       PIECHA BOLESŁAW GRZEGORZ            ws.   TELUS ROBERT                  ws.
-BARTUŚ BARBARA                  ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PIĘ TA STANISŁAW                    ws.   TERLECKI RYSZARD              ws.
+BARTUŚ BARBARA                  ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PIĘTA STANISŁAW                    ws.   TERLECKI RYSZARD              ws.
 BĄK DARIUSZ                     ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIONTKOWSKI DARIUSZ                 ws.   TOBISZOWSKI GRZEGORZ          ws.
 BERNACKI W ŁODZIMIERZ           ws.   KOŁAKOWSKI LECH             ws.       PIOTROWICZ STANISŁAW                ws.   TOMASZEWSKI JAN               ws.
 BĘTKOWSKI ANDRZEJ               ws.   KOŁAKOWSKI ROBERT           ws.       POLACZEK JERZY                      ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
@@ -113,13 +113,13 @@ HRYNKIEWICZ JÓZEFA              ws.   MICHAŁKIEWICZ KRZYSZTOF     ws.       SZ
 BANASZAK MACIEJ                 za    GIBAŁA ŁUKASZ               za        KWIATKOWSKI JACEK                   za    POZNAŃSKI MAREK               za
 BAUĆ PIOTR PAWEŁ                za    GÓRCZYŃSKI ARTUR            za        LEWANDOWSKI ANDRZEJ                 za    ROZENEK ANDRZEJ               za
 BIEDROŃ ROBERT                  za    GRODZKA ANNA                za        MAKOWSKI TOMASZ                     za    RYBAKOWICZ ADAM               za
-BODIO BARTŁ OMIEJ               za    KABACIŃSKI MICHAŁ           za        MARCINKIEWICZ MAŁGORZATA            za    RYFIŃSKI ARMAND KAMIL         za
+BODIO BARTŁOMIEJ               za    KABACIŃSKI MICHAŁ           za        MARCINKIEWICZ MAŁGORZATA            za    RYFIŃSKI ARMAND KAMIL         za
 BORKOWSKI JERZY                 za    KĘPIŃSKI ADAM               za        MROCZEK MACIEJ                      za    SAJAK PAWEŁ                   za
 CEDZYŃSKI JAN                   za    KLEPACZ WITOLD              za        NAJDER JACEK                        za    STOLARSKI MAREK               za
 CHMIELOWSKI PIOTR               za    KŁOSOWSKI KRZYSZTOF         za        NOWICKA WANDA                       za    SZYMIEC-RACZYŃSKA HALINA      za
 DĘBSKI ARTUR                    za    KMIECIK HENRYK              za        PACHOLSKI MICHAŁ TOMASZ             za    WYDRZYŃSKI MACIEJ             za
 DOMARACKI MAREK                 za    KOPYCIŃSKI SŁAWOMIR         za        PENKALSKI WOJCIECH                  za    BRAMORA ARTUR                 ng.
-DZIADZIO DARIUSZ CEZAR          za    KOTLIŃSKI ROMAN             za        PIĄ TAK ANDRZEJ                     za    PALIKOT JANUSZ                ng.
+DZIADZIO DARIUSZ CEZAR          za    KOTLIŃSKI ROMAN             za        PIĄTAK ANDRZEJ                     za    PALIKOT JANUSZ                ng.
 ELSNER WINCENTY                 za    KRUPA ŁUKASZ                za        POPIOŁEK ZOFIA                      za
 
 

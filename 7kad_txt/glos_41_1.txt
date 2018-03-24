@@ -33,9 +33,9 @@ BUŁA ANDRZEJ                         pr.   KOCHAN MAGDALENA                    
 BUTRYN RENATA                        pr.   KOŁACZ-LESZCZYŃSKA AGNIESZKA          pr.       PIERZCHAŁA ELŻBIETA APOLONIA      pr.   ZAKRZEWSKA JADWIGA              pr.
 CHARŁAMPOWICZ JAROSŁAW               pr.   KOŁODZIEJ EWA                         pr.       PIETRASZEWSKA DANUTA              pr.   ZAREMBA RENATA                  pr.
 CICHOŃ JANUSZ                        pr.   KONWIŃSKI ZBIGNIEW                    pr.       PIETRZCZYK LUCJAN MAREK           pr.   ZAWADZKI RYSZARD                pr.
-CIEŚLIŃSKI PIOTR                     pr.   KOPACZ EWA                            pr.       PIĘ TA JAROSŁAW                   pr.   ZIELIŃSKI MACIEJ                pr.
+CIEŚLIŃSKI PIOTR                     pr.   KOPACZ EWA                            pr.       PIĘTA JAROSŁAW                   pr.   ZIELIŃSKI MACIEJ                pr.
 CYCOŃ MARIAN                         pr.   KOPACZEWSKA DOMICELA                  pr.       PIOTROWSKA TERESA                 pr.   ZIEMNIAK WOJCIECH               pr.
-CZAPLICKA BARBARA                    pr.   KOSECKI ROMAN JACEK                   pr.       PITERA JULIA                      pr.   ZIĘ TEK JERZY                   pr.
+CZAPLICKA BARBARA                    pr.   KOSECKI ROMAN JACEK                   pr.       PITERA JULIA                      pr.   ZIĘTEK JERZY                   pr.
 CZECHYRA CZESŁAW                     pr.   KOWALSKI SŁAWOMIR                     pr.       PLOCKE KAZIMIERZ                  pr.   ŻMIJAN STANISŁAW                pr.
 CZERNOW ZOFIA                        pr.   KOZACZYŃSKI JACEK                     pr.       PLURA MAREK                       pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
 CZERWIŃSKI ANDRZEJ                   pr.   KOZDROŃ JERZY                         pr.       PLUTA MIROSŁAW                    pr.   ŻYLIŃSKI ADAM                   pr.
@@ -72,7 +72,7 @@ GUZOWSKA IWONA                       pr.   NEMŚ ANNA                           
  PiS (138)                    GŁOSOWAŁO - 123            ZA - 123   PRZECIW - 0                   WSTRZYM. - 0            NIE GŁOS. - 15
 
 ABRAMOWICZ ADAM                 za    JURGIEL KRZYSZTOF             za        PAW ŁOWICZ KRYSTYNA                za    TOBISZOWSKI GRZEGORZ          za
-ADAMCZYK ANDRZEJ                za    KACZMAREK TOMASZ              za        PIĘ TA STANISŁAW                   za    TOMASZEWSKI JAN               za
+ADAMCZYK ANDRZEJ                za    KACZMAREK TOMASZ              za        PIĘTA STANISŁAW                   za    TOMASZEWSKI JAN               za
 ANDZEL WALDEMAR                 za    KACZYŃSKI JAROSŁAW            za        PIONTKOWSKI DARIUSZ                za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 ARCISZEWSKA-MIELEWCZYK DOROTA   za    KAMIŃSKI MARIUSZ              za        PIOTROWICZ STANISŁAW               za    WARZECHA JAN                  za
 ARDANOWSKI JAN KRZYSZTOF        za    KLOC IZABELA                  za        POLACZEK JERZY                     za    WASZCZYKOWSKI WITOLD          za
@@ -117,7 +117,7 @@ BORKOWSKI JERZY                 za    GRODZKA ANNA                  za        MR
 BRAMORA ARTUR                   za    KABACIŃSKI MICHAŁ             za        NAJDER JACEK                       za    WYDRZYŃSKI MACIEJ             za
 CEDZYŃSKI JAN                   za    KLEPACZ WITOLD                za        PACHOLSKI MICHAŁ TOMASZ            za    KOPYCIŃSKI SŁAWOMIR           ng.
 CHMIELOWSKI PIOTR               za    KŁOSOWSKI KRZYSZTOF           za        PENKALSKI WOJCIECH                 za    MARCINKIEWICZ MAŁGORZATA      ng.
-DĘBSKI ARTUR                    za    KMIECIK HENRYK                za        PIĄ TAK ANDRZEJ                    za    PALIKOT JANUSZ                ng.
+DĘBSKI ARTUR                    za    KMIECIK HENRYK                za        PIĄTAK ANDRZEJ                    za    PALIKOT JANUSZ                ng.
 DOMARACKI MAREK                 za    KOTLIŃSKI ROMAN               za        POPIOŁEK ZOFIA                     za    RYFIŃSKI ARMAND KAMIL         ng.
 DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                  za        POZNAŃSKI MAREK                    za    SAJAK PAWEŁ                   ng.
 
@@ -156,7 +156,7 @@ JAKI PATRYK                     za    SZELIGA PIOTR                 za        Ż
 
  niez. (5)                    GŁOSOWAŁO - 5              ZA - 3     PRZECIW - 1                   WSTRZYM. - 1            NIE GŁOS. - 0
 
-JAGIEŁŁO JAROSŁAW TOMASZ        za    NOWICKA WANDA                 za        BODIO BARTŁ OMIEJ                  ws.
+JAGIEŁŁO JAROSŁAW TOMASZ        za    NOWICKA WANDA                 za        BODIO BARTŁOMIEJ                  ws.
 KALISZ RYSZARD                  za    GALLA RYSZARD                 pr.
 
 

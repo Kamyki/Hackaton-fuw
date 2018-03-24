@@ -45,7 +45,7 @@ DĄBROWSKA ALICJA                     za    KOPACZEWSKA DOMICELA                
 DROZD EWA                            za    KORZENIOWSKI LESZEK                  za       PIERZCHAŁA ELŻBIETA APOLONIA       za   WARDZAŁA ROBERT                 za
 DUNIN ARTUR                          za    KOSECKI ROMAN JACEK                  za       PIETRASZEWSKA DANUTA               za   WIELICHOWSKA MONIKA             za
 DURKA ZENON                          za    KOWALSKI SŁAWOMIR                    za       PIETRZCZYK LUCJAN MAREK            za   WITCZAK MARIUSZ                 za
-DZIĘCIOŁ JANUSZ                      za    KOZACZYŃSKI JACEK                    za       PIĘ TA JAROSŁAW                    za   WITKOWSKI RADOSŁAW              za
+DZIĘCIOŁ JANUSZ                      za    KOZACZYŃSKI JACEK                    za       PIĘTA JAROSŁAW                    za   WITKOWSKI RADOSŁAW              za
 DZIKOWSKI WALDY                      za    KOZDROŃ JERZY                        za       PIOTROWSKA TERESA                  za   WOJNAROWSKI NORBERT             za
 FABISIAK JOANNA                      za    KOZŁOWSKA IWONA                      za       PITERA JULIA                       za   WOJTKOWSKI MAREK                za
 FEDOROWICZ JERZY                     za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLOCKE KAZIMIERZ                   za   WOLAK EWA                       za
@@ -56,7 +56,7 @@ GAPIŃSKA ELŻBIETA                    za    KRZĄKAŁA MAREK                   
 GAW ŁOWSKI STANISŁAW                 za    KUCHARSKI CEZARY                     za       RACZKOWSKI DAMIAN                  za   ZDROJEWSKI BOGDAN               za
 GĄDEK LIDIA                          za    KUDRYCKA BARBARA                     za       RADZISZEWSKA ELŻBIETA              za   ZIELIŃSKI MACIEJ                za
 GĄSIOR-MAREK MAGDALENA               za    KULESZA TOMASZ                       za       RANIEWICZ GRZEGORZ                 za   ZIEMNIAK WOJCIECH               za
-GELERT ELŻBIETA                      za    KWIATKOWSKI KRZYSZTOF                za       RAŚ IRENEUSZ                       za   ZIĘ TEK JERZY                   za
+GELERT ELŻBIETA                      za    KWIATKOWSKI KRZYSZTOF                za       RAŚ IRENEUSZ                       za   ZIĘTEK JERZY                   za
 GIERADA ARTUR                        za    LAMCZYK STANISŁAW                    za       ROSATI DARIUSZ                     za   ŻALEK JACEK                     za
 GLUZA CZESŁAW                        za    LASSOTA JÓZEF                        za       ROZPONDEK HALINA                   za   ŻMIJAN STANISŁAW                za
 GŁOGOWSKI TOMASZ                     za    LENZ TOMASZ                          za       RUTKOWSKA DOROTA                   za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -81,7 +81,7 @@ BABALSKI ZBIGNIEW               pr.   KACZMAREK TOMASZ            pr.       OŻ�
 BABINETZ PIOTR                  pr.   KACZYŃSKI JAROSŁAW          pr.       PALUCH ANNA                       pr.   ŚWIAT JACEK                     pr.
 BARTUŚ BARBARA                  pr.   KAMIŃSKI MARIUSZ            pr.       PAW ŁOWICZ KRYSTYNA               pr.   TCHÓRZEWSKI KRZYSZTOF           pr.
 BĄK DARIUSZ                     pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIECHA BOLESŁAW GRZEGORZ          pr.   TELUS ROBERT                    pr.
-BERNACKI W ŁODZIMIERZ           pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘ TA STANISŁAW                  pr.   TERLECKI RYSZARD                pr.
+BERNACKI W ŁODZIMIERZ           pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘTA STANISŁAW                  pr.   TERLECKI RYSZARD                pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI LECH             pr.       PIONTKOWSKI DARIUSZ               pr.   TOBISZOWSKI GRZEGORZ            pr.
 BŁASZCZAK MARIUSZ               pr.   KOŁAKOWSKI ROBERT           pr.       PIOTROWICZ STANISŁAW              pr.   TOMASZEWSKI JAN                 pr.
 BRUDZIŃSKI JOACHIM              pr.   KOWALCZYK HENRYK            pr.       POLACZEK JERZY                    pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ     pr.
@@ -112,14 +112,14 @@ HRYNKIEWICZ JÓZEFA              pr.   MAZUREK BEATA               pr.       SZC
 BANASZAK MACIEJ                 za    ELSNER WINCENTY             za        KWIATKOWSKI JACEK                 za    POPIOŁEK ZOFIA                  za
 BAUĆ PIOTR PAWEŁ                za    GÓRCZYŃSKI ARTUR            za        LEWANDOWSKI ANDRZEJ               za    POZNAŃSKI MAREK                 za
 BIEDROŃ ROBERT                  za    GRODZKA ANNA                za        MAKOWSKI TOMASZ                   za    ROZENEK ANDRZEJ                 za
-BODIO BARTŁ OMIEJ               za    KABACIŃSKI MICHAŁ           za        MARCINKIEWICZ MAŁGORZATA          za    RYFIŃSKI ARMAND KAMIL           za
+BODIO BARTŁOMIEJ               za    KABACIŃSKI MICHAŁ           za        MARCINKIEWICZ MAŁGORZATA          za    RYFIŃSKI ARMAND KAMIL           za
 BORKOWSKI JERZY                 za    KĘPIŃSKI ADAM               za        MROCZEK MACIEJ                    za    SAJAK PAWEŁ                     za
 BRAMORA ARTUR                   za    KLEPACZ WITOLD              za        NAJDER JACEK                      za    STOLARSKI MAREK                 za
 CEDZYŃSKI JAN                   za    KŁOSOWSKI KRZYSZTOF         za        NOWICKA WANDA                     za    SZYMIEC-RACZYŃSKA HALINA        za
 CHMIELOWSKI PIOTR               za    KMIECIK HENRYK              za        PACHOLSKI MICHAŁ TOMASZ           za    WYDRZYŃSKI MACIEJ               za
 DĘBSKI ARTUR                    za    KOPYCIŃSKI SŁAWOMIR         za        PALIKOT JANUSZ                    za    RYBAKOWICZ ADAM                 pr.
 DOMARACKI MAREK                 za    KOTLIŃSKI ROMAN             za        PENKALSKI WOJCIECH                za    GIBAŁA ŁUKASZ                   ng.
-DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                za        PIĄ TAK ANDRZEJ                   za
+DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                za        PIĄTAK ANDRZEJ                   za
 
 
  PSL (28)                     GŁOSOWAŁO - 27            ZA - 26   PRZECIW - 1                 WSTRZYM. - 0             NIE GŁOS. - 1

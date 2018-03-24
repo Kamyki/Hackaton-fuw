@@ -42,14 +42,14 @@ CZECHYRA CZESŁAW                    pr.   KOPACZ EWA                           
 CZERNOW ZOFIA                       pr.   KOPACZEWSKA DOMICELA                 pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.    WOJNAROWSKI NORBERT             pr.
 CZERWIŃSKI ANDRZEJ                  pr.   KORZENIOWSKI LESZEK                  pr.       PIETRASZEWSKA DANUTA             pr.    WOJTKOWSKI MAREK                pr.
 DĄBROWSKA ALICJA                    pr.   KOSECKI ROMAN JACEK                  pr.       PIETRZCZYK LUCJAN MAREK          pr.    WOLAK EWA                       pr.
-DROZD EWA                           pr.   KOWALSKI SŁAWOMIR                    pr.       PIĘ TA JAROSŁAW                  pr.    WÓJCIK MAREK                    pr.
+DROZD EWA                           pr.   KOWALSKI SŁAWOMIR                    pr.       PIĘTA JAROSŁAW                  pr.    WÓJCIK MAREK                    pr.
 DUNIN ARTUR                         pr.   KOZACZYŃSKI JACEK                    pr.       PIOTROWSKA TERESA                pr.    ZAKRZEWSKA JADWIGA              pr.
 DURKA ZENON                         pr.   KOZDROŃ JERZY                        pr.       PITERA JULIA                     pr.    ZAREMBA RENATA                  pr.
 DZIĘCIOŁ JANUSZ                     pr.   KOZŁOWSKA IWONA                      pr.       PLOCKE KAZIMIERZ                 pr.    ZAWADZKI RYSZARD                pr.
 DZIKOWSKI WALDY                     pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA         pr.       PLURA MAREK                      pr.    ZDROJEWSKI BOGDAN               pr.
 FABISIAK JOANNA                     pr.   KOŹLAKIEWICZ MIROSŁAW                pr.       PLUTA MIROSŁAW                   pr.    ZIELIŃSKI MACIEJ                pr.
 FEDOROWICZ JERZY                    pr.   KRAJEWSKA LIGIA                      pr.       POMASKA AGNIESZKA                pr.    ZIEMNIAK WOJCIECH               pr.
-FIEDLER ARKADY                      pr.   KROPIWNICKI ROBERT                   pr.       RACZKOWSKI DAMIAN                pr.    ZIĘ TEK JERZY                   pr.
+FIEDLER ARKADY                      pr.   KROPIWNICKI ROBERT                   pr.       RACZKOWSKI DAMIAN                pr.    ZIĘTEK JERZY                   pr.
 GADOWSKI KRZYSZTOF                  pr.   KRZĄKAŁA MAREK                       pr.       RADZISZEWSKA ELŻBIETA            pr.    ŻALEK JACEK                     pr.
 GAŁAŻEWSKI ANDRZEJ                  pr.   KUCHARSKI CEZARY                     pr.       RANIEWICZ GRZEGORZ               pr.    ŻMIJAN STANISŁAW                pr.
 GAPIŃSKA ELŻBIETA                   pr.   KUDRYCKA BARBARA                     pr.       RAŚ IRENEUSZ                     pr.    ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -77,7 +77,7 @@ ANDZEL WALDEMAR                 za    JURGIEL KRZYSZTOF            za        OSU
 ARCISZEWSKA-MIELEWCZYK DOROTA   za    KACZMAREK TOMASZ             za        OŻÓG STANISŁAW                   za    TCHÓRZEWSKI KRZYSZTOF         za
 ARDANOWSKI JAN KRZYSZTOF        za    KACZYŃSKI JAROSŁAW           za        PALUCH ANNA                      za    TERLECKI RYSZARD              za
 ARENT IWONA EWA                 za    KAMIŃSKI MARIUSZ             za        PAW ŁOWICZ KRYSTYNA              za    TOBISZOWSKI GRZEGORZ          za
-AST MAREK                       za    KAMIŃSKI MARIUSZ ANTONI      za        PIĘ TA STANISŁAW                 za    TOMASZEWSKI JAN               za
+AST MAREK                       za    KAMIŃSKI MARIUSZ ANTONI      za        PIĘTA STANISŁAW                 za    TOMASZEWSKI JAN               za
 BABALSKI ZBIGNIEW               za    KLOC IZABELA                 za        PIONTKOWSKI DARIUSZ              za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BABINETZ PIOTR                  za    KŁOSOWSKI SŁAWOMIR           za        PIOTROWICZ STANISŁAW             za    WARZECHA JAN                  za
 BARTUŚ BARBARA                  za    KOŁAKOWSKI LECH              za        POLACZEK JERZY                   za    WASZCZYKOWSKI WITOLD          za
@@ -110,7 +110,7 @@ JASIŃSKI WOJCIECH               za    NAIMSKI PIOTR                za        SZ
 
  RP (40)                      GŁOSOWAŁO - 40            ZA - 0     PRZECIW - 40               WSTRZYM. - 0             NIE GŁOS. - 0
 
-BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       KRUPA ŁUKASZ                     pr.   PIĄ TAK ANDRZEJ               pr.
+BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       KRUPA ŁUKASZ                     pr.   PIĄTAK ANDRZEJ               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                pr.       KWIATKOWSKI JACEK                pr.   POPIOŁEK ZOFIA                pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR             pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK               pr.
 BORKOWSKI JERZY                 pr.   GRODZKA ANNA                 pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
@@ -157,7 +157,7 @@ MULARCZYK ARKADIUSZ             za    WOŹNIAK TADEUSZ              za        G�
  niez. (5)                    GŁOSOWAŁO - 5             ZA - 1     PRZECIW - 4                WSTRZYM. - 0             NIE GŁOS. - 0
 
 JAGIEŁŁO JAROSŁAW TOMASZ        za    GALLA RYSZARD                pr.       NOWICKA WANDA                    pr.
-BODIO BARTŁ OMIEJ               pr.   KALISZ RYSZARD               pr.
+BODIO BARTŁOMIEJ               pr.   KALISZ RYSZARD               pr.
 
 
 

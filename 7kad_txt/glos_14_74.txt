@@ -39,7 +39,7 @@ CZECHYRA CZESŁAW                    pr.   KOPACZEWSKA DOMICELA                p
 CZERNOW ZOFIA                       pr.   KORZENIOWSKI LESZEK                 pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITCZAK MARIUSZ                 pr.
 CZERWIŃSKI ANDRZEJ                  pr.   KOSECKI ROMAN JACEK                 pr.       PIETRASZEWSKA DANUTA             pr.   WITKOWSKI RADOSŁAW              pr.
 DĄBROWSKA ALICJA                    pr.   KOWALSKI SŁAWOMIR                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOJNAROWSKI NORBERT             pr.
-DROZD EWA                           pr.   KOZACZYŃSKI JACEK                   pr.       PIĘ TA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                pr.
+DROZD EWA                           pr.   KOZACZYŃSKI JACEK                   pr.       PIĘTA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                pr.
 DUNIN ARTUR                         pr.   KOZDROŃ JERZY                       pr.       PIOTROWSKA TERESA                pr.   WOLAK EWA                       pr.
 DURKA ZENON                         pr.   KOZŁOWSKA IWONA                     pr.       PITERA JULIA                     pr.   WÓJCIK MAREK                    pr.
 DZIĘCIOŁ JANUSZ                     pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA        pr.       PLOCKE KAZIMIERZ                 pr.   ZAKRZEWSKA JADWIGA              pr.
@@ -48,7 +48,7 @@ FABISIAK JOANNA                     pr.   KRAJEWSKA LIGIA                     pr
 FEDOROWICZ JERZY                    pr.   KROPIWNICKI ROBERT                  pr.       POMASKA AGNIESZKA                pr.   ZDROJEWSKI BOGDAN               pr.
 FIEDLER ARKADY                      pr.   KRZĄKAŁA MAREK                      pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                pr.
 GADOWSKI KRZYSZTOF                  pr.   KUCHARSKI CEZARY                    pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH               pr.
-GAŁAŻEWSKI ANDRZEJ                  pr.   KUDRYCKA BARBARA                    pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                   pr.
+GAŁAŻEWSKI ANDRZEJ                  pr.   KUDRYCKA BARBARA                    pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                   pr.
 GAPIŃSKA ELŻBIETA                   pr.   KULESZA TOMASZ                      pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                     pr.
 GAW ŁOWSKI STANISŁAW                pr.   KWIATKOWSKI KRZYSZTOF               pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                pr.
 GĄSIOR-MAREK MAGDALENA              pr.   LAMCZYK STANISŁAW                   pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -82,7 +82,7 @@ BABALSKI ZBIGNIEW               za    KAMIŃSKI MARIUSZ             za        O�
 BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ ANTONI      za        PALUCH ANNA                      za    ŚWIAT JACEK                   za
 BĄK DARIUSZ                     za    KLOC IZABELA                 za        PAW ŁOWICZ KRYSTYNA              za    TCHÓRZEWSKI KRZYSZTOF         za
 BERNACKI W ŁODZIMIERZ           za    KŁOSOWSKI SŁAWOMIR           za        PIECHA BOLESŁAW GRZEGORZ         za    TELUS ROBERT                  za
-BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘ TA STANISŁAW                 za    TERLECKI RYSZARD              za
+BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘTA STANISŁAW                 za    TERLECKI RYSZARD              za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI ROBERT            za        PIONTKOWSKI DARIUSZ              za    TOBISZOWSKI GRZEGORZ          za
 BRUDZIŃSKI JOACHIM              za    KOWALCZYK HENRYK             za        PIOTROWICZ STANISŁAW             za    TOMASZEWSKI JAN               za
 BUBULA BARBARA                  za    KRACZKOWSKI MAKS             za        POLACZEK JERZY                   za    WARZECHA JAN                  za
@@ -112,13 +112,13 @@ JACH MICHAŁ                     za    MATUSZEWSKI MAREK            za        SZ
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR             pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                 pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                 pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ            pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                   pr.
 BRAMORA ARTUR                   pr.   KLEPACZ WITOLD               pr.       NOWICKA WANDA                    pr.   STOLARSKI MAREK               pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF          pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK               pr.       PALIKOT JANUSZ                   pr.   WYDRZYŃSKI MACIEJ             pr.
 DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PENKALSKI WOJCIECH               pr.   KĘPIŃSKI ADAM                 ng.
-DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                 pr.       PIĄ TAK ANDRZEJ                  pr.   KOTLIŃSKI ROMAN               ng.
+DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                 pr.       PIĄTAK ANDRZEJ                  pr.   KOTLIŃSKI ROMAN               ng.
 DZIADZIO DARIUSZ CEZAR          pr.   KWIATKOWSKI JACEK            pr.       POPIOŁEK ZOFIA                   pr.
 
 

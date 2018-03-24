@@ -43,7 +43,7 @@ DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                         
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.    WIELICHOWSKA MONIKA             pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.    WITCZAK MARIUSZ                 pr.
 DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.    WITKOWSKI RADOSŁAW              pr.
-DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.    WOJTKOWSKI MAREK                pr.
+DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.    WOJTKOWSKI MAREK                pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.    WOLAK EWA                       pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.    WÓJCIK MAREK                    pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.    ZAKRZEWSKA JADWIGA              pr.
@@ -52,7 +52,7 @@ GADOWSKI KRZYSZTOF                    pr.   KOŹLAKIEWICZ MIROSŁAW             
 GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                       pr.       POMASKA AGNIESZKA                pr.    ZDROJEWSKI BOGDAN               pr.
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.    ZIELIŃSKI MACIEJ                pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.    ZIEMNIAK WOJCIECH               pr.
-GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.    ZIĘ TEK JERZY                   pr.
+GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.    ZIĘTEK JERZY                   pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.    ŻALEK JACEK                     pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.    ŻMIJAN STANISŁAW                pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.    ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -84,7 +84,7 @@ MAZUREK BEATA                   za    FOTYGA ANNA                 ws.       MAŁ
 MICHAŁKIEWICZ KRZYSZTOF         za    GIRZYŃSKI ZBIGNIEW          ws.       MASTALEREK MARCIN                 ws.   ŚWIAT JACEK                ws.
 MOSKAL KAZIMIERZ                za    GIŻYŃSKI SZYMON             ws.       MATERNA JERZY                     ws.   TCHÓRZEWSKI KRZYSZTOF      ws.
 OŻÓG STANISŁAW                  za    GOSIEWSKA MAŁGORZATA        ws.       MATUSIAK GRZEGORZ                 ws.   TELUS ROBERT               ws.
-PIĘ TA STANISŁAW                za    GÓRSKI ARTUR                ws.       MATUSZEWSKI MAREK                 ws.   TERLECKI RYSZARD           ws.
+PIĘTA STANISŁAW                za    GÓRSKI ARTUR                ws.       MATUSZEWSKI MAREK                 ws.   TERLECKI RYSZARD           ws.
 PIOTROWICZ STANISŁAW            za    HOC CZESŁAW                 ws.       NAIMSKI PIOTR                     ws.   TOBISZOWSKI GRZEGORZ       ws.
 SADURSKA MAŁGORZATA             za    HOFMAN ADAM                 ws.       NOWAK MARIA                       ws.   TOMASZEWSKI JAN            ws.
 SASIN JACEK                     za    HRYNKIEWICZ JÓZEFA          ws.       OPIOŁA MAREK                      ws.   WARZECHA JAN               ws.
@@ -109,8 +109,8 @@ BĘTKOWSKI ANDRZEJ               ws.   KRASULSKI LEONARD           ws.       SEL
 
  RP (43)                      GŁOSOWAŁO - 43            ZA - 9    PRZECIW - 33               WSTRZYM. - 1              NIE GŁOS. - 0
 
-BODIO BARTŁ OMIEJ               za    BIEDROŃ ROBERT              pr.       KOPYCIŃSKI SŁAWOMIR               pr.   PENKALSKI WOJCIECH         pr.
-DZIADZIO DARIUSZ CEZAR          za    BORKOWSKI JERZY             pr.       KOTLIŃSKI ROMAN                   pr.   PIĄ TAK ANDRZEJ            pr.
+BODIO BARTŁOMIEJ               za    BIEDROŃ ROBERT              pr.       KOPYCIŃSKI SŁAWOMIR               pr.   PENKALSKI WOJCIECH         pr.
+DZIADZIO DARIUSZ CEZAR          za    BORKOWSKI JERZY             pr.       KOTLIŃSKI ROMAN                   pr.   PIĄTAK ANDRZEJ            pr.
 GÓRCZYŃSKI ARTUR                za    BRAMORA ARTUR               pr.       KRUPA ŁUKASZ                      pr.   POPIOŁEK ZOFIA             pr.
 GRODZKA ANNA                    za    CEDZYŃSKI JAN               pr.       KWIATKOWSKI JACEK                 pr.   ROZENEK ANDRZEJ            pr.
 KABACIŃSKI MICHAŁ               za    CHMIELOWSKI PIOTR           pr.       LEWANDOWSKI ANDRZEJ               pr.   RYBAKOWICZ ADAM            pr.

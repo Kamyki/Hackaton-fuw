@@ -44,7 +44,7 @@ CZERWIŃSKI ANDRZEJ                  za     KOPACZ EWA                          
 DĄBROWSKA ALICJA                    za     KOPACZEWSKA DOMICELA                za       PIERZCHAŁA ELŻBIETA APOLONIA      za   WARDZAŁA ROBERT                 za
 DROZD EWA                           za     KORZENIOWSKI LESZEK                 za       PIETRASZEWSKA DANUTA              za   WIELICHOWSKA MONIKA             za
 DUNIN ARTUR                         za     KOSECKI ROMAN JACEK                 za       PIETRZCZYK LUCJAN MAREK           za   WITCZAK MARIUSZ                 za
-DURKA ZENON                         za     KOWALSKI SŁAWOMIR                   za       PIĘ TA JAROSŁAW                   za   WITKOWSKI RADOSŁAW              za
+DURKA ZENON                         za     KOWALSKI SŁAWOMIR                   za       PIĘTA JAROSŁAW                   za   WITKOWSKI RADOSŁAW              za
 DZIĘCIOŁ JANUSZ                     za     KOZACZYŃSKI JACEK                   za       PIOTROWSKA TERESA                 za   WOJNAROWSKI NORBERT             za
 DZIKOWSKI WALDY                     za     KOZDROŃ JERZY                       za       PITERA JULIA                      za   WOJTKOWSKI MAREK                za
 FABISIAK JOANNA                     za     KOZŁOWSKA IWONA                     za       PLOCKE KAZIMIERZ                  za   WOLAK EWA                       za
@@ -54,7 +54,7 @@ GADOWSKI KRZYSZTOF                  za     KRAJEWSKA LIGIA                     z
 GAŁAŻEWSKI ANDRZEJ                  za     KROPIWNICKI ROBERT                  za       POŚLEDNIA KRYSTYNA                za   ZDROJEWSKI BOGDAN               za
 GAPIŃSKA ELŻBIETA                   za     KRZĄKAŁA MAREK                      za       RACZKOWSKI DAMIAN                 za   ZIELIŃSKI MACIEJ                za
 GAW ŁOWSKI STANISŁAW                za     KUCHARSKI CEZARY                    za       RADZISZEWSKA ELŻBIETA             za   ZIEMNIAK WOJCIECH               za
-GĄDEK LIDIA                         za     KUDRYCKA BARBARA                    za       RANIEWICZ GRZEGORZ                za   ZIĘ TEK JERZY                   za
+GĄDEK LIDIA                         za     KUDRYCKA BARBARA                    za       RANIEWICZ GRZEGORZ                za   ZIĘTEK JERZY                   za
 GĄSIOR-MAREK MAGDALENA              za     KULESZA TOMASZ                      za       RAŚ IRENEUSZ                      za   ŻALEK JACEK                     za
 GELERT ELŻBIETA                     za     KWIATKOWSKI KRZYSZTOF               za       ROSATI DARIUSZ                    za   ŻMIJAN STANISŁAW                za
 GIERADA ARTUR                       za     LAMCZYK STANISŁAW                   za       ROZPONDEK HALINA                  za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -82,7 +82,7 @@ BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ            pr.       OŻ
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PALUCH ANNA                      pr.   ŚWIAT JACEK                   pr.
 BARTUŚ BARBARA                  pr.   KLOC IZABELA                pr.       PAW ŁOWICZ KRYSTYNA              pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TELUS ROBERT                  pr.
-BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI LECH             pr.       PIĘ TA STANISŁAW                 pr.   TERLECKI RYSZARD              pr.
+BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI LECH             pr.       PIĘTA STANISŁAW                 pr.   TERLECKI RYSZARD              pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI ROBERT           pr.       PIONTKOWSKI DARIUSZ              pr.   TOBISZOWSKI GRZEGORZ          pr.
 BŁASZCZAK MARIUSZ               pr.   KOWALCZYK HENRYK            pr.       PIOTROWICZ STANISŁAW             pr.   TOMASZEWSKI JAN               pr.
 BRUDZIŃSKI JOACHIM              pr.   KOWNACKI BARTOSZ            pr.       POLACZEK JERZY                   pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
@@ -113,14 +113,14 @@ JACH MICHAŁ                     pr.   MATUSZEWSKI MAREK           pr.       SZA
 BANASZAK MACIEJ                 pr.   GIBAŁA ŁUKASZ               pr.       KWIATKOWSKI JACEK                pr.   POPIOŁEK ZOFIA                pr.
 BAUĆ PIOTR PAWEŁ                pr.   GÓRCZYŃSKI ARTUR            pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK               pr.
 BIEDROŃ ROBERT                  pr.   GRODZKA ANNA                pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
-BODIO BARTŁ OMIEJ               pr.   KABACIŃSKI MICHAŁ           pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
+BODIO BARTŁOMIEJ               pr.   KABACIŃSKI MICHAŁ           pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
 BORKOWSKI JERZY                 pr.   KĘPIŃSKI ADAM               pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BRAMORA ARTUR                   pr.   KLEPACZ WITOLD              pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                   pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF         pr.       NOWICKA WANDA                    pr.   STOLARSKI MAREK               pr.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK              pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ             pr.
 DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PALIKOT JANUSZ                   pr.   DZIADZIO DARIUSZ CEZAR        ng.
 DOMARACKI MAREK                 pr.   KOTLIŃSKI ROMAN             pr.       PENKALSKI WOJCIECH               pr.   SZYMIEC-RACZYŃSKA HALINA      ng.
-ELSNER WINCENTY                 pr.   KRUPA ŁUKASZ                pr.       PIĄ TAK ANDRZEJ                  pr.
+ELSNER WINCENTY                 pr.   KRUPA ŁUKASZ                pr.       PIĄTAK ANDRZEJ                  pr.
 
 
  PSL (29)                     GŁOSOWAŁO - 25            ZA - 21   PRZECIW - 3                WSTRZYM. - 1             NIE GŁOS. - 4

@@ -36,7 +36,7 @@ CIEŚLIŃSKI PIOTR                     za    KOLENDA-ŁABUŚ BRYGIDA            
 CYCOŃ MARIAN                         za    KOŁACZ-LESZCZYŃSKA AGNIESZKA         za       PIECHOTA SŁAWOMIR JAN              za   WIELICHOWSKA MONIKA                      za
 CZAPLICKA BARBARA                    za    KOŁODZIEJ EWA                        za       PIETRASZEWSKA DANUTA               za   WITCZAK MARIUSZ                          za
 CZECHYRA CZESŁAW                     za    KONWIŃSKI ZBIGNIEW                   za       PIETRZCZYK LUCJAN MAREK            za   WITKOWSKI RADOSŁAW                       za
-CZERNOW ZOFIA                        za    KOPACZEWSKA DOMICELA                 za       PIĘ TA JAROSŁAW                    za   WOJNAROWSKI NORBERT                      za
+CZERNOW ZOFIA                        za    KOPACZEWSKA DOMICELA                 za       PIĘTA JAROSŁAW                    za   WOJNAROWSKI NORBERT                      za
 CZERWIŃSKI ANDRZEJ                   za    KORZENIOWSKI LESZEK                  za       PIOTROWSKA TERESA                  za   WOJTKOWSKI MAREK                         za
 DĄBROWSKA ALICJA                     za    KOSECKI ROMAN JACEK                  za       PITERA JULIA                       za   WOLAK EWA                                za
 DROZD EWA                            za    KOWALSKI SŁAWOMIR                    za       PLOCKE KAZIMIERZ                   za   WÓJCIK MAREK                             za
@@ -44,7 +44,7 @@ DUNIN ARTUR                          za    KOZACZYŃSKI JACEK                   
 DURKA ZENON                          za    KOZDROŃ JERZY                        za       PLUTA MIROSŁAW                     za   ZAWADZKI RYSZARD                         za
 DZIĘCIOŁ JANUSZ                      za    KOZŁOWSKA IWONA                      za       POMASKA AGNIESZKA                  za   ZIELIŃSKI MACIEJ                         za
 FABISIAK JOANNA                      za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       RACZKOWSKI DAMIAN                  za   ZIEMNIAK WOJCIECH                        za
-FEDOROWICZ JERZY                     za    KOŹLAKIEWICZ MIROSŁAW                za       RADZISZEWSKA ELŻBIETA              za   ZIĘ TEK JERZY                            za
+FEDOROWICZ JERZY                     za    KOŹLAKIEWICZ MIROSŁAW                za       RADZISZEWSKA ELŻBIETA              za   ZIĘTEK JERZY                            za
 FIEDLER ARKADY                       za    KRAJEWSKA LIGIA                      za       RANIEWICZ GRZEGORZ                 za   ŻALEK JACEK                              za
 GADOWSKI KRZYSZTOF                   za    KROPIWNICKI ROBERT                   za       RAŚ IRENEUSZ                       za   ŻMIJAN STANISŁAW                         za
 GAŁAŻEWSKI ANDRZEJ                   za    KRZĄKAŁA MAREK                       za       ROSATI DARIUSZ                     za   ŻMUDA-TRZEBIATOWSKA EWA                  za
@@ -97,7 +97,7 @@ FALFUS JACEK                    za    MACHAŁEK MARZENA                 za      
 FOTYGA ANNA                     za    MACIEREWICZ ANTONI               za        STRZAŁKOWSKI STEFAN             za    KACZYŃSKI JAROSŁAW              ng.
 GIRZYŃSKI ZBIGNIEW              za    MALIK EWA                        za        SUSKI MAREK                     za    KRACZKOWSKI MAKS                ng.
 GIŻYŃSKI SZYMON                 za    MAŁECKI MACIEJ                   za        SZARAMA WOJCIECH                za    PALUCH ANNA                     ng.
-GOŁOJUCH KAZIMIERZ              za    MASŁOWSKA GABRIELA               za        SZCZERSKI KRZYSZTOF             za    PIĘ TA STANISŁAW                ng.
+GOŁOJUCH KAZIMIERZ              za    MASŁOWSKA GABRIELA               za        SZCZERSKI KRZYSZTOF             za    PIĘTA STANISŁAW                ng.
 GOSIEWSKA MAŁGORZATA            za    MASTALEREK MARCIN                za        SZCZYPIŃSKA JOLANTA             za    POLAK MAREK                     ng.
 GÓRSKI ARTUR                    za    MATERNA JERZY                    za        SZLACHTA ANDRZEJ                za    POPIOŁEK KRZYSZTOF              ng.
 HOC CZESŁAW                     za    MATUSIAK GRZEGORZ                za        SZMIT JERZY                     za    SZAŁAMACHA PAWEŁ                ng.
@@ -111,10 +111,10 @@ JACH MICHAŁ                     za    MICHAŁKIEWICZ KRZYSZTOF          za     
 BANASZAK MACIEJ                 pr.   GIBAŁA ŁUKASZ                    pr.       MROCZEK MACIEJ                  pr.   SAJAK PAWEŁ                     pr.
 BAUĆ PIOTR PAWEŁ                pr.   GÓRCZYŃSKI ARTUR                 pr.       NAJDER JACEK                    pr.   SZYMIEC-RACZYŃSKA HALINA        pr.
 BIEDROŃ ROBERT                  pr.   KABACIŃSKI MICHAŁ                pr.       NOWICKA WANDA                   pr.   WYDRZYŃSKI MACIEJ               pr.
-BODIO BARTŁ OMIEJ               pr.   KĘPIŃSKI ADAM                    pr.       PACHOLSKI MICHAŁ TOMASZ         pr.   DOMARACKI MAREK                 ng.
+BODIO BARTŁOMIEJ               pr.   KĘPIŃSKI ADAM                    pr.       PACHOLSKI MICHAŁ TOMASZ         pr.   DOMARACKI MAREK                 ng.
 BORKOWSKI JERZY                 pr.   KLEPACZ WITOLD                   pr.       PALIKOT JANUSZ                  pr.   GRODZKA ANNA                    ng.
 BRAMORA ARTUR                   pr.   KŁOSOWSKI KRZYSZTOF              pr.       PENKALSKI WOJCIECH              pr.   KOPYCIŃSKI SŁAWOMIR             ng.
-CEDZYŃSKI JAN                   pr.   KMIECIK HENRYK                   pr.       PIĄ TAK ANDRZEJ                 pr.   KWIATKOWSKI JACEK               ng.
+CEDZYŃSKI JAN                   pr.   KMIECIK HENRYK                   pr.       PIĄTAK ANDRZEJ                 pr.   KWIATKOWSKI JACEK               ng.
 CHMIELOWSKI PIOTR               pr.   KOTLIŃSKI ROMAN                  pr.       POPIOŁEK ZOFIA                  pr.   MAKOWSKI TOMASZ                 ng.
 DĘBSKI ARTUR                    pr.   KRUPA ŁUKASZ                     pr.       POZNAŃSKI MAREK                 pr.   RYFIŃSKI ARMAND KAMIL           ng.
 DZIADZIO DARIUSZ CEZAR          pr.   LEWANDOWSKI ANDRZEJ              pr.       ROZENEK ANDRZEJ                 pr.   STOLARSKI MAREK                 ng.

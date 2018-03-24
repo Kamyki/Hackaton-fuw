@@ -33,12 +33,12 @@ BUŁA ANDRZEJ                         pr.   KOCHAN MAGDALENA                    
 BUTRYN RENATA                        pr.   KOLENDA-ŁABUŚ BRYGIDA                pr.       PIERZCHAŁA ELŻBIETA APOLONIA      pr.   WITKOWSKI RADOSŁAW              pr.
 CHARŁAMPOWICZ JAROSŁAW               pr.   KOŁACZ-LESZCZYŃSKA AGNIESZKA         pr.       PIETRASZEWSKA DANUTA              pr.   WOJTKOWSKI MAREK                pr.
 CICHOŃ JANUSZ                        pr.   KOŁODZIEJ EWA                        pr.       PIETRZCZYK LUCJAN MAREK           pr.   WOLAK EWA                       pr.
-CIEŚLIŃSKI PIOTR                     pr.   KONWIŃSKI ZBIGNIEW                   pr.       PIĘ TA JAROSŁAW                   pr.   WÓJCIK MAREK                    pr.
+CIEŚLIŃSKI PIOTR                     pr.   KONWIŃSKI ZBIGNIEW                   pr.       PIĘTA JAROSŁAW                   pr.   WÓJCIK MAREK                    pr.
 CZAPLICKA BARBARA                    pr.   KOPACZ EWA                           pr.       PIOTROWSKA TERESA                 pr.   ZAREMBA RENATA                  pr.
 CZECHYRA CZESŁAW                     pr.   KOPACZEWSKA DOMICELA                 pr.       PITERA JULIA                      pr.   ZAWADZKI RYSZARD                pr.
 CZERNOW ZOFIA                        pr.   KORZENIOWSKI LESZEK                  pr.       PLOCKE KAZIMIERZ                  pr.   ZDROJEWSKI BOGDAN               pr.
 CZERWIŃSKI ANDRZEJ                   pr.   KOSECKI ROMAN JACEK                  pr.       PLURA MAREK                       pr.   ZIELIŃSKI MACIEJ                pr.
-DĄBROWSKA ALICJA                     pr.   KOWALSKI SŁAWOMIR                    pr.       PLUTA MIROSŁAW                    pr.   ZIĘ TEK JERZY                   pr.
+DĄBROWSKA ALICJA                     pr.   KOWALSKI SŁAWOMIR                    pr.       PLUTA MIROSŁAW                    pr.   ZIĘTEK JERZY                   pr.
 DROZD EWA                            pr.   KOZACZYŃSKI JACEK                    pr.       POMASKA AGNIESZKA                 pr.   ŻMIJAN STANISŁAW                pr.
 DUNIN ARTUR                          pr.   KOZDROŃ JERZY                        pr.       POŚLEDNIA KRYSTYNA                pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
 DURKA ZENON                          pr.   KOZŁOWSKA IWONA                      pr.       RACZKOWSKI DAMIAN                 pr.   ŻYLIŃSKI ADAM                   pr.
@@ -75,7 +75,7 @@ ABRAMOWICZ ADAM                 za    JANCZYK WIESŁAW STANISŁAW     za        
 ADAMCZYK ANDRZEJ                za    JASIŃSKI WOJCIECH             za        PALUCH ANNA                       za    TELUS ROBERT                    za
 ANDZEL WALDEMAR                 za    JURGIEL KRZYSZTOF             za        PAW ŁOWICZ KRYSTYNA               za    TERLECKI RYSZARD                za
 ARDANOWSKI JAN KRZYSZTOF        za    KACZMAREK TOMASZ              za        PIECHA BOLESŁAW GRZEGORZ          za    TOBISZOWSKI GRZEGORZ            za
-AST MAREK                       za    KAMIŃSKI MARIUSZ ANTONI       za        PIĘ TA STANISŁAW                  za    TOMASZEWSKI JAN                 za
+AST MAREK                       za    KAMIŃSKI MARIUSZ ANTONI       za        PIĘTA STANISŁAW                  za    TOMASZEWSKI JAN                 za
 BABALSKI ZBIGNIEW               za    KLOC IZABELA                  za        PIONTKOWSKI DARIUSZ               za    UJAZDOWSKI KAZIMIERZ MICHAŁ     za
 BABINETZ PIOTR                  za    KŁOSOWSKI SŁAWOMIR            za        PIOTROWICZ STANISŁAW              za    WARZECHA JAN                    za
 BARTUŚ BARBARA                  za    KOŁAKOWSKI LECH               za        POLACZEK JERZY                    za    WASZCZYKOWSKI WITOLD            za
@@ -111,10 +111,10 @@ JACKIEWICZ DAWID                za    OSUCH JACEK                   za        Ś
 
 BAUĆ PIOTR PAWEŁ                za    GÓRCZYŃSKI ARTUR              za        MROCZEK MACIEJ                    za    WYDRZYŃSKI MACIEJ               za
 BIEDROŃ ROBERT                  za    GRODZKA ANNA                  za        NOWICKA WANDA                     za    BANASZAK MACIEJ                 pr.
-BODIO BARTŁ OMIEJ               za    KABACIŃSKI MICHAŁ             za        PACHOLSKI MICHAŁ TOMASZ           za    KŁOSOWSKI KRZYSZTOF             pr.
+BODIO BARTŁOMIEJ               za    KABACIŃSKI MICHAŁ             za        PACHOLSKI MICHAŁ TOMASZ           za    KŁOSOWSKI KRZYSZTOF             pr.
 BORKOWSKI JERZY                 za    KĘPIŃSKI ADAM                 za        PALIKOT JANUSZ                    za    NAJDER JACEK                    pr.
 CEDZYŃSKI JAN                   za    KLEPACZ WITOLD                za        PENKALSKI WOJCIECH                za    BRAMORA ARTUR                   ng.
-CHMIELOWSKI PIOTR               za    KMIECIK HENRYK                za        PIĄ TAK ANDRZEJ                   za    KOTLIŃSKI ROMAN                 ng.
+CHMIELOWSKI PIOTR               za    KMIECIK HENRYK                za        PIĄTAK ANDRZEJ                   za    KOTLIŃSKI ROMAN                 ng.
 DĘBSKI ARTUR                    za    KOPYCIŃSKI SŁAWOMIR           za        POPIOŁEK ZOFIA                    za    KRUPA ŁUKASZ                    ng.
 DOMARACKI MAREK                 za    KWIATKOWSKI JACEK             za        POZNAŃSKI MAREK                   za    RYBAKOWICZ ADAM                 ng.
 DZIADZIO DARIUSZ CEZAR          za    LEWANDOWSKI ANDRZEJ           za        ROZENEK ANDRZEJ                   za    STOLARSKI MAREK                 ng.

@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    pr.   KOPACZ EWA                         
 DĄBROWSKA ALICJA                      pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.   WARDZAŁA ROBERT                 pr.
 DROZD EWA                             pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 DUNIN ARTUR                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITCZAK MARIUSZ                 pr.
-DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
+DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                pr.
 DZIKOWSKI WALDY                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.   WOLAK EWA                       pr.
 FABISIAK JOANNA                       pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                    pr.
@@ -53,7 +53,7 @@ GADOWSKI KRZYSZTOF                    pr.   KRAJEWSKA LIGIA                     
 GAŁAŻEWSKI ANDRZEJ                    pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN               pr.
 GAPIŃSKA ELŻBIETA                     pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH               pr.
-GĄDEK LIDIA                           pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                   pr.
+GĄDEK LIDIA                           pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                   pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                     pr.
 GELERT ELŻBIETA                       pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                pr.
 GIERADA ARTUR                         pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -87,7 +87,7 @@ SZYSZKO JAN                     za    JACKIEWICZ DAWID              ws.       O�
 TOBISZOWSKI GRZEGORZ            za    JANCZYK WIESŁAW STANISŁAW     ws.       PALUCH ANNA                       ws.   TOMASZEWSKI JAN               ws.
 ZAWIŚLAK SŁAWOMIR               za    JASIŃSKI WOJCIECH             ws.       PAW ŁOWICZ KRYSTYNA               ws.   WARZECHA JAN                  ws.
 ŻYŻYŃSKI JERZY                  za    JAWORSKI ANDRZEJ              ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   WASZCZYKOWSKI WITOLD          ws.
-ABRAMOWICZ ADAM                 ws.   JĘDRYSEK MARIUSZ ORION        ws.       PIĘ TA STANISŁAW                  ws.   WIPLER PRZEMYSŁAW             ws.
+ABRAMOWICZ ADAM                 ws.   JĘDRYSEK MARIUSZ ORION        ws.       PIĘTA STANISŁAW                  ws.   WIPLER PRZEMYSŁAW             ws.
 ADAMCZYK ANDRZEJ                ws.   JURGIEL KRZYSZTOF             ws.       PIONTKOWSKI DARIUSZ               ws.   WIŚNIEWSKA JADWIGA            ws.
 ANDZEL WALDEMAR                 ws.   KACZMAREK TOMASZ              ws.       PIOTROWICZ STANISŁAW              ws.   WITEK ELŻBIETA                ws.
 ARCISZEWSKA-MIELEWCZYK DOROTA   ws.   KACZYŃSKI JAROSŁAW            ws.       POLACZEK JERZY                    ws.   WITKO MARCIN                  ws.
@@ -109,8 +109,8 @@ DOBRZYŃSKI LESZEK               ws.   LIPIŃSKI ADAM                 ws.       
 
  RP (43)                      GŁOSOWAŁO - 42              ZA - 11   PRZECIW - 30               WSTRZYM. - 1              NIE GŁOS. - 1
 
-BODIO BARTŁ OMIEJ               za    BANASZAK MACIEJ               pr.       KĘPIŃSKI ADAM                     pr.   PENKALSKI WOJCIECH            pr.
-DZIADZIO DARIUSZ CEZAR          za    BAUĆ PIOTR PAWEŁ              pr.       KLEPACZ WITOLD                    pr.   PIĄ TAK ANDRZEJ               pr.
+BODIO BARTŁOMIEJ               za    BANASZAK MACIEJ               pr.       KĘPIŃSKI ADAM                     pr.   PENKALSKI WOJCIECH            pr.
+DZIADZIO DARIUSZ CEZAR          za    BAUĆ PIOTR PAWEŁ              pr.       KLEPACZ WITOLD                    pr.   PIĄTAK ANDRZEJ               pr.
 GÓRCZYŃSKI ARTUR                za    BIEDROŃ ROBERT                pr.       KŁOSOWSKI KRZYSZTOF               pr.   POPIOŁEK ZOFIA                pr.
 KABACIŃSKI MICHAŁ               za    BORKOWSKI JERZY               pr.       KOPYCIŃSKI SŁAWOMIR               pr.   ROZENEK ANDRZEJ               pr.
 KMIECIK HENRYK                  za    BRAMORA ARTUR                 pr.       KOTLIŃSKI ROMAN                   pr.   RYBAKOWICZ ADAM               pr.

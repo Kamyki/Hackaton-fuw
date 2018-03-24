@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    pr.   KONWIŃSKI ZBIGNIEW                
 DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                            pr.       PIECHOTA SŁAWOMIR JAN            pr.   WIELICHOWSKA MONIKA             pr.
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITCZAK MARIUSZ                 pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITKOWSKI RADOSŁAW              pr.
-DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIĘ TA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                pr.
+DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIĘTA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIOTROWSKA TERESA                pr.   WOLAK EWA                       pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PITERA JULIA                     pr.   WÓJCIK MAREK                    pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PLOCKE KAZIMIERZ                 pr.   ZAKRZEWSKA JADWIGA              pr.
@@ -52,7 +52,7 @@ FIEDLER ARKADY                        pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA       
 GADOWSKI KRZYSZTOF                    pr.   KOŹLAKIEWICZ MIROSŁAW                 pr.       POMASKA AGNIESZKA                pr.   ZDROJEWSKI BOGDAN               pr.
 GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                       pr.       POŚLEDNIA KRYSTYNA               pr.   ZIELIŃSKI MACIEJ                pr.
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       RACZKOWSKI DAMIAN                pr.   ZIEMNIAK WOJCIECH               pr.
-GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘ TEK JERZY                   pr.
+GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘTEK JERZY                   pr.
 GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RANIEWICZ GRZEGORZ               pr.   ŻALEK JACEK                     pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RAŚ IRENEUSZ                     pr.   ŻMIJAN STANISŁAW                pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       ROSATI DARIUSZ                   pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -80,7 +80,7 @@ AST MAREK                       za    KACZYŃSKI JAROSŁAW            za        
 BABALSKI ZBIGNIEW               za    KAMIŃSKI MARIUSZ              za        PALUCH ANNA                      za    TELUS ROBERT                  za
 BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ ANTONI       za        PAW ŁOWICZ KRYSTYNA              za    TERLECKI RYSZARD              za
 BARTUŚ BARBARA                  za    KLOC IZABELA                  za        PIECHA BOLESŁAW GRZEGORZ         za    TOBISZOWSKI GRZEGORZ          za
-BĄK DARIUSZ                     za    KŁOSOWSKI SŁAWOMIR            za        PIĘ TA STANISŁAW                 za    TOMASZEWSKI JAN               za
+BĄK DARIUSZ                     za    KŁOSOWSKI SŁAWOMIR            za        PIĘTA STANISŁAW                 za    TOMASZEWSKI JAN               za
 BERNACKI W ŁODZIMIERZ           za    KOŁAKOWSKI LECH               za        PIONTKOWSKI DARIUSZ              za    WARZECHA JAN                  za
 BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI ROBERT             za        PIOTROWICZ STANISŁAW             za    WASZCZYKOWSKI WITOLD          za
 BŁASZCZAK MARIUSZ               za    KOWALCZYK HENRYK              za        POLACZEK JERZY                   za    WIPLER PRZEMYSŁAW             za
@@ -109,13 +109,13 @@ JACH MICHAŁ                     za    MAZUREK BEATA                 za        S
 
  RP (43)                      GŁOSOWAŁO - 42             ZA - 9     PRZECIW - 31               WSTRZYM. - 2             NIE GŁOS. - 1
 
-BODIO BARTŁ OMIEJ               za    BIEDROŃ ROBERT                pr.       KŁOSOWSKI KRZYSZTOF              pr.   PENKALSKI WOJCIECH            pr.
+BODIO BARTŁOMIEJ               za    BIEDROŃ ROBERT                pr.       KŁOSOWSKI KRZYSZTOF              pr.   PENKALSKI WOJCIECH            pr.
 DOMARACKI MAREK                 za    BORKOWSKI JERZY               pr.       KOPYCIŃSKI SŁAWOMIR              pr.   POPIOŁEK ZOFIA                pr.
 KABACIŃSKI MICHAŁ               za    BRAMORA ARTUR                 pr.       KOTLIŃSKI ROMAN                  pr.   ROZENEK ANDRZEJ               pr.
 KMIECIK HENRYK                  za    CEDZYŃSKI JAN                 pr.       KRUPA ŁUKASZ                     pr.   RYBAKOWICZ ADAM               pr.
 KWIATKOWSKI JACEK               za    CHMIELOWSKI PIOTR             pr.       MAKOWSKI TOMASZ                  pr.   STOLARSKI MAREK               pr.
 LEWANDOWSKI ANDRZEJ             za    DĘBSKI ARTUR                  pr.       MARCINKIEWICZ MAŁGORZATA         pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
-PIĄ TAK ANDRZEJ                 za    DZIADZIO DARIUSZ CEZAR        pr.       MROCZEK MACIEJ                   pr.   WYDRZYŃSKI MACIEJ             pr.
+PIĄTAK ANDRZEJ                 za    DZIADZIO DARIUSZ CEZAR        pr.       MROCZEK MACIEJ                   pr.   WYDRZYŃSKI MACIEJ             pr.
 POZNAŃSKI MAREK                 za    ELSNER WINCENTY               pr.       NAJDER JACEK                     pr.   GRODZKA ANNA                  ws.
 SAJAK PAWEŁ                     za    GIBAŁA ŁUKASZ                 pr.       NOWICKA WANDA                    pr.   KLEPACZ WITOLD                ws.
 BANASZAK MACIEJ                 pr.   GÓRCZYŃSKI ARTUR              pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   RYFIŃSKI ARMAND KAMIL         ng.

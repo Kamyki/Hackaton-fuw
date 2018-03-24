@@ -44,14 +44,14 @@ CZERWIŃSKI ANDRZEJ                  pr.   KOPACZ EWA                           
 DĄBROWSKA ALICJA                    pr.   KOPACZEWSKA DOMICELA                 pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITKOWSKI RADOSŁAW              pr.
 DROZD EWA                           pr.   KORZENIOWSKI LESZEK                  pr.       PIETRASZEWSKA DANUTA             pr.   WOJNAROWSKI NORBERT             pr.
 DUNIN ARTUR                         pr.   KOSECKI ROMAN JACEK                  pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOJTKOWSKI MAREK                pr.
-DURKA ZENON                         pr.   KOWALSKI SŁAWOMIR                    pr.       PIĘ TA JAROSŁAW                  pr.   WOLAK EWA                       pr.
+DURKA ZENON                         pr.   KOWALSKI SŁAWOMIR                    pr.       PIĘTA JAROSŁAW                  pr.   WOLAK EWA                       pr.
 DZIĘCIOŁ JANUSZ                     pr.   KOZACZYŃSKI JACEK                    pr.       PIOTROWSKA TERESA                pr.   WÓJCIK MAREK                    pr.
 DZIKOWSKI WALDY                     pr.   KOZDROŃ JERZY                        pr.       PITERA JULIA                     pr.   ZAREMBA RENATA                  pr.
 FABISIAK JOANNA                     pr.   KOZŁOWSKA IWONA                      pr.       PLOCKE KAZIMIERZ                 pr.   ZAWADZKI RYSZARD                pr.
 FEDOROWICZ JERZY                    pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA         pr.       PLUTA MIROSŁAW                   pr.   ZDROJEWSKI BOGDAN               pr.
 FIEDLER ARKADY                      pr.   KOŹLAKIEWICZ MIROSŁAW                pr.       POMASKA AGNIESZKA                pr.   ZIELIŃSKI MACIEJ                pr.
 GADOWSKI KRZYSZTOF                  pr.   KRAJEWSKA LIGIA                      pr.       POŚLEDNIA KRYSTYNA               pr.   ZIEMNIAK WOJCIECH               pr.
-GAŁAŻEWSKI ANDRZEJ                  pr.   KROPIWNICKI ROBERT                   pr.       RACZKOWSKI DAMIAN                pr.   ZIĘ TEK JERZY                   pr.
+GAŁAŻEWSKI ANDRZEJ                  pr.   KROPIWNICKI ROBERT                   pr.       RACZKOWSKI DAMIAN                pr.   ZIĘTEK JERZY                   pr.
 GAPIŃSKA ELŻBIETA                   pr.   KRZĄKAŁA MAREK                       pr.       RANIEWICZ GRZEGORZ               pr.   ŻALEK JACEK                     pr.
 GAW ŁOWSKI STANISŁAW                pr.   KUCHARSKI CEZARY                     pr.       RAŚ IRENEUSZ                     pr.   ŻMIJAN STANISŁAW                pr.
 GĄDEK LIDIA                         pr.   KUDRYCKA BARBARA                     pr.       ROSATI DARIUSZ                   pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -80,7 +80,7 @@ ARENT IWONA EWA                 pr.   JURGIEL KRZYSZTOF           pr.       OŻ�
 BABALSKI ZBIGNIEW               pr.   KACZMAREK TOMASZ            pr.       PALUCH ANNA                      pr.   ŚWIAT JACEK                   pr.
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ            pr.       PAW ŁOWICZ KRYSTYNA              pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 BARTUŚ BARBARA                  pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TELUS ROBERT                  pr.
-BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘ TA STANISŁAW                 pr.   TERLECKI RYSZARD              pr.
+BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘTA STANISŁAW                 pr.   TERLECKI RYSZARD              pr.
 BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI LECH             pr.       PIONTKOWSKI DARIUSZ              pr.   TOBISZOWSKI GRZEGORZ          pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI ROBERT           pr.       PIOTROWICZ STANISŁAW             pr.   TOMASZEWSKI JAN               pr.
 BŁASZCZAK MARIUSZ               pr.   KOWALCZYK HENRYK            pr.       POLACZEK JERZY                   pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
@@ -110,10 +110,10 @@ JACH MICHAŁ                     pr.   MICHAŁKIEWICZ KRZYSZTOF     pr.       SZ
 
  RP (43)                      GŁOSOWAŁO - 42            ZA - 0    PRZECIW - 42               WSTRZYM. - 0             NIE GŁOS. - 1
 
-BANASZAK MACIEJ                 pr.   ELSNER WINCENTY             pr.       KRUPA ŁUKASZ                     pr.   PIĄ TAK ANDRZEJ               pr.
+BANASZAK MACIEJ                 pr.   ELSNER WINCENTY             pr.       KRUPA ŁUKASZ                     pr.   PIĄTAK ANDRZEJ               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ               pr.       KWIATKOWSKI JACEK                pr.   POPIOŁEK ZOFIA                pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR            pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ           pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM               pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD              pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                   pr.

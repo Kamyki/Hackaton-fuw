@@ -43,7 +43,7 @@ DROZD EWA                            pr.   KOPACZEWSKA DOMICELA                p
 DUNIN ARTUR                          pr.   KORZENIOWSKI LESZEK                 pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITCZAK MARIUSZ                         pr.
 DURKA ZENON                          pr.   KOSECKI ROMAN JACEK                 pr.       PIETRASZEWSKA DANUTA             pr.   WITKOWSKI RADOSŁAW                      pr.
 DZIĘCIOŁ JANUSZ                      pr.   KOWALSKI SŁAWOMIR                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOJNAROWSKI NORBERT                     pr.
-DZIKOWSKI WALDY                      pr.   KOZACZYŃSKI JACEK                   pr.       PIĘ TA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                        pr.
+DZIKOWSKI WALDY                      pr.   KOZACZYŃSKI JACEK                   pr.       PIĘTA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                        pr.
 FABISIAK JOANNA                      pr.   KOZDROŃ JERZY                       pr.       PIOTROWSKA TERESA                pr.   WOLAK EWA                               pr.
 FEDOROWICZ JERZY                     pr.   KOZŁOWSKA IWONA                     pr.       PITERA JULIA                     pr.   WÓJCIK MAREK                            pr.
 FIEDLER ARKADY                       pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA        pr.       PLOCKE KAZIMIERZ                 pr.   ZAKRZEWSKA JADWIGA                      pr.
@@ -52,7 +52,7 @@ GAŁAŻEWSKI ANDRZEJ                   pr.   KRAJEWSKA LIGIA                    
 GAW ŁOWSKI STANISŁAW                 pr.   KROPIWNICKI ROBERT                  pr.       POMASKA AGNIESZKA                pr.   ZDROJEWSKI BOGDAN                       pr.
 GĄDEK LIDIA                          pr.   KRZĄKAŁA MAREK                      pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                        pr.
 GĄSIOR-MAREK MAGDALENA               pr.   KUCHARSKI CEZARY                    pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH                       pr.
-GELERT ELŻBIETA                      pr.   KUDRYCKA BARBARA                    pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                           pr.
+GELERT ELŻBIETA                      pr.   KUDRYCKA BARBARA                    pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                           pr.
 GIERADA ARTUR                        pr.   KULESZA TOMASZ                      pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                             pr.
 GLUZA CZESŁAW                        pr.   KWIATKOWSKI KRZYSZTOF               pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                        pr.
 GŁOGOWSKI TOMASZ                     pr.   LAMCZYK STANISŁAW                   pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA                 pr.
@@ -96,7 +96,7 @@ SELIGA DARIUSZ                  za    GOSIEWSKA MAŁGORZATA            ws.      
 SOBECKA ANNA ELŻBIETA           za    GÓRSKI ARTUR                    ws.       OŻÓG STANISŁAW                    ws.   ZAWIŚLAK SŁAWOMIR             ws.
 SUSKI MAREK                     za    GÓRSKI TOMASZ                   ws.       PALUCH ANNA                       ws.   ZBONIKOWSKI ŁUKASZ            ws.
 SZCZYPIŃSKA JOLANTA             za    HOC CZESŁAW                     ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   ZIELIŃSKI JAROSŁAW            ws.
-SZMIT JERZY                     za    HOFMAN ADAM                     ws.       PIĘ TA STANISŁAW                  ws.   ZŁOTOWSKI KOSMA               ws.
+SZMIT JERZY                     za    HOFMAN ADAM                     ws.       PIĘTA STANISŁAW                  ws.   ZŁOTOWSKI KOSMA               ws.
 ŚNIADEK JANUSZ                  za    JACH MICHAŁ                     ws.       PIONTKOWSKI DARIUSZ               ws.   ZUBA MARIA                    ws.
 TOMASZEWSKI JAN                 za    JANCZYK WIESŁAW STANISŁAW       ws.       PIOTROWICZ STANISŁAW              ws.   ZUBOWSKI WOJCIECH             ws.
 WIPLER PRZEMYSŁAW               za    JAWORSKI ANDRZEJ                ws.       POLACZEK JERZY                    ws.   BARTUŚ BARBARA                ng.
@@ -111,14 +111,14 @@ ABRAMOWICZ ADAM                 ws.   KAMIŃSKI MARIUSZ                ws.      
 BANASZAK MACIEJ                 za    ELSNER WINCENTY                 za        KWIATKOWSKI JACEK                 za    POPIOŁEK ZOFIA                za
 BAUĆ PIOTR PAWEŁ                za    GIBAŁA ŁUKASZ                   za        LEWANDOWSKI ANDRZEJ               za    POZNAŃSKI MAREK               za
 BIEDROŃ ROBERT                  za    GÓRCZYŃSKI ARTUR                za        MAKOWSKI TOMASZ                   za    ROZENEK ANDRZEJ               za
-BODIO BARTŁ OMIEJ               za    GRODZKA ANNA                    za        MARCINKIEWICZ MAŁGORZATA          za    RYBAKOWICZ ADAM               za
+BODIO BARTŁOMIEJ               za    GRODZKA ANNA                    za        MARCINKIEWICZ MAŁGORZATA          za    RYBAKOWICZ ADAM               za
 BORKOWSKI JERZY                 za    KABACIŃSKI MICHAŁ               za        MROCZEK MACIEJ                    za    RYFIŃSKI ARMAND KAMIL         za
 BRAMORA ARTUR                   za    KĘPIŃSKI ADAM                   za        NAJDER JACEK                      za    SAJAK PAWEŁ                   za
 CEDZYŃSKI JAN                   za    KLEPACZ WITOLD                  za        NOWICKA WANDA                     za    STOLARSKI MAREK               za
 CHMIELOWSKI PIOTR               za    KŁOSOWSKI KRZYSZTOF             za        PACHOLSKI MICHAŁ TOMASZ           za    SZYMIEC-RACZYŃSKA HALINA      za
 DĘBSKI ARTUR                    za    KMIECIK HENRYK                  za        PALIKOT JANUSZ                    za    WYDRZYŃSKI MACIEJ             za
 DOMARACKI MAREK                 za    KOPYCIŃSKI SŁAWOMIR             za        PENKALSKI WOJCIECH                za    KOTLIŃSKI ROMAN               ng.
-DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                    za        PIĄ TAK ANDRZEJ                   za
+DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                    za        PIĄTAK ANDRZEJ                   za
 
 
  PSL (28)                     GŁOSOWAŁO - 28            ZA - 28       PRZECIW - 0                 WSTRZYM. - 0             NIE GŁOS. - 0

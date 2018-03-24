@@ -42,7 +42,7 @@ CZERWIŃSKI ANDRZEJ                   pr.   KONWIŃSKI ZBIGNIEW                 
 DĄBROWSKA ALICJA                     pr.   KOPACZ EWA                           pr.       PIECHOTA SŁAWOMIR JAN            pr.   WITKOWSKI RADOSŁAW                  pr.
 DROZD EWA                            pr.   KOPACZEWSKA DOMICELA                 pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WOJNAROWSKI NORBERT                 pr.
 DUNIN ARTUR                          pr.   KORZENIOWSKI LESZEK                  pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOJTKOWSKI MAREK                    pr.
-DURKA ZENON                          pr.   KOSECKI ROMAN JACEK                  pr.       PIĘ TA JAROSŁAW                  pr.   WOLAK EWA                           pr.
+DURKA ZENON                          pr.   KOSECKI ROMAN JACEK                  pr.       PIĘTA JAROSŁAW                  pr.   WOLAK EWA                           pr.
 DZIĘCIOŁ JANUSZ                      pr.   KOWALSKI SŁAWOMIR                    pr.       PIOTROWSKA TERESA                pr.   WÓJCIK MAREK                        pr.
 DZIKOWSKI WALDY                      pr.   KOZACZYŃSKI JACEK                    pr.       PITERA JULIA                     pr.   ZAKRZEWSKA JADWIGA                  pr.
 FABISIAK JOANNA                      pr.   KOZDROŃ JERZY                        pr.       PLOCKE KAZIMIERZ                 pr.   ZAREMBA RENATA                      pr.
@@ -50,7 +50,7 @@ FEDOROWICZ JERZY                     pr.   KOZŁOWSKA IWONA                     
 FIEDLER ARKADY                       pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA         pr.       PLUTA MIROSŁAW                   pr.   ZDROJEWSKI BOGDAN                   pr.
 GADOWSKI KRZYSZTOF                   pr.   KOŹLAKIEWICZ MIROSŁAW                pr.       POMASKA AGNIESZKA                pr.   ZIELIŃSKI MACIEJ                    pr.
 GAŁAŻEWSKI ANDRZEJ                   pr.   KRAJEWSKA LIGIA                      pr.       RACZKOWSKI DAMIAN                pr.   ZIEMNIAK WOJCIECH                   pr.
-GAPIŃSKA ELŻBIETA                    pr.   KROPIWNICKI ROBERT                   pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘ TEK JERZY                       pr.
+GAPIŃSKA ELŻBIETA                    pr.   KROPIWNICKI ROBERT                   pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘTEK JERZY                       pr.
 GAW ŁOWSKI STANISŁAW                 pr.   KRZĄKAŁA MAREK                       pr.       RANIEWICZ GRZEGORZ               pr.   ŻALEK JACEK                         pr.
 GĄDEK LIDIA                          pr.   KUCHARSKI CEZARY                     pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                    pr.
 GĄSIOR-MAREK MAGDALENA               pr.   KUDRYCKA BARBARA                     pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA             pr.
@@ -82,7 +82,7 @@ ARENT IWONA EWA                 pr.   KACZMAREK TOMASZ            pr.       OŻ�
 AST MAREK                       pr.   KACZYŃSKI JAROSŁAW          pr.       PALUCH ANNA                      pr.   TELUS ROBERT                  pr.
 BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ            pr.       PAW ŁOWICZ KRYSTYNA              pr.   TERLECKI RYSZARD              pr.
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TOBISZOWSKI GRZEGORZ          pr.
-BARTUŚ BARBARA                  pr.   KLOC IZABELA                pr.       PIĘ TA STANISŁAW                 pr.   TOMASZEWSKI JAN               pr.
+BARTUŚ BARBARA                  pr.   KLOC IZABELA                pr.       PIĘTA STANISŁAW                 pr.   TOMASZEWSKI JAN               pr.
 BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIONTKOWSKI DARIUSZ              pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI LECH             pr.       PIOTROWICZ STANISŁAW             pr.   WARZECHA JAN                  pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI ROBERT           pr.       POLACZEK JERZY                   pr.   WIPLER PRZEMYSŁAW             pr.
@@ -113,12 +113,12 @@ HRYNKIEWICZ JÓZEFA              pr.   MATUSZEWSKI MAREK           pr.       SZL
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY             pr.       LEWANDOWSKI ANDRZEJ              pr.   ROZENEK ANDRZEJ               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ               pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR            pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL         pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ           pr.       NAJDER JACEK                     pr.   STOLARSKI MAREK               pr.
 BRAMORA ARTUR                   pr.   KLEPACZ WITOLD              pr.       NOWICKA WANDA                    pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF         pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ             pr.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK              pr.       PENKALSKI WOJCIECH               pr.   KĘPIŃSKI ADAM                 ng.
-DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PIĄ TAK ANDRZEJ                  pr.   KRUPA ŁUKASZ                  ng.
+DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PIĄTAK ANDRZEJ                  pr.   KRUPA ŁUKASZ                  ng.
 DOMARACKI MAREK                 pr.   KOTLIŃSKI ROMAN             pr.       POPIOŁEK ZOFIA                   pr.   PALIKOT JANUSZ                ng.
 DZIADZIO DARIUSZ CEZAR          pr.   KWIATKOWSKI JACEK           pr.       POZNAŃSKI MAREK                  pr.
 

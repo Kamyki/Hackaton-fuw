@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    pr.   KONWIŃSKI ZBIGNIEW                
 DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                            pr.       PIECHOTA SŁAWOMIR JAN            pr.    WARDZAŁA ROBERT                 pr.
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.    WIELICHOWSKA MONIKA             pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.    WITCZAK MARIUSZ                 pr.
-DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIĘ TA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
+DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIĘTA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIOTROWSKA TERESA                pr.    WOJTKOWSKI MAREK                pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PITERA JULIA                     pr.    WOLAK EWA                       pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PLOCKE KAZIMIERZ                 pr.    WÓJCIK MAREK                    pr.
@@ -53,7 +53,7 @@ GADOWSKI KRZYSZTOF                    pr.   KOŹLAKIEWICZ MIROSŁAW             
 GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                       pr.       POŚLEDNIA KRYSTYNA               pr.    ZDROJEWSKI BOGDAN               pr.
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       RACZKOWSKI DAMIAN                pr.    ZIELIŃSKI MACIEJ                pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RADZISZEWSKA ELŻBIETA            pr.    ZIEMNIAK WOJCIECH               pr.
-GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘ TEK JERZY                   pr.
+GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘTEK JERZY                   pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RAŚ IRENEUSZ                     pr.    ŻALEK JACEK                     pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       ROSATI DARIUSZ                   pr.    ŻMIJAN STANISŁAW                pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROZPONDEK HALINA                 pr.    ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -90,7 +90,7 @@ PIECHA BOLESŁAW GRZEGORZ        za    HOC CZESŁAW                   ws.       
 SADURSKA MAŁGORZATA             za    HOFMAN ADAM                   ws.       OŻÓG STANISŁAW                    ws.   WARZECHA JAN                  ws.
 SUSKI MAREK                     za    HRYNKIEWICZ JÓZEFA            ws.       PALUCH ANNA                       ws.   WASZCZYKOWSKI WITOLD          ws.
 SZARAMA WOJCIECH                za    JACH MICHAŁ                   ws.       PAW ŁOWICZ KRYSTYNA               ws.   WIPLER PRZEMYSŁAW             ws.
-SZMIT JERZY                     za    JANCZYK WIESŁAW STANISŁAW     ws.       PIĘ TA STANISŁAW                  ws.   WIŚNIEWSKA JADWIGA            ws.
+SZMIT JERZY                     za    JANCZYK WIESŁAW STANISŁAW     ws.       PIĘTA STANISŁAW                  ws.   WIŚNIEWSKA JADWIGA            ws.
 SZWED STANISŁAW                 za    JASIŃSKI WOJCIECH             ws.       PIONTKOWSKI DARIUSZ               ws.   WITEK ELŻBIETA                ws.
 SZYSZKO JAN                     za    JAWORSKI ANDRZEJ              ws.       PIOTROWICZ STANISŁAW              ws.   WITKO MARCIN                  ws.
 ZAWIŚLAK SŁAWOMIR               za    JURGIEL KRZYSZTOF             ws.       POLACZEK JERZY                    ws.   WOJTKIEWICZ MICHAŁ            ws.
@@ -109,8 +109,8 @@ BĘTKOWSKI ANDRZEJ               ws.   KUŹMIUK ZBIGNIEW              ws.       
 
  RP (43)                      GŁOSOWAŁO - 43              ZA - 11   PRZECIW - 31               WSTRZYM. - 1              NIE GŁOS. - 0
 
-BODIO BARTŁ OMIEJ               za    BANASZAK MACIEJ               pr.       GRODZKA ANNA                      pr.   PENKALSKI WOJCIECH            pr.
-DZIADZIO DARIUSZ CEZAR          za    BAUĆ PIOTR PAWEŁ              pr.       KŁOSOWSKI KRZYSZTOF               pr.   PIĄ TAK ANDRZEJ               pr.
+BODIO BARTŁOMIEJ               za    BANASZAK MACIEJ               pr.       GRODZKA ANNA                      pr.   PENKALSKI WOJCIECH            pr.
+DZIADZIO DARIUSZ CEZAR          za    BAUĆ PIOTR PAWEŁ              pr.       KŁOSOWSKI KRZYSZTOF               pr.   PIĄTAK ANDRZEJ               pr.
 GÓRCZYŃSKI ARTUR                za    BIEDROŃ ROBERT                pr.       KOPYCIŃSKI SŁAWOMIR               pr.   POPIOŁEK ZOFIA                pr.
 KABACIŃSKI MICHAŁ               za    BORKOWSKI JERZY               pr.       KOTLIŃSKI ROMAN                   pr.   ROZENEK ANDRZEJ               pr.
 KĘPIŃSKI ADAM                   za    BRAMORA ARTUR                 pr.       KRUPA ŁUKASZ                      pr.   RYBAKOWICZ ADAM               pr.

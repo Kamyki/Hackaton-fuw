@@ -12,7 +12,7 @@
  PO (207)                         GŁOSOWAŁO - 151                ZA - 0            PRZECIW - 151            WSTRZYM. - 0               NIE GŁOS. - 56
 
 ARKIT TADEUSZ                         pr.   JASTRZĘBSKI LESZEK                    pr.       PIETRZCZYK LUCJAN MAREK           pr.   GAW ŁOWSKI STANISŁAW            ng.
-ARNDT PAWEŁ                           pr.   KACZOR ROMAN                          pr.       PIĘ TA JAROSŁAW                   pr.   GĄDEK LIDIA                     ng.
+ARNDT PAWEŁ                           pr.   KACZOR ROMAN                          pr.       PIĘTA JAROSŁAW                   pr.   GĄDEK LIDIA                     ng.
 AUGUSTYN URSZULA                      pr.   KANIA ANDRZEJ                         pr.       PIOTROWSKA TERESA                 pr.   GIBAŁA ŁUKASZ                   ng.
 AZIEWICZ TADEUSZ                      pr.   KATULSKI JAROSŁAW                     pr.       PLURA MAREK                       pr.   GOWIN JAROSŁAW                  ng.
 BIERNACKI MAREK                       pr.   KIDAWA-BŁOŃSKA MAŁGORZATA             pr.       PLUTA MIROSŁAW                    pr.   GRAD ALEKSANDER                 ng.
@@ -54,7 +54,7 @@ GŁOGOWSKI TOMASZ                      pr.   NIESIOŁOWSKI STEFAN               
 GODSON JOHN ABRAHAM                   pr.   NOWAK TOMASZ PIOTR                    pr.       ZAWADZKI RYSZARD                  pr.   SZULC JAKUB                     ng.
 GRABARCZYK CEZARY                     pr.   OLECHOWSKA ALICJA                     pr.       ZIELIŃSKI MACIEJ                  pr.   SZYMAŃSKI TOMASZ                ng.
 GRAD MARIUSZ                          pr.   OLSZEWSKI PAWEŁ                       pr.       ZIEMNIAK WOJCIECH                 pr.   ŚLEDZIŃSKA-KATARASIŃSKA IWONA   ng.
-GRUPIŃSKI RAFAŁ                       pr.   ORZECHOWSKI ANDRZEJ                   pr.       ZIĘ TEK JERZY                     pr.   TOMCZAK JACEK                   ng.
+GRUPIŃSKI RAFAŁ                       pr.   ORZECHOWSKI ANDRZEJ                   pr.       ZIĘTEK JERZY                     pr.   TOMCZAK JACEK                   ng.
 GUZOWSKA IWONA                        pr.   ORZECHOWSKI MACIEJ                    pr.       ŻMIJAN STANISŁAW                  pr.   TOMCZYK CEZARY                  ng.
 HALL KATARZYNA                        pr.   OŚWIĘCIMSKI KONSTANTY                 pr.       ŻMUDA-TRZEBIATOWSKA EWA           pr.   TOMCZYKIEWICZ TOMASZ            ng.
 HANAJCZYK AGNIESZKA                   pr.   PACELT ZBIGNIEW                       pr.       ŻYLIŃSKI ADAM                     pr.   TUSK DONALD                     ng.
@@ -70,7 +70,7 @@ JAROS MICHAŁ                          pr.   PIETRASZEWSKA DANUTA               
                                                                                         1
  PiS (136)                    GŁOSOWAŁO - 114           ZA - 114   PRZECIW - 0                WSTRZYM. - 0             NIE GŁOS. - 22
 
-ANDZEL WALDEMAR                 za    KLOC IZABELA                 za        PIĘ TA STANISŁAW                 za    WIPLER PRZEMYSŁAW            za
+ANDZEL WALDEMAR                 za    KLOC IZABELA                 za        PIĘTA STANISŁAW                 za    WIPLER PRZEMYSŁAW            za
 ARCISZEWSKA-MIELEWCZYK DOROTA   za    KŁOSOWSKI SŁAWOMIR           za        PIOTROWICZ STANISŁAW             za    WIŚNIEWSKA JADWIGA           za
 ARDANOWSKI JAN KRZYSZTOF        za    KOŁAKOWSKI LECH              za        POLACZEK JERZY                   za    WITEK ELŻBIETA               za
 ARENT IWONA EWA                 za    KOŁAKOWSKI ROBERT            za        POLAK MAREK                      za    WITKO MARCIN                 za
@@ -109,9 +109,9 @@ KACZYŃSKI JAROSŁAW              za    PIECHA BOLESŁAW GRZEGORZ     za        
  RP (41)                      GŁOSOWAŁO - 33            ZA - 1     PRZECIW - 32               WSTRZYM. - 0             NIE GŁOS. - 8
 
 POZNAŃSKI MAREK                 za    GÓRCZYŃSKI ARTUR             pr.       MARCINKIEWICZ MAŁGORZATA         pr.   BIEDROŃ ROBERT               ng.
-BANASZAK MACIEJ                 pr.   GRODZKA ANNA                 pr.       MROCZEK MACIEJ                   pr.   BODIO BARTŁ OMIEJ            ng.
+BANASZAK MACIEJ                 pr.   GRODZKA ANNA                 pr.       MROCZEK MACIEJ                   pr.   BODIO BARTŁOMIEJ            ng.
 BAUĆ PIOTR PAWEŁ                pr.   KABACIŃSKI MICHAŁ            pr.       NAJDER JACEK                     pr.   KOTLIŃSKI ROMAN              ng.
-BORKOWSKI JERZY                 pr.   KĘPIŃSKI ADAM                pr.       NOWICKA WANDA                    pr.   PIĄ TAK ANDRZEJ              ng.
+BORKOWSKI JERZY                 pr.   KĘPIŃSKI ADAM                pr.       NOWICKA WANDA                    pr.   PIĄTAK ANDRZEJ              ng.
 BRAMORA ARTUR                   pr.   KŁOSOWSKI KRZYSZTOF          pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   ROZENEK ANDRZEJ              ng.
 CEDZYŃSKI JAN                   pr.   KMIECIK HENRYK               pr.       PALIKOT JANUSZ                   pr.   RYBAKOWICZ ADAM              ng.
 CHMIELOWSKI PIOTR               pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PENKALSKI WOJCIECH               pr.   RYFIŃSKI ARMAND KAMIL        ng.

@@ -44,7 +44,7 @@ DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                         
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.    WARDZAŁA ROBERT                 pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.    WIELICHOWSKA MONIKA             pr.
 DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.    WITCZAK MARIUSZ                 pr.
-DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
+DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.    WOJTKOWSKI MAREK                pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.    WOLAK EWA                       pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.    WÓJCIK MAREK                    pr.
@@ -54,7 +54,7 @@ GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                   
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.    ZDROJEWSKI BOGDAN               pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.    ZIELIŃSKI MACIEJ                pr.
 GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.    ZIEMNIAK WOJCIECH               pr.
-GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘ TEK JERZY                   pr.
+GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘTEK JERZY                   pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.    ŻALEK JACEK                     pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.    ŻMIJAN STANISŁAW                pr.
 GLUZA CZESŁAW                         pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.    ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -87,7 +87,7 @@ MACIEREWICZ ANTONI              za    CZESAK EDWARD                   ws.       
 MATERNA JERZY                   za    DOBRZYŃSKI LESZEK               ws.       MASŁOWSKA GABRIELA                ws.   TELUS ROBERT               ws.
 NAIMSKI PIOTR                   za    DOLATA ZBIGNIEW                 ws.       MASTALEREK MARCIN                 ws.   TERLECKI RYSZARD           ws.
 PALUCH ANNA                     za    DZIUBA TADEUSZ                  ws.       MATUSIAK GRZEGORZ                 ws.   TOBISZOWSKI GRZEGORZ       ws.
-PIĘ TA STANISŁAW                za    FALFUS JACEK                    ws.       MATUSZEWSKI MAREK                 ws.   TOMASZEWSKI JAN            ws.
+PIĘTA STANISŁAW                za    FALFUS JACEK                    ws.       MATUSZEWSKI MAREK                 ws.   TOMASZEWSKI JAN            ws.
 PIOTROWICZ STANISŁAW            za    FOTYGA ANNA                     ws.       MAZUREK BEATA                     ws.   WARZECHA JAN               ws.
 POLACZEK JERZY                  za    GIRZYŃSKI ZBIGNIEW              ws.       MICHAŁKIEWICZ KRZYSZTOF           ws.   WIPLER PRZEMYSŁAW          ws.
 POLAK MAREK                     za    GIŻYŃSKI SZYMON                 ws.       MOSKAL KAZIMIERZ                  ws.   WIŚNIEWSKA JADWIGA         ws.
@@ -116,10 +116,10 @@ KWIATKOWSKI JACEK               za    DZIADZIO DARIUSZ CEZAR          pr.       
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY                 pr.       MROCZEK MACIEJ                    pr.   SAJAK PAWEŁ                pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                   pr.       NAJDER JACEK                      pr.   STOLARSKI MAREK            pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR                pr.       NOWICKA WANDA                     pr.   SZYMIEC-RACZYŃSKA HALINA   pr.
-BODIO BARTŁ OMIEJ               pr.   KĘPIŃSKI ADAM                   pr.       PACHOLSKI MICHAŁ TOMASZ           pr.   WYDRZYŃSKI MACIEJ          pr.
+BODIO BARTŁOMIEJ               pr.   KĘPIŃSKI ADAM                   pr.       PACHOLSKI MICHAŁ TOMASZ           pr.   WYDRZYŃSKI MACIEJ          pr.
 BORKOWSKI JERZY                 pr.   KŁOSOWSKI KRZYSZTOF             pr.       PALIKOT JANUSZ                    pr.   KLEPACZ WITOLD             ws.
 BRAMORA ARTUR                   pr.   KOPYCIŃSKI SŁAWOMIR             pr.       PENKALSKI WOJCIECH                pr.   RYFIŃSKI ARMAND KAMIL      ng.
-CEDZYŃSKI JAN                   pr.   KOTLIŃSKI ROMAN                 pr.       PIĄ TAK ANDRZEJ                   pr.
+CEDZYŃSKI JAN                   pr.   KOTLIŃSKI ROMAN                 pr.       PIĄTAK ANDRZEJ                   pr.
 
 
  PSL (28)                     GŁOSOWAŁO - 27             ZA - 0       PRZECIW - 27               WSTRZYM. - 0              NIE GŁOS. - 1

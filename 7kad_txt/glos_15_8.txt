@@ -45,7 +45,7 @@ CZERNOW ZOFIA                       pr.    KOŁACZ-LESZCZYŃSKA AGNIESZKA       
 CZERWIŃSKI ANDRZEJ                  pr.    KOŁODZIEJ EWA                       pr.       PIECHOTA SŁAWOMIR JAN            pr.   WIELICHOWSKA MONIKA                   pr.
 DĄBROWSKA ALICJA                    pr.    KONWIŃSKI ZBIGNIEW                  pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITCZAK MARIUSZ                       pr.
 DROZD EWA                           pr.    KOPACZ EWA                          pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITKOWSKI RADOSŁAW                    pr.
-DUNIN ARTUR                         pr.    KOPACZEWSKA DOMICELA                pr.       PIĘ TA JAROSŁAW                  pr.   WOJNAROWSKI NORBERT                   pr.
+DUNIN ARTUR                         pr.    KOPACZEWSKA DOMICELA                pr.       PIĘTA JAROSŁAW                  pr.   WOJNAROWSKI NORBERT                   pr.
 DURKA ZENON                         pr.    KORZENIOWSKI LESZEK                 pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                      pr.
 DZIĘCIOŁ JANUSZ                     pr.    KOSECKI ROMAN JACEK                 pr.       PITERA JULIA                     pr.   WOLAK EWA                             pr.
 DZIKOWSKI WALDY                     pr.    KOWALSKI SŁAWOMIR                   pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                          pr.
@@ -54,7 +54,7 @@ FEDOROWICZ JERZY                    pr.    KOZDROŃ JERZY                       
 FIEDLER ARKADY                      pr.    KOZŁOWSKA IWONA                     pr.       POMASKA AGNIESZKA                pr.   ZDROJEWSKI BOGDAN                     pr.
 GADOWSKI KRZYSZTOF                  pr.    KOZŁOWSKA-RAJEWICZ AGNIESZKA        pr.       POŚLEDNIA KRYSTYNA               pr.   ZIELIŃSKI MACIEJ                      pr.
 GAŁAŻEWSKI ANDRZEJ                  pr.    KOŹLAKIEWICZ MIROSŁAW               pr.       RACZKOWSKI DAMIAN                pr.   ZIEMNIAK WOJCIECH                     pr.
-GAPIŃSKA ELŻBIETA                   pr.    KRAJEWSKA LIGIA                     pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘ TEK JERZY                         pr.
+GAPIŃSKA ELŻBIETA                   pr.    KRAJEWSKA LIGIA                     pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘTEK JERZY                         pr.
 GAW ŁOWSKI STANISŁAW                pr.    KROPIWNICKI ROBERT                  pr.       RANIEWICZ GRZEGORZ               pr.   ŻALEK JACEK                           pr.
 GĄDEK LIDIA                         pr.    KRZĄKAŁA MAREK                      pr.       RAŚ IRENEUSZ                     pr.   ŻMIJAN STANISŁAW                      pr.
 GĄSIOR-MAREK MAGDALENA              pr.    KUCHARSKI CEZARY                    pr.       ROSATI DARIUSZ                   pr.   ŻMUDA-TRZEBIATOWSKA EWA               pr.
@@ -79,7 +79,7 @@ ARDANOWSKI JAN KRZYSZTOF        za    JURGIEL KRZYSZTOF              za        O
 ARENT IWONA EWA                 za    KACZMAREK TOMASZ               za        PALUCH ANNA                      za    TELUS ROBERT                  za
 AST MAREK                       za    KACZYŃSKI JAROSŁAW             za        PAW ŁOWICZ KRYSTYNA              za    TERLECKI RYSZARD              za
 BABALSKI ZBIGNIEW               za    KAMIŃSKI MARIUSZ               za        PIECHA BOLESŁAW GRZEGORZ         za    TOBISZOWSKI GRZEGORZ          za
-BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ ANTONI        za        PIĘ TA STANISŁAW                 za    TOMASZEWSKI JAN               za
+BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ ANTONI        za        PIĘTA STANISŁAW                 za    TOMASZEWSKI JAN               za
 BARTUŚ BARBARA                  za    KLOC IZABELA                   za        PIONTKOWSKI DARIUSZ              za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BĄK DARIUSZ                     za    KŁOSOWSKI SŁAWOMIR             za        PIOTROWICZ STANISŁAW             za    WARZECHA JAN                  za
 BERNACKI W ŁODZIMIERZ           za    KOŁAKOWSKI LECH                za        POLACZEK JERZY                   za    WIPLER PRZEMYSŁAW             za
@@ -112,12 +112,12 @@ JACH MICHAŁ                     za    MICHAŁKIEWICZ KRZYSZTOF        za       
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY                pr.       LEWANDOWSKI ANDRZEJ              pr.   ROZENEK ANDRZEJ               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                  pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR               pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL         pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                   pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                   pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ              pr.       NAJDER JACEK                     pr.   STOLARSKI MAREK               pr.
 BRAMORA ARTUR                   pr.   KLEPACZ WITOLD                 pr.       NOWICKA WANDA                    pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF            pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ             pr.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK                 pr.       PENKALSKI WOJCIECH               pr.   KĘPIŃSKI ADAM                 ng.
-DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR            pr.       PIĄ TAK ANDRZEJ                  pr.   KRUPA ŁUKASZ                  ng.
+DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR            pr.       PIĄTAK ANDRZEJ                  pr.   KRUPA ŁUKASZ                  ng.
 DOMARACKI MAREK                 pr.   KOTLIŃSKI ROMAN                pr.       POPIOŁEK ZOFIA                   pr.   PALIKOT JANUSZ                ng.
 DZIADZIO DARIUSZ CEZAR          pr.   KWIATKOWSKI JACEK              pr.       POZNAŃSKI MAREK                  pr.
 

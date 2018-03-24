@@ -44,7 +44,7 @@ DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                         
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.   WARDZAŁA ROBERT                 pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITCZAK MARIUSZ                 pr.
-DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
+DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.   WOLAK EWA                       pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                    pr.
@@ -54,7 +54,7 @@ GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                   
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN               pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                pr.
 GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH               pr.
-GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                   pr.
+GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                   pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                     pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                pr.
 GLUZA CZESŁAW                         pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -86,7 +86,7 @@ LATOS TOMASZ                    za    FOTYGA ANNA                  ws.       NOW
 LIPIŃSKI ADAM                   za    GIRZYŃSKI ZBIGNIEW           ws.       OPIOŁA MAREK                      ws.   WARZECHA JAN                  ws.
 MACHAŁEK MARZENA                za    GOSIEWSKA MAŁGORZATA         ws.       OSUCH JACEK                       ws.   WASZCZYKOWSKI WITOLD          ws.
 PAW ŁOWICZ KRYSTYNA             za    GÓRSKI ARTUR                 ws.       OŻÓG STANISŁAW                    ws.   WIPLER PRZEMYSŁAW             ws.
-PIĘ TA STANISŁAW                za    HOFMAN ADAM                  ws.       PALUCH ANNA                       ws.   WIŚNIEWSKA JADWIGA            ws.
+PIĘTA STANISŁAW                za    HOFMAN ADAM                  ws.       PALUCH ANNA                       ws.   WIŚNIEWSKA JADWIGA            ws.
 PIONTKOWSKI DARIUSZ             za    HRYNKIEWICZ JÓZEFA           ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   WITEK ELŻBIETA                ws.
 SPRAWKA LECH                    za    JACH MICHAŁ                  ws.       PIOTROWICZ STANISŁAW              ws.   WITKO MARCIN                  ws.
 SUSKI MAREK                     za    JACKIEWICZ DAWID             ws.       POLACZEK JERZY                    ws.   WOŹNIAK GRZEGORZ ADAM         ws.
@@ -109,8 +109,8 @@ BERNACKI W ŁODZIMIERZ           ws.   LIPIEC KRZYSZTOF             ws.       ST
 
  RP (43)                      GŁOSOWAŁO - 42             ZA - 7    PRZECIW - 34               WSTRZYM. - 1              NIE GŁOS. - 1
 
-BODIO BARTŁ OMIEJ               za    BRAMORA ARTUR                pr.       KOPYCIŃSKI SŁAWOMIR               pr.   PENKALSKI WOJCIECH            pr.
-GÓRCZYŃSKI ARTUR                za    CEDZYŃSKI JAN                pr.       KOTLIŃSKI ROMAN                   pr.   PIĄ TAK ANDRZEJ               pr.
+BODIO BARTŁOMIEJ               za    BRAMORA ARTUR                pr.       KOPYCIŃSKI SŁAWOMIR               pr.   PENKALSKI WOJCIECH            pr.
+GÓRCZYŃSKI ARTUR                za    CEDZYŃSKI JAN                pr.       KOTLIŃSKI ROMAN                   pr.   PIĄTAK ANDRZEJ               pr.
 KABACIŃSKI MICHAŁ               za    CHMIELOWSKI PIOTR            pr.       KRUPA ŁUKASZ                      pr.   POPIOŁEK ZOFIA                pr.
 KMIECIK HENRYK                  za    DĘBSKI ARTUR                 pr.       LEWANDOWSKI ANDRZEJ               pr.   ROZENEK ANDRZEJ               pr.
 KWIATKOWSKI JACEK               za    DOMARACKI MAREK              pr.       MAKOWSKI TOMASZ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.

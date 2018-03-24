@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    pr.   KOPACZ EWA                         
 DĄBROWSKA ALICJA                      pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.   WARDZAŁA ROBERT                 pr.
 DROZD EWA                             pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 DUNIN ARTUR                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITCZAK MARIUSZ                 pr.
-DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
+DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.   WOLAK EWA                       pr.
 DZIKOWSKI WALDY                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.   WÓJCIK MAREK                    pr.
 FABISIAK JOANNA                       pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.   ZAKRZEWSKA JADWIGA              pr.
@@ -52,7 +52,7 @@ FIEDLER ARKADY                        pr.   KOŹLAKIEWICZ MIROSŁAW             
 GADOWSKI KRZYSZTOF                    pr.   KRAJEWSKA LIGIA                       pr.       POMASKA AGNIESZKA                pr.   ZDROJEWSKI BOGDAN               pr.
 GAŁAŻEWSKI ANDRZEJ                    pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.   ZIELIŃSKI MACIEJ                pr.
 GAPIŃSKA ELŻBIETA                     pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIEMNIAK WOJCIECH               pr.
-GAW ŁOWSKI STANISŁAW                  pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘ TEK JERZY                   pr.
+GAW ŁOWSKI STANISŁAW                  pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘTEK JERZY                   pr.
 GĄDEK LIDIA                           pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ŻALEK JACEK                     pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.   ŻMIJAN STANISŁAW                pr.
 GELERT ELŻBIETA                       pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -89,7 +89,7 @@ POLAK MAREK                     za    HRYNKIEWICZ JÓZEFA           ws.       OS
 RUSIECKI JAROSŁAW               za    JACH MICHAŁ                  ws.       OŻÓG STANISŁAW                    ws.   WASZCZYKOWSKI WITOLD          ws.
 SASIN JACEK                     za    JACKIEWICZ DAWID             ws.       PAW ŁOWICZ KRYSTYNA               ws.   WIPLER PRZEMYSŁAW             ws.
 SZCZERSKI KRZYSZTOF             za    JASIŃSKI WOJCIECH            ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   WIŚNIEWSKA JADWIGA            ws.
-SZMIT JERZY                     za    JĘDRYSEK MARIUSZ ORION       ws.       PIĘ TA STANISŁAW                  ws.   WITEK ELŻBIETA                ws.
+SZMIT JERZY                     za    JĘDRYSEK MARIUSZ ORION       ws.       PIĘTA STANISŁAW                  ws.   WITEK ELŻBIETA                ws.
 WOJTKIEWICZ MICHAŁ              za    JURGIEL KRZYSZTOF            ws.       PIONTKOWSKI DARIUSZ               ws.   WITKO MARCIN                  ws.
 ZUBA MARIA                      za    KACZMAREK TOMASZ             ws.       POLACZEK JERZY                    ws.   WOŹNIAK GRZEGORZ ADAM         ws.
 ABRAMOWICZ ADAM                 ws.   KACZYŃSKI JAROSŁAW           ws.       POLAK PIOTR                       ws.   ZALEWSKA ANNA                 ws.
@@ -109,8 +109,8 @@ BŁASZCZAK MARIUSZ               ws.   LATOS TOMASZ                 ws.       ST
 
  RP (43)                      GŁOSOWAŁO - 43             ZA - 8    PRZECIW - 35               WSTRZYM. - 0              NIE GŁOS. - 0
 
-BODIO BARTŁ OMIEJ               za    BORKOWSKI JERZY              pr.       KOTLIŃSKI ROMAN                   pr.   PENKALSKI WOJCIECH            pr.
-CEDZYŃSKI JAN                   za    BRAMORA ARTUR                pr.       KRUPA ŁUKASZ                      pr.   PIĄ TAK ANDRZEJ               pr.
+BODIO BARTŁOMIEJ               za    BORKOWSKI JERZY              pr.       KOTLIŃSKI ROMAN                   pr.   PENKALSKI WOJCIECH            pr.
+CEDZYŃSKI JAN                   za    BRAMORA ARTUR                pr.       KRUPA ŁUKASZ                      pr.   PIĄTAK ANDRZEJ               pr.
 GIBAŁA ŁUKASZ                   za    CHMIELOWSKI PIOTR            pr.       KWIATKOWSKI JACEK                 pr.   POPIOŁEK ZOFIA                pr.
 GÓRCZYŃSKI ARTUR                za    DĘBSKI ARTUR                 pr.       LEWANDOWSKI ANDRZEJ               pr.   POZNAŃSKI MAREK               pr.
 KABACIŃSKI MICHAŁ               za    DOMARACKI MAREK              pr.       MAKOWSKI TOMASZ                   pr.   ROZENEK ANDRZEJ               pr.

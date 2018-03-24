@@ -46,7 +46,7 @@ DROZD EWA                            za    KOPACZ EWA                           
 DUNIN ARTUR                          za    KOPACZEWSKA DOMICELA                 za       PIERZCHAŁA ELŻBIETA APOLONIA      za   WITKOWSKI RADOSŁAW                  za
 DURKA ZENON                          za    KOSECKI ROMAN JACEK                  za       PIETRASZEWSKA DANUTA              za   WOJNAROWSKI NORBERT                 za
 DZIĘCIOŁ JANUSZ                      za    KOWALSKI SŁAWOMIR                    za       PIETRZCZYK LUCJAN MAREK           za   WOJTKOWSKI MAREK                    za
-DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                    za       PIĘ TA JAROSŁAW                   za   WOLAK EWA                           za
+DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                    za       PIĘTA JAROSŁAW                   za   WOLAK EWA                           za
 FABISIAK JOANNA                      za    KOZDROŃ JERZY                        za       PIOTROWSKA TERESA                 za   WÓJCIK MAREK                        za
 FEDOROWICZ JERZY                     za    KOZŁOWSKA IWONA                      za       PITERA JULIA                      za   ZAKRZEWSKA JADWIGA                  za
 FIEDLER ARKADY                       za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLOCKE KAZIMIERZ                  za   ZAREMBA RENATA                      za
@@ -54,7 +54,7 @@ GADOWSKI KRZYSZTOF                   za    KOŹLAKIEWICZ MIROSŁAW              
 GAŁAŻEWSKI ANDRZEJ                   za    KRAJEWSKA LIGIA                      za       POMASKA AGNIESZKA                 za   ZDROJEWSKI BOGDAN                   za
 GAPIŃSKA ELŻBIETA                    za    KROPIWNICKI ROBERT                   za       POŚLEDNIA KRYSTYNA                za   ZIELIŃSKI MACIEJ                    za
 GAW ŁOWSKI STANISŁAW                 za    KRZĄKAŁA MAREK                       za       RACZKOWSKI DAMIAN                 za   ZIEMNIAK WOJCIECH                   za
-GĄDEK LIDIA                          za    KUCHARSKI CEZARY                     za       RANIEWICZ GRZEGORZ                za   ZIĘ TEK JERZY                       za
+GĄDEK LIDIA                          za    KUCHARSKI CEZARY                     za       RANIEWICZ GRZEGORZ                za   ZIĘTEK JERZY                       za
 GĄSIOR-MAREK MAGDALENA               za    KUDRYCKA BARBARA                     za       RAŚ IRENEUSZ                      za   ŻALEK JACEK                         za
 GELERT ELŻBIETA                      za    KULESZA TOMASZ                       za       ROSATI DARIUSZ                    za   ŻMIJAN STANISŁAW                    za
 GIBAŁA ŁUKASZ                        za    KWIATKOWSKI KRZYSZTOF                za       ROZPONDEK HALINA                  za   ŻMUDA-TRZEBIATOWSKA EWA             za
@@ -86,7 +86,7 @@ AST MAREK                       ws.   KACZMAREK TOMASZ            ws.       OŻ�
 BABALSKI ZBIGNIEW               ws.   KACZYŃSKI JAROSŁAW          ws.       PALUCH ANNA                       ws.   TELUS ROBERT                  ws.
 BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ            ws.       PAW ŁOWICZ KRYSTYNA               ws.   TERLECKI RYSZARD              ws.
 BARTUŚ BARBARA                  ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   TOBISZOWSKI GRZEGORZ          ws.
-BĄK DARIUSZ                     ws.   KLOC IZABELA                ws.       PIĘ TA STANISŁAW                  ws.   TOMASZEWSKI JAN               ws.
+BĄK DARIUSZ                     ws.   KLOC IZABELA                ws.       PIĘTA STANISŁAW                  ws.   TOMASZEWSKI JAN               ws.
 BERNACKI W ŁODZIMIERZ           ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIONTKOWSKI DARIUSZ               ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 BĘTKOWSKI ANDRZEJ               ws.   KOŁAKOWSKI LECH             ws.       PIOTROWICZ STANISŁAW              ws.   WARZECHA JAN                  ws.
 BŁASZCZAK MARIUSZ               ws.   KOŁAKOWSKI ROBERT           ws.       POLACZEK JERZY                    ws.   WIPLER PRZEMYSŁAW             ws.
@@ -113,11 +113,11 @@ GOSIEWSKA MAŁGORZATA            ws.   MASŁOWSKA GABRIELA          ws.       SZ
 BANASZAK MACIEJ                 za    ELSNER WINCENTY             za        MAKOWSKI TOMASZ                   za    RYBAKOWICZ ADAM               za
 BAUĆ PIOTR PAWEŁ                za    GÓRCZYŃSKI ARTUR            za        MARCINKIEWICZ MAŁGORZATA          za    RYFIŃSKI ARMAND KAMIL         za
 BIEDROŃ ROBERT                  za    KABACIŃSKI MICHAŁ           za        MROCZEK MACIEJ                    za    SAJAK PAWEŁ                   za
-BODIO BARTŁ OMIEJ               za    KĘPIŃSKI ADAM               za        NAJDER JACEK                      za    STOLARSKI MAREK               za
+BODIO BARTŁOMIEJ               za    KĘPIŃSKI ADAM               za        NAJDER JACEK                      za    STOLARSKI MAREK               za
 BORKOWSKI JERZY                 za    KŁOSOWSKI KRZYSZTOF         za        NOWICKA WANDA                     za    SZYMIEC-RACZYŃSKA HALINA      za
 BRAMORA ARTUR                   za    KMIECIK HENRYK              za        PACHOLSKI MICHAŁ TOMASZ           za    WYDRZYŃSKI MACIEJ             za
 CEDZYŃSKI JAN                   za    KOPYCIŃSKI SŁAWOMIR         za        PALIKOT JANUSZ                    za    GRODZKA ANNA                  ws.
-CHMIELOWSKI PIOTR               za    KOTLIŃSKI ROMAN             za        PENKALSKI WOJCIECH                za    PIĄ TAK ANDRZEJ               ng.
+CHMIELOWSKI PIOTR               za    KOTLIŃSKI ROMAN             za        PENKALSKI WOJCIECH                za    PIĄTAK ANDRZEJ               ng.
 DĘBSKI ARTUR                    za    KRUPA ŁUKASZ                za        POPIOŁEK ZOFIA                    za
 DOMARACKI MAREK                 za    KWIATKOWSKI JACEK           za        POZNAŃSKI MAREK                   za
 DZIADZIO DARIUSZ CEZAR          za    LEWANDOWSKI ANDRZEJ         za        ROZENEK ANDRZEJ                   za

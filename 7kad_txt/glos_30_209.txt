@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    pr.   KOPACZ EWA                         
 DĄBROWSKA ALICJA                      pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.   WARDZAŁA ROBERT                 pr.
 DROZD EWA                             pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 DUNIN ARTUR                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITCZAK MARIUSZ                 pr.
-DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
+DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                pr.
 DZIKOWSKI WALDY                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.   WOLAK EWA                       pr.
 FABISIAK JOANNA                       pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                    pr.
@@ -53,7 +53,7 @@ GADOWSKI KRZYSZTOF                    pr.   KRAJEWSKA LIGIA                     
 GAŁAŻEWSKI ANDRZEJ                    pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN               pr.
 GAPIŃSKA ELŻBIETA                     pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH               pr.
-GĄDEK LIDIA                           pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                   pr.
+GĄDEK LIDIA                           pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                   pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                     pr.
 GELERT ELŻBIETA                       pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                pr.
 GIERADA ARTUR                         pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -93,7 +93,7 @@ MATERNA JERZY                   za    HOFMAN ADAM                     ws.       
 NAIMSKI PIOTR                   za    HRYNKIEWICZ JÓZEFA              ws.       POPIOŁEK KRZYSZTOF               ws.   ZŁOTOWSKI KOSMA               ws.
 PALUCH ANNA                     za    JACKIEWICZ DAWID                ws.       PYZIK PIOTR                      ws.   ZUBA MARIA                    ws.
 PAW ŁOWICZ KRYSTYNA             za    JASIŃSKI WOJCIECH               ws.       RAFALSKA ELŻBIETA                ws.   ZUBOWSKI WOJCIECH             ws.
-PIĘ TA STANISŁAW                za    JĘDRYSEK MARIUSZ ORION          ws.       ROGACKI ADAM                     ws.   BABALSKI ZBIGNIEW             ng.
+PIĘTA STANISŁAW                za    JĘDRYSEK MARIUSZ ORION          ws.       ROGACKI ADAM                     ws.   BABALSKI ZBIGNIEW             ng.
 PIOTROWICZ STANISŁAW            za    JURGIEL KRZYSZTOF               ws.       RUSIECKI JAROSŁAW                ws.   GÓRSKI ARTUR                  ng.
 POLAK MAREK                     za    KACZMAREK TOMASZ                ws.       RZOŃCA BOGDAN                    ws.   KLOC IZABELA                  ng.
 SOBECKA ANNA ELŻBIETA           za    KACZYŃSKI JAROSŁAW              ws.       SADURSKA MAŁGORZATA              ws.   KRACZKOWSKI MAKS              ng.
@@ -109,7 +109,7 @@ ABRAMOWICZ ADAM                 ws.   KUCHCIŃSKI MAREK                ws.      
 
  RP (43)                      GŁOSOWAŁO - 41             ZA - 8       PRZECIW - 32               WSTRZYM. - 1             NIE GŁOS. - 2
 
-BODIO BARTŁ OMIEJ               za    BORKOWSKI JERZY                 pr.       KOPYCIŃSKI SŁAWOMIR              pr.   POPIOŁEK ZOFIA                pr.
+BODIO BARTŁOMIEJ               za    BORKOWSKI JERZY                 pr.       KOPYCIŃSKI SŁAWOMIR              pr.   POPIOŁEK ZOFIA                pr.
 GIBAŁA ŁUKASZ                   za    BRAMORA ARTUR                   pr.       KOTLIŃSKI ROMAN                  pr.   POZNAŃSKI MAREK               pr.
 KABACIŃSKI MICHAŁ               za    CEDZYŃSKI JAN                   pr.       KRUPA ŁUKASZ                     pr.   ROZENEK ANDRZEJ               pr.
 KMIECIK HENRYK                  za    CHMIELOWSKI PIOTR               pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
@@ -119,7 +119,7 @@ PACHOLSKI MICHAŁ TOMASZ         za    ELSNER WINCENTY                 pr.      
 SAJAK PAWEŁ                     za    GÓRCZYŃSKI ARTUR                pr.       NOWICKA WANDA                    pr.   KLEPACZ WITOLD                ws.
 BANASZAK MACIEJ                 pr.   GRODZKA ANNA                    pr.       PALIKOT JANUSZ                   pr.   DOMARACKI MAREK               ng.
 BAUĆ PIOTR PAWEŁ                pr.   KĘPIŃSKI ADAM                   pr.       PENKALSKI WOJCIECH               pr.   RYFIŃSKI ARMAND KAMIL         ng.
-BIEDROŃ ROBERT                  pr.   KŁOSOWSKI KRZYSZTOF             pr.       PIĄ TAK ANDRZEJ                  pr.
+BIEDROŃ ROBERT                  pr.   KŁOSOWSKI KRZYSZTOF             pr.       PIĄTAK ANDRZEJ                  pr.
 
 
  PSL (28)                     GŁOSOWAŁO - 25             ZA - 1       PRZECIW - 24               WSTRZYM. - 0             NIE GŁOS. - 3

@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    pr.   KONWIŃSKI ZBIGNIEW                
 DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                            pr.       PIECHOTA SŁAWOMIR JAN            pr.   WITCZAK MARIUSZ                 pr.
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITKOWSKI RADOSŁAW              pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOJTKOWSKI MAREK                pr.
-DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIĘ TA JAROSŁAW                  pr.   WOLAK EWA                       pr.
+DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIĘTA JAROSŁAW                  pr.   WOLAK EWA                       pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIOTROWSKA TERESA                pr.   WÓJCIK MAREK                    pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PITERA JULIA                     pr.   ZAKRZEWSKA JADWIGA              pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PLOCKE KAZIMIERZ                 pr.   ZAREMBA RENATA                  pr.
@@ -51,7 +51,7 @@ FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                    
 FIEDLER ARKADY                        pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA          pr.       PLUTA MIROSŁAW                   pr.   ZDROJEWSKI BOGDAN               pr.
 GADOWSKI KRZYSZTOF                    pr.   KOŹLAKIEWICZ MIROSŁAW                 pr.       POMASKA AGNIESZKA                pr.   ZIELIŃSKI MACIEJ                pr.
 GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                       pr.       POŚLEDNIA KRYSTYNA               pr.   ZIEMNIAK WOJCIECH               pr.
-GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       RACZKOWSKI DAMIAN                pr.   ZIĘ TEK JERZY                   pr.
+GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       RACZKOWSKI DAMIAN                pr.   ZIĘTEK JERZY                   pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RADZISZEWSKA ELŻBIETA            pr.   ŻALEK JACEK                     pr.
 GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RANIEWICZ GRZEGORZ               pr.   ŻMIJAN STANISŁAW                pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RAŚ IRENEUSZ                     pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -76,7 +76,7 @@ MASŁOWSKA GABRIELA              za    HRYNKIEWICZ JÓZEFA            pr.       
 MAZUREK BEATA                   za    JACH MICHAŁ                   pr.       PALUCH ANNA                      pr.   WITKO MARCIN               pr.
 MICHAŁKIEWICZ KRZYSZTOF         za    JACKIEWICZ DAWID              pr.       PAW ŁOWICZ KRYSTYNA              pr.   WOJTKIEWICZ MICHAŁ         pr.
 PIOTROWICZ STANISŁAW            za    JANCZYK WIESŁAW STANISŁAW     pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   WOŹNIAK GRZEGORZ ADAM      pr.
-POLACZEK JERZY                  za    JASIŃSKI WOJCIECH             pr.       PIĘ TA STANISŁAW                 pr.   ZALEWSKA ANNA              pr.
+POLACZEK JERZY                  za    JASIŃSKI WOJCIECH             pr.       PIĘTA STANISŁAW                 pr.   ZALEWSKA ANNA              pr.
 SZMIT JERZY                     za    JAWORSKI ANDRZEJ              pr.       PIONTKOWSKI DARIUSZ              pr.   ZBONIKOWSKI ŁUKASZ         pr.
 UJAZDOWSKI KAZIMIERZ MICHAŁ     za    JURGIEL KRZYSZTOF             pr.       POLAK MAREK                      pr.   ZIELIŃSKI JAROSŁAW         pr.
 WARZECHA JAN                    za    KACZMAREK TOMASZ              pr.       POLAK PIOTR                      pr.   ZŁOTOWSKI KOSMA            pr.
@@ -109,8 +109,8 @@ GOSIEWSKA MAŁGORZATA            pr.   NAIMSKI PIOTR                 pr.       W
 
  RP (43)                      GŁOSOWAŁO - 42              ZA - 11   PRZECIW - 30               WSTRZYM. - 1             NIE GŁOS. - 1
 
-BODIO BARTŁ OMIEJ               za    BANASZAK MACIEJ               pr.       GRODZKA ANNA                     pr.   PENKALSKI WOJCIECH         pr.
-DZIADZIO DARIUSZ CEZAR          za    BAUĆ PIOTR PAWEŁ              pr.       KĘPIŃSKI ADAM                    pr.   PIĄ TAK ANDRZEJ            pr.
+BODIO BARTŁOMIEJ               za    BANASZAK MACIEJ               pr.       GRODZKA ANNA                     pr.   PENKALSKI WOJCIECH         pr.
+DZIADZIO DARIUSZ CEZAR          za    BAUĆ PIOTR PAWEŁ              pr.       KĘPIŃSKI ADAM                    pr.   PIĄTAK ANDRZEJ            pr.
 GÓRCZYŃSKI ARTUR                za    BIEDROŃ ROBERT                pr.       KŁOSOWSKI KRZYSZTOF              pr.   POPIOŁEK ZOFIA             pr.
 KABACIŃSKI MICHAŁ               za    BORKOWSKI JERZY               pr.       KOPYCIŃSKI SŁAWOMIR              pr.   ROZENEK ANDRZEJ            pr.
 KMIECIK HENRYK                  za    BRAMORA ARTUR                 pr.       KOTLIŃSKI ROMAN                  pr.   RYBAKOWICZ ADAM            pr.

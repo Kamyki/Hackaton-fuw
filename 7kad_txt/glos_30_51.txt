@@ -42,7 +42,7 @@ CZERNOW ZOFIA                         pr.   KOPACZ EWA                          
 CZERWIŃSKI ANDRZEJ                    pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.   WARDZAŁA ROBERT                 pr.
 DĄBROWSKA ALICJA                      pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 DROZD EWA                             pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITCZAK MARIUSZ                 pr.
-DUNIN ARTUR                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
+DUNIN ARTUR                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
 DURKA ZENON                           pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.   WOLAK EWA                       pr.
 DZIKOWSKI WALDY                       pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                    pr.
@@ -52,7 +52,7 @@ FIEDLER ARKADY                        pr.   KRAJEWSKA LIGIA                     
 GADOWSKI KRZYSZTOF                    pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN               pr.
 GAŁAŻEWSKI ANDRZEJ                    pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                pr.
 GAPIŃSKA ELŻBIETA                     pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH               pr.
-GAW ŁOWSKI STANISŁAW                  pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                   pr.
+GAW ŁOWSKI STANISŁAW                  pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                   pr.
 GĄDEK LIDIA                           pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                     pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                pr.
 GELERT ELŻBIETA                       pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -100,7 +100,7 @@ DZIEDZICZAK JAN                 ws.   ŁOPIŃSKI MACIEJ             ws.       SE
 DZIUBA TADEUSZ                  ws.   MACHAŁEK MARZENA            ws.       SOBECKA ANNA ELŻBIETA             ws.   KACZMAREK TOMASZ              ng.
 FALFUS JACEK                    ws.   MACIEREWICZ ANTONI          ws.       SPRAWKA LECH                      ws.   KRUK ELŻBIETA                 ng.
 FOTYGA ANNA                     ws.   MALIK EWA                   ws.       STRZAŁKOWSKI STEFAN               ws.   LATOS TOMASZ                  ng.
-GIRZYŃSKI ZBIGNIEW              ws.   MAŁECKI MACIEJ              ws.       SUSKI MAREK                       ws.   PIĘ TA STANISŁAW              ng.
+GIRZYŃSKI ZBIGNIEW              ws.   MAŁECKI MACIEJ              ws.       SUSKI MAREK                       ws.   PIĘTA STANISŁAW              ng.
 GIŻYŃSKI SZYMON                 ws.   MASŁOWSKA GABRIELA          ws.       SZAŁAMACHA PAWEŁ                  ws.   SZARAMA WOJCIECH              ng.
 GOŁOJUCH KAZIMIERZ              ws.   MASTALEREK MARCIN           ws.       SZCZERSKI KRZYSZTOF               ws.
 GOSIEWSKA MAŁGORZATA            ws.   MATERNA JERZY               ws.       SZCZYPIŃSKA JOLANTA               ws.
@@ -116,8 +116,8 @@ BIEDROŃ ROBERT                  pr.   GRODZKA ANNA                pr.       NAJ
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ           pr.       NOWICKA WANDA                     pr.   STOLARSKI MAREK               pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM               pr.       PACHOLSKI MICHAŁ TOMASZ           pr.   WYDRZYŃSKI MACIEJ             pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF         pr.       PALIKOT JANUSZ                    pr.   BAUĆ PIOTR PAWEŁ              ng.
-CHMIELOWSKI PIOTR               pr.   KOTLIŃSKI ROMAN             pr.       PENKALSKI WOJCIECH                pr.   BODIO BARTŁ OMIEJ             ng.
-DĘBSKI ARTUR                    pr.   KRUPA ŁUKASZ                pr.       PIĄ TAK ANDRZEJ                   pr.   KOPYCIŃSKI SŁAWOMIR           ng.
+CHMIELOWSKI PIOTR               pr.   KOTLIŃSKI ROMAN             pr.       PENKALSKI WOJCIECH                pr.   BODIO BARTŁOMIEJ             ng.
+DĘBSKI ARTUR                    pr.   KRUPA ŁUKASZ                pr.       PIĄTAK ANDRZEJ                   pr.   KOPYCIŃSKI SŁAWOMIR           ng.
 DOMARACKI MAREK                 pr.   KWIATKOWSKI JACEK           pr.       POPIOŁEK ZOFIA                    pr.   SZYMIEC-RACZYŃSKA HALINA      ng.
 DZIADZIO DARIUSZ CEZAR          pr.   LEWANDOWSKI ANDRZEJ         pr.       POZNAŃSKI MAREK                   pr.
 

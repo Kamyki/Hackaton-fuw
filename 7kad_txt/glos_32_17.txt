@@ -44,7 +44,7 @@ CZERWIŃSKI ANDRZEJ                    za    KOPACZ EWA                         
 DĄBROWSKA ALICJA                      za    KOPACZEWSKA DOMICELA                   za       PIERZCHAŁA ELŻBIETA APOLONIA     za   WIELICHOWSKA MONIKA             za
 DROZD EWA                             za    KORZENIOWSKI LESZEK                    za       PIETRASZEWSKA DANUTA             za   WITCZAK MARIUSZ                 za
 DUNIN ARTUR                           za    KOSECKI ROMAN JACEK                    za       PIETRZCZYK LUCJAN MAREK          za   WITKOWSKI RADOSŁAW              za
-DURKA ZENON                           za    KOWALSKI SŁAWOMIR                      za       PIĘ TA JAROSŁAW                  za   WOJNAROWSKI NORBERT             za
+DURKA ZENON                           za    KOWALSKI SŁAWOMIR                      za       PIĘTA JAROSŁAW                  za   WOJNAROWSKI NORBERT             za
 DZIĘCIOŁ JANUSZ                       za    KOZACZYŃSKI JACEK                      za       PIOTROWSKA TERESA                za   WOJTKOWSKI MAREK                za
 DZIKOWSKI WALDY                       za    KOZDROŃ JERZY                          za       PITERA JULIA                     za   WOLAK EWA                       za
 FABISIAK JOANNA                       za    KOZŁOWSKA IWONA                        za       PLOCKE KAZIMIERZ                 za   WÓJCIK MAREK                    za
@@ -53,7 +53,7 @@ FIEDLER ARKADY                        za    KOŹLAKIEWICZ MIROSŁAW             
 GADOWSKI KRZYSZTOF                    za    KRAJEWSKA LIGIA                        za       POMASKA AGNIESZKA                za   ZDROJEWSKI BOGDAN               za
 GAŁAŻEWSKI ANDRZEJ                    za    KROPIWNICKI ROBERT                     za       POŚLEDNIA KRYSTYNA               za   ZIELIŃSKI MACIEJ                za
 GAPIŃSKA ELŻBIETA                     za    KRZĄKAŁA MAREK                         za       RACZKOWSKI DAMIAN                za   ZIEMNIAK WOJCIECH               za
-GAW ŁOWSKI STANISŁAW                  za    KUCHARSKI CEZARY                       za       RADZISZEWSKA ELŻBIETA            za   ZIĘ TEK JERZY                   za
+GAW ŁOWSKI STANISŁAW                  za    KUCHARSKI CEZARY                       za       RADZISZEWSKA ELŻBIETA            za   ZIĘTEK JERZY                   za
 GĄDEK LIDIA                           za    KUDRYCKA BARBARA                       za       RANIEWICZ GRZEGORZ               za   ŻALEK JACEK                     za
 GĄSIOR-MAREK MAGDALENA                za    KULESZA TOMASZ                         za       RAŚ IRENEUSZ                     za   ŻMIJAN STANISŁAW                za
 GELERT ELŻBIETA                       za    KWIATKOWSKI KRZYSZTOF                  za       ROSATI DARIUSZ                   za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -82,7 +82,7 @@ AST MAREK                       ws.   KACZMAREK TOMASZ            ws.       OŻ�
 BABALSKI ZBIGNIEW               ws.   KAMIŃSKI MARIUSZ            ws.       PALUCH ANNA                       ws.   TCHÓRZEWSKI KRZYSZTOF         ws.
 BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PAW ŁOWICZ KRYSTYNA               ws.   TELUS ROBERT                  ws.
 BARTUŚ BARBARA                  ws.   KLOC IZABELA                ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   TERLECKI RYSZARD              ws.
-BĄK DARIUSZ                     ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIĘ TA STANISŁAW                  ws.   TOBISZOWSKI GRZEGORZ          ws.
+BĄK DARIUSZ                     ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIĘTA STANISŁAW                  ws.   TOBISZOWSKI GRZEGORZ          ws.
 BERNACKI W ŁODZIMIERZ           ws.   KOŁAKOWSKI LECH             ws.       PIONTKOWSKI DARIUSZ               ws.   TOMASZEWSKI JAN               ws.
 BĘTKOWSKI ANDRZEJ               ws.   KOŁAKOWSKI ROBERT           ws.       PIOTROWICZ STANISŁAW              ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 BŁASZCZAK MARIUSZ               ws.   KOWALCZYK HENRYK            ws.       POLACZEK JERZY                    ws.   WASZCZYKOWSKI WITOLD          ws.
@@ -113,11 +113,11 @@ HOFMAN ADAM                     ws.   MATUSZEWSKI MAREK           ws.       SZAR
 BANASZAK MACIEJ                 za    ELSNER WINCENTY             za        KRUPA ŁUKASZ                      za    ROZENEK ANDRZEJ               za
 BAUĆ PIOTR PAWEŁ                za    GIBAŁA ŁUKASZ               za        KWIATKOWSKI JACEK                 za    RYBAKOWICZ ADAM               za
 BIEDROŃ ROBERT                  za    GÓRCZYŃSKI ARTUR            za        LEWANDOWSKI ANDRZEJ               za    RYFIŃSKI ARMAND KAMIL         za
-BODIO BARTŁ OMIEJ               za    GRODZKA ANNA                za        MAKOWSKI TOMASZ                   za    SAJAK PAWEŁ                   za
+BODIO BARTŁOMIEJ               za    GRODZKA ANNA                za        MAKOWSKI TOMASZ                   za    SAJAK PAWEŁ                   za
 BORKOWSKI JERZY                 za    KABACIŃSKI MICHAŁ           za        MARCINKIEWICZ MAŁGORZATA          za    STOLARSKI MAREK               za
 BRAMORA ARTUR                   za    KĘPIŃSKI ADAM               za        MROCZEK MACIEJ                    za    WYDRZYŃSKI MACIEJ             za
 CEDZYŃSKI JAN                   za    KLEPACZ WITOLD              za        NOWICKA WANDA                     za    NAJDER JACEK                  ws.
-CHMIELOWSKI PIOTR               za    KŁOSOWSKI KRZYSZTOF         za        PACHOLSKI MICHAŁ TOMASZ           za    PIĄ TAK ANDRZEJ               ws.
+CHMIELOWSKI PIOTR               za    KŁOSOWSKI KRZYSZTOF         za        PACHOLSKI MICHAŁ TOMASZ           za    PIĄTAK ANDRZEJ               ws.
 DĘBSKI ARTUR                    za    KMIECIK HENRYK              za        PALIKOT JANUSZ                    za    POPIOŁEK ZOFIA                ws.
 DOMARACKI MAREK                 za    KOPYCIŃSKI SŁAWOMIR         za        PENKALSKI WOJCIECH                za    SZYMIEC-RACZYŃSKA HALINA      ng.
 DZIADZIO DARIUSZ CEZAR          za    KOTLIŃSKI ROMAN             za        POZNAŃSKI MAREK                   za

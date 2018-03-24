@@ -44,7 +44,7 @@ DĄBROWSKA ALICJA                      za    KOPACZ EWA                         
 DROZD EWA                             za    KOPACZEWSKA DOMICELA                  za       PIECHOTA SŁAWOMIR JAN            za     WARDZAŁA ROBERT                 za
 DUNIN ARTUR                           za    KORZENIOWSKI LESZEK                   za       PIERZCHAŁA ELŻBIETA APOLONIA     za     WIELICHOWSKA MONIKA             za
 DURKA ZENON                           za    KOSECKI ROMAN JACEK                   za       PIETRZCZYK LUCJAN MAREK          za     WITCZAK MARIUSZ                 za
-DZIĘCIOŁ JANUSZ                       za    KOWALSKI SŁAWOMIR                     za       PIĘ TA JAROSŁAW                  za     WITKOWSKI RADOSŁAW              za
+DZIĘCIOŁ JANUSZ                       za    KOWALSKI SŁAWOMIR                     za       PIĘTA JAROSŁAW                  za     WITKOWSKI RADOSŁAW              za
 DZIKOWSKI WALDY                       za    KOZACZYŃSKI JACEK                     za       PIOTROWSKA TERESA                za     WOJTKOWSKI MAREK                za
 FABISIAK JOANNA                       za    KOZDROŃ JERZY                         za       PITERA JULIA                     za     WOLAK EWA                       za
 FEDOROWICZ JERZY                      za    KOZŁOWSKA IWONA                       za       PLOCKE KAZIMIERZ                 za     WÓJCIK MAREK                    za
@@ -54,7 +54,7 @@ GAŁAŻEWSKI ANDRZEJ                    za    KRAJEWSKA LIGIA                   
 GAPIŃSKA ELŻBIETA                     za    KROPIWNICKI ROBERT                    za       POŚLEDNIA KRYSTYNA               za     ZDROJEWSKI BOGDAN               za
 GAW ŁOWSKI STANISŁAW                  za    KRZĄKAŁA MAREK                        za       RACZKOWSKI DAMIAN                za     ZIELIŃSKI MACIEJ                za
 GĄDEK LIDIA                           za    KUCHARSKI CEZARY                      za       RADZISZEWSKA ELŻBIETA            za     ZIEMNIAK WOJCIECH               za
-GĄSIOR-MAREK MAGDALENA                za    KUDRYCKA BARBARA                      za       RANIEWICZ GRZEGORZ               za     ZIĘ TEK JERZY                   za
+GĄSIOR-MAREK MAGDALENA                za    KUDRYCKA BARBARA                      za       RANIEWICZ GRZEGORZ               za     ZIĘTEK JERZY                   za
 GELERT ELŻBIETA                       za    KULESZA TOMASZ                        za       RAŚ IRENEUSZ                     za     ŻALEK JACEK                     za
 GIERADA ARTUR                         za    KWIATKOWSKI KRZYSZTOF                 za       ROSATI DARIUSZ                   za     ŻMIJAN STANISŁAW                za
 GLUZA CZESŁAW                         za    LAMCZYK STANISŁAW                     za       ROZPONDEK HALINA                 za     ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -81,7 +81,7 @@ BABALSKI ZBIGNIEW               za    KACZYŃSKI JAROSŁAW            za        
 BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ              za        PALUCH ANNA                      za    TCHÓRZEWSKI KRZYSZTOF         za
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ ANTONI       za        PAW ŁOWICZ KRYSTYNA              za    TELUS ROBERT                  za
 BĄK DARIUSZ                     za    KLOC IZABELA                  za        PIECHA BOLESŁAW GRZEGORZ         za    TERLECKI RYSZARD              za
-BERNACKI W ŁODZIMIERZ           za    KŁOSOWSKI SŁAWOMIR            za        PIĘ TA STANISŁAW                 za    TOBISZOWSKI GRZEGORZ          za
+BERNACKI W ŁODZIMIERZ           za    KŁOSOWSKI SŁAWOMIR            za        PIĘTA STANISŁAW                 za    TOBISZOWSKI GRZEGORZ          za
 BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH               za        PIONTKOWSKI DARIUSZ              za    TOMASZEWSKI JAN               za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI ROBERT             za        PIOTROWICZ STANISŁAW             za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BRUDZIŃSKI JOACHIM              za    KOWALCZYK HENRYK              za        POLACZEK JERZY                   za    WARZECHA JAN                  za
@@ -109,14 +109,14 @@ HRYNKIEWICZ JÓZEFA              za    MATUSZEWSKI MAREK             za        S
 
  RP (43)                      GŁOSOWAŁO - 43             ZA - 4     PRZECIW - 39               WSTRZYM. - 0             NIE GŁOS. - 0
 
-CEDZYŃSKI JAN                   za    DĘBSKI ARTUR                  pr.       KRUPA ŁUKASZ                     pr.   PIĄ TAK ANDRZEJ               pr.
+CEDZYŃSKI JAN                   za    DĘBSKI ARTUR                  pr.       KRUPA ŁUKASZ                     pr.   PIĄTAK ANDRZEJ               pr.
 GRODZKA ANNA                    za    DOMARACKI MAREK               pr.       KWIATKOWSKI JACEK                pr.   POPIOŁEK ZOFIA                pr.
 KLEPACZ WITOLD                  za    DZIADZIO DARIUSZ CEZAR        pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK               pr.
 KOPYCIŃSKI SŁAWOMIR             za    ELSNER WINCENTY               pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
 BANASZAK MACIEJ                 pr.   GIBAŁA ŁUKASZ                 pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GÓRCZYŃSKI ARTUR              pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BIEDROŃ ROBERT                  pr.   KABACIŃSKI MICHAŁ             pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                   pr.
-BODIO BARTŁ OMIEJ               pr.   KĘPIŃSKI ADAM                 pr.       NOWICKA WANDA                    pr.   STOLARSKI MAREK               pr.
+BODIO BARTŁOMIEJ               pr.   KĘPIŃSKI ADAM                 pr.       NOWICKA WANDA                    pr.   STOLARSKI MAREK               pr.
 BORKOWSKI JERZY                 pr.   KŁOSOWSKI KRZYSZTOF           pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 BRAMORA ARTUR                   pr.   KMIECIK HENRYK                pr.       PALIKOT JANUSZ                   pr.   WYDRZYŃSKI MACIEJ             pr.
 CHMIELOWSKI PIOTR               pr.   KOTLIŃSKI ROMAN               pr.       PENKALSKI WOJCIECH               pr.

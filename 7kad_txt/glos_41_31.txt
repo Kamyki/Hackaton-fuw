@@ -25,7 +25,7 @@ GAPIŃSKA ELŻBIETA                    za    KOPACZ EWA                         
 HALICKI ANDRZEJ                      za    KORZENIOWSKI LESZEK                  pr.       ŻMIJAN STANISŁAW                  pr.   OŚWIĘCIMSKI KONSTANTY               ws.
 HOK MAREK                            za    KOSECKI ROMAN JACEK                  pr.       ŻYLIŃSKI ADAM                     pr.   PACELT ZBIGNIEW                     ws.
 HOPPE TERESA                         za    KOZDROŃ JERZY                        pr.       ACHINGER ELŻBIETA                 ws.   PAHL WITOLD                         ws.
-HUSKOWSKI STANISŁAW                  za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         pr.       ARŁUKOWICZ BARTOSZ                ws.   PIĘ TA JAROSŁAW                     ws.
+HUSKOWSKI STANISŁAW                  za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         pr.       ARŁUKOWICZ BARTOSZ                ws.   PIĘTA JAROSŁAW                     ws.
 KAŹMIERCZAK JAN                      za    KOŹLAKIEWICZ MIROSŁAW                pr.       ARNDT PAWEŁ                       ws.   PIOTROWSKA TERESA                   ws.
 KIERWIŃSKI MARCIN                    za    KUCHARSKI CEZARY                     pr.       AUGUSTYN URSZULA                  ws.   RANIEWICZ GRZEGORZ                  ws.
 KŁOSIN KRYSTYNA                      za    KUDRYCKA BARBARA                     pr.       AZIEWICZ TADEUSZ                  ws.   RUTKOWSKA DOROTA                    ws.
@@ -51,7 +51,7 @@ ADAMCZAK MAŁGORZATA                  pr.   PIETRASZEWSKA DANUTA                
 BIERNACKI MAREK                      pr.   PITERA JULIA                         pr.       GRAŚ PAWEŁ                        ws.   ZAKRZEWSKA JADWIGA                  ws.
 BIERNAT ANDRZEJ                      pr.   PLOCKE KAZIMIERZ                     pr.       GRUPIŃSKI RAFAŁ                   ws.   ZAREMBA RENATA                      ws.
 BOROWCZAK JERZY                      pr.   PLURA MAREK                          pr.       HANAJCZYK AGNIESZKA               ws.   ZAWADZKI RYSZARD                    ws.
-BOROWIAK ŁUKASZ                      pr.   PLUTA MIROSŁAW                       pr.       JANYSKA MARIA MAŁGORZATA          ws.   ZIĘ TEK JERZY                       ws.
+BOROWIAK ŁUKASZ                      pr.   PLUTA MIROSŁAW                       pr.       JANYSKA MARIA MAŁGORZATA          ws.   ZIĘTEK JERZY                       ws.
 BREJZA KRZYSZTOF                     pr.   RACZKOWSKI DAMIAN                    pr.       JASTRZĘBSKI LESZEK                ws.   BUBLEWICZ BEATA                     ng.
 BUDKA BORYS                          pr.   RADZISZEWSKA ELŻBIETA                pr.       KAMIŃSKA BOŻENA                   ws.   GAW ŁOWSKI STANISŁAW                ng.
 BUDNIK JERZY                         pr.   RAŚ IRENEUSZ                         pr.       KANIA ANDRZEJ                     ws.   GUZOWSKA IWONA                      ng.
@@ -82,7 +82,7 @@ ARCISZEWSKA-MIELEWCZYK DOROTA   pr.   JURGIEL KRZYSZTOF           pr.       OSUC
 ARDANOWSKI JAN KRZYSZTOF        pr.   KACZMAREK TOMASZ            pr.       OŻÓG STANISŁAW                   pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 ARENT IWONA EWA                 pr.   KACZYŃSKI JAROSŁAW          pr.       PALUCH ANNA                      pr.   TELUS ROBERT                  pr.
 AST MAREK                       pr.   KAMIŃSKI MARIUSZ            pr.       PAW ŁOWICZ KRYSTYNA              pr.   TERLECKI RYSZARD              pr.
-BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIĘ TA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
+BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIĘTA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
 BABINETZ PIOTR                  pr.   KLOC IZABELA                pr.       PIONTKOWSKI DARIUSZ              pr.   TOMASZEWSKI JAN               pr.
 BARTUŚ BARBARA                  pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIOTROWICZ STANISŁAW             pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BĄK DARIUSZ                     pr.   KOŁAKOWSKI LECH             pr.       POLACZEK JERZY                   pr.   WARZECHA JAN                  pr.
@@ -122,7 +122,7 @@ BRAMORA ARTUR                   za    KŁOSOWSKI KRZYSZTOF         za        NAJ
 CEDZYŃSKI JAN                   za    KMIECIK HENRYK              za        PACHOLSKI MICHAŁ TOMASZ          za    STOLARSKI MAREK               za
 CHMIELOWSKI PIOTR               za    KOPYCIŃSKI SŁAWOMIR         za        PALIKOT JANUSZ                   za    SZYMIEC-RACZYŃSKA HALINA      za
 DĘBSKI ARTUR                    za    KOTLIŃSKI ROMAN             za        PENKALSKI WOJCIECH               za    WYDRZYŃSKI MACIEJ             za
-DOMARACKI MAREK                 za    KRUPA ŁUKASZ                za        PIĄ TAK ANDRZEJ                  za    GÓRCZYŃSKI ARTUR              ng.
+DOMARACKI MAREK                 za    KRUPA ŁUKASZ                za        PIĄTAK ANDRZEJ                  za    GÓRCZYŃSKI ARTUR              ng.
 DZIADZIO DARIUSZ CEZAR          za    KWIATKOWSKI JACEK           za        POPIOŁEK ZOFIA                   za    KLEPACZ WITOLD                ng.
 
 
@@ -160,7 +160,7 @@ JAKI PATRYK                     pr.   SIARKA EDWARD               pr.       ZIOB
 
  niez. (5)                    GŁOSOWAŁO - 4             ZA - 1    PRZECIW - 3                WSTRZYM. - 0             NIE GŁOS. - 1
 
-BODIO BARTŁ OMIEJ               za    JAGIEŁŁO JAROSŁAW TOMASZ    pr.       NOWICKA WANDA                    ng.
+BODIO BARTŁOMIEJ               za    JAGIEŁŁO JAROSŁAW TOMASZ    pr.       NOWICKA WANDA                    ng.
 GALLA RYSZARD                   pr.   KALISZ RYSZARD              pr.
 
 

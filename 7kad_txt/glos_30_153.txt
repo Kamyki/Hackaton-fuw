@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    pr.   KOPACZ EWA                         
 DĄBROWSKA ALICJA                      pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.   WARDZAŁA ROBERT                 pr.
 DROZD EWA                             pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 DUNIN ARTUR                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITCZAK MARIUSZ                 pr.
-DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
+DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                pr.
 DZIKOWSKI WALDY                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.   WOLAK EWA                       pr.
 FABISIAK JOANNA                       pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                    pr.
@@ -60,7 +60,7 @@ GIERADA ARTUR                         pr.   LAMCZYK STANISŁAW                  
 GLUZA CZESŁAW                         pr.   LASSOTA JÓZEF                         pr.       RUTKOWSKA DOROTA                 pr.   HALL KATARZYNA                  ng.
 GŁOGOWSKI TOMASZ                      pr.   LENZ TOMASZ                           pr.       RUTNICKI JAKUB                   pr.   PIETRASZEWSKA DANUTA            ng.
 GODSON JOHN ABRAHAM                   pr.   LESZCZYNA IZABELA                     pr.       RYNASIEWICZ ZBIGNIEW             pr.   WOJNAROWSKI NORBERT             ng.
-GOWIN JAROSŁAW                        pr.   LITWIŃSKI ARKADIUSZ                   pr.       RZĄSA MAREK                      pr.   ZIĘ TEK JERZY                   ng.
+GOWIN JAROSŁAW                        pr.   LITWIŃSKI ARKADIUSZ                   pr.       RZĄSA MAREK                      pr.   ZIĘTEK JERZY                   ng.
 GRABARCZYK CEZARY                     pr.   ŁAPIŃSKI MAREK                        pr.       SAŁUGA WOJCIECH                  pr.
 GRAD MARIUSZ                          pr.   ŁAWRYNOWICZ ZOFIA                     pr.       SCHETYNA GRZEGORZ                pr.
 
@@ -83,7 +83,7 @@ MOSKAL KAZIMIERZ                za    GÓRSKI ARTUR                ws.       MAZ
 NOWAK MARIA                     za    HOFMAN ADAM                 ws.       MICHAŁKIEWICZ KRZYSZTOF           ws.   TERLECKI RYSZARD           ws.
 OŻÓG STANISŁAW                  za    HRYNKIEWICZ JÓZEFA          ws.       NAIMSKI PIOTR                     ws.   TOBISZOWSKI GRZEGORZ       ws.
 PALUCH ANNA                     za    JACH MICHAŁ                 ws.       OPIOŁA MAREK                      ws.   TOMASZEWSKI JAN            ws.
-PIĘ TA STANISŁAW                za    JACKIEWICZ DAWID            ws.       OSUCH JACEK                       ws.   WARZECHA JAN               ws.
+PIĘTA STANISŁAW                za    JACKIEWICZ DAWID            ws.       OSUCH JACEK                       ws.   WARZECHA JAN               ws.
 PIOTROWICZ STANISŁAW            za    JANCZYK WIESŁAW STANISŁAW   ws.       PAW ŁOWICZ KRYSTYNA               ws.   WASZCZYKOWSKI WITOLD       ws.
 POLACZEK JERZY                  za    JASIŃSKI WOJCIECH           ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   WIPLER PRZEMYSŁAW          ws.
 RZOŃCA BOGDAN                   za    JAWORSKI ANDRZEJ            ws.       PIONTKOWSKI DARIUSZ               ws.   WIŚNIEWSKA JADWIGA         ws.
@@ -109,8 +109,8 @@ CZESAK EDWARD                   ws.   ŁATAS MAREK                 ws.       SZC
 
  RP (43)                      GŁOSOWAŁO - 43            ZA - 8    PRZECIW - 34               WSTRZYM. - 1              NIE GŁOS. - 0
 
-BIEDROŃ ROBERT                  za    BRAMORA ARTUR               pr.       KOPYCIŃSKI SŁAWOMIR               pr.   PIĄ TAK ANDRZEJ            pr.
-BODIO BARTŁ OMIEJ               za    CEDZYŃSKI JAN               pr.       KOTLIŃSKI ROMAN                   pr.   POPIOŁEK ZOFIA             pr.
+BIEDROŃ ROBERT                  za    BRAMORA ARTUR               pr.       KOPYCIŃSKI SŁAWOMIR               pr.   PIĄTAK ANDRZEJ            pr.
+BODIO BARTŁOMIEJ               za    CEDZYŃSKI JAN               pr.       KOTLIŃSKI ROMAN                   pr.   POPIOŁEK ZOFIA             pr.
 DZIADZIO DARIUSZ CEZAR          za    CHMIELOWSKI PIOTR           pr.       KRUPA ŁUKASZ                      pr.   POZNAŃSKI MAREK            pr.
 KABACIŃSKI MICHAŁ               za    DĘBSKI ARTUR                pr.       KWIATKOWSKI JACEK                 pr.   ROZENEK ANDRZEJ            pr.
 KMIECIK HENRYK                  za    DOMARACKI MAREK             pr.       LEWANDOWSKI ANDRZEJ               pr.   RYBAKOWICZ ADAM            pr.

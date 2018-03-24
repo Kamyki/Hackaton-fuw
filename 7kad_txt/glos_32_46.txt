@@ -32,7 +32,7 @@ CIEŚLIŃSKI PIOTR                     za    PĘPEK MAŁGORZATA                 
 CYCOŃ MARIAN                         za    PIECHOTA SŁAWOMIR JAN                 za        KLUZIK-ROSTKOWSKA JOANNA         pr.   ZIELIŃSKI MACIEJ                pr.
 CZERWIŃSKI ANDRZEJ                   za    PIERZCHAŁA ELŻBIETA APOLONIA          za        KOCHAN MAGDALENA                 pr.   ŻMIJAN STANISŁAW                pr.
 DURKA ZENON                          za    PIETRZCZYK LUCJAN MAREK               za        KOLENDA-ŁABUŚ BRYGIDA            pr.   AZIEWICZ TADEUSZ                ws.
-DZIKOWSKI WALDY                      za    PIĘ TA JAROSŁAW                       za        KOŁODZIEJ EWA                    pr.   BLANIK LESZEK                   ws.
+DZIKOWSKI WALDY                      za    PIĘTA JAROSŁAW                       za        KOŁODZIEJ EWA                    pr.   BLANIK LESZEK                   ws.
 FABISIAK JOANNA                      za    PIOTROWSKA TERESA                     za        KOPACZ EWA                       pr.   BUKIEWICZ BOŻENNA               ws.
 FIEDLER ARKADY                       za    PITERA JULIA                          za        KOPACZEWSKA DOMICELA             pr.   CZAPLICKA BARBARA               ws.
 GADOWSKI KRZYSZTOF                   za    PLOCKE KAZIMIERZ                      za        KOZŁOWSKA IWONA                  pr.   CZECHYRA CZESŁAW                ws.
@@ -58,7 +58,7 @@ KAŹMIERCZAK JAN                      za    TOMCZAK JACEK                       
 KIERWIŃSKI MARCIN                    za    TOMCZYKIEWICZ TOMASZ                  za        OKRĄGŁY JANINA                   pr.   VINCENT-ROSTOWSKI JAN           ws.
 KOŁACZ-LESZCZYŃSKA AGNIESZKA         za    ZAWADZKI RYSZARD                      za        OLECHOWSKA ALICJA                pr.   WOJTKOWSKI MAREK                ws.
 KORZENIOWSKI LESZEK                  za    ZIEMNIAK WOJCIECH                     za        OLSZEWSKI PAWEŁ                  pr.   ŻMUDA-TRZEBIATOWSKA EWA         ws.
-KOSECKI ROMAN JACEK                  za    ZIĘ TEK JERZY                         za        PAHL WITOLD                      pr.   LASSOTA JÓZEF                   ng.
+KOSECKI ROMAN JACEK                  za    ZIĘTEK JERZY                         za        PAHL WITOLD                      pr.   LASSOTA JÓZEF                   ng.
 KOWALSKI SŁAWOMIR                    za    ŻALEK JACEK                           za        PAPKE PAWEŁ                      pr.   SZCZERBA MICHAŁ                 ng.
 KOZACZYŃSKI JACEK                    za    ŻYLIŃSKI ADAM                         za        POMASKA AGNIESZKA                pr.   ZAKRZEWSKA JADWIGA              ng.
 KOZDROŃ JERZY                        za    ARŁUKOWICZ BARTOSZ                    pr.       RUTNICKI JAKUB                   pr.   ZDROJEWSKI BOGDAN               ng.
@@ -83,7 +83,7 @@ BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ             za        O�
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ ANTONI      za        PALUCH ANNA                      za    ŚWIAT JACEK                   za
 BĄK DARIUSZ                     za    KLOC IZABELA                 za        PAW ŁOWICZ KRYSTYNA              za    TCHÓRZEWSKI KRZYSZTOF         za
 BERNACKI W ŁODZIMIERZ           za    KŁOSOWSKI SŁAWOMIR           za        PIECHA BOLESŁAW GRZEGORZ         za    TELUS ROBERT                  za
-BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘ TA STANISŁAW                 za    TERLECKI RYSZARD              za
+BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘTA STANISŁAW                 za    TERLECKI RYSZARD              za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI ROBERT            za        PIONTKOWSKI DARIUSZ              za    TOBISZOWSKI GRZEGORZ          za
 BRUDZIŃSKI JOACHIM              za    KOWALCZYK HENRYK             za        PIOTROWICZ STANISŁAW             za    TOMASZEWSKI JAN               za
 BUBULA BARBARA                  za    KOWNACKI BARTOSZ             za        POLACZEK JERZY                   za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
@@ -113,14 +113,14 @@ HRYNKIEWICZ JÓZEFA              za    MATUSIAK GRZEGORZ            za        SZ
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       KRUPA ŁUKASZ                     pr.   POPIOŁEK ZOFIA                pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                pr.       KWIATKOWSKI JACEK                pr.   POZNAŃSKI MAREK               pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR             pr.       LEWANDOWSKI ANDRZEJ              pr.   ROZENEK ANDRZEJ               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                 pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                 pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ            pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM                pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD               pr.       NAJDER JACEK                     pr.   STOLARSKI MAREK               pr.
 CHMIELOWSKI PIOTR               pr.   KŁOSOWSKI KRZYSZTOF          pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ             pr.
 DĘBSKI ARTUR                    pr.   KMIECIK HENRYK               pr.       PALIKOT JANUSZ                   pr.   NOWICKA WANDA                 ng.
 DOMARACKI MAREK                 pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PENKALSKI WOJCIECH               pr.   SZYMIEC-RACZYŃSKA HALINA      ng.
-DZIADZIO DARIUSZ CEZAR          pr.   KOTLIŃSKI ROMAN              pr.       PIĄ TAK ANDRZEJ                  pr.
+DZIADZIO DARIUSZ CEZAR          pr.   KOTLIŃSKI ROMAN              pr.       PIĄTAK ANDRZEJ                  pr.
 
 
  PSL (29)                     GŁOSOWAŁO - 29            ZA - 28    PRZECIW - 0                WSTRZYM. - 1             NIE GŁOS. - 0

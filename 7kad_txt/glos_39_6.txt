@@ -43,7 +43,7 @@ CZERNOW ZOFIA                       za    KOPACZ EWA                         za 
 CZERWIŃSKI ANDRZEJ                  za    KOPACZEWSKA DOMICELA               za       PIERZCHAŁA ELŻBIETA APOLONIA     za   WARDZAŁA ROBERT                 za
 DĄBROWSKA ALICJA                    za    KORZENIOWSKI LESZEK                za       PIETRASZEWSKA DANUTA             za   WIELICHOWSKA MONIKA             za
 DROZD EWA                           za    KOSECKI ROMAN JACEK                za       PIETRZCZYK LUCJAN MAREK          za   WITCZAK MARIUSZ                 za
-DUNIN ARTUR                         za    KOWALSKI SŁAWOMIR                  za       PIĘ TA JAROSŁAW                  za   WITKOWSKI RADOSŁAW              za
+DUNIN ARTUR                         za    KOWALSKI SŁAWOMIR                  za       PIĘTA JAROSŁAW                  za   WITKOWSKI RADOSŁAW              za
 DURKA ZENON                         za    KOZACZYŃSKI JACEK                  za       PIOTROWSKA TERESA                za   WOJNAROWSKI NORBERT             za
 DZIĘCIOŁ JANUSZ                     za    KOZDROŃ JERZY                      za       PITERA JULIA                     za   WOJTKOWSKI MAREK                za
 DZIKOWSKI WALDY                     za    KOZŁOWSKA IWONA                    za       PLOCKE KAZIMIERZ                 za   WOLAK EWA                       za
@@ -54,7 +54,7 @@ GADOWSKI KRZYSZTOF                  za    KROPIWNICKI ROBERT                 za 
 GAŁAŻEWSKI ANDRZEJ                  za    KRZĄKAŁA MAREK                     za       RACZKOWSKI DAMIAN                za   ZDROJEWSKI BOGDAN               za
 GAPIŃSKA ELŻBIETA                   za    KUCHARSKI CEZARY                   za       RADZISZEWSKA ELŻBIETA            za   ZIELIŃSKI MACIEJ                za
 GAW ŁOWSKI STANISŁAW                za    KUDRYCKA BARBARA                   za       RANIEWICZ GRZEGORZ               za   ZIEMNIAK WOJCIECH               za
-GĄDEK LIDIA                         za    KULESZA TOMASZ                     za       RAŚ IRENEUSZ                     za   ZIĘ TEK JERZY                   za
+GĄDEK LIDIA                         za    KULESZA TOMASZ                     za       RAŚ IRENEUSZ                     za   ZIĘTEK JERZY                   za
 GĄSIOR-MAREK MAGDALENA              za    KWIATKOWSKI KRZYSZTOF              za       ROSATI DARIUSZ                   za   ŻALEK JACEK                     za
 GELERT ELŻBIETA                     za    LAMCZYK STANISŁAW                  za       ROZPONDEK HALINA                 za   ŻMIJAN STANISŁAW                za
 GIERADA ARTUR                       za    LASSOTA JÓZEF                      za       RUTKOWSKA DOROTA                 za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -81,7 +81,7 @@ AST MAREK                       pr.   JĘDRYSEK MARIUSZ ORION       pr.       OS
 BABALSKI ZBIGNIEW               pr.   JURGIEL KRZYSZTOF            pr.       OŻÓG STANISŁAW                   pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 BABINETZ PIOTR                  pr.   KACZMAREK TOMASZ             pr.       PALUCH ANNA                      pr.   TELUS ROBERT                  pr.
 BARTUŚ BARBARA                  pr.   KACZYŃSKI JAROSŁAW           pr.       PAW ŁOWICZ KRYSTYNA              pr.   TERLECKI RYSZARD              pr.
-BĄK DARIUSZ                     pr.   KAMIŃSKI MARIUSZ             pr.       PIĘ TA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
+BĄK DARIUSZ                     pr.   KAMIŃSKI MARIUSZ             pr.       PIĘTA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
 BERNACKI W ŁODZIMIERZ           pr.   KAMIŃSKI MARIUSZ ANTONI      pr.       PIONTKOWSKI DARIUSZ              pr.   TOMASZEWSKI JAN               pr.
 BĘTKOWSKI ANDRZEJ               pr.   KLOC IZABELA                 pr.       PIOTROWICZ STANISŁAW             pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BŁASZCZAK MARIUSZ               pr.   KŁOSOWSKI SŁAWOMIR           pr.       POLACZEK JERZY                   pr.   WARZECHA JAN                  pr.
@@ -118,7 +118,7 @@ BAUĆ PIOTR PAWEŁ                ws.   GRODZKA ANNA                 ws.       N
 BIEDROŃ ROBERT                  ws.   KABACIŃSKI MICHAŁ            ws.       PACHOLSKI MICHAŁ TOMASZ          ws.   WYDRZYŃSKI MACIEJ             ws.
 BORKOWSKI JERZY                 ws.   KLEPACZ WITOLD               ws.       PALIKOT JANUSZ                   ws.   KMIECIK HENRYK                ng.
 BRAMORA ARTUR                   ws.   KŁOSOWSKI KRZYSZTOF          ws.       PENKALSKI WOJCIECH               ws.   KOTLIŃSKI ROMAN               ng.
-CHMIELOWSKI PIOTR               ws.   KOPYCIŃSKI SŁAWOMIR          ws.       POPIOŁEK ZOFIA                   ws.   PIĄ TAK ANDRZEJ               ng.
+CHMIELOWSKI PIOTR               ws.   KOPYCIŃSKI SŁAWOMIR          ws.       POPIOŁEK ZOFIA                   ws.   PIĄTAK ANDRZEJ               ng.
 DOMARACKI MAREK                 ws.   KRUPA ŁUKASZ                 ws.       POZNAŃSKI MAREK                  ws.   RYBAKOWICZ ADAM               ng.
 
 
@@ -157,7 +157,7 @@ WOŹNIAK TADEUSZ                 pr.   GÓRSKI TOMASZ                ws.       S
  niez. (5)                    GŁOSOWAŁO - 4              ZA - 2    PRZECIW - 1                WSTRZYM. - 1             NIE GŁOS. - 1
 
 GALLA RYSZARD                   za    JAGIEŁŁO JAROSŁAW TOMASZ     pr.       NOWICKA WANDA                    ng.
-KALISZ RYSZARD                  za    BODIO BARTŁ OMIEJ            ws.
+KALISZ RYSZARD                  za    BODIO BARTŁOMIEJ            ws.
 
 
 

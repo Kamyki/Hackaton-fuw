@@ -37,7 +37,7 @@ CYCOŃ MARIAN                        za    KOŁACZ-LESZCZYŃSKA AGNIESZKA       
 CZAPLICKA BARBARA                   za    KOŁODZIEJ EWA                        za       PIERZCHAŁA ELŻBIETA APOLONIA      za   WITKOWSKI RADOSŁAW              za
 CZECHYRA CZESŁAW                    za    KONWIŃSKI ZBIGNIEW                   za       PIETRASZEWSKA DANUTA              za   WOJNAROWSKI NORBERT             za
 CZERNOW ZOFIA                       za    KOPACZ EWA                           za       PIETRZCZYK LUCJAN MAREK           za   WOJTKOWSKI MAREK                za
-CZERWIŃSKI ANDRZEJ                  za    KOPACZEWSKA DOMICELA                 za       PIĘ TA JAROSŁAW                   za   WOLAK EWA                       za
+CZERWIŃSKI ANDRZEJ                  za    KOPACZEWSKA DOMICELA                 za       PIĘTA JAROSŁAW                   za   WOLAK EWA                       za
 DROZD EWA                           za    KORZENIOWSKI LESZEK                  za       PIOTROWSKA TERESA                 za   WÓJCIK MAREK                    za
 DUNIN ARTUR                         za    KOSECKI ROMAN JACEK                  za       PITERA JULIA                      za   ZAKRZEWSKA JADWIGA              za
 DURKA ZENON                         za    KOWALSKI SŁAWOMIR                    za       PLOCKE KAZIMIERZ                  za   ZAREMBA RENATA                  za
@@ -45,7 +45,7 @@ DZIĘCIOŁ JANUSZ                     za    KOZACZYŃSKI JACEK                  
 DZIKOWSKI WALDY                     za    KOZŁOWSKA IWONA                      za       PLUTA MIROSŁAW                    za   ZDROJEWSKI BOGDAN               za
 FABISIAK JOANNA                     za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       POMASKA AGNIESZKA                 za   ZIELIŃSKI MACIEJ                za
 FEDOROWICZ JERZY                    za    KOŹLAKIEWICZ MIROSŁAW                za       POŚLEDNIA KRYSTYNA                za   ZIEMNIAK WOJCIECH               za
-FIEDLER ARKADY                      za    KRAJEWSKA LIGIA                      za       RACZKOWSKI DAMIAN                 za   ZIĘ TEK JERZY                   za
+FIEDLER ARKADY                      za    KRAJEWSKA LIGIA                      za       RACZKOWSKI DAMIAN                 za   ZIĘTEK JERZY                   za
 GADOWSKI KRZYSZTOF                  za    KROPIWNICKI ROBERT                   za       RADZISZEWSKA ELŻBIETA             za   ŻALEK JACEK                     za
 GAPIŃSKA ELŻBIETA                   za    KRZĄKAŁA MAREK                       za       RANIEWICZ GRZEGORZ                za   ŻMIJAN STANISŁAW                za
 GAW ŁOWSKI STANISŁAW                za    KUCHARSKI CEZARY                     za       RAŚ IRENEUSZ                      za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -74,7 +74,7 @@ HALICKI ANDRZEJ                     za    MROCZEK CZESŁAW                      
 ABRAMOWICZ ADAM                 za   KACZMAREK TOMASZ                 za       PALUCH ANNA                      za    TELUS ROBERT                  za
 ANDZEL WALDEMAR                 za   KACZYŃSKI JAROSŁAW               za       PAW ŁOWICZ KRYSTYNA              za    TERLECKI RYSZARD              za
 ARCISZEWSKA-MIELEWCZYK DOROTA   za   KAMIŃSKI MARIUSZ                 za       PIECHA BOLESŁAW GRZEGORZ         za    TOBISZOWSKI GRZEGORZ          za
-ARDANOWSKI JAN KRZYSZTOF        za   KAMIŃSKI MARIUSZ ANTONI          za       PIĘ TA STANISŁAW                 za    TOMASZEWSKI JAN               za
+ARDANOWSKI JAN KRZYSZTOF        za   KAMIŃSKI MARIUSZ ANTONI          za       PIĘTA STANISŁAW                 za    TOMASZEWSKI JAN               za
 ARENT IWONA EWA                 za   KŁOSOWSKI SŁAWOMIR               za       PIONTKOWSKI DARIUSZ              za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 AST MAREK                       za   KOŁAKOWSKI LECH                  za       PIOTROWICZ STANISŁAW             za    WARZECHA JAN                  za
 BABALSKI ZBIGNIEW               za   KOŁAKOWSKI ROBERT                za       POLACZEK JERZY                   za    WASZCZYKOWSKI WITOLD          za
@@ -116,8 +116,8 @@ BORKOWSKI JERZY                 za   KABACIŃSKI MICHAŁ                za      
 BRAMORA ARTUR                   za   KĘPIŃSKI ADAM                    za       NOWICKA WANDA                    za    STOLARSKI MAREK               za
 CEDZYŃSKI JAN                   za   KMIECIK HENRYK                   za       PACHOLSKI MICHAŁ TOMASZ          za    SZYMIEC-RACZYŃSKA HALINA      za
 CHMIELOWSKI PIOTR               za   KOPYCIŃSKI SŁAWOMIR              za       PALIKOT JANUSZ                   za    WYDRZYŃSKI MACIEJ             za
-DĘBSKI ARTUR                    za   KOTLIŃSKI ROMAN                  za       PENKALSKI WOJCIECH               za    BODIO BARTŁ OMIEJ             ng.
-DOMARACKI MAREK                 za   KRUPA ŁUKASZ                     za       PIĄ TAK ANDRZEJ                  za    KŁOSOWSKI KRZYSZTOF           ng.
+DĘBSKI ARTUR                    za   KOTLIŃSKI ROMAN                  za       PENKALSKI WOJCIECH               za    BODIO BARTŁOMIEJ             ng.
+DOMARACKI MAREK                 za   KRUPA ŁUKASZ                     za       PIĄTAK ANDRZEJ                  za    KŁOSOWSKI KRZYSZTOF           ng.
 DZIADZIO DARIUSZ CEZAR          za   KWIATKOWSKI JACEK                za       POPIOŁEK ZOFIA                   za
 ELSNER WINCENTY                 za   LEWANDOWSKI ANDRZEJ              za       POZNAŃSKI MAREK                  za
 

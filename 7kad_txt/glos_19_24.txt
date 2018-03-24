@@ -43,7 +43,7 @@ CZERNOW ZOFIA                        za    KONWIŃSKI ZBIGNIEW                  
 CZERWIŃSKI ANDRZEJ                   za    KOPACZ EWA                           za       PIERZCHAŁA ELŻBIETA APOLONIA     za   WITKOWSKI RADOSŁAW              za
 DĄBROWSKA ALICJA                     za    KOPACZEWSKA DOMICELA                 za       PIETRASZEWSKA DANUTA             za   WOJNAROWSKI NORBERT             za
 DROZD EWA                            za    KORZENIOWSKI LESZEK                  za       PIETRZCZYK LUCJAN MAREK          za   WOJTKOWSKI MAREK                za
-DUNIN ARTUR                          za    KOSECKI ROMAN JACEK                  za       PIĘ TA JAROSŁAW                  za   WOLAK EWA                       za
+DUNIN ARTUR                          za    KOSECKI ROMAN JACEK                  za       PIĘTA JAROSŁAW                  za   WOLAK EWA                       za
 DURKA ZENON                          za    KOWALSKI SŁAWOMIR                    za       PIOTROWSKA TERESA                za   WÓJCIK MAREK                    za
 DZIĘCIOŁ JANUSZ                      za    KOZACZYŃSKI JACEK                    za       PITERA JULIA                     za   ZAKRZEWSKA JADWIGA              za
 DZIKOWSKI WALDY                      za    KOZDROŃ JERZY                        za       PLOCKE KAZIMIERZ                 za   ZAREMBA RENATA                  za
@@ -51,7 +51,7 @@ FABISIAK JOANNA                      za    KOZŁOWSKA IWONA                     
 FEDOROWICZ JERZY                     za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLUTA MIROSŁAW                   za   ZDROJEWSKI BOGDAN               za
 FIEDLER ARKADY                       za    KOŹLAKIEWICZ MIROSŁAW                za       POMASKA AGNIESZKA                za   ZIELIŃSKI MACIEJ                za
 GADOWSKI KRZYSZTOF                   za    KRAJEWSKA LIGIA                      za       RADZISZEWSKA ELŻBIETA            za   ZIEMNIAK WOJCIECH               za
-GAŁAŻEWSKI ANDRZEJ                   za    KROPIWNICKI ROBERT                   za       RANIEWICZ GRZEGORZ               za   ZIĘ TEK JERZY                   za
+GAŁAŻEWSKI ANDRZEJ                   za    KROPIWNICKI ROBERT                   za       RANIEWICZ GRZEGORZ               za   ZIĘTEK JERZY                   za
 GAPIŃSKA ELŻBIETA                    za    KRZĄKAŁA MAREK                       za       RAŚ IRENEUSZ                     za   ŻALEK JACEK                     za
 GAW ŁOWSKI STANISŁAW                 za    KUCHARSKI CEZARY                     za       ROSATI DARIUSZ                   za   ŻMIJAN STANISŁAW                za
 GĄDEK LIDIA                          za    KUDRYCKA BARBARA                     za       ROZPONDEK HALINA                 za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -82,7 +82,7 @@ BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ              ws.       O
 BARTUŚ BARBARA                  ws.   KAMIŃSKI MARIUSZ ANTONI       ws.       PALUCH ANNA                         ws.   ŚWIAT JACEK                   ws.
 BĄK DARIUSZ                     ws.   KLOC IZABELA                  ws.       PAW ŁOWICZ KRYSTYNA                 ws.   TCHÓRZEWSKI KRZYSZTOF         ws.
 BERNACKI W ŁODZIMIERZ           ws.   KŁOSOWSKI SŁAWOMIR            ws.       PIECHA BOLESŁAW GRZEGORZ            ws.   TELUS ROBERT                  ws.
-BĘTKOWSKI ANDRZEJ               ws.   KOŁAKOWSKI LECH               ws.       PIĘ TA STANISŁAW                    ws.   TERLECKI RYSZARD              ws.
+BĘTKOWSKI ANDRZEJ               ws.   KOŁAKOWSKI LECH               ws.       PIĘTA STANISŁAW                    ws.   TERLECKI RYSZARD              ws.
 BŁASZCZAK MARIUSZ               ws.   KOŁAKOWSKI ROBERT             ws.       PIONTKOWSKI DARIUSZ                 ws.   TOBISZOWSKI GRZEGORZ          ws.
 BRUDZIŃSKI JOACHIM              ws.   KOWALCZYK HENRYK              ws.       PIOTROWICZ STANISŁAW                ws.   TOMASZEWSKI JAN               ws.
 BUBULA BARBARA                  ws.   KRACZKOWSKI MAKS              ws.       POLACZEK JERZY                      ws.   WARZECHA JAN                  ws.
@@ -112,14 +112,14 @@ HRYNKIEWICZ JÓZEFA              ws.   MATUSZEWSKI MAREK             ws.       S
 BANASZAK MACIEJ                 za    ELSNER WINCENTY               za        KWIATKOWSKI JACEK                   za    POPIOŁEK ZOFIA                za
 BAUĆ PIOTR PAWEŁ                za    GIBAŁA ŁUKASZ                 za        LEWANDOWSKI ANDRZEJ                 za    POZNAŃSKI MAREK               za
 BIEDROŃ ROBERT                  za    GÓRCZYŃSKI ARTUR              za        MAKOWSKI TOMASZ                     za    ROZENEK ANDRZEJ               za
-BODIO BARTŁ OMIEJ               za    GRODZKA ANNA                  za        MARCINKIEWICZ MAŁGORZATA            za    RYBAKOWICZ ADAM               za
+BODIO BARTŁOMIEJ               za    GRODZKA ANNA                  za        MARCINKIEWICZ MAŁGORZATA            za    RYBAKOWICZ ADAM               za
 BORKOWSKI JERZY                 za    KABACIŃSKI MICHAŁ             za        MROCZEK MACIEJ                      za    RYFIŃSKI ARMAND KAMIL         za
 BRAMORA ARTUR                   za    KĘPIŃSKI ADAM                 za        NAJDER JACEK                        za    SAJAK PAWEŁ                   za
 CEDZYŃSKI JAN                   za    KLEPACZ WITOLD                za        NOWICKA WANDA                       za    STOLARSKI MAREK               za
 CHMIELOWSKI PIOTR               za    KŁOSOWSKI KRZYSZTOF           za        PACHOLSKI MICHAŁ TOMASZ             za    SZYMIEC-RACZYŃSKA HALINA      za
 DĘBSKI ARTUR                    za    KMIECIK HENRYK                za        PALIKOT JANUSZ                      za    WYDRZYŃSKI MACIEJ             za
 DOMARACKI MAREK                 za    KOPYCIŃSKI SŁAWOMIR           za        PENKALSKI WOJCIECH                  za    KOTLIŃSKI ROMAN               ng.
-DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                  za        PIĄ TAK ANDRZEJ                     za
+DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                  za        PIĄTAK ANDRZEJ                     za
 
 
  PSL (28)                     GŁOSOWAŁO - 27              ZA - 27   PRZECIW - 0                  WSTRZYM. - 0              NIE GŁOS. - 1

@@ -44,7 +44,7 @@ DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                         
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.    WARDZAŁA ROBERT                 pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.    WIELICHOWSKA MONIKA             pr.
 DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.    WITCZAK MARIUSZ                 pr.
-DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
+DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.    WOJTKOWSKI MAREK                pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.    WOLAK EWA                       pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.    WÓJCIK MAREK                    pr.
@@ -54,7 +54,7 @@ GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                   
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.    ZDROJEWSKI BOGDAN               pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.    ZIELIŃSKI MACIEJ                pr.
 GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.    ZIEMNIAK WOJCIECH               pr.
-GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘ TEK JERZY                   pr.
+GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘTEK JERZY                   pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.    ŻALEK JACEK                     pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.    ŻMIJAN STANISŁAW                pr.
 GLUZA CZESŁAW                         pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.    ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -82,7 +82,7 @@ BABINETZ PIOTR                  za    KACZYŃSKI JAROSŁAW           za        O
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ             za        PALUCH ANNA                      za    TELUS ROBERT                  za
 BĄK DARIUSZ                     za    KAMIŃSKI MARIUSZ ANTONI      za        PAW ŁOWICZ KRYSTYNA              za    TERLECKI RYSZARD              za
 BERNACKI W ŁODZIMIERZ           za    KLOC IZABELA                 za        PIECHA BOLESŁAW GRZEGORZ         za    TOBISZOWSKI GRZEGORZ          za
-BĘTKOWSKI ANDRZEJ               za    KŁOSOWSKI SŁAWOMIR           za        PIĘ TA STANISŁAW                 za    TOMASZEWSKI JAN               za
+BĘTKOWSKI ANDRZEJ               za    KŁOSOWSKI SŁAWOMIR           za        PIĘTA STANISŁAW                 za    TOMASZEWSKI JAN               za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI LECH              za        PIONTKOWSKI DARIUSZ              za    WARZECHA JAN                  za
 BRUDZIŃSKI JOACHIM              za    KOŁAKOWSKI ROBERT            za        PIOTROWICZ STANISŁAW             za    WASZCZYKOWSKI WITOLD          za
 BUBULA BARBARA                  za    KOWALCZYK HENRYK             za        POLAK MAREK                      za    WIPLER PRZEMYSŁAW             za
@@ -112,10 +112,10 @@ HRYNKIEWICZ JÓZEFA              za    MATUSIAK GRZEGORZ            za        SZ
 BANASZAK MACIEJ                 za    GÓRCZYŃSKI ARTUR             za        MROCZEK MACIEJ                   za    SZYMIEC-RACZYŃSKA HALINA      za
 BAUĆ PIOTR PAWEŁ                za    GRODZKA ANNA                 za        NAJDER JACEK                     za    WYDRZYŃSKI MACIEJ             za
 BIEDROŃ ROBERT                  za    KABACIŃSKI MICHAŁ            za        NOWICKA WANDA                    za    DĘBSKI ARTUR                  pr.
-BODIO BARTŁ OMIEJ               za    KĘPIŃSKI ADAM                za        PACHOLSKI MICHAŁ TOMASZ          za    DZIADZIO DARIUSZ CEZAR        pr.
+BODIO BARTŁOMIEJ               za    KĘPIŃSKI ADAM                za        PACHOLSKI MICHAŁ TOMASZ          za    DZIADZIO DARIUSZ CEZAR        pr.
 BORKOWSKI JERZY                 za    KLEPACZ WITOLD               za        PALIKOT JANUSZ                   za    KOPYCIŃSKI SŁAWOMIR           pr.
 BRAMORA ARTUR                   za    KŁOSOWSKI KRZYSZTOF          za        PENKALSKI WOJCIECH               za    KWIATKOWSKI JACEK             pr.
-CEDZYŃSKI JAN                   za    KMIECIK HENRYK               za        PIĄ TAK ANDRZEJ                  za    LEWANDOWSKI ANDRZEJ           pr.
+CEDZYŃSKI JAN                   za    KMIECIK HENRYK               za        PIĄTAK ANDRZEJ                  za    LEWANDOWSKI ANDRZEJ           pr.
 CHMIELOWSKI PIOTR               za    KOTLIŃSKI ROMAN              za        POPIOŁEK ZOFIA                   za    POZNAŃSKI MAREK               pr.
 DOMARACKI MAREK                 za    KRUPA ŁUKASZ                 za        ROZENEK ANDRZEJ                  za    RYBAKOWICZ ADAM               pr.
 ELSNER WINCENTY                 za    MAKOWSKI TOMASZ              za        SAJAK PAWEŁ                      za    RYFIŃSKI ARMAND KAMIL         pr.

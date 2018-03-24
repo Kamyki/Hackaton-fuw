@@ -46,7 +46,7 @@ DROZD EWA                            pr.   KOPACZ EWA                           
 DUNIN ARTUR                          pr.   KOPACZEWSKA DOMICELA                 pr.       PIERZCHAŁA ELŻBIETA APOLONIA      pr.   WARDZAŁA ROBERT                      pr.
 DURKA ZENON                          pr.   KORZENIOWSKI LESZEK                  pr.       PIETRASZEWSKA DANUTA              pr.   WIELICHOWSKA MONIKA                  pr.
 DZIĘCIOŁ JANUSZ                      pr.   KOSECKI ROMAN JACEK                  pr.       PIETRZCZYK LUCJAN MAREK           pr.   WITCZAK MARIUSZ                      pr.
-DZIKOWSKI WALDY                      pr.   KOWALSKI SŁAWOMIR                    pr.       PIĘ TA JAROSŁAW                   pr.   WITKOWSKI RADOSŁAW                   pr.
+DZIKOWSKI WALDY                      pr.   KOWALSKI SŁAWOMIR                    pr.       PIĘTA JAROSŁAW                   pr.   WITKOWSKI RADOSŁAW                   pr.
 FABISIAK JOANNA                      pr.   KOZACZYŃSKI JACEK                    pr.       PIOTROWSKA TERESA                 pr.   WOJNAROWSKI NORBERT                  pr.
 FEDOROWICZ JERZY                     pr.   KOZDROŃ JERZY                        pr.       PITERA JULIA                      pr.   WOJTKOWSKI MAREK                     pr.
 FIEDLER ARKADY                       pr.   KOZŁOWSKA IWONA                      pr.       PLOCKE KAZIMIERZ                  pr.   WOLAK EWA                            pr.
@@ -57,7 +57,7 @@ GAW ŁOWSKI STANISŁAW                 pr.   KROPIWNICKI ROBERT                 
 GĄDEK LIDIA                          pr.   KRZĄKAŁA MAREK                       pr.       RACZKOWSKI DAMIAN                 pr.   ZDROJEWSKI BOGDAN                    pr.
 GĄSIOR-MAREK MAGDALENA               pr.   KUCHARSKI CEZARY                     pr.       RADZISZEWSKA ELŻBIETA             pr.   ZIELIŃSKI MACIEJ                     pr.
 GELERT ELŻBIETA                      pr.   KUDRYCKA BARBARA                     pr.       RANIEWICZ GRZEGORZ                pr.   ZIEMNIAK WOJCIECH                    pr.
-GIERADA ARTUR                        pr.   KULESZA TOMASZ                       pr.       RAŚ IRENEUSZ                      pr.   ZIĘ TEK JERZY                        pr.
+GIERADA ARTUR                        pr.   KULESZA TOMASZ                       pr.       RAŚ IRENEUSZ                      pr.   ZIĘTEK JERZY                        pr.
 GLUZA CZESŁAW                        pr.   KWIATKOWSKI KRZYSZTOF                pr.       ROSATI DARIUSZ                    pr.   ŻALEK JACEK                          pr.
 GŁOGOWSKI TOMASZ                     pr.   LAMCZYK STANISŁAW                    pr.       ROZPONDEK HALINA                  pr.   ŻMIJAN STANISŁAW                     pr.
 GODSON JOHN ABRAHAM                  pr.   LASSOTA JÓZEF                        pr.       RUTKOWSKA DOROTA                  pr.   ŻMUDA-TRZEBIATOWSKA EWA              pr.
@@ -98,7 +98,7 @@ DZIEDZICZAK JAN                 za    MACHAŁEK MARZENA               za        
 DZIUBA TADEUSZ                  za    MACIEREWICZ ANTONI             za        SUSKI MAREK                      za    LATOS TOMASZ                    ng.
 FALFUS JACEK                    za    MALIK EWA                      za        SZAŁAMACHA PAWEŁ                 za    NOWAK MARIA                     ng.
 FOTYGA ANNA                     za    MAŁECKI MACIEJ                 za        SZARAMA WOJCIECH                 za    PIECHA BOLESŁAW GRZEGORZ        ng.
-GIRZYŃSKI ZBIGNIEW              za    MASŁOWSKA GABRIELA             za        SZCZYPIŃSKA JOLANTA              za    PIĘ TA STANISŁAW                ng.
+GIRZYŃSKI ZBIGNIEW              za    MASŁOWSKA GABRIELA             za        SZCZYPIŃSKA JOLANTA              za    PIĘTA STANISŁAW                ng.
 GIŻYŃSKI SZYMON                 za    MASTALEREK MARCIN              za        SZLACHTA ANDRZEJ                 za    ROGACKI ADAM                    ng.
 GOŁOJUCH KAZIMIERZ              za    MATERNA JERZY                  za        SZMIT JERZY                      za    SADURSKA MAŁGORZATA             ng.
 GOSIEWSKA MAŁGORZATA            za    MATUSIAK GRZEGORZ              za        SZWED STANISŁAW                  za    SZCZERSKI KRZYSZTOF             ng.
@@ -113,14 +113,14 @@ JACKIEWICZ DAWID                za    MOSKAL KAZIMIERZ               za        �
 BANASZAK MACIEJ                 za    ELSNER WINCENTY                za        KWIATKOWSKI JACEK                za    POPIOŁEK ZOFIA                  za
 BAUĆ PIOTR PAWEŁ                za    GIBAŁA ŁUKASZ                  za        LEWANDOWSKI ANDRZEJ              za    POZNAŃSKI MAREK                 za
 BIEDROŃ ROBERT                  za    GÓRCZYŃSKI ARTUR               za        MAKOWSKI TOMASZ                  za    ROZENEK ANDRZEJ                 za
-BODIO BARTŁ OMIEJ               za    GRODZKA ANNA                   za        MARCINKIEWICZ MAŁGORZATA         za    RYBAKOWICZ ADAM                 za
+BODIO BARTŁOMIEJ               za    GRODZKA ANNA                   za        MARCINKIEWICZ MAŁGORZATA         za    RYBAKOWICZ ADAM                 za
 BORKOWSKI JERZY                 za    KABACIŃSKI MICHAŁ              za        MROCZEK MACIEJ                   za    RYFIŃSKI ARMAND KAMIL           za
 BRAMORA ARTUR                   za    KĘPIŃSKI ADAM                  za        NAJDER JACEK                     za    SAJAK PAWEŁ                     za
 CEDZYŃSKI JAN                   za    KLEPACZ WITOLD                 za        NOWICKA WANDA                    za    STOLARSKI MAREK                 za
 CHMIELOWSKI PIOTR               za    KŁOSOWSKI KRZYSZTOF            za        PACHOLSKI MICHAŁ TOMASZ          za    WYDRZYŃSKI MACIEJ               za
 DĘBSKI ARTUR                    za    KMIECIK HENRYK                 za        PALIKOT JANUSZ                   za    KRUPA ŁUKASZ                    ng.
 DOMARACKI MAREK                 za    KOPYCIŃSKI SŁAWOMIR            za        PENKALSKI WOJCIECH               za    SZYMIEC-RACZYŃSKA HALINA        ng.
-DZIADZIO DARIUSZ CEZAR          za    KOTLIŃSKI ROMAN                za        PIĄ TAK ANDRZEJ                  za
+DZIADZIO DARIUSZ CEZAR          za    KOTLIŃSKI ROMAN                za        PIĄTAK ANDRZEJ                  za
 
 
  PSL (28)                     GŁOSOWAŁO - 24              ZA - 0     PRZECIW - 24               WSTRZYM. - 0             NIE GŁOS. - 4

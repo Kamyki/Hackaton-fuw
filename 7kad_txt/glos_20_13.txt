@@ -47,7 +47,7 @@ DROZD EWA                           pr.   KOPACZEWSKA DOMICELA                 p
 DUNIN ARTUR                         pr.   KORZENIOWSKI LESZEK                  pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITCZAK MARIUSZ                   pr.
 DURKA ZENON                         pr.   KOSECKI ROMAN JACEK                  pr.       PIETRASZEWSKA DANUTA             pr.   WITKOWSKI RADOSŁAW                pr.
 DZIĘCIOŁ JANUSZ                     pr.   KOWALSKI SŁAWOMIR                    pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOJNAROWSKI NORBERT               pr.
-DZIKOWSKI WALDY                     pr.   KOZACZYŃSKI JACEK                    pr.       PIĘ TA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                  pr.
+DZIKOWSKI WALDY                     pr.   KOZACZYŃSKI JACEK                    pr.       PIĘTA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                  pr.
 FABISIAK JOANNA                     pr.   KOZDROŃ JERZY                        pr.       PIOTROWSKA TERESA                pr.   WOLAK EWA                         pr.
 FEDOROWICZ JERZY                    pr.   KOZŁOWSKA IWONA                      pr.       PITERA JULIA                     pr.   WÓJCIK MAREK                      pr.
 FIEDLER ARKADY                      pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA         pr.       PLOCKE KAZIMIERZ                 pr.   ZAKRZEWSKA JADWIGA                pr.
@@ -56,7 +56,7 @@ GAŁAŻEWSKI ANDRZEJ                  pr.   KRAJEWSKA LIGIA                     
 GAPIŃSKA ELŻBIETA                   pr.   KROPIWNICKI ROBERT                   pr.       POMASKA AGNIESZKA                pr.   ZDROJEWSKI BOGDAN                 pr.
 GAW ŁOWSKI STANISŁAW                pr.   KRZĄKAŁA MAREK                       pr.       POŚLEDNIA KRYSTYNA               pr.   ZIELIŃSKI MACIEJ                  pr.
 GĄDEK LIDIA                         pr.   KUCHARSKI CEZARY                     pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH                 pr.
-GĄSIOR-MAREK MAGDALENA              pr.   KUDRYCKA BARBARA                     pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                     pr.
+GĄSIOR-MAREK MAGDALENA              pr.   KUDRYCKA BARBARA                     pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                     pr.
 GELERT ELŻBIETA                     pr.   KULESZA TOMASZ                       pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                       pr.
 GIERADA ARTUR                       pr.   KWIATKOWSKI KRZYSZTOF                pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                  pr.
 GLUZA CZESŁAW                       pr.   LAMCZYK STANISŁAW                    pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA           pr.
@@ -81,7 +81,7 @@ ARENT IWONA EWA                 pr.   KACZYŃSKI JAROSŁAW          pr.       OS
 AST MAREK                       pr.   KAMIŃSKI MARIUSZ            pr.       OŻÓG STANISŁAW                   pr.   ŚWIAT JACEK                   pr.
 BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PALUCH ANNA                      pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 BABINETZ PIOTR                  pr.   KLOC IZABELA                pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TELUS ROBERT                  pr.
-BARTUŚ BARBARA                  pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘ TA STANISŁAW                 pr.   TERLECKI RYSZARD              pr.
+BARTUŚ BARBARA                  pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘTA STANISŁAW                 pr.   TERLECKI RYSZARD              pr.
 BĄK DARIUSZ                     pr.   KOŁAKOWSKI LECH             pr.       PIONTKOWSKI DARIUSZ              pr.   TOMASZEWSKI JAN               pr.
 BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI ROBERT           pr.       PIOTROWICZ STANISŁAW             pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOWALCZYK HENRYK            pr.       POLACZEK JERZY                   pr.   WARZECHA JAN                  pr.
@@ -113,12 +113,12 @@ JACKIEWICZ DAWID                pr.   MAZUREK BEATA               pr.       SZCZ
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY             pr.       KRUPA ŁUKASZ                     pr.   POPIOŁEK ZOFIA                pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ               pr.       KWIATKOWSKI JACEK                pr.   POZNAŃSKI MAREK               pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR            pr.       LEWANDOWSKI ANDRZEJ              pr.   ROZENEK ANDRZEJ               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ           pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM               pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD              pr.       NAJDER JACEK                     pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 CHMIELOWSKI PIOTR               pr.   KŁOSOWSKI KRZYSZTOF         pr.       NOWICKA WANDA                    pr.   WYDRZYŃSKI MACIEJ             pr.
-DĘBSKI ARTUR                    pr.   KMIECIK HENRYK              pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   PIĄ TAK ANDRZEJ               ng.
+DĘBSKI ARTUR                    pr.   KMIECIK HENRYK              pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   PIĄTAK ANDRZEJ               ng.
 DOMARACKI MAREK                 pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PALIKOT JANUSZ                   pr.   STOLARSKI MAREK               ng.
 DZIADZIO DARIUSZ CEZAR          pr.   KOTLIŃSKI ROMAN             pr.       PENKALSKI WOJCIECH               pr.
 

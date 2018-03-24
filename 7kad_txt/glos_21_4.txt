@@ -44,14 +44,14 @@ DROZD EWA                           pr.   KOPACZEWSKA DOMICELA                pr
 DUNIN ARTUR                         pr.   KORZENIOWSKI LESZEK                 pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITCZAK MARIUSZ                   pr.
 DURKA ZENON                         pr.   KOSECKI ROMAN JACEK                 pr.       PIETRASZEWSKA DANUTA             pr.   WITKOWSKI RADOSŁAW                pr.
 DZIĘCIOŁ JANUSZ                     pr.   KOWALSKI SŁAWOMIR                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOJTKOWSKI MAREK                  pr.
-DZIKOWSKI WALDY                     pr.   KOZACZYŃSKI JACEK                   pr.       PIĘ TA JAROSŁAW                  pr.   WOLAK EWA                         pr.
+DZIKOWSKI WALDY                     pr.   KOZACZYŃSKI JACEK                   pr.       PIĘTA JAROSŁAW                  pr.   WOLAK EWA                         pr.
 FABISIAK JOANNA                     pr.   KOZDROŃ JERZY                       pr.       PIOTROWSKA TERESA                pr.   WÓJCIK MAREK                      pr.
 FEDOROWICZ JERZY                    pr.   KOZŁOWSKA IWONA                     pr.       PITERA JULIA                     pr.   ZAREMBA RENATA                    pr.
 FIEDLER ARKADY                      pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA        pr.       PLOCKE KAZIMIERZ                 pr.   ZAWADZKI RYSZARD                  pr.
 GADOWSKI KRZYSZTOF                  pr.   KOŹLAKIEWICZ MIROSŁAW               pr.       PLURA MAREK                      pr.   ZDROJEWSKI BOGDAN                 pr.
 GAŁAŻEWSKI ANDRZEJ                  pr.   KRAJEWSKA LIGIA                     pr.       PLUTA MIROSŁAW                   pr.   ZIELIŃSKI MACIEJ                  pr.
 GAPIŃSKA ELŻBIETA                   pr.   KROPIWNICKI ROBERT                  pr.       POMASKA AGNIESZKA                pr.   ZIEMNIAK WOJCIECH                 pr.
-GAW ŁOWSKI STANISŁAW                pr.   KRZĄKAŁA MAREK                      pr.       POŚLEDNIA KRYSTYNA               pr.   ZIĘ TEK JERZY                     pr.
+GAW ŁOWSKI STANISŁAW                pr.   KRZĄKAŁA MAREK                      pr.       POŚLEDNIA KRYSTYNA               pr.   ZIĘTEK JERZY                     pr.
 GĄDEK LIDIA                         pr.   KUCHARSKI CEZARY                    pr.       RACZKOWSKI DAMIAN                pr.   ŻALEK JACEK                       pr.
 GĄSIOR-MAREK MAGDALENA              pr.   KUDRYCKA BARBARA                    pr.       RADZISZEWSKA ELŻBIETA            pr.   ŻMIJAN STANISŁAW                  pr.
 GELERT ELŻBIETA                     pr.   KULESZA TOMASZ                      pr.       RANIEWICZ GRZEGORZ               pr.   ŻMUDA-TRZEBIATOWSKA EWA           pr.
@@ -80,7 +80,7 @@ ARENT IWONA EWA                 za    JURGIEL KRZYSZTOF            za        OŻ
 AST MAREK                       za    KACZMAREK TOMASZ             za        PALUCH ANNA                      za    TCHÓRZEWSKI KRZYSZTOF         za
 BABALSKI ZBIGNIEW               za    KAMIŃSKI MARIUSZ             za        PAW ŁOWICZ KRYSTYNA              za    TELUS ROBERT                  za
 BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ ANTONI      za        PIECHA BOLESŁAW GRZEGORZ         za    TERLECKI RYSZARD              za
-BARTUŚ BARBARA                  za    KLOC IZABELA                 za        PIĘ TA STANISŁAW                 za    TOBISZOWSKI GRZEGORZ          za
+BARTUŚ BARBARA                  za    KLOC IZABELA                 za        PIĘTA STANISŁAW                 za    TOBISZOWSKI GRZEGORZ          za
 BĄK DARIUSZ                     za    KŁOSOWSKI SŁAWOMIR           za        PIONTKOWSKI DARIUSZ              za    TOMASZEWSKI JAN               za
 BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIOTROWICZ STANISŁAW             za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI ROBERT            za        POLACZEK JERZY                   za    WARZECHA JAN                  za
@@ -110,9 +110,9 @@ HRYNKIEWICZ JÓZEFA              za    MICHAŁKIEWICZ KRZYSZTOF      za        S
  RP (43)                      GŁOSOWAŁO - 34            ZA - 34    PRZECIW - 0                WSTRZYM. - 0             NIE GŁOS. - 9
 
 BANASZAK MACIEJ                 za    KABACIŃSKI MICHAŁ            za        PACHOLSKI MICHAŁ TOMASZ          za    WYDRZYŃSKI MACIEJ             za
-BODIO BARTŁ OMIEJ               za    KLEPACZ WITOLD               za        PALIKOT JANUSZ                   za    BAUĆ PIOTR PAWEŁ              ng.
+BODIO BARTŁOMIEJ               za    KLEPACZ WITOLD               za        PALIKOT JANUSZ                   za    BAUĆ PIOTR PAWEŁ              ng.
 BORKOWSKI JERZY                 za    KŁOSOWSKI KRZYSZTOF          za        PENKALSKI WOJCIECH               za    BIEDROŃ ROBERT                ng.
-BRAMORA ARTUR                   za    KMIECIK HENRYK               za        PIĄ TAK ANDRZEJ                  za    GIBAŁA ŁUKASZ                 ng.
+BRAMORA ARTUR                   za    KMIECIK HENRYK               za        PIĄTAK ANDRZEJ                  za    GIBAŁA ŁUKASZ                 ng.
 CEDZYŃSKI JAN                   za    KOPYCIŃSKI SŁAWOMIR          za        POPIOŁEK ZOFIA                   za    GRODZKA ANNA                  ng.
 CHMIELOWSKI PIOTR               za    KOTLIŃSKI ROMAN              za        POZNAŃSKI MAREK                  za    KĘPIŃSKI ADAM                 ng.
 DĘBSKI ARTUR                    za    KRUPA ŁUKASZ                 za        ROZENEK ANDRZEJ                  za    KWIATKOWSKI JACEK             ng.

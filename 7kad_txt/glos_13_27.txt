@@ -45,7 +45,7 @@ DĄBROWSKA ALICJA                     pr.   KONWIŃSKI ZBIGNIEW                 
 DROZD EWA                            pr.   KOPACZ EWA                           pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA                     pr.
 DUNIN ARTUR                          pr.   KOPACZEWSKA DOMICELA                 pr.       PIETRASZEWSKA DANUTA             pr.   WITCZAK MARIUSZ                         pr.
 DURKA ZENON                          pr.   KORZENIOWSKI LESZEK                  pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITKOWSKI RADOSŁAW                      pr.
-DZIĘCIOŁ JANUSZ                      pr.   KOSECKI ROMAN JACEK                  pr.       PIĘ TA JAROSŁAW                  pr.   WOJNAROWSKI NORBERT                     pr.
+DZIĘCIOŁ JANUSZ                      pr.   KOSECKI ROMAN JACEK                  pr.       PIĘTA JAROSŁAW                  pr.   WOJNAROWSKI NORBERT                     pr.
 DZIKOWSKI WALDY                      pr.   KOWALSKI SŁAWOMIR                    pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                        pr.
 FABISIAK JOANNA                      pr.   KOZACZYŃSKI JACEK                    pr.       PITERA JULIA                     pr.   WOLAK EWA                               pr.
 FEDOROWICZ JERZY                     pr.   KOZDROŃ JERZY                        pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                            pr.
@@ -55,7 +55,7 @@ GAŁAŻEWSKI ANDRZEJ                   pr.   KOŹLAKIEWICZ MIROSŁAW            
 GAPIŃSKA ELŻBIETA                    pr.   KRAJEWSKA LIGIA                      pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN                       pr.
 GAW ŁOWSKI STANISŁAW                 pr.   KROPIWNICKI ROBERT                   pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                        pr.
 GĄDEK LIDIA                          pr.   KRZĄKAŁA MAREK                       pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH                       pr.
-GĄSIOR-MAREK MAGDALENA               pr.   KUCHARSKI CEZARY                     pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                           pr.
+GĄSIOR-MAREK MAGDALENA               pr.   KUCHARSKI CEZARY                     pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                           pr.
 GELERT ELŻBIETA                      pr.   KUDRYCKA BARBARA                     pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                             pr.
 GIERADA ARTUR                        pr.   KULESZA TOMASZ                       pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                        pr.
 GLUZA CZESŁAW                        pr.   KWIATKOWSKI KRZYSZTOF                pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA                 pr.
@@ -98,7 +98,7 @@ DZIEDZICZAK JAN                 pr.   MACHAŁEK MARZENA            pr.       STR
 DZIUBA TADEUSZ                  pr.   MACIEREWICZ ANTONI          pr.       SUSKI MAREK                      pr.   LATOS TOMASZ                    ng.
 FALFUS JACEK                    pr.   MALIK EWA                   pr.       SZAŁAMACHA PAWEŁ                 pr.   NOWAK MARIA                     ng.
 FOTYGA ANNA                     pr.   MAŁECKI MACIEJ              pr.       SZARAMA WOJCIECH                 pr.   PIECHA BOLESŁAW GRZEGORZ        ng.
-GIRZYŃSKI ZBIGNIEW              pr.   MASŁOWSKA GABRIELA          pr.       SZCZYPIŃSKA JOLANTA              pr.   PIĘ TA STANISŁAW                ng.
+GIRZYŃSKI ZBIGNIEW              pr.   MASŁOWSKA GABRIELA          pr.       SZCZYPIŃSKA JOLANTA              pr.   PIĘTA STANISŁAW                ng.
 GIŻYŃSKI SZYMON                 pr.   MASTALEREK MARCIN           pr.       SZLACHTA ANDRZEJ                 pr.   ROGACKI ADAM                    ng.
 GOŁOJUCH KAZIMIERZ              pr.   MATERNA JERZY               pr.       SZMIT JERZY                      pr.   SADURSKA MAŁGORZATA             ng.
 GOSIEWSKA MAŁGORZATA            pr.   MATUSIAK GRZEGORZ           pr.       SZWED STANISŁAW                  pr.   SZCZERSKI KRZYSZTOF             ng.
@@ -113,14 +113,14 @@ JACKIEWICZ DAWID                pr.   MOSKAL KAZIMIERZ            pr.       ŚWI
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY             pr.       KWIATKOWSKI JACEK                pr.   POPIOŁEK ZOFIA                  pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ               pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK                 pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR            pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ                 pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM                 pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM                 pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ           pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL           pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM               pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                     pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD              pr.       NOWICKA WANDA                    pr.   STOLARSKI MAREK                 pr.
 CHMIELOWSKI PIOTR               pr.   KŁOSOWSKI KRZYSZTOF         pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ               pr.
 DĘBSKI ARTUR                    pr.   KMIECIK HENRYK              pr.       PALIKOT JANUSZ                   pr.   KRUPA ŁUKASZ                    ng.
 DOMARACKI MAREK                 pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PENKALSKI WOJCIECH               pr.   SZYMIEC-RACZYŃSKA HALINA        ng.
-DZIADZIO DARIUSZ CEZAR          pr.   KOTLIŃSKI ROMAN             pr.       PIĄ TAK ANDRZEJ                  pr.
+DZIADZIO DARIUSZ CEZAR          pr.   KOTLIŃSKI ROMAN             pr.       PIĄTAK ANDRZEJ                  pr.
 
 
  PSL (28)                     GŁOSOWAŁO - 25            ZA - 0    PRZECIW - 25                WSTRZYM. - 0            NIE GŁOS. - 3

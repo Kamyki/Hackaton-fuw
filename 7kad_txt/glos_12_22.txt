@@ -41,7 +41,7 @@ CZECHYRA CZESŁAW                    pr.   KOŁODZIEJ EWA                       
 CZERNOW ZOFIA                       pr.   KONWIŃSKI ZBIGNIEW                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITKOWSKI RADOSŁAW              pr.
 CZERWIŃSKI ANDRZEJ                  pr.   KOPACZEWSKA DOMICELA                 pr.       PIETRASZEWSKA DANUTA             pr.   WOJNAROWSKI NORBERT             pr.
 DĄBROWSKA ALICJA                    pr.   KORZENIOWSKI LESZEK                  pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOJTKOWSKI MAREK                pr.
-DROZD EWA                           pr.   KOSECKI ROMAN JACEK                  pr.       PIĘ TA JAROSŁAW                  pr.   WOLAK EWA                       pr.
+DROZD EWA                           pr.   KOSECKI ROMAN JACEK                  pr.       PIĘTA JAROSŁAW                  pr.   WOLAK EWA                       pr.
 DUNIN ARTUR                         pr.   KOWALSKI SŁAWOMIR                    pr.       PIOTROWSKA TERESA                pr.   WÓJCIK MAREK                    pr.
 DURKA ZENON                         pr.   KOZACZYŃSKI JACEK                    pr.       PITERA JULIA                     pr.   ZAKRZEWSKA JADWIGA              pr.
 DZIĘCIOŁ JANUSZ                     pr.   KOZDROŃ JERZY                        pr.       PLOCKE KAZIMIERZ                 pr.   ZAREMBA RENATA                  pr.
@@ -49,7 +49,7 @@ DZIKOWSKI WALDY                     pr.   KOZŁOWSKA IWONA                      
 FABISIAK JOANNA                     pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA         pr.       PLUTA MIROSŁAW                   pr.   ZDROJEWSKI BOGDAN               pr.
 FEDOROWICZ JERZY                    pr.   KOŹLAKIEWICZ MIROSŁAW                pr.       POMASKA AGNIESZKA                pr.   ZIELIŃSKI MACIEJ                pr.
 FIEDLER ARKADY                      pr.   KRAJEWSKA LIGIA                      pr.       RACZKOWSKI DAMIAN                pr.   ZIEMNIAK WOJCIECH               pr.
-GADOWSKI KRZYSZTOF                  pr.   KROPIWNICKI ROBERT                   pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘ TEK JERZY                   pr.
+GADOWSKI KRZYSZTOF                  pr.   KROPIWNICKI ROBERT                   pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘTEK JERZY                   pr.
 GAPIŃSKA ELŻBIETA                   pr.   KRZĄKAŁA MAREK                       pr.       RANIEWICZ GRZEGORZ               pr.   ŻALEK JACEK                     pr.
 GAW ŁOWSKI STANISŁAW                pr.   KUCHARSKI CEZARY                     pr.       RAŚ IRENEUSZ                     pr.   ŻMIJAN STANISŁAW                pr.
 GĄDEK LIDIA                         pr.   KUDRYCKA BARBARA                     pr.       ROSATI DARIUSZ                   pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -77,7 +77,7 @@ ARCISZEWSKA-MIELEWCZYK DOROTA   za    KACZYŃSKI JAROSŁAW           za        O
 ARDANOWSKI JAN KRZYSZTOF        za    KAMIŃSKI MARIUSZ             za        PALUCH ANNA                      za    TELUS ROBERT                  za
 ARENT IWONA EWA                 za    KAMIŃSKI MARIUSZ ANTONI      za        PAW ŁOWICZ KRYSTYNA              za    TERLECKI RYSZARD              za
 AST MAREK                       za    KLOC IZABELA                 za        PIECHA BOLESŁAW GRZEGORZ         za    TOBISZOWSKI GRZEGORZ          za
-BABALSKI ZBIGNIEW               za    KŁOSOWSKI SŁAWOMIR           za        PIĘ TA STANISŁAW                 za    TOMASZEWSKI JAN               za
+BABALSKI ZBIGNIEW               za    KŁOSOWSKI SŁAWOMIR           za        PIĘTA STANISŁAW                 za    TOMASZEWSKI JAN               za
 BABINETZ PIOTR                  za    KOŁAKOWSKI LECH              za        PIONTKOWSKI DARIUSZ              za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BARTUŚ BARBARA                  za    KOŁAKOWSKI ROBERT            za        PIOTROWICZ STANISŁAW             za    WARZECHA JAN                  za
 BĄK DARIUSZ                     za    KOWALCZYK HENRYK             za        POLACZEK JERZY                   za    WASZCZYKOWSKI WITOLD          za
@@ -112,13 +112,13 @@ JASIŃSKI WOJCIECH               za    NOWAK MARIA                  za        SZ
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR             pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                 pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                 pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ            pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                   pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM                pr.       NOWICKA WANDA                    pr.   STOLARSKI MAREK               pr.
 CEDZYŃSKI JAN                   pr.   KMIECIK HENRYK               pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 CHMIELOWSKI PIOTR               pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PALIKOT JANUSZ                   pr.   WYDRZYŃSKI MACIEJ             pr.
 DĘBSKI ARTUR                    pr.   KOTLIŃSKI ROMAN              pr.       PENKALSKI WOJCIECH               pr.   KŁOSOWSKI KRZYSZTOF           ng.
-DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                 pr.       PIĄ TAK ANDRZEJ                  pr.
+DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                 pr.       PIĄTAK ANDRZEJ                  pr.
 DZIADZIO DARIUSZ CEZAR          pr.   KWIATKOWSKI JACEK            pr.       POPIOŁEK ZOFIA                   pr.
 
 

@@ -45,14 +45,14 @@ DROZD EWA                           pr.   KOPACZEWSKA DOMICELA                pr
 DUNIN ARTUR                         pr.   KORZENIOWSKI LESZEK                 pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITCZAK MARIUSZ                 pr.
 DURKA ZENON                         pr.   KOSECKI ROMAN JACEK                 pr.       PIETRASZEWSKA DANUTA             pr.   WITKOWSKI RADOSŁAW              pr.
 DZIĘCIOŁ JANUSZ                     pr.   KOWALSKI SŁAWOMIR                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOJTKOWSKI MAREK                pr.
-DZIKOWSKI WALDY                     pr.   KOZACZYŃSKI JACEK                   pr.       PIĘ TA JAROSŁAW                  pr.   WOLAK EWA                       pr.
+DZIKOWSKI WALDY                     pr.   KOZACZYŃSKI JACEK                   pr.       PIĘTA JAROSŁAW                  pr.   WOLAK EWA                       pr.
 FABISIAK JOANNA                     pr.   KOZDROŃ JERZY                       pr.       PIOTROWSKA TERESA                pr.   WÓJCIK MAREK                    pr.
 FEDOROWICZ JERZY                    pr.   KOZŁOWSKA IWONA                     pr.       PITERA JULIA                     pr.   ZAREMBA RENATA                  pr.
 FIEDLER ARKADY                      pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA        pr.       PLOCKE KAZIMIERZ                 pr.   ZAWADZKI RYSZARD                pr.
 GADOWSKI KRZYSZTOF                  pr.   KOŹLAKIEWICZ MIROSŁAW               pr.       PLURA MAREK                      pr.   ZDROJEWSKI BOGDAN               pr.
 GAŁAŻEWSKI ANDRZEJ                  pr.   KRAJEWSKA LIGIA                     pr.       PLUTA MIROSŁAW                   pr.   ZIELIŃSKI MACIEJ                pr.
 GAPIŃSKA ELŻBIETA                   pr.   KROPIWNICKI ROBERT                  pr.       POMASKA AGNIESZKA                pr.   ZIEMNIAK WOJCIECH               pr.
-GAW ŁOWSKI STANISŁAW                pr.   KRZĄKAŁA MAREK                      pr.       POŚLEDNIA KRYSTYNA               pr.   ZIĘ TEK JERZY                   pr.
+GAW ŁOWSKI STANISŁAW                pr.   KRZĄKAŁA MAREK                      pr.       POŚLEDNIA KRYSTYNA               pr.   ZIĘTEK JERZY                   pr.
 GĄDEK LIDIA                         pr.   KUCHARSKI CEZARY                    pr.       RACZKOWSKI DAMIAN                pr.   ŻALEK JACEK                     pr.
 GĄSIOR-MAREK MAGDALENA              pr.   KUDRYCKA BARBARA                    pr.       RADZISZEWSKA ELŻBIETA            pr.   ŻMIJAN STANISŁAW                pr.
 GELERT ELŻBIETA                     pr.   KULESZA TOMASZ                      pr.       RANIEWICZ GRZEGORZ               pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -77,7 +77,7 @@ ANDZEL WALDEMAR                 za    JAWORSKI ANDRZEJ             za        OŻ
 ARCISZEWSKA-MIELEWCZYK DOROTA   za    KACZMAREK TOMASZ             za        PALUCH ANNA                        za    TOMASZEWSKI JAN               za
 ARDANOWSKI JAN KRZYSZTOF        za    KAMIŃSKI MARIUSZ             za        PAW ŁOWICZ KRYSTYNA                za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 ARENT IWONA EWA                 za    KAMIŃSKI MARIUSZ ANTONI      za        PIECHA BOLESŁAW GRZEGORZ           za    WARZECHA JAN                  za
-AST MAREK                       za    KLOC IZABELA                 za        PIĘ TA STANISŁAW                   za    WASZCZYKOWSKI WITOLD          za
+AST MAREK                       za    KLOC IZABELA                 za        PIĘTA STANISŁAW                   za    WASZCZYKOWSKI WITOLD          za
 BABALSKI ZBIGNIEW               za    KŁOSOWSKI SŁAWOMIR           za        PIONTKOWSKI DARIUSZ                za    WIPLER PRZEMYSŁAW             za
 BABINETZ PIOTR                  za    KOŁAKOWSKI LECH              za        PIOTROWICZ STANISŁAW               za    WITEK ELŻBIETA                za
 BĄK DARIUSZ                     za    KOŁAKOWSKI ROBERT            za        POLACZEK JERZY                     za    WITKO MARCIN                  za
@@ -110,12 +110,12 @@ JACKIEWICZ DAWID                za    NOWAK MARIA                  za        ŚW
  RP (43)                      GŁOSOWAŁO - 37            ZA - 0     PRZECIW - 0                  WSTRZYM. - 37            NIE GŁOS. - 6
 
 BANASZAK MACIEJ                 ws.   GRODZKA ANNA                 ws.       MARCINKIEWICZ MAŁGORZATA           ws.   RYFIŃSKI ARMAND KAMIL         ws.
-BODIO BARTŁ OMIEJ               ws.   KABACIŃSKI MICHAŁ            ws.       MROCZEK MACIEJ                     ws.   SAJAK PAWEŁ                   ws.
+BODIO BARTŁOMIEJ               ws.   KABACIŃSKI MICHAŁ            ws.       MROCZEK MACIEJ                     ws.   SAJAK PAWEŁ                   ws.
 BORKOWSKI JERZY                 ws.   KLEPACZ WITOLD               ws.       NAJDER JACEK                       ws.   SZYMIEC-RACZYŃSKA HALINA      ws.
 BRAMORA ARTUR                   ws.   KŁOSOWSKI KRZYSZTOF          ws.       PACHOLSKI MICHAŁ TOMASZ            ws.   WYDRZYŃSKI MACIEJ             ws.
 CEDZYŃSKI JAN                   ws.   KMIECIK HENRYK               ws.       PALIKOT JANUSZ                     ws.   BAUĆ PIOTR PAWEŁ              ng.
 CHMIELOWSKI PIOTR               ws.   KOPYCIŃSKI SŁAWOMIR          ws.       PENKALSKI WOJCIECH                 ws.   BIEDROŃ ROBERT                ng.
-DĘBSKI ARTUR                    ws.   KOTLIŃSKI ROMAN              ws.       PIĄ TAK ANDRZEJ                    ws.   DOMARACKI MAREK               ng.
+DĘBSKI ARTUR                    ws.   KOTLIŃSKI ROMAN              ws.       PIĄTAK ANDRZEJ                    ws.   DOMARACKI MAREK               ng.
 DZIADZIO DARIUSZ CEZAR          ws.   KRUPA ŁUKASZ                 ws.       POPIOŁEK ZOFIA                     ws.   KĘPIŃSKI ADAM                 ng.
 ELSNER WINCENTY                 ws.   KWIATKOWSKI JACEK            ws.       POZNAŃSKI MAREK                    ws.   NOWICKA WANDA                 ng.
 GIBAŁA ŁUKASZ                   ws.   LEWANDOWSKI ANDRZEJ          ws.       ROZENEK ANDRZEJ                    ws.   STOLARSKI MAREK               ng.

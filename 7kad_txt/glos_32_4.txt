@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    za    KOPACZ EWA                         
 DĄBROWSKA ALICJA                      za    KOPACZEWSKA DOMICELA                   za       PIERZCHAŁA ELŻBIETA APOLONIA     za   WIELICHOWSKA MONIKA             za
 DROZD EWA                             za    KORZENIOWSKI LESZEK                    za       PIETRASZEWSKA DANUTA             za   WITCZAK MARIUSZ                 za
 DUNIN ARTUR                           za    KOSECKI ROMAN JACEK                    za       PIETRZCZYK LUCJAN MAREK          za   WITKOWSKI RADOSŁAW              za
-DURKA ZENON                           za    KOWALSKI SŁAWOMIR                      za       PIĘ TA JAROSŁAW                  za   WOJNAROWSKI NORBERT             za
+DURKA ZENON                           za    KOWALSKI SŁAWOMIR                      za       PIĘTA JAROSŁAW                  za   WOJNAROWSKI NORBERT             za
 DZIĘCIOŁ JANUSZ                       za    KOZACZYŃSKI JACEK                      za       PIOTROWSKA TERESA                za   WOJTKOWSKI MAREK                za
 DZIKOWSKI WALDY                       za    KOZDROŃ JERZY                          za       PITERA JULIA                     za   WOLAK EWA                       za
 FABISIAK JOANNA                       za    KOZŁOWSKA IWONA                        za       PLOCKE KAZIMIERZ                 za   WÓJCIK MAREK                    za
@@ -52,7 +52,7 @@ FIEDLER ARKADY                        za    KOŹLAKIEWICZ MIROSŁAW             
 GADOWSKI KRZYSZTOF                    za    KRAJEWSKA LIGIA                        za       POMASKA AGNIESZKA                za   ZDROJEWSKI BOGDAN               za
 GAŁAŻEWSKI ANDRZEJ                    za    KROPIWNICKI ROBERT                     za       POŚLEDNIA KRYSTYNA               za   ZIELIŃSKI MACIEJ                za
 GAPIŃSKA ELŻBIETA                     za    KRZĄKAŁA MAREK                         za       RACZKOWSKI DAMIAN                za   ZIEMNIAK WOJCIECH               za
-GAW ŁOWSKI STANISŁAW                  za    KUCHARSKI CEZARY                       za       RADZISZEWSKA ELŻBIETA            za   ZIĘ TEK JERZY                   za
+GAW ŁOWSKI STANISŁAW                  za    KUCHARSKI CEZARY                       za       RADZISZEWSKA ELŻBIETA            za   ZIĘTEK JERZY                   za
 GĄDEK LIDIA                           za    KUDRYCKA BARBARA                       za       RANIEWICZ GRZEGORZ               za   ŻALEK JACEK                     za
 GĄSIOR-MAREK MAGDALENA                za    KULESZA TOMASZ                         za       RAŚ IRENEUSZ                     za   ŻMIJAN STANISŁAW                za
 GELERT ELŻBIETA                       za    KWIATKOWSKI KRZYSZTOF                  za       ROSATI DARIUSZ                   za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -80,7 +80,7 @@ AST MAREK                       pr.   KACZMAREK TOMASZ             pr.       OŻ
 BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ             pr.       PALUCH ANNA                      pr.   ŚWIAT JACEK                   pr.
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ ANTONI      pr.       PAW ŁOWICZ KRYSTYNA              pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 BARTUŚ BARBARA                  pr.   KLOC IZABELA                 pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TELUS ROBERT                  pr.
-BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR           pr.       PIĘ TA STANISŁAW                 pr.   TERLECKI RYSZARD              pr.
+BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR           pr.       PIĘTA STANISŁAW                 pr.   TERLECKI RYSZARD              pr.
 BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI LECH              pr.       PIONTKOWSKI DARIUSZ              pr.   TOBISZOWSKI GRZEGORZ          pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI ROBERT            pr.       PIOTROWICZ STANISŁAW             pr.   TOMASZEWSKI JAN               pr.
 BŁASZCZAK MARIUSZ               pr.   KOWALCZYK HENRYK             pr.       POLACZEK JERZY                   pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
@@ -109,11 +109,11 @@ JACH MICHAŁ                     pr.   MAZUREK BEATA                pr.       SZ
 
  RP (43)                      GŁOSOWAŁO - 42             ZA - 1    PRZECIW - 41               WSTRZYM. - 0             NIE GŁOS. - 1
 
-NAJDER JACEK                    za    DZIADZIO DARIUSZ CEZAR       pr.       KOTLIŃSKI ROMAN                  pr.   PIĄ TAK ANDRZEJ               pr.
+NAJDER JACEK                    za    DZIADZIO DARIUSZ CEZAR       pr.       KOTLIŃSKI ROMAN                  pr.   PIĄTAK ANDRZEJ               pr.
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       KRUPA ŁUKASZ                     pr.   POPIOŁEK ZOFIA                pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                pr.       KWIATKOWSKI JACEK                pr.   POZNAŃSKI MAREK               pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR             pr.       LEWANDOWSKI ANDRZEJ              pr.   ROZENEK ANDRZEJ               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                 pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                 pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ            pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM                pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD               pr.       NOWICKA WANDA                    pr.   STOLARSKI MAREK               pr.

@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    za    KONWIŃSKI ZBIGNIEW                
 DĄBROWSKA ALICJA                      za    KOPACZ EWA                            za       PIECHOTA SŁAWOMIR JAN            za     WARDZAŁA ROBERT                 za
 DROZD EWA                             za    KOPACZEWSKA DOMICELA                  za       PIERZCHAŁA ELŻBIETA APOLONIA     za     WIELICHOWSKA MONIKA             za
 DUNIN ARTUR                           za    KORZENIOWSKI LESZEK                   za       PIETRZCZYK LUCJAN MAREK          za     WITCZAK MARIUSZ                 za
-DURKA ZENON                           za    KOSECKI ROMAN JACEK                   za       PIĘ TA JAROSŁAW                  za     WITKOWSKI RADOSŁAW              za
+DURKA ZENON                           za    KOSECKI ROMAN JACEK                   za       PIĘTA JAROSŁAW                  za     WITKOWSKI RADOSŁAW              za
 DZIĘCIOŁ JANUSZ                       za    KOWALSKI SŁAWOMIR                     za       PIOTROWSKA TERESA                za     WOJTKOWSKI MAREK                za
 DZIKOWSKI WALDY                       za    KOZACZYŃSKI JACEK                     za       PITERA JULIA                     za     WOLAK EWA                       za
 FABISIAK JOANNA                       za    KOZDROŃ JERZY                         za       PLOCKE KAZIMIERZ                 za     WÓJCIK MAREK                    za
@@ -53,7 +53,7 @@ GADOWSKI KRZYSZTOF                    za    KOŹLAKIEWICZ MIROSŁAW             
 GAŁAŻEWSKI ANDRZEJ                    za    KRAJEWSKA LIGIA                       za       POŚLEDNIA KRYSTYNA               za     ZDROJEWSKI BOGDAN               za
 GAPIŃSKA ELŻBIETA                     za    KROPIWNICKI ROBERT                    za       RACZKOWSKI DAMIAN                za     ZIELIŃSKI MACIEJ                za
 GAW ŁOWSKI STANISŁAW                  za    KRZĄKAŁA MAREK                        za       RADZISZEWSKA ELŻBIETA            za     ZIEMNIAK WOJCIECH               za
-GĄDEK LIDIA                           za    KUCHARSKI CEZARY                      za       RANIEWICZ GRZEGORZ               za     ZIĘ TEK JERZY                   za
+GĄDEK LIDIA                           za    KUCHARSKI CEZARY                      za       RANIEWICZ GRZEGORZ               za     ZIĘTEK JERZY                   za
 GĄSIOR-MAREK MAGDALENA                za    KUDRYCKA BARBARA                      za       RAŚ IRENEUSZ                     za     ŻALEK JACEK                     za
 GELERT ELŻBIETA                       za    KWIATKOWSKI KRZYSZTOF                 za       ROSATI DARIUSZ                   za     ŻMIJAN STANISŁAW                za
 GIERADA ARTUR                         za    LAMCZYK STANISŁAW                     za       ROZPONDEK HALINA                 za     ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -82,7 +82,7 @@ BABINETZ PIOTR                  pr.   KACZYŃSKI JAROSŁAW           pr.       O
 BARTUŚ BARBARA                  pr.   KAMIŃSKI MARIUSZ             pr.       PALUCH ANNA                      pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 BĄK DARIUSZ                     pr.   KAMIŃSKI MARIUSZ ANTONI      pr.       PAW ŁOWICZ KRYSTYNA              pr.   TELUS ROBERT                  pr.
 BERNACKI W ŁODZIMIERZ           pr.   KLOC IZABELA                 pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TERLECKI RYSZARD              pr.
-BĘTKOWSKI ANDRZEJ               pr.   KŁOSOWSKI SŁAWOMIR           pr.       PIĘ TA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
+BĘTKOWSKI ANDRZEJ               pr.   KŁOSOWSKI SŁAWOMIR           pr.       PIĘTA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
 BŁASZCZAK MARIUSZ               pr.   KOŁAKOWSKI LECH              pr.       PIONTKOWSKI DARIUSZ              pr.   TOMASZEWSKI JAN               pr.
 BRUDZIŃSKI JOACHIM              pr.   KOŁAKOWSKI ROBERT            pr.       PIOTROWICZ STANISŁAW             pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BUBULA BARBARA                  pr.   KOWALCZYK HENRYK             pr.       POLACZEK JERZY                   pr.   WARZECHA JAN                  pr.
@@ -115,10 +115,10 @@ KLEPACZ WITOLD                  za    ELSNER WINCENTY              pr.       MAK
 POZNAŃSKI MAREK                 za    GIBAŁA ŁUKASZ                pr.       MARCINKIEWICZ MAŁGORZATA         pr.   STOLARSKI MAREK               pr.
 BANASZAK MACIEJ                 pr.   GÓRCZYŃSKI ARTUR             pr.       MROCZEK MACIEJ                   pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 BIEDROŃ ROBERT                  pr.   GRODZKA ANNA                 pr.       NAJDER JACEK                     pr.   WYDRZYŃSKI MACIEJ             pr.
-BODIO BARTŁ OMIEJ               pr.   KĘPIŃSKI ADAM                pr.       NOWICKA WANDA                    pr.   BAUĆ PIOTR PAWEŁ              ws.
+BODIO BARTŁOMIEJ               pr.   KĘPIŃSKI ADAM                pr.       NOWICKA WANDA                    pr.   BAUĆ PIOTR PAWEŁ              ws.
 BORKOWSKI JERZY                 pr.   KŁOSOWSKI KRZYSZTOF          pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   POPIOŁEK ZOFIA                ws.
 BRAMORA ARTUR                   pr.   KMIECIK HENRYK               pr.       PENKALSKI WOJCIECH               pr.   KOPYCIŃSKI SŁAWOMIR           ng.
-CEDZYŃSKI JAN                   pr.   KOTLIŃSKI ROMAN              pr.       PIĄ TAK ANDRZEJ                  pr.   PALIKOT JANUSZ                ng.
+CEDZYŃSKI JAN                   pr.   KOTLIŃSKI ROMAN              pr.       PIĄTAK ANDRZEJ                  pr.   PALIKOT JANUSZ                ng.
 CHMIELOWSKI PIOTR               pr.   KRUPA ŁUKASZ                 pr.       ROZENEK ANDRZEJ                  pr.
 
 

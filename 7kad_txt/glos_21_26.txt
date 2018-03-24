@@ -44,14 +44,14 @@ DROZD EWA                           pr.   KOPACZEWSKA DOMICELA                pr
 DUNIN ARTUR                         pr.   KORZENIOWSKI LESZEK                 pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITCZAK MARIUSZ                 pr.
 DURKA ZENON                         pr.   KOSECKI ROMAN JACEK                 pr.       PIETRASZEWSKA DANUTA             pr.   WITKOWSKI RADOSŁAW              pr.
 DZIĘCIOŁ JANUSZ                     pr.   KOWALSKI SŁAWOMIR                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOJTKOWSKI MAREK                pr.
-DZIKOWSKI WALDY                     pr.   KOZACZYŃSKI JACEK                   pr.       PIĘ TA JAROSŁAW                  pr.   WOLAK EWA                       pr.
+DZIKOWSKI WALDY                     pr.   KOZACZYŃSKI JACEK                   pr.       PIĘTA JAROSŁAW                  pr.   WOLAK EWA                       pr.
 FABISIAK JOANNA                     pr.   KOZDROŃ JERZY                       pr.       PIOTROWSKA TERESA                pr.   WÓJCIK MAREK                    pr.
 FEDOROWICZ JERZY                    pr.   KOZŁOWSKA IWONA                     pr.       PITERA JULIA                     pr.   ZAREMBA RENATA                  pr.
 FIEDLER ARKADY                      pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA        pr.       PLOCKE KAZIMIERZ                 pr.   ZAWADZKI RYSZARD                pr.
 GADOWSKI KRZYSZTOF                  pr.   KOŹLAKIEWICZ MIROSŁAW               pr.       PLURA MAREK                      pr.   ZDROJEWSKI BOGDAN               pr.
 GAŁAŻEWSKI ANDRZEJ                  pr.   KRAJEWSKA LIGIA                     pr.       PLUTA MIROSŁAW                   pr.   ZIELIŃSKI MACIEJ                pr.
 GAPIŃSKA ELŻBIETA                   pr.   KROPIWNICKI ROBERT                  pr.       POMASKA AGNIESZKA                pr.   ZIEMNIAK WOJCIECH               pr.
-GAW ŁOWSKI STANISŁAW                pr.   KRZĄKAŁA MAREK                      pr.       POŚLEDNIA KRYSTYNA               pr.   ZIĘ TEK JERZY                   pr.
+GAW ŁOWSKI STANISŁAW                pr.   KRZĄKAŁA MAREK                      pr.       POŚLEDNIA KRYSTYNA               pr.   ZIĘTEK JERZY                   pr.
 GĄDEK LIDIA                         pr.   KUCHARSKI CEZARY                    pr.       RACZKOWSKI DAMIAN                pr.   ŻALEK JACEK                     pr.
 GĄSIOR-MAREK MAGDALENA              pr.   KUDRYCKA BARBARA                    pr.       RADZISZEWSKA ELŻBIETA            pr.   ŻMIJAN STANISŁAW                pr.
 GELERT ELŻBIETA                     pr.   KULESZA TOMASZ                      pr.       RANIEWICZ GRZEGORZ               pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -82,7 +82,7 @@ AST MAREK                       ws.   KACZMAREK TOMASZ            ws.       OŻ�
 BABALSKI ZBIGNIEW               ws.   KAMIŃSKI MARIUSZ            ws.       PALUCH ANNA                       ws.   TCHÓRZEWSKI KRZYSZTOF         ws.
 BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PAW ŁOWICZ KRYSTYNA               ws.   TELUS ROBERT                  ws.
 BARTUŚ BARBARA                  ws.   KLOC IZABELA                ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   TERLECKI RYSZARD              ws.
-BĄK DARIUSZ                     ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIĘ TA STANISŁAW                  ws.   TOBISZOWSKI GRZEGORZ          ws.
+BĄK DARIUSZ                     ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIĘTA STANISŁAW                  ws.   TOBISZOWSKI GRZEGORZ          ws.
 BERNACKI W ŁODZIMIERZ           ws.   KOŁAKOWSKI LECH             ws.       PIONTKOWSKI DARIUSZ               ws.   TOMASZEWSKI JAN               ws.
 BĘTKOWSKI ANDRZEJ               ws.   KOŁAKOWSKI ROBERT           ws.       PIOTROWICZ STANISŁAW              ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 BŁASZCZAK MARIUSZ               ws.   KOWALCZYK HENRYK            ws.       POLACZEK JERZY                    ws.   WARZECHA JAN                  ws.
@@ -110,13 +110,13 @@ HOFMAN ADAM                     ws.   MATUSZEWSKI MAREK           ws.       SZCZ
  RP (43)                      GŁOSOWAŁO - 37            ZA - 0    PRZECIW - 0                WSTRZYM. - 37             NIE GŁOS. - 6
 
 BANASZAK MACIEJ                 ws.   GÓRCZYŃSKI ARTUR            ws.       MAKOWSKI TOMASZ                   ws.   RYBAKOWICZ ADAM               ws.
-BODIO BARTŁ OMIEJ               ws.   GRODZKA ANNA                ws.       MARCINKIEWICZ MAŁGORZATA          ws.   SAJAK PAWEŁ                   ws.
+BODIO BARTŁOMIEJ               ws.   GRODZKA ANNA                ws.       MARCINKIEWICZ MAŁGORZATA          ws.   SAJAK PAWEŁ                   ws.
 BORKOWSKI JERZY                 ws.   KABACIŃSKI MICHAŁ           ws.       MROCZEK MACIEJ                    ws.   SZYMIEC-RACZYŃSKA HALINA      ws.
 BRAMORA ARTUR                   ws.   KLEPACZ WITOLD              ws.       NAJDER JACEK                      ws.   WYDRZYŃSKI MACIEJ             ws.
 CEDZYŃSKI JAN                   ws.   KŁOSOWSKI KRZYSZTOF         ws.       PACHOLSKI MICHAŁ TOMASZ           ws.   BAUĆ PIOTR PAWEŁ              ng.
 CHMIELOWSKI PIOTR               ws.   KMIECIK HENRYK              ws.       PALIKOT JANUSZ                    ws.   BIEDROŃ ROBERT                ng.
 DĘBSKI ARTUR                    ws.   KOPYCIŃSKI SŁAWOMIR         ws.       PENKALSKI WOJCIECH                ws.   KĘPIŃSKI ADAM                 ng.
-DOMARACKI MAREK                 ws.   KOTLIŃSKI ROMAN             ws.       PIĄ TAK ANDRZEJ                   ws.   NOWICKA WANDA                 ng.
+DOMARACKI MAREK                 ws.   KOTLIŃSKI ROMAN             ws.       PIĄTAK ANDRZEJ                   ws.   NOWICKA WANDA                 ng.
 DZIADZIO DARIUSZ CEZAR          ws.   KRUPA ŁUKASZ                ws.       POPIOŁEK ZOFIA                    ws.   RYFIŃSKI ARMAND KAMIL         ng.
 ELSNER WINCENTY                 ws.   KWIATKOWSKI JACEK           ws.       POZNAŃSKI MAREK                   ws.   STOLARSKI MAREK               ng.
 GIBAŁA ŁUKASZ                   ws.   LEWANDOWSKI ANDRZEJ         ws.       ROZENEK ANDRZEJ                   ws.

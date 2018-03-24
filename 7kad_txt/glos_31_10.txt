@@ -17,11 +17,11 @@
 ACHINGER ELŻBIETA                    za    JASTRZĘBSKI LESZEK                  za       PACELT ZBIGNIEW                   za    ZAWADZKI RYSZARD                      za
 ARKIT TADEUSZ                        za    KAMIŃSKA BOŻENA                     za       PAHL WITOLD                       za    ZIELIŃSKI MACIEJ                      za
 ARNDT PAWEŁ                          za    KANIA ANDRZEJ                       za       PAPKE PAWEŁ                       za    ZIEMNIAK WOJCIECH                     za
-AUGUSTYN URSZULA                     za    KARPIŃSKI W ŁODZIMIERZ              za       PĘPEK MAŁGORZATA                  za    ZIĘ TEK JERZY                         za
+AUGUSTYN URSZULA                     za    KARPIŃSKI W ŁODZIMIERZ              za       PĘPEK MAŁGORZATA                  za    ZIĘTEK JERZY                         za
 AZIEWICZ TADEUSZ                     za    KATULSKI JAROSŁAW                   za       PIECHOTA SŁAWOMIR JAN             za    ŻALEK JACEK                           za
 BIERNACKI MAREK                      za    KAŹMIERCZAK JAN                     za       PIERZCHAŁA ELŻBIETA APOLONIA      za    ŻMIJAN STANISŁAW                      za
 BLANIK LESZEK                        za    KIDAWA-BŁOŃSKA MAŁGORZATA           za       PIETRASZEWSKA DANUTA              za    ŻYLIŃSKI ADAM                         za
-BOBOWSKA JOANNA                      za    KIERWIŃSKI MARCIN                   za       PIĘ TA JAROSŁAW                   za    KACZOR ROMAN                          pr.
+BOBOWSKA JOANNA                      za    KIERWIŃSKI MARCIN                   za       PIĘTA JAROSŁAW                   za    KACZOR ROMAN                          pr.
 BOROWIAK ŁUKASZ                      za    KOCHAN MAGDALENA                    za       PITERA JULIA                      za    KLUZIK-ROSTKOWSKA JOANNA              pr.
 BREJZA KRZYSZTOF                     za    KOLENDA-ŁABUŚ BRYGIDA               za       PLURA MAREK                       za    KOZŁOWSKA-RAJEWICZ AGNIESZKA          pr.
 BRZEZINKA JACEK                      za    KOŁACZ-LESZCZYŃSKA AGNIESZKA        za       PLUTA MIROSŁAW                    za    ADAMCZAK MAŁGORZATA                   ws.
@@ -79,7 +79,7 @@ ANDZEL WALDEMAR                 za    JĘDRYSEK MARIUSZ ORION       za        O�
 ARCISZEWSKA-MIELEWCZYK DOROTA   za    JURGIEL KRZYSZTOF            za        PALUCH ANNA                      za    TELUS ROBERT                  za
 ARDANOWSKI JAN KRZYSZTOF        za    KACZMAREK TOMASZ             za        PAW ŁOWICZ KRYSTYNA              za    TERLECKI RYSZARD              za
 AST MAREK                       za    KACZYŃSKI JAROSŁAW           za        PIECHA BOLESŁAW GRZEGORZ         za    TOMASZEWSKI JAN               za
-BABALSKI ZBIGNIEW               za    KAMIŃSKI MARIUSZ             za        PIĘ TA STANISŁAW                 za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
+BABALSKI ZBIGNIEW               za    KAMIŃSKI MARIUSZ             za        PIĘTA STANISŁAW                 za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ ANTONI      za        PIONTKOWSKI DARIUSZ              za    WARZECHA JAN                  za
 BARTUŚ BARBARA                  za    KLOC IZABELA                 za        POLACZEK JERZY                   za    WASZCZYKOWSKI WITOLD          za
 BĄK DARIUSZ                     za    KŁOSOWSKI SŁAWOMIR           za        POLAK MAREK                      za    WIPLER PRZEMYSŁAW             za
@@ -115,12 +115,12 @@ JANCZYK WIESŁAW STANISŁAW       za    NOWAK MARIA                  za        S
 BANASZAK MACIEJ                 pr.   GÓRCZYŃSKI ARTUR             pr.       NAJDER JACEK                     pr.   WYDRZYŃSKI MACIEJ             pr.
 BAUĆ PIOTR PAWEŁ                pr.   GRODZKA ANNA                 pr.       NOWICKA WANDA                    pr.   BRAMORA ARTUR                 ng.
 BIEDROŃ ROBERT                  pr.   KĘPIŃSKI ADAM                pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   GIBAŁA ŁUKASZ                 ng.
-BODIO BARTŁ OMIEJ               pr.   KLEPACZ WITOLD               pr.       PENKALSKI WOJCIECH               pr.   KABACIŃSKI MICHAŁ             ng.
+BODIO BARTŁOMIEJ               pr.   KLEPACZ WITOLD               pr.       PENKALSKI WOJCIECH               pr.   KABACIŃSKI MICHAŁ             ng.
 BORKOWSKI JERZY                 pr.   KŁOSOWSKI KRZYSZTOF          pr.       POPIOŁEK ZOFIA                   pr.   KOTLIŃSKI ROMAN               ng.
 CEDZYŃSKI JAN                   pr.   KMIECIK HENRYK               pr.       POZNAŃSKI MAREK                  pr.   KRUPA ŁUKASZ                  ng.
 CHMIELOWSKI PIOTR               pr.   KOPYCIŃSKI SŁAWOMIR          pr.       ROZENEK ANDRZEJ                  pr.   LEWANDOWSKI ANDRZEJ           ng.
 DĘBSKI ARTUR                    pr.   KWIATKOWSKI JACEK            pr.       RYFIŃSKI ARMAND KAMIL            pr.   PALIKOT JANUSZ                ng.
-DOMARACKI MAREK                 pr.   MAKOWSKI TOMASZ              pr.       SAJAK PAWEŁ                      pr.   PIĄ TAK ANDRZEJ               ng.
+DOMARACKI MAREK                 pr.   MAKOWSKI TOMASZ              pr.       SAJAK PAWEŁ                      pr.   PIĄTAK ANDRZEJ               ng.
 DZIADZIO DARIUSZ CEZAR          pr.   MARCINKIEWICZ MAŁGORZATA     pr.       STOLARSKI MAREK                  pr.   RYBAKOWICZ ADAM               ng.
 ELSNER WINCENTY                 pr.   MROCZEK MACIEJ               pr.       SZYMIEC-RACZYŃSKA HALINA         pr.
 

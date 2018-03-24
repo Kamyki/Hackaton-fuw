@@ -40,7 +40,7 @@ ZIELIŃSKI MACIEJ                    za    SYCZ MIRON                    pr.    
 AZIEWICZ TADEUSZ                    pr.   TOMAŃSKI PIOTR                pr.       KOSECKI ROMAN JACEK               ws.   ZAKRZEWSKA JADWIGA              ws.
 BLANIK LESZEK                       pr.   TOMCZAK JACEK                 pr.       KOWALSKI SŁAWOMIR                 ws.   ZDROJEWSKI BOGDAN               ws.
 BOBOWSKA JOANNA                     pr.   VAN DER COGHEN PIOTR          pr.       KOZDROŃ JERZY                     ws.   ZIEMNIAK WOJCIECH               ws.
-BOROWCZAK JERZY                     pr.   WOJTKOWSKI MAREK              pr.       KOZŁOWSKA-RAJEWICZ AGNIESZKA      ws.   ZIĘ TEK JERZY                   ws.
+BOROWCZAK JERZY                     pr.   WOJTKOWSKI MAREK              pr.       KOZŁOWSKA-RAJEWICZ AGNIESZKA      ws.   ZIĘTEK JERZY                   ws.
 BOROWIAK ŁUKASZ                     pr.   ZAREMBA RENATA                pr.       KROPIWNICKI ROBERT                ws.   BUDKA BORYS                     ng.
 BUKIEWICZ BOŻENNA                   pr.   ZAWADZKI RYSZARD              pr.       KWIATKOWSKI KRZYSZTOF             ws.   CHOMYCZ MAŁGORZATA              ng.
 DĄBROWSKA ALICJA                    pr.   ŻMIJAN STANISŁAW              pr.       LENZ TOMASZ                       ws.   FABISIAK JOANNA                 ng.
@@ -60,7 +60,7 @@ KIDAWA-BŁOŃSKA MAŁGORZATA           pr.   CHARŁAMPOWICZ JAROSŁAW        ws.
 KIERWIŃSKI MARCIN                   pr.   CICHOŃ JANUSZ                 ws.       PAHL WITOLD                       ws.   SZCZERBA MICHAŁ                 ng.
 KŁOSIN KRYSTYNA                     pr.   CIEŚLIŃSKI PIOTR              ws.       PIECHOTA SŁAWOMIR JAN             ws.   SZULC JAKUB                     ng.
 KOPACZEWSKA DOMICELA                pr.   CYCOŃ MARIAN                  ws.       PIERZCHAŁA ELŻBIETA APOLONIA      ws.   TUSK DONALD                     ng.
-KORZENIOWSKI LESZEK                 pr.   CZAPLICKA BARBARA             ws.       PIĘ TA JAROSŁAW                   ws.   TYSZKIEWICZ ROBERT              ng.
+KORZENIOWSKI LESZEK                 pr.   CZAPLICKA BARBARA             ws.       PIĘTA JAROSŁAW                   ws.   TYSZKIEWICZ ROBERT              ng.
 KOZACZYŃSKI JACEK                   pr.   CZECHYRA CZESŁAW              ws.       PIOTROWSKA TERESA                 ws.   VINCENT-ROSTOWSKI JAN           ng.
 KOZŁOWSKA IWONA                     pr.   CZERNOW ZOFIA                 ws.       PLOCKE KAZIMIERZ                  ws.   ŻALEK JACEK                     ng.
 KRAJEWSKA LIGIA                     pr.   CZERWIŃSKI ANDRZEJ            ws.       PLURA MAREK                       ws.
@@ -78,7 +78,7 @@ ARCISZEWSKA-MIELEWCZYK DOROTA   za    JASIŃSKI WOJCIECH                za      
 ARDANOWSKI JAN KRZYSZTOF        za    JURGIEL KRZYSZTOF                za        PALUCH ANNA                       za    TOMASZEWSKI JAN               za
 ARENT IWONA EWA                 za    KACZMAREK TOMASZ                 za        PAW ŁOWICZ KRYSTYNA               za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 AST MAREK                       za    KACZYŃSKI JAROSŁAW               za        PIECHA BOLESŁAW GRZEGORZ          za    WARZECHA JAN                  za
-BABALSKI ZBIGNIEW               za    KAMIŃSKI MARIUSZ S. ARKADIUSZA   za        PIĘ TA STANISŁAW                  za    WASZCZYKOWSKI WITOLD          za
+BABALSKI ZBIGNIEW               za    KAMIŃSKI MARIUSZ S. ARKADIUSZA   za        PIĘTA STANISŁAW                  za    WASZCZYKOWSKI WITOLD          za
 BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ S. LESŁAWA      za        PIONTKOWSKI DARIUSZ               za    WIPLER PRZEMYSŁAW             za
 BARTUŚ BARBARA                  za    KLOC IZABELA                     za        PIOTROWICZ STANISŁAW              za    WIŚNIEWSKA JADWIGA            za
 BĄK DARIUSZ                     za    KOŁAKOWSKI LECH                  za        POLACZEK JERZY                    za    WITEK ELŻBIETA                za
@@ -113,12 +113,12 @@ HRYNKIEWICZ JÓZEFA              za    NAIMSKI PIOTR                    za      
 BANASZAK MACIEJ                 ws.   GÓRCZYŃSKI ARTUR                 ws.       MAKOWSKI TOMASZ                   ws.   ROZENEK ANDRZEJ               ws.
 BAUĆ PIOTR PAWEŁ                ws.   GRODZKA ANNA                     ws.       MARCINKIEWICZ MAŁGORZATA          ws.   RYBAKOWICZ ADAM               ws.
 BIEDROŃ ROBERT                  ws.   KABACIŃSKI MICHAŁ                ws.       MROCZEK MACIEJ                    ws.   RYFIŃSKI ARMAND KAMIL         ws.
-BODIO BARTŁ OMIEJ               ws.   KĘPIŃSKI ADAM                    ws.       NAJDER JACEK                      ws.   SAJAK PAWEŁ                   ws.
+BODIO BARTŁOMIEJ               ws.   KĘPIŃSKI ADAM                    ws.       NAJDER JACEK                      ws.   SAJAK PAWEŁ                   ws.
 BORKOWSKI JERZY                 ws.   KŁOSOWSKI KRZYSZTOF              ws.       NOWICKA WANDA                     ws.   STOLARSKI MAREK               ws.
 BRAMORA ARTUR                   ws.   KMIECIK HENRYK                   ws.       PACHOLSKI MICHAŁ TOMASZ           ws.   SZYMIEC-RACZYŃSKA HALINA      ws.
 CEDZYŃSKI JAN                   ws.   KOPYCIŃSKI SŁAWOMIR              ws.       PALIKOT JANUSZ                    ws.   WYDRZYŃSKI MACIEJ             ws.
 DĘBSKI ARTUR                    ws.   KOTLIŃSKI ROMAN                  ws.       PENKALSKI WOJCIECH                ws.   CHMIELOWSKI PIOTR             ng.
-DOMARACKI MAREK                 ws.   KRUPA ŁUKASZ                     ws.       PIĄ TAK ANDRZEJ                   ws.
+DOMARACKI MAREK                 ws.   KRUPA ŁUKASZ                     ws.       PIĄTAK ANDRZEJ                   ws.
 DZIADZIO DARIUSZ CEZAR          ws.   KWIATKOWSKI JACEK                ws.       POPIOŁEK ZOFIA                    ws.
 ELSNER WINCENTY                 ws.   LEWANDOWSKI ANDRZEJ              ws.       POZNAŃSKI MAREK                   ws.
 

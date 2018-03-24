@@ -37,7 +37,7 @@ CIEŚLIŃSKI PIOTR                     za    KŁOSIN KRYSTYNA                   
 CYCOŃ MARIAN                         za    KOCHAN MAGDALENA                     za       PIERZCHAŁA ELŻBIETA APOLONIA      za   WITCZAK MARIUSZ                 za
 CZAPLICKA BARBARA                    za    KOLENDA-ŁABUŚ BRYGIDA                za       PIETRASZEWSKA DANUTA              za   WITKOWSKI RADOSŁAW              za
 CZECHYRA CZESŁAW                     za    KOŁACZ-LESZCZYŃSKA AGNIESZKA         za       PIETRZCZYK LUCJAN MAREK           za   WOJNAROWSKI NORBERT             za
-CZERNOW ZOFIA                        za    KOŁODZIEJ EWA                        za       PIĘ TA JAROSŁAW                   za   WOJTKOWSKI MAREK                za
+CZERNOW ZOFIA                        za    KOŁODZIEJ EWA                        za       PIĘTA JAROSŁAW                   za   WOJTKOWSKI MAREK                za
 CZERWIŃSKI ANDRZEJ                   za    KONWIŃSKI ZBIGNIEW                   za       PIOTROWSKA TERESA                 za   WÓJCIK MAREK                    za
 DĄBROWSKA ALICJA                     za    KOPACZ EWA                           za       PITERA JULIA                      za   ZAKRZEWSKA JADWIGA              za
 DROZD EWA                            za    KOPACZEWSKA DOMICELA                 za       PLOCKE KAZIMIERZ                  za   ZAREMBA RENATA                  za
@@ -45,7 +45,7 @@ DUNIN ARTUR                          za    KOSECKI ROMAN JACEK                  
 DURKA ZENON                          za    KOWALSKI SŁAWOMIR                    za       POMASKA AGNIESZKA                 za   ZDROJEWSKI BOGDAN               za
 DZIĘCIOŁ JANUSZ                      za    KOZACZYŃSKI JACEK                    za       POŚLEDNIA KRYSTYNA                za   ZIELIŃSKI MACIEJ                za
 DZIKOWSKI WALDY                      za    KOZDROŃ JERZY                        za       RACZKOWSKI DAMIAN                 za   ZIEMNIAK WOJCIECH               za
-FABISIAK JOANNA                      za    KOZŁOWSKA IWONA                      za       RADZISZEWSKA ELŻBIETA             za   ZIĘ TEK JERZY                   za
+FABISIAK JOANNA                      za    KOZŁOWSKA IWONA                      za       RADZISZEWSKA ELŻBIETA             za   ZIĘTEK JERZY                   za
 FEDOROWICZ JERZY                     za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       RANIEWICZ GRZEGORZ                za   ŻALEK JACEK                     za
 FIEDLER ARKADY                       za    KRAJEWSKA LIGIA                      za       RAŚ IRENEUSZ                      za   ŻMIJAN STANISŁAW                za
 GADOWSKI KRZYSZTOF                   za    KROPIWNICKI ROBERT                   za       ROSATI DARIUSZ                    za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -82,7 +82,7 @@ BABINETZ PIOTR                  pr.   KACZMAREK TOMASZ            pr.       OŻ�
 BARTUŚ BARBARA                  pr.   KACZYŃSKI JAROSŁAW          pr.       PALUCH ANNA                      pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 BĄK DARIUSZ                     pr.   KAMIŃSKI MARIUSZ            pr.       PAW ŁOWICZ KRYSTYNA              pr.   TELUS ROBERT                  pr.
 BERNACKI W ŁODZIMIERZ           pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TERLECKI RYSZARD              pr.
-BĘTKOWSKI ANDRZEJ               pr.   KLOC IZABELA                pr.       PIĘ TA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
+BĘTKOWSKI ANDRZEJ               pr.   KLOC IZABELA                pr.       PIĘTA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
 BŁASZCZAK MARIUSZ               pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIONTKOWSKI DARIUSZ              pr.   TOMASZEWSKI JAN               pr.
 BRUDZIŃSKI JOACHIM              pr.   KOŁAKOWSKI LECH             pr.       PIOTROWICZ STANISŁAW             pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BUBULA BARBARA                  pr.   KOŁAKOWSKI ROBERT           pr.       POLACZEK JERZY                   pr.   WARZECHA JAN                  pr.
@@ -108,14 +108,14 @@ HOC CZESŁAW                     pr.   MATUSIAK GRZEGORZ           pr.       SZA
 
  RP (41)                      GŁOSOWAŁO - 37            ZA - 17   PRZECIW - 20               WSTRZYM. - 0             NIE GŁOS. - 4
 
-BAUĆ PIOTR PAWEŁ                za    PIĄ TAK ANDRZEJ             za        ELSNER WINCENTY                  pr.   PACHOLSKI MICHAŁ TOMASZ       pr.
+BAUĆ PIOTR PAWEŁ                za    PIĄTAK ANDRZEJ             za        ELSNER WINCENTY                  pr.   PACHOLSKI MICHAŁ TOMASZ       pr.
 BIEDROŃ ROBERT                  za    POPIOŁEK ZOFIA              za        GÓRCZYŃSKI ARTUR                 pr.   PENKALSKI WOJCIECH            pr.
 BORKOWSKI JERZY                 za    POZNAŃSKI MAREK             za        KĘPIŃSKI ADAM                    pr.   RYBAKOWICZ ADAM               pr.
 BRAMORA ARTUR                   za    ROZENEK ANDRZEJ             za        KŁOSOWSKI KRZYSZTOF              pr.   STOLARSKI MAREK               pr.
 DĘBSKI ARTUR                    za    SZYMIEC-RACZYŃSKA HALINA    za        KMIECIK HENRYK                   pr.   DOMARACKI MAREK               ng.
 GRODZKA ANNA                    za    WYDRZYŃSKI MACIEJ           za        KOTLIŃSKI ROMAN                  pr.   KABACIŃSKI MICHAŁ             ng.
 KOPYCIŃSKI SŁAWOMIR             za    BANASZAK MACIEJ             pr.       KRUPA ŁUKASZ                     pr.   RYFIŃSKI ARMAND KAMIL         ng.
-KWIATKOWSKI JACEK               za    BODIO BARTŁ OMIEJ           pr.       LEWANDOWSKI ANDRZEJ              pr.   SAJAK PAWEŁ                   ng.
+KWIATKOWSKI JACEK               za    BODIO BARTŁOMIEJ           pr.       LEWANDOWSKI ANDRZEJ              pr.   SAJAK PAWEŁ                   ng.
 MAKOWSKI TOMASZ                 za    CEDZYŃSKI JAN               pr.       MARCINKIEWICZ MAŁGORZATA         pr.
 NOWICKA WANDA                   za    CHMIELOWSKI PIOTR           pr.       MROCZEK MACIEJ                   pr.
 PALIKOT JANUSZ                  za    DZIADZIO DARIUSZ CEZAR      pr.       NAJDER JACEK                     pr.

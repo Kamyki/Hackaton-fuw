@@ -44,7 +44,7 @@ DROZD EWA                            za    KOPACZEWSKA DOMICELA                 
 DUNIN ARTUR                          za    KORZENIOWSKI LESZEK                  za       PIERZCHAŁA ELŻBIETA APOLONIA       za   WITCZAK MARIUSZ                 za
 DURKA ZENON                          za    KOSECKI ROMAN JACEK                  za       PIETRASZEWSKA DANUTA               za   WITKOWSKI RADOSŁAW              za
 DZIĘCIOŁ JANUSZ                      za    KOWALSKI SŁAWOMIR                    za       PIETRZCZYK LUCJAN MAREK            za   WOJTKOWSKI MAREK                za
-DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                    za       PIĘ TA JAROSŁAW                    za   WOLAK EWA                       za
+DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                    za       PIĘTA JAROSŁAW                    za   WOLAK EWA                       za
 FABISIAK JOANNA                      za    KOZDROŃ JERZY                        za       PIOTROWSKA TERESA                  za   WÓJCIK MAREK                    za
 FEDOROWICZ JERZY                     za    KOZŁOWSKA IWONA                      za       PITERA JULIA                       za   ZAKRZEWSKA JADWIGA              za
 FIEDLER ARKADY                       za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLOCKE KAZIMIERZ                   za   ZAREMBA RENATA                  za
@@ -52,7 +52,7 @@ GADOWSKI KRZYSZTOF                   za    KOŹLAKIEWICZ MIROSŁAW              
 GAŁAŻEWSKI ANDRZEJ                   za    KRAJEWSKA LIGIA                      za       PLUTA MIROSŁAW                     za   ZDROJEWSKI BOGDAN               za
 GAPIŃSKA ELŻBIETA                    za    KROPIWNICKI ROBERT                   za       POMASKA AGNIESZKA                  za   ZIELIŃSKI MACIEJ                za
 GAW ŁOWSKI STANISŁAW                 za    KRZĄKAŁA MAREK                       za       RACZKOWSKI DAMIAN                  za   ZIEMNIAK WOJCIECH               za
-GĄDEK LIDIA                          za    KUCHARSKI CEZARY                     za       RADZISZEWSKA ELŻBIETA              za   ZIĘ TEK JERZY                   za
+GĄDEK LIDIA                          za    KUCHARSKI CEZARY                     za       RADZISZEWSKA ELŻBIETA              za   ZIĘTEK JERZY                   za
 GĄSIOR-MAREK MAGDALENA               za    KUDRYCKA BARBARA                     za       RANIEWICZ GRZEGORZ                 za   ŻALEK JACEK                     za
 GELERT ELŻBIETA                      za    KULESZA TOMASZ                       za       RAŚ IRENEUSZ                       za   ŻMIJAN STANISŁAW                za
 GIERADA ARTUR                        za    KWIATKOWSKI KRZYSZTOF                za       ROSATI DARIUSZ                     za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -81,7 +81,7 @@ ARENT IWONA EWA                 ws.   KACZMAREK TOMASZ            ws.       OŻ�
 AST MAREK                       ws.   KACZYŃSKI JAROSŁAW          ws.       PALUCH ANNA                       ws.   TELUS ROBERT                  ws.
 BABALSKI ZBIGNIEW               ws.   KAMIŃSKI MARIUSZ            ws.       PAW ŁOWICZ KRYSTYNA               ws.   TERLECKI RYSZARD              ws.
 BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   TOBISZOWSKI GRZEGORZ          ws.
-BARTUŚ BARBARA                  ws.   KLOC IZABELA                ws.       PIĘ TA STANISŁAW                  ws.   TOMASZEWSKI JAN               ws.
+BARTUŚ BARBARA                  ws.   KLOC IZABELA                ws.       PIĘTA STANISŁAW                  ws.   TOMASZEWSKI JAN               ws.
 BĄK DARIUSZ                     ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIONTKOWSKI DARIUSZ               ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 BERNACKI W ŁODZIMIERZ           ws.   KOŁAKOWSKI LECH             ws.       POLACZEK JERZY                    ws.   WARZECHA JAN                  ws.
 BĘTKOWSKI ANDRZEJ               ws.   KOŁAKOWSKI ROBERT           ws.       POLAK MAREK                       ws.   WASZCZYKOWSKI WITOLD          ws.
@@ -114,11 +114,11 @@ JACH MICHAŁ                     ws.   MICHAŁKIEWICZ KRZYSZTOF     ws.       SZ
 BANASZAK MACIEJ                 pr.   GÓRCZYŃSKI ARTUR            pr.       MROCZEK MACIEJ                    pr.   WYDRZYŃSKI MACIEJ             pr.
 BAUĆ PIOTR PAWEŁ                pr.   GRODZKA ANNA                pr.       NAJDER JACEK                      pr.   BRAMORA ARTUR                 ng.
 BIEDROŃ ROBERT                  pr.   KĘPIŃSKI ADAM               pr.       NOWICKA WANDA                     pr.   GIBAŁA ŁUKASZ                 ng.
-BODIO BARTŁ OMIEJ               pr.   KLEPACZ WITOLD              pr.       PACHOLSKI MICHAŁ TOMASZ           pr.   KABACIŃSKI MICHAŁ             ng.
+BODIO BARTŁOMIEJ               pr.   KLEPACZ WITOLD              pr.       PACHOLSKI MICHAŁ TOMASZ           pr.   KABACIŃSKI MICHAŁ             ng.
 BORKOWSKI JERZY                 pr.   KŁOSOWSKI KRZYSZTOF         pr.       PENKALSKI WOJCIECH                pr.   KOTLIŃSKI ROMAN               ng.
 CEDZYŃSKI JAN                   pr.   KMIECIK HENRYK              pr.       POPIOŁEK ZOFIA                    pr.   LEWANDOWSKI ANDRZEJ           ng.
 CHMIELOWSKI PIOTR               pr.   KOPYCIŃSKI SŁAWOMIR         pr.       POZNAŃSKI MAREK                   pr.   PALIKOT JANUSZ                ng.
-DĘBSKI ARTUR                    pr.   KRUPA ŁUKASZ                pr.       ROZENEK ANDRZEJ                   pr.   PIĄ TAK ANDRZEJ               ng.
+DĘBSKI ARTUR                    pr.   KRUPA ŁUKASZ                pr.       ROZENEK ANDRZEJ                   pr.   PIĄTAK ANDRZEJ               ng.
 DOMARACKI MAREK                 pr.   KWIATKOWSKI JACEK           pr.       SAJAK PAWEŁ                       pr.   RYBAKOWICZ ADAM               ng.
 DZIADZIO DARIUSZ CEZAR          pr.   MAKOWSKI TOMASZ             pr.       STOLARSKI MAREK                   pr.   RYFIŃSKI ARMAND KAMIL         ng.
 ELSNER WINCENTY                 pr.   MARCINKIEWICZ MAŁGORZATA    pr.       SZYMIEC-RACZYŃSKA HALINA          pr.

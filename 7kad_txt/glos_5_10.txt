@@ -45,7 +45,7 @@ DROZD EWA                            pr.   KONWIŃSKI ZBIGNIEW                  
 DUNIN ARTUR                          pr.   KOPACZ EWA                           pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA                 pr.
 DURKA ZENON                          pr.   KORZENIOWSKI LESZEK                  pr.       PIETRASZEWSKA DANUTA             pr.   WITCZAK MARIUSZ                     pr.
 DZIĘCIOŁ JANUSZ                      pr.   KOSECKI ROMAN JACEK                  pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITKOWSKI RADOSŁAW                  pr.
-DZIKOWSKI WALDY                      pr.   KOWALSKI SŁAWOMIR                    pr.       PIĘ TA JAROSŁAW                  pr.   WOJNAROWSKI NORBERT                 pr.
+DZIKOWSKI WALDY                      pr.   KOWALSKI SŁAWOMIR                    pr.       PIĘTA JAROSŁAW                  pr.   WOJNAROWSKI NORBERT                 pr.
 FABISIAK JOANNA                      pr.   KOZACZYŃSKI JACEK                    pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                    pr.
 FEDOROWICZ JERZY                     pr.   KOZDROŃ JERZY                        pr.       PITERA JULIA                     pr.   WOLAK EWA                           pr.
 FIEDLER ARKADY                       pr.   KOZŁOWSKA IWONA                      pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                        pr.
@@ -55,7 +55,7 @@ GAPIŃSKA ELŻBIETA                    pr.   KRAJEWSKA LIGIA                    
 GAW ŁOWSKI STANISŁAW                 pr.   KROPIWNICKI ROBERT                   pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN                   pr.
 GĄDEK LIDIA                          pr.   KRZĄKAŁA MAREK                       pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                    pr.
 GĄSIOR-MAREK MAGDALENA               pr.   KUCHARSKI CEZARY                     pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH                   pr.
-GELERT ELŻBIETA                      pr.   KUDRYCKA BARBARA                     pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                       pr.
+GELERT ELŻBIETA                      pr.   KUDRYCKA BARBARA                     pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                       pr.
 GIBAŁA ŁUKASZ                        pr.   KULESZA TOMASZ                       pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                         pr.
 GIERADA ARTUR                        pr.   KWIATKOWSKI KRZYSZTOF                pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                    pr.
 GLUZA CZESŁAW                        pr.   LAMCZYK STANISŁAW                    pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA             pr.
@@ -80,7 +80,7 @@ ARENT IWONA EWA                 za    JURGIEL KRZYSZTOF             za        O�
 AST MAREK                       za    KACZMAREK TOMASZ              za        PALUCH ANNA                       za    TCHÓRZEWSKI KRZYSZTOF         za
 BABALSKI ZBIGNIEW               za    KACZYŃSKI JAROSŁAW            za        PAW ŁOWICZ KRYSTYNA               za    TELUS ROBERT                  za
 BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ              za        PIECHA BOLESŁAW GRZEGORZ          za    TERLECKI RYSZARD              za
-BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ ANTONI       za        PIĘ TA STANISŁAW                  za    TOBISZOWSKI GRZEGORZ          za
+BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ ANTONI       za        PIĘTA STANISŁAW                  za    TOBISZOWSKI GRZEGORZ          za
 BĄK DARIUSZ                     za    KLOC IZABELA                  za        PIONTKOWSKI DARIUSZ               za    TOMASZEWSKI JAN               za
 BERNACKI W ŁODZIMIERZ           za    KOŁAKOWSKI LECH               za        PIOTROWICZ STANISŁAW              za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI ROBERT             za        POLACZEK JERZY                    za    WARZECHA JAN                  za
@@ -112,12 +112,12 @@ HRYNKIEWICZ JÓZEFA              za    MAZUREK BEATA                 za        S
 BANASZAK MACIEJ                 za    ELSNER WINCENTY               za        MAKOWSKI TOMASZ                   za    ROZENEK ANDRZEJ               za
 BAUĆ PIOTR PAWEŁ                za    GÓRCZYŃSKI ARTUR              za        MARCINKIEWICZ MAŁGORZATA          za    RYBAKOWICZ ADAM               za
 BIEDROŃ ROBERT                  za    GRODZKA ANNA                  za        MROCZEK MACIEJ                    za    RYFIŃSKI ARMAND KAMIL         za
-BODIO BARTŁ OMIEJ               za    KABACIŃSKI MICHAŁ             za        NAJDER JACEK                      za    SAJAK PAWEŁ                   za
+BODIO BARTŁOMIEJ               za    KABACIŃSKI MICHAŁ             za        NAJDER JACEK                      za    SAJAK PAWEŁ                   za
 BORKOWSKI JERZY                 za    KĘPIŃSKI ADAM                 za        NOWICKA WANDA                     za    STOLARSKI MAREK               za
 BRAMORA ARTUR                   za    KŁOSOWSKI KRZYSZTOF           za        PACHOLSKI MICHAŁ TOMASZ           za    SZYMIEC-RACZYŃSKA HALINA      za
 CEDZYŃSKI JAN                   za    KMIECIK HENRYK                za        PALIKOT JANUSZ                    za    WYDRZYŃSKI MACIEJ             za
 CHMIELOWSKI PIOTR               za    KOPYCIŃSKI SŁAWOMIR           za        PENKALSKI WOJCIECH                za    LEWANDOWSKI ANDRZEJ           ng.
-DĘBSKI ARTUR                    za    KOTLIŃSKI ROMAN               za        PIĄ TAK ANDRZEJ                   za
+DĘBSKI ARTUR                    za    KOTLIŃSKI ROMAN               za        PIĄTAK ANDRZEJ                   za
 DOMARACKI MAREK                 za    KRUPA ŁUKASZ                  za        POPIOŁEK ZOFIA                    za
 DZIADZIO DARIUSZ CEZAR          za    KWIATKOWSKI JACEK             za        POZNAŃSKI MAREK                   za
 

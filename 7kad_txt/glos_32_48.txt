@@ -31,7 +31,7 @@ BUTRYN RENATA                        za    PĘPEK MAŁGORZATA                   
 CHARŁAMPOWICZ JAROSŁAW               za    PIECHOTA SŁAWOMIR JAN                 za        JARMUZIEWICZ TADEUSZ             pr.   ŻMIJAN STANISŁAW                pr.
 CYCOŃ MARIAN                         za    PIERZCHAŁA ELŻBIETA APOLONIA          za        KAMIŃSKA BOŻENA                  pr.   AZIEWICZ TADEUSZ                ws.
 CZERWIŃSKI ANDRZEJ                   za    PIETRZCZYK LUCJAN MAREK               za        KATULSKI JAROSŁAW                pr.   BLANIK LESZEK                   ws.
-DURKA ZENON                          za    PIĘ TA JAROSŁAW                       za        KIDAWA-BŁOŃSKA MAŁGORZATA        pr.   CZAPLICKA BARBARA               ws.
+DURKA ZENON                          za    PIĘTA JAROSŁAW                       za        KIDAWA-BŁOŃSKA MAŁGORZATA        pr.   CZAPLICKA BARBARA               ws.
 DZIKOWSKI WALDY                      za    PIOTROWSKA TERESA                     za        KLUZIK-ROSTKOWSKA JOANNA         pr.   CZECHYRA CZESŁAW                ws.
 FABISIAK JOANNA                      za    PITERA JULIA                          za        KOCHAN MAGDALENA                 pr.   GAŁAŻEWSKI ANDRZEJ              ws.
 FIEDLER ARKADY                       za    PLOCKE KAZIMIERZ                      za        KOLENDA-ŁABUŚ BRYGIDA            pr.   GELERT ELŻBIETA                 ws.
@@ -58,7 +58,7 @@ KIERWIŃSKI MARCIN                    za    TOMCZYKIEWICZ TOMASZ                
 KOŁACZ-LESZCZYŃSKA AGNIESZKA         za    WOLAK EWA                             za        NOWAK SŁAWOMIR                   pr.   WOJTKOWSKI MAREK                ws.
 KORZENIOWSKI LESZEK                  za    ZAWADZKI RYSZARD                      za        OKRĄGŁY JANINA                   pr.   ŻMUDA-TRZEBIATOWSKA EWA         ws.
 KOSECKI ROMAN JACEK                  za    ZIEMNIAK WOJCIECH                     za        OLSZEWSKI PAWEŁ                  pr.   KOPACZ EWA                      ng.
-KOWALSKI SŁAWOMIR                    za    ZIĘ TEK JERZY                         za        PAHL WITOLD                      pr.   LASSOTA JÓZEF                   ng.
+KOWALSKI SŁAWOMIR                    za    ZIĘTEK JERZY                         za        PAHL WITOLD                      pr.   LASSOTA JÓZEF                   ng.
 KOZACZYŃSKI JACEK                    za    ŻALEK JACEK                           za        PAPKE PAWEŁ                      pr.   SZCZERBA MICHAŁ                 ng.
 KOZDROŃ JERZY                        za    ŻYLIŃSKI ADAM                         za        POMASKA AGNIESZKA                pr.   ZAKRZEWSKA JADWIGA              ng.
 KOŹLAKIEWICZ MIROSŁAW                za    ARŁUKOWICZ BARTOSZ                    pr.       RUTNICKI JAKUB                   pr.   ZDROJEWSKI BOGDAN               ng.
@@ -83,7 +83,7 @@ BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ             za        O�
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ ANTONI      za        PALUCH ANNA                      za    ŚWIAT JACEK                   za
 BĄK DARIUSZ                     za    KLOC IZABELA                 za        PAW ŁOWICZ KRYSTYNA              za    TCHÓRZEWSKI KRZYSZTOF         za
 BERNACKI W ŁODZIMIERZ           za    KŁOSOWSKI SŁAWOMIR           za        PIECHA BOLESŁAW GRZEGORZ         za    TELUS ROBERT                  za
-BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘ TA STANISŁAW                 za    TERLECKI RYSZARD              za
+BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘTA STANISŁAW                 za    TERLECKI RYSZARD              za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI ROBERT            za        PIONTKOWSKI DARIUSZ              za    TOBISZOWSKI GRZEGORZ          za
 BRUDZIŃSKI JOACHIM              za    KOWALCZYK HENRYK             za        PIOTROWICZ STANISŁAW             za    TOMASZEWSKI JAN               za
 BUBULA BARBARA                  za    KOWNACKI BARTOSZ             za        POLACZEK JERZY                   za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
@@ -110,10 +110,10 @@ HRYNKIEWICZ JÓZEFA              za    MATUSIAK GRZEGORZ            za        SZ
 
  RP (43)                      GŁOSOWAŁO - 42            ZA - 0     PRZECIW - 42               WSTRZYM. - 0             NIE GŁOS. - 1
 
-BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       KRUPA ŁUKASZ                     pr.   PIĄ TAK ANDRZEJ               pr.
+BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       KRUPA ŁUKASZ                     pr.   PIĄTAK ANDRZEJ               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                pr.       KWIATKOWSKI JACEK                pr.   POPIOŁEK ZOFIA                pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR             pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                 pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                 pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ            pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM                pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD               pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                   pr.

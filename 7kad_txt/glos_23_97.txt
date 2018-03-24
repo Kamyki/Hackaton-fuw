@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                     pr.   KOPACZ EWA                        
 DĄBROWSKA ALICJA                       pr.   KOPACZEWSKA DOMICELA                    pr.       PIECHOTA SŁAWOMIR JAN             pr.   WARDZAŁA ROBERT                 pr.
 DROZD EWA                              pr.   KORZENIOWSKI LESZEK                     pr.       PIERZCHAŁA ELŻBIETA APOLONIA      pr.   WIELICHOWSKA MONIKA             pr.
 DUNIN ARTUR                            pr.   KOSECKI ROMAN JACEK                     pr.       PIETRASZEWSKA DANUTA              pr.   WITCZAK MARIUSZ                 pr.
-DURKA ZENON                            pr.   KOWALSKI SŁAWOMIR                       pr.       PIĘ TA JAROSŁAW                   pr.   WITKOWSKI RADOSŁAW              pr.
+DURKA ZENON                            pr.   KOWALSKI SŁAWOMIR                       pr.       PIĘTA JAROSŁAW                   pr.   WITKOWSKI RADOSŁAW              pr.
 DZIĘCIOŁ JANUSZ                        pr.   KOZACZYŃSKI JACEK                       pr.       PIOTROWSKA TERESA                 pr.   WOLAK EWA                       pr.
 DZIKOWSKI WALDY                        pr.   KOZDROŃ JERZY                           pr.       PITERA JULIA                      pr.   WÓJCIK MAREK                    pr.
 FABISIAK JOANNA                        pr.   KOZŁOWSKA IWONA                         pr.       PLOCKE KAZIMIERZ                  pr.   ZAKRZEWSKA JADWIGA              pr.
@@ -52,7 +52,7 @@ FIEDLER ARKADY                         pr.   KOŹLAKIEWICZ MIROSŁAW            
 GADOWSKI KRZYSZTOF                     pr.   KRAJEWSKA LIGIA                         pr.       POMASKA AGNIESZKA                 pr.   ZDROJEWSKI BOGDAN               pr.
 GAŁAŻEWSKI ANDRZEJ                     pr.   KROPIWNICKI ROBERT                      pr.       POŚLEDNIA KRYSTYNA                pr.   ZIELIŃSKI MACIEJ                pr.
 GAPIŃSKA ELŻBIETA                      pr.   KRZĄKAŁA MAREK                          pr.       RACZKOWSKI DAMIAN                 pr.   ZIEMNIAK WOJCIECH               pr.
-GAW ŁOWSKI STANISŁAW                   pr.   KUCHARSKI CEZARY                        pr.       RADZISZEWSKA ELŻBIETA             pr.   ZIĘ TEK JERZY                   pr.
+GAW ŁOWSKI STANISŁAW                   pr.   KUCHARSKI CEZARY                        pr.       RADZISZEWSKA ELŻBIETA             pr.   ZIĘTEK JERZY                   pr.
 GĄDEK LIDIA                            pr.   KUDRYCKA BARBARA                        pr.       RANIEWICZ GRZEGORZ                pr.   ŻALEK JACEK                     pr.
 GĄSIOR-MAREK MAGDALENA                 pr.   KULESZA TOMASZ                          pr.       RAŚ IRENEUSZ                      pr.   ŻMIJAN STANISŁAW                pr.
 GELERT ELŻBIETA                        pr.   KWIATKOWSKI KRZYSZTOF                   pr.       ROSATI DARIUSZ                    pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -82,7 +82,7 @@ BABINETZ PIOTR                  za    KACZYŃSKI JAROSŁAW           za        O
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ             za        PALUCH ANNA                      za    ŚWIAT JACEK                   za
 BĄK DARIUSZ                     za    KAMIŃSKI MARIUSZ ANTONI      za        PAW ŁOWICZ KRYSTYNA              za    TCHÓRZEWSKI KRZYSZTOF         za
 BERNACKI W ŁODZIMIERZ           za    KŁOSOWSKI SŁAWOMIR           za        PIECHA BOLESŁAW GRZEGORZ         za    TELUS ROBERT                  za
-BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘ TA STANISŁAW                 za    TERLECKI RYSZARD              za
+BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘTA STANISŁAW                 za    TERLECKI RYSZARD              za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI ROBERT            za        PIONTKOWSKI DARIUSZ              za    TOBISZOWSKI GRZEGORZ          za
 BRUDZIŃSKI JOACHIM              za    KOWALCZYK HENRYK             za        PIOTROWICZ STANISŁAW             za    TOMASZEWSKI JAN               za
 BUBULA BARBARA                  za    KOWNACKI BARTOSZ             za        POLACZEK JERZY                   za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
@@ -110,11 +110,11 @@ HOFMAN ADAM                     za    MATUSIAK GRZEGORZ            za        SZA
 
 BAUĆ PIOTR PAWEŁ                za    DĘBSKI ARTUR                 pr.       KWIATKOWSKI JACEK                pr.   RYBAKOWICZ ADAM               pr.
 DZIADZIO DARIUSZ CEZAR          za    DOMARACKI MAREK              pr.       LEWANDOWSKI ANDRZEJ              pr.   RYFIŃSKI ARMAND KAMIL         pr.
-PIĄ TAK ANDRZEJ                 za    ELSNER WINCENTY              pr.       MAKOWSKI TOMASZ                  pr.   SAJAK PAWEŁ                   pr.
+PIĄTAK ANDRZEJ                 za    ELSNER WINCENTY              pr.       MAKOWSKI TOMASZ                  pr.   SAJAK PAWEŁ                   pr.
 POPIOŁEK ZOFIA                  za    GÓRCZYŃSKI ARTUR             pr.       MARCINKIEWICZ MAŁGORZATA         pr.   STOLARSKI MAREK               pr.
 BANASZAK MACIEJ                 pr.   GRODZKA ANNA                 pr.       MROCZEK MACIEJ                   pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 BIEDROŃ ROBERT                  pr.   KĘPIŃSKI ADAM                pr.       NAJDER JACEK                     pr.   WYDRZYŃSKI MACIEJ             pr.
-BODIO BARTŁ OMIEJ               pr.   KLEPACZ WITOLD               pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   GIBAŁA ŁUKASZ                 ng.
+BODIO BARTŁOMIEJ               pr.   KLEPACZ WITOLD               pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   GIBAŁA ŁUKASZ                 ng.
 BORKOWSKI JERZY                 pr.   KŁOSOWSKI KRZYSZTOF          pr.       PALIKOT JANUSZ                   pr.   KABACIŃSKI MICHAŁ             ng.
 BRAMORA ARTUR                   pr.   KMIECIK HENRYK               pr.       PENKALSKI WOJCIECH               pr.   KOPYCIŃSKI SŁAWOMIR           ng.
 CEDZYŃSKI JAN                   pr.   KOTLIŃSKI ROMAN              pr.       POZNAŃSKI MAREK                  pr.   NOWICKA WANDA                 ng.

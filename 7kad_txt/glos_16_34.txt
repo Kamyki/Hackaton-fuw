@@ -40,7 +40,7 @@ FEDOROWICZ JERZY                     za    LENZ TOMASZ                         z
 FIEDLER ARKADY                       za    LESZCZYNA IZABELA                   za       SZYMAŃSKI TOMASZ                  za    PAPKE PAWEŁ                    ng.
 GADOWSKI KRZYSZTOF                   za    ŁAPIŃSKI MAREK                      za       ŚLEDZIŃSKA-KATARASIŃSKA IWONA     za    PIERZCHAŁA ELŻBIETA APOLONIA   ng.
 GAŁAŻEWSKI ANDRZEJ                   za    MARCZUŁAJTIS-WALCZAK JAGNA          za       ŚWIĘCICKI MARCIN                  za    PIETRZCZYK LUCJAN MAREK        ng.
-GAW ŁOWSKI STANISŁAW                 za    MATUSIK-LIPIEC KATARZYNA            za       TOMAŃSKI PIOTR                    za    PIĘ TA JAROSŁAW                ng.
+GAW ŁOWSKI STANISŁAW                 za    MATUSIK-LIPIEC KATARZYNA            za       TOMAŃSKI PIOTR                    za    PIĘTA JAROSŁAW                ng.
 GĄSIOR-MAREK MAGDALENA               za    MĘŻYDŁO ANTONI                      za       TOMCZAK JACEK                     za    PIOTROWSKA TERESA              ng.
 GIERADA ARTUR                        za    MIODOWICZ KONSTANTY                 za       TOMCZYK CEZARY                    za    PLURA MAREK                    ng.
 GŁOGOWSKI TOMASZ                     za    MROCZEK CZESŁAW                     za       TOMCZYKIEWICZ TOMASZ              za    POŚLEDNIA KRYSTYNA             ng.
@@ -55,7 +55,7 @@ GUT-MOSTOWY ANDRZEJ                  za    NOWAK TOMASZ PIOTR                  z
 GUZOWSKA IWONA                       za    NYKIEL MIROSŁAWA                    za       ZAREMBA RENATA                    za    TUSK DONALD                    ng.
 HALICKI ANDRZEJ                      za    OKŁA-DREWNOWICZ MARZENA             za       ZAWADZKI RYSZARD                  za    TYSZKIEWICZ ROBERT             ng.
 HANAJCZYK AGNIESZKA                  za    OKRĄGŁY JANINA                      za       ZIELIŃSKI MACIEJ                  za    VINCENT-ROSTOWSKI JAN          ng.
-HOPPE TERESA                         za    OLECHOWSKA ALICJA                   za       ZIĘ TEK JERZY                     za    WOLAK EWA                      ng.
+HOPPE TERESA                         za    OLECHOWSKA ALICJA                   za       ZIĘTEK JERZY                     za    WOLAK EWA                      ng.
 HUSKOWSKI STANISŁAW                  za    OLSZEWSKI PAWEŁ                     za       ŻALEK JACEK                       za    ZAKRZEWSKA JADWIGA             ng.
 JARMUZIEWICZ TADEUSZ                 za    ORZECHOWSKI ANDRZEJ                 za       ŻMIJAN STANISŁAW                  za    ZDROJEWSKI BOGDAN              ng.
 JAROS MICHAŁ                         za    OŚWIĘCIMSKI KONSTANTY               za       ŻYLIŃSKI ADAM                     za    ZIEMNIAK WOJCIECH              ng.
@@ -83,7 +83,7 @@ BĘTKOWSKI ANDRZEJ               pr.   OPIOŁA MAREK                     pr.    
 BRUDZIŃSKI JOACHIM              pr.   OSUCH JACEK                      pr.       BŁASZCZAK MARIUSZ               ng.   POLAK MAREK                ng.
 BUBULA BARBARA                  pr.   OŻÓG STANISŁAW                   pr.       CZARTORYSKI ARKADIUSZ           ng.   RAFALSKA ELŻBIETA          ng.
 CHMIELOWIEC ZBIGNIEW            pr.   PIECHA BOLESŁAW GRZEGORZ         pr.       CZESAK EDWARD                   ng.   SASIN JACEK                ng.
-CZARNECKI WITOLD                pr.   PIĘ TA STANISŁAW                 pr.       DOLATA ZBIGNIEW                 ng.   SELLIN JAROSŁAW            ng.
+CZARNECKI WITOLD                pr.   PIĘTA STANISŁAW                 pr.       DOLATA ZBIGNIEW                 ng.   SELLIN JAROSŁAW            ng.
 DOBRZYŃSKI LESZEK               pr.   POLAK PIOTR                      pr.       DUDA ANDRZEJ                    ng.   SPRAWKA LECH               ng.
 DZIEDZICZAK JAN                 pr.   POPIOŁEK KRZYSZTOF               pr.       DZIUBA TADEUSZ                  ng.   STRZAŁKOWSKI STEFAN        ng.
 FALFUS JACEK                    pr.   PYZIK PIOTR                      pr.       GIŻYŃSKI SZYMON                 ng.   SUSKI MAREK                ng.
@@ -110,11 +110,11 @@ KRASULSKI LEONARD               pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ      pr.     
 BANASZAK MACIEJ                 pr.   KLEPACZ WITOLD                   pr.       PALIKOT JANUSZ                  pr.   DZIADZIO DARIUSZ CEZAR     ng.
 BAUĆ PIOTR PAWEŁ                pr.   KŁOSOWSKI KRZYSZTOF              pr.       PENKALSKI WOJCIECH              pr.   ELSNER WINCENTY            ng.
 BIEDROŃ ROBERT                  pr.   KMIECIK HENRYK                   pr.       POPIOŁEK ZOFIA                  pr.   GRODZKA ANNA               ng.
-BODIO BARTŁ OMIEJ               pr.   KOTLIŃSKI ROMAN                  pr.       RYBAKOWICZ ADAM                 pr.   KABACIŃSKI MICHAŁ          ng.
+BODIO BARTŁOMIEJ               pr.   KOTLIŃSKI ROMAN                  pr.       RYBAKOWICZ ADAM                 pr.   KABACIŃSKI MICHAŁ          ng.
 BORKOWSKI JERZY                 pr.   KRUPA ŁUKASZ                     pr.       RYFIŃSKI ARMAND KAMIL           pr.   KOPYCIŃSKI SŁAWOMIR        ng.
 BRAMORA ARTUR                   pr.   KWIATKOWSKI JACEK                pr.       SZYMIEC-RACZYŃSKA HALINA        pr.   MARCINKIEWICZ MAŁGORZATA   ng.
 DĘBSKI ARTUR                    pr.   LEWANDOWSKI ANDRZEJ              pr.       WYDRZYŃSKI MACIEJ               pr.   PACHOLSKI MICHAŁ TOMASZ    ng.
-DOMARACKI MAREK                 pr.   MAKOWSKI TOMASZ                  pr.       POZNAŃSKI MAREK                 ws.   PIĄ TAK ANDRZEJ            ng.
+DOMARACKI MAREK                 pr.   MAKOWSKI TOMASZ                  pr.       POZNAŃSKI MAREK                 ws.   PIĄTAK ANDRZEJ            ng.
 GIBAŁA ŁUKASZ                   pr.   MROCZEK MACIEJ                   pr.       ROZENEK ANDRZEJ                 ws.   SAJAK PAWEŁ                ng.
 GÓRCZYŃSKI ARTUR                pr.   NAJDER JACEK                     pr.       CEDZYŃSKI JAN                   ng.   STOLARSKI MAREK            ng.
 KĘPIŃSKI ADAM                   pr.   NOWICKA WANDA                    pr.       CHMIELOWSKI PIOTR               ng.

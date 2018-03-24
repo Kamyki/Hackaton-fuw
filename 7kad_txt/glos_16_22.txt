@@ -39,7 +39,7 @@ CZERNOW ZOFIA                        za    KONWIŃSKI ZBIGNIEW                  
 CZERWIŃSKI ANDRZEJ                   za    KOPACZ EWA                           za       PIECHOTA SŁAWOMIR JAN             za   WIELICHOWSKA MONIKA             za
 DĄBROWSKA ALICJA                     za    KOPACZEWSKA DOMICELA                 za       PIETRASZEWSKA DANUTA              za   WITCZAK MARIUSZ                 za
 DROZD EWA                            za    KORZENIOWSKI LESZEK                  za       PIETRZCZYK LUCJAN MAREK           za   WITKOWSKI RADOSŁAW              za
-DUNIN ARTUR                          za    KOSECKI ROMAN JACEK                  za       PIĘ TA JAROSŁAW                   za   WOJNAROWSKI NORBERT             za
+DUNIN ARTUR                          za    KOSECKI ROMAN JACEK                  za       PIĘTA JAROSŁAW                   za   WOJNAROWSKI NORBERT             za
 DURKA ZENON                          za    KOWALSKI SŁAWOMIR                    za       PIOTROWSKA TERESA                 za   WOJTKOWSKI MAREK                za
 DZIĘCIOŁ JANUSZ                      za    KOZACZYŃSKI JACEK                    za       PITERA JULIA                      za   WOLAK EWA                       za
 FABISIAK JOANNA                      za    KOZDROŃ JERZY                        za       PLOCKE KAZIMIERZ                  za   WÓJCIK MAREK                    za
@@ -47,7 +47,7 @@ FEDOROWICZ JERZY                     za    KOZŁOWSKA IWONA                     
 FIEDLER ARKADY                       za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLUTA MIROSŁAW                    za   ZAWADZKI RYSZARD                za
 GADOWSKI KRZYSZTOF                   za    KOŹLAKIEWICZ MIROSŁAW                za       POMASKA AGNIESZKA                 za   ZIELIŃSKI MACIEJ                za
 GAŁAŻEWSKI ANDRZEJ                   za    KRAJEWSKA LIGIA                      za       RACZKOWSKI DAMIAN                 za   ZIEMNIAK WOJCIECH               za
-GAPIŃSKA ELŻBIETA                    za    KROPIWNICKI ROBERT                   za       RADZISZEWSKA ELŻBIETA             za   ZIĘ TEK JERZY                   za
+GAPIŃSKA ELŻBIETA                    za    KROPIWNICKI ROBERT                   za       RADZISZEWSKA ELŻBIETA             za   ZIĘTEK JERZY                   za
 GAW ŁOWSKI STANISŁAW                 za    KRZĄKAŁA MAREK                       za       RANIEWICZ GRZEGORZ                za   ŻALEK JACEK                     za
 GĄDEK LIDIA                          za    KUCHARSKI CEZARY                     za       RAŚ IRENEUSZ                      za   ŻMIJAN STANISŁAW                za
 GĄSIOR-MAREK MAGDALENA               za    KUDRYCKA BARBARA                     za       ROSATI DARIUSZ                    za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -78,7 +78,7 @@ AST MAREK                       pr.   KACZMAREK TOMASZ            pr.       OSUC
 BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ            pr.       OŻÓG STANISŁAW                   pr.   TELUS ROBERT                    pr.
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PAW ŁOWICZ KRYSTYNA              pr.   TERLECKI RYSZARD                pr.
 BARTUŚ BARBARA                  pr.   KLOC IZABELA                pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TOBISZOWSKI GRZEGORZ            pr.
-BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘ TA STANISŁAW                 pr.   TOMASZEWSKI JAN                 pr.
+BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘTA STANISŁAW                 pr.   TOMASZEWSKI JAN                 pr.
 BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI LECH             pr.       PIONTKOWSKI DARIUSZ              pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ     pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI ROBERT           pr.       PIOTROWICZ STANISŁAW             pr.   WARZECHA JAN                    pr.
 BŁASZCZAK MARIUSZ               pr.   KOWALCZYK HENRYK            pr.       POLACZEK JERZY                   pr.   WASZCZYKOWSKI WITOLD            pr.
@@ -110,13 +110,13 @@ JACH MICHAŁ                     pr.   MAZUREK BEATA               pr.       SZM
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY             pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK                 pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ               pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ                 pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR            pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM                 pr.
-BODIO BARTŁ OMIEJ               pr.   KABACIŃSKI MICHAŁ           pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL           pr.
+BODIO BARTŁOMIEJ               pr.   KABACIŃSKI MICHAŁ           pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL           pr.
 BORKOWSKI JERZY                 pr.   KĘPIŃSKI ADAM               pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                     pr.
 BRAMORA ARTUR                   pr.   KLEPACZ WITOLD              pr.       NOWICKA WANDA                    pr.   SZYMIEC-RACZYŃSKA HALINA        pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF         pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ               pr.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK              pr.       PALIKOT JANUSZ                   pr.   GRODZKA ANNA                    ng.
 DĘBSKI ARTUR                    pr.   KOTLIŃSKI ROMAN             pr.       PENKALSKI WOJCIECH               pr.   KOPYCIŃSKI SŁAWOMIR             ng.
-DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                pr.       PIĄ TAK ANDRZEJ                  pr.   STOLARSKI MAREK                 ng.
+DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                pr.       PIĄTAK ANDRZEJ                  pr.   STOLARSKI MAREK                 ng.
 DZIADZIO DARIUSZ CEZAR          pr.   KWIATKOWSKI JACEK           pr.       POPIOŁEK ZOFIA                   pr.
 
 

@@ -42,14 +42,14 @@ CZECHYRA CZESŁAW                     za    KOŁODZIEJ EWA                      
 CZERNOW ZOFIA                        za    KONWIŃSKI ZBIGNIEW                   za       PIERZCHAŁA ELŻBIETA APOLONIA     za   WOJNAROWSKI NORBERT             za
 CZERWIŃSKI ANDRZEJ                   za    KOPACZ EWA                           za       PIETRASZEWSKA DANUTA             za   WOJTKOWSKI MAREK                za
 DĄBROWSKA ALICJA                     za    KOPACZEWSKA DOMICELA                 za       PIETRZCZYK LUCJAN MAREK          za   WOLAK EWA                       za
-DROZD EWA                            za    KORZENIOWSKI LESZEK                  za       PIĘ TA JAROSŁAW                  za   WÓJCIK MAREK                    za
+DROZD EWA                            za    KORZENIOWSKI LESZEK                  za       PIĘTA JAROSŁAW                  za   WÓJCIK MAREK                    za
 DUNIN ARTUR                          za    KOSECKI ROMAN JACEK                  za       PIOTROWSKA TERESA                za   ZAKRZEWSKA JADWIGA              za
 DURKA ZENON                          za    KOWALSKI SŁAWOMIR                    za       PITERA JULIA                     za   ZAREMBA RENATA                  za
 DZIĘCIOŁ JANUSZ                      za    KOZACZYŃSKI JACEK                    za       PLOCKE KAZIMIERZ                 za   ZAWADZKI RYSZARD                za
 DZIKOWSKI WALDY                      za    KOZDROŃ JERZY                        za       PLURA MAREK                      za   ZDROJEWSKI BOGDAN               za
 FABISIAK JOANNA                      za    KOZŁOWSKA IWONA                      za       PLUTA MIROSŁAW                   za   ZIELIŃSKI MACIEJ                za
 FEDOROWICZ JERZY                     za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       POMASKA AGNIESZKA                za   ZIEMNIAK WOJCIECH               za
-FIEDLER ARKADY                       za    KOŹLAKIEWICZ MIROSŁAW                za       POŚLEDNIA KRYSTYNA               za   ZIĘ TEK JERZY                   za
+FIEDLER ARKADY                       za    KOŹLAKIEWICZ MIROSŁAW                za       POŚLEDNIA KRYSTYNA               za   ZIĘTEK JERZY                   za
 GADOWSKI KRZYSZTOF                   za    KRAJEWSKA LIGIA                      za       RACZKOWSKI DAMIAN                za   ŻALEK JACEK                     za
 GAŁAŻEWSKI ANDRZEJ                   za    KROPIWNICKI ROBERT                   za       RADZISZEWSKA ELŻBIETA            za   ŻMIJAN STANISŁAW                za
 GAPIŃSKA ELŻBIETA                    za    KRZĄKAŁA MAREK                       za       RANIEWICZ GRZEGORZ               za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -81,7 +81,7 @@ ARDANOWSKI JAN KRZYSZTOF        ws.   KACZYŃSKI JAROSŁAW           ws.       O
 ARENT IWONA EWA                 ws.   KAMIŃSKI MARIUSZ             ws.       PALUCH ANNA                       ws.   TCHÓRZEWSKI KRZYSZTOF         ws.
 AST MAREK                       ws.   KAMIŃSKI MARIUSZ ANTONI      ws.       PAW ŁOWICZ KRYSTYNA               ws.   TELUS ROBERT                  ws.
 BABALSKI ZBIGNIEW               ws.   KLOC IZABELA                 ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   TERLECKI RYSZARD              ws.
-BABINETZ PIOTR                  ws.   KŁOSOWSKI SŁAWOMIR           ws.       PIĘ TA STANISŁAW                  ws.   TOBISZOWSKI GRZEGORZ          ws.
+BABINETZ PIOTR                  ws.   KŁOSOWSKI SŁAWOMIR           ws.       PIĘTA STANISŁAW                  ws.   TOBISZOWSKI GRZEGORZ          ws.
 BĄK DARIUSZ                     ws.   KOŁAKOWSKI LECH              ws.       PIONTKOWSKI DARIUSZ               ws.   TOMASZEWSKI JAN               ws.
 BĘTKOWSKI ANDRZEJ               ws.   KOŁAKOWSKI ROBERT            ws.       PIOTROWICZ STANISŁAW              ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 BŁASZCZAK MARIUSZ               ws.   KOWALCZYK HENRYK             ws.       POLACZEK JERZY                    ws.   WARZECHA JAN                  ws.
@@ -113,12 +113,12 @@ HRYNKIEWICZ JÓZEFA              ws.   MAZUREK BEATA                ws.       SZ
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       LEWANDOWSKI ANDRZEJ               pr.   ROZENEK ANDRZEJ               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GÓRCZYŃSKI ARTUR             pr.       MAKOWSKI TOMASZ                   pr.   RYBAKOWICZ ADAM               pr.
 BIEDROŃ ROBERT                  pr.   GRODZKA ANNA                 pr.       MARCINKIEWICZ MAŁGORZATA          pr.   SAJAK PAWEŁ                   pr.
-BODIO BARTŁ OMIEJ               pr.   KABACIŃSKI MICHAŁ            pr.       MROCZEK MACIEJ                    pr.   STOLARSKI MAREK               pr.
+BODIO BARTŁOMIEJ               pr.   KABACIŃSKI MICHAŁ            pr.       MROCZEK MACIEJ                    pr.   STOLARSKI MAREK               pr.
 BORKOWSKI JERZY                 pr.   KĘPIŃSKI ADAM                pr.       NAJDER JACEK                      pr.   WYDRZYŃSKI MACIEJ             pr.
 BRAMORA ARTUR                   pr.   KLEPACZ WITOLD               pr.       PACHOLSKI MICHAŁ TOMASZ           pr.   GIBAŁA ŁUKASZ                 ng.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF          pr.       PALIKOT JANUSZ                    pr.   KOTLIŃSKI ROMAN               ng.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK               pr.       PENKALSKI WOJCIECH                pr.   RYFIŃSKI ARMAND KAMIL         ng.
-DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PIĄ TAK ANDRZEJ                   pr.   SZYMIEC-RACZYŃSKA HALINA      ng.
+DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PIĄTAK ANDRZEJ                   pr.   SZYMIEC-RACZYŃSKA HALINA      ng.
 DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                 pr.       POPIOŁEK ZOFIA                    pr.
 DZIADZIO DARIUSZ CEZAR          pr.   KWIATKOWSKI JACEK            pr.       POZNAŃSKI MAREK                   pr.
 

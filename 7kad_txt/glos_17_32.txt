@@ -47,7 +47,7 @@ CYCOŃ MARIAN                         pr.   KOCHAN MAGDALENA                    
 CZAPLICKA BARBARA                    pr.   KOLENDA-ŁABUŚ BRYGIDA                 pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   ZAKRZEWSKA JADWIGA              pr.
 CZECHYRA CZESŁAW                     pr.   KOŁACZ-LESZCZYŃSKA AGNIESZKA          pr.       PIETRASZEWSKA DANUTA             pr.   ZAWADZKI RYSZARD                pr.
 CZERNOW ZOFIA                        pr.   KOŁODZIEJ EWA                         pr.       PIETRZCZYK LUCJAN MAREK          pr.   ZIELIŃSKI MACIEJ                pr.
-CZERWIŃSKI ANDRZEJ                   pr.   KONWIŃSKI ZBIGNIEW                    pr.       PIĘ TA JAROSŁAW                  pr.   ZIĘ TEK JERZY                   pr.
+CZERWIŃSKI ANDRZEJ                   pr.   KONWIŃSKI ZBIGNIEW                    pr.       PIĘTA JAROSŁAW                  pr.   ZIĘTEK JERZY                   pr.
 DĄBROWSKA ALICJA                     pr.   KORZENIOWSKI LESZEK                   pr.       PIOTROWSKA TERESA                pr.   ŻALEK JACEK                     pr.
 DROZD EWA                            pr.   KOSECKI ROMAN JACEK                   pr.       PLOCKE KAZIMIERZ                 pr.   ŻMIJAN STANISŁAW                pr.
 DUNIN ARTUR                          pr.   KOWALSKI SŁAWOMIR                     pr.       PLURA MAREK                      pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -102,7 +102,7 @@ GIRZYŃSKI ZBIGNIEW              za    MALIK EWA                        za      
 GIŻYŃSKI SZYMON                 za    MAŁECKI MACIEJ                   za        SPRAWKA LECH                       za    ŻYŻYŃSKI JERZY                za
 GOŁOJUCH KAZIMIERZ              za    MASŁOWSKA GABRIELA               za        STRZAŁKOWSKI STEFAN                za    JACKIEWICZ DAWID              ng.
 GOSIEWSKA MAŁGORZATA            za    MASTALEREK MARCIN                za        SUSKI MAREK                        za    LATOS TOMASZ                  ng.
-GÓRSKI ARTUR                    za    MATERNA JERZY                    za        SZAŁAMACHA PAWEŁ                   za    PIĘ TA STANISŁAW              ng.
+GÓRSKI ARTUR                    za    MATERNA JERZY                    za        SZAŁAMACHA PAWEŁ                   za    PIĘTA STANISŁAW              ng.
 HOC CZESŁAW                     za    MATUSIAK GRZEGORZ                za        SZARAMA WOJCIECH                   za    ZBONIKOWSKI ŁUKASZ            ng.
 HOFMAN ADAM                     za    MATUSZEWSKI MAREK                za        SZCZERSKI KRZYSZTOF                za
 
@@ -114,11 +114,11 @@ BIEDROŃ ROBERT                  za    KRUPA ŁUKASZ                     za     
 CEDZYŃSKI JAN                   za    LEWANDOWSKI ANDRZEJ              za        SZYMIEC-RACZYŃSKA HALINA           za    GIBAŁA ŁUKASZ                 ws.
 DĘBSKI ARTUR                    za    MAKOWSKI TOMASZ                  za        WYDRZYŃSKI MACIEJ                  za    KWIATKOWSKI JACEK             ws.
 DOMARACKI MAREK                 za    MARCINKIEWICZ MAŁGORZATA         za        CHMIELOWSKI PIOTR                  pr.   PACHOLSKI MICHAŁ TOMASZ       ws.
-ELSNER WINCENTY                 za    MROCZEK MACIEJ                   za        KABACIŃSKI MICHAŁ                  pr.   PIĄ TAK ANDRZEJ               ws.
+ELSNER WINCENTY                 za    MROCZEK MACIEJ                   za        KABACIŃSKI MICHAŁ                  pr.   PIĄTAK ANDRZEJ               ws.
 GÓRCZYŃSKI ARTUR                za    NAJDER JACEK                     za        KMIECIK HENRYK                     pr.   POPIOŁEK ZOFIA                ws.
 GRODZKA ANNA                    za    NOWICKA WANDA                    za        RYBAKOWICZ ADAM                    pr.   BAUĆ PIOTR PAWEŁ              ng.
 KLEPACZ WITOLD                  za    PENKALSKI WOJCIECH               za        SAJAK PAWEŁ                        pr.   KĘPIŃSKI ADAM                 ng.
-KŁOSOWSKI KRZYSZTOF             za    POZNAŃSKI MAREK                  za        BODIO BARTŁ OMIEJ                  ws.   PALIKOT JANUSZ                ng.
+KŁOSOWSKI KRZYSZTOF             za    POZNAŃSKI MAREK                  za        BODIO BARTŁOMIEJ                  ws.   PALIKOT JANUSZ                ng.
 KOPYCIŃSKI SŁAWOMIR             za    ROZENEK ANDRZEJ                  za        BORKOWSKI JERZY                    ws.
 
 

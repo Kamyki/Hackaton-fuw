@@ -45,7 +45,7 @@ DĄBROWSKA ALICJA                     za   KONWIŃSKI ZBIGNIEW                  
 DROZD EWA                            za   KOPACZEWSKA DOMICELA                  za       PIERZCHAŁA ELŻBIETA APOLONIA      za   WARDZAŁA ROBERT                          za
 DUNIN ARTUR                          za   KORZENIOWSKI LESZEK                   za       PIETRASZEWSKA DANUTA              za   WIELICHOWSKA MONIKA                      za
 DURKA ZENON                          za   KOSECKI ROMAN JACEK                   za       PIETRZCZYK LUCJAN MAREK           za   WITCZAK MARIUSZ                          za
-DZIĘCIOŁ JANUSZ                      za   KOWALSKI SŁAWOMIR                     za       PIĘ TA JAROSŁAW                   za   WITKOWSKI RADOSŁAW                       za
+DZIĘCIOŁ JANUSZ                      za   KOWALSKI SŁAWOMIR                     za       PIĘTA JAROSŁAW                   za   WITKOWSKI RADOSŁAW                       za
 DZIKOWSKI WALDY                      za   KOZACZYŃSKI JACEK                     za       PIOTROWSKA TERESA                 za   WOJNAROWSKI NORBERT                      za
 FABISIAK JOANNA                      za   KOZDROŃ JERZY                         za       PITERA JULIA                      za   WOJTKOWSKI MAREK                         za
 FEDOROWICZ JERZY                     za   KOZŁOWSKA IWONA                       za       PLOCKE KAZIMIERZ                  za   WOLAK EWA                                za
@@ -56,7 +56,7 @@ GAPIŃSKA ELŻBIETA                    za   KROPIWNICKI ROBERT                  
 GAW ŁOWSKI STANISŁAW                 za   KRZĄKAŁA MAREK                        za       RACZKOWSKI DAMIAN                 za   ZDROJEWSKI BOGDAN                        za
 GĄDEK LIDIA                          za   KUCHARSKI CEZARY                      za       RADZISZEWSKA ELŻBIETA             za   ZIELIŃSKI MACIEJ                         za
 GĄSIOR-MAREK MAGDALENA               za   KUDRYCKA BARBARA                      za       RANIEWICZ GRZEGORZ                za   ZIEMNIAK WOJCIECH                        za
-GELERT ELŻBIETA                      za   KULESZA TOMASZ                        za       RAŚ IRENEUSZ                      za   ZIĘ TEK JERZY                            za
+GELERT ELŻBIETA                      za   KULESZA TOMASZ                        za       RAŚ IRENEUSZ                      za   ZIĘTEK JERZY                            za
 GIERADA ARTUR                        za   KWIATKOWSKI KRZYSZTOF                 za       ROSATI DARIUSZ                    za   ŻALEK JACEK                              za
 GLUZA CZESŁAW                        za   LAMCZYK STANISŁAW                     za       ROZPONDEK HALINA                  za   ŻMIJAN STANISŁAW                         za
 GŁOGOWSKI TOMASZ                     za   LASSOTA JÓZEF                         za       RUTKOWSKA DOROTA                  za   ŻMUDA-TRZEBIATOWSKA EWA                  za
@@ -99,7 +99,7 @@ FALFUS JACEK                    za    MASŁOWSKA GABRIELA           za        SZ
 FOTYGA ANNA                     za    MASTALEREK MARCIN            za        SZWED STANISŁAW                  za    LATOS TOMASZ                    ng.
 GIRZYŃSKI ZBIGNIEW              za    MATERNA JERZY                za        SZYDŁO BEATA                     za    NOWAK MARIA                     ng.
 GIŻYŃSKI SZYMON                 za    MATUSIAK GRZEGORZ            za        SZYSZKO JAN                      za    PIECHA BOLESŁAW GRZEGORZ        ng.
-GOŁOJUCH KAZIMIERZ              za    MATUSZEWSKI MAREK            za        ŚNIADEK JANUSZ                   za    PIĘ TA STANISŁAW                ng.
+GOŁOJUCH KAZIMIERZ              za    MATUSZEWSKI MAREK            za        ŚNIADEK JANUSZ                   za    PIĘTA STANISŁAW                ng.
 GOSIEWSKA MAŁGORZATA            za    MAZUREK BEATA                za        ŚWIAT JACEK                      za    ROGACKI ADAM                    ng.
 GÓRSKI ARTUR                    za    MOSKAL KAZIMIERZ             za        TCHÓRZEWSKI KRZYSZTOF            za    SADURSKA MAŁGORZATA             ng.
 HOC CZESŁAW                     za    NAIMSKI PIOTR                za        TELUS ROBERT                     za    SZCZERSKI KRZYSZTOF             ng.
@@ -112,13 +112,13 @@ JANCZYK WIESŁAW STANISŁAW       za    OŻÓG STANISŁAW               za      
 
 BANASZAK MACIEJ                 za    GIBAŁA ŁUKASZ                za        MAKOWSKI TOMASZ                  za    ROZENEK ANDRZEJ                 za
 BAUĆ PIOTR PAWEŁ                za    GÓRCZYŃSKI ARTUR             za        MARCINKIEWICZ MAŁGORZATA         za    RYBAKOWICZ ADAM                 za
-BODIO BARTŁ OMIEJ               za    GRODZKA ANNA                 za        MROCZEK MACIEJ                   za    RYFIŃSKI ARMAND KAMIL           za
+BODIO BARTŁOMIEJ               za    GRODZKA ANNA                 za        MROCZEK MACIEJ                   za    RYFIŃSKI ARMAND KAMIL           za
 BORKOWSKI JERZY                 za    KABACIŃSKI MICHAŁ            za        NAJDER JACEK                     za    SAJAK PAWEŁ                     za
 BRAMORA ARTUR                   za    KĘPIŃSKI ADAM                za        NOWICKA WANDA                    za    STOLARSKI MAREK                 za
 CEDZYŃSKI JAN                   za    KLEPACZ WITOLD               za        PACHOLSKI MICHAŁ TOMASZ          za    WYDRZYŃSKI MACIEJ               za
 CHMIELOWSKI PIOTR               za    KŁOSOWSKI KRZYSZTOF          za        PALIKOT JANUSZ                   za    BIEDROŃ ROBERT                  pr.
 DĘBSKI ARTUR                    za    KMIECIK HENRYK               za        PENKALSKI WOJCIECH               za    KOPYCIŃSKI SŁAWOMIR             pr.
-DOMARACKI MAREK                 za    KOTLIŃSKI ROMAN              za        PIĄ TAK ANDRZEJ                  za    KRUPA ŁUKASZ                    ng.
+DOMARACKI MAREK                 za    KOTLIŃSKI ROMAN              za        PIĄTAK ANDRZEJ                  za    KRUPA ŁUKASZ                    ng.
 DZIADZIO DARIUSZ CEZAR          za    KWIATKOWSKI JACEK            za        POPIOŁEK ZOFIA                   za    SZYMIEC-RACZYŃSKA HALINA        ng.
 ELSNER WINCENTY                 za    LEWANDOWSKI ANDRZEJ          za        POZNAŃSKI MAREK                  za
 

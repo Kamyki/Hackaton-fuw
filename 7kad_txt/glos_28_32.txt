@@ -42,7 +42,7 @@ CZERNOW ZOFIA                        pr.   KOŁODZIEJ EWA                       
 CZERWIŃSKI ANDRZEJ                   pr.   KONWIŃSKI ZBIGNIEW                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 DĄBROWSKA ALICJA                     pr.   KOPACZ EWA                           pr.       PIETRASZEWSKA DANUTA             pr.   WITCZAK MARIUSZ                 pr.
 DROZD EWA                            pr.   KOPACZEWSKA DOMICELA                 pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITKOWSKI RADOSŁAW              pr.
-DUNIN ARTUR                          pr.   KORZENIOWSKI LESZEK                  pr.       PIĘ TA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                pr.
+DUNIN ARTUR                          pr.   KORZENIOWSKI LESZEK                  pr.       PIĘTA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                pr.
 DURKA ZENON                          pr.   KOSECKI ROMAN JACEK                  pr.       PIOTROWSKA TERESA                pr.   WOLAK EWA                       pr.
 DZIĘCIOŁ JANUSZ                      pr.   KOZACZYŃSKI JACEK                    pr.       PITERA JULIA                     pr.   WÓJCIK MAREK                    pr.
 DZIKOWSKI WALDY                      pr.   KOZDROŃ JERZY                        pr.       PLOCKE KAZIMIERZ                 pr.   ZAKRZEWSKA JADWIGA              pr.
@@ -51,7 +51,7 @@ FEDOROWICZ JERZY                     pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA        
 FIEDLER ARKADY                       pr.   KOŹLAKIEWICZ MIROSŁAW                pr.       POMASKA AGNIESZKA                pr.   ZDROJEWSKI BOGDAN               pr.
 GADOWSKI KRZYSZTOF                   pr.   KRAJEWSKA LIGIA                      pr.       POŚLEDNIA KRYSTYNA               pr.   ZIELIŃSKI MACIEJ                pr.
 GAŁAŻEWSKI ANDRZEJ                   pr.   KROPIWNICKI ROBERT                   pr.       RACZKOWSKI DAMIAN                pr.   ZIEMNIAK WOJCIECH               pr.
-GAPIŃSKA ELŻBIETA                    pr.   KRZĄKAŁA MAREK                       pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘ TEK JERZY                   pr.
+GAPIŃSKA ELŻBIETA                    pr.   KRZĄKAŁA MAREK                       pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘTEK JERZY                   pr.
 GAW ŁOWSKI STANISŁAW                 pr.   KUCHARSKI CEZARY                     pr.       RANIEWICZ GRZEGORZ               pr.   ŻALEK JACEK                     pr.
 GĄDEK LIDIA                          pr.   KUDRYCKA BARBARA                     pr.       RAŚ IRENEUSZ                     pr.   ŻMIJAN STANISŁAW                pr.
 GĄSIOR-MAREK MAGDALENA               pr.   KULESZA TOMASZ                       pr.       ROSATI DARIUSZ                   pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -80,7 +80,7 @@ ARENT IWONA EWA                 pr.   KACZMAREK TOMASZ            pr.       OŻ�
 AST MAREK                       pr.   KACZYŃSKI JAROSŁAW          pr.       PALUCH ANNA                      pr.   TOBISZOWSKI GRZEGORZ          pr.
 BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ            pr.       PAW ŁOWICZ KRYSTYNA              pr.   TOMASZEWSKI JAN               pr.
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   WARZECHA JAN                  pr.
-BARTUŚ BARBARA                  pr.   KLOC IZABELA                pr.       PIĘ TA STANISŁAW                 pr.   WIPLER PRZEMYSŁAW             pr.
+BARTUŚ BARBARA                  pr.   KLOC IZABELA                pr.       PIĘTA STANISŁAW                 pr.   WIPLER PRZEMYSŁAW             pr.
 BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIONTKOWSKI DARIUSZ              pr.   WIŚNIEWSKA JADWIGA            pr.
 BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI LECH             pr.       PIOTROWICZ STANISŁAW             pr.   WITEK ELŻBIETA                pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI ROBERT           pr.       POLAK MAREK                      pr.   WITKO MARCIN                  pr.
@@ -113,14 +113,14 @@ JACKIEWICZ DAWID                pr.   MAZUREK BEATA               pr.       SZYD
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY             pr.       KWIATKOWSKI JACEK                pr.   POPIOŁEK ZOFIA                pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ               pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK               pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR            pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ           pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM               pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                   pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD              pr.       NOWICKA WANDA                    pr.   STOLARSKI MAREK               pr.
 CHMIELOWSKI PIOTR               pr.   KŁOSOWSKI KRZYSZTOF         pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ             pr.
 DĘBSKI ARTUR                    pr.   KMIECIK HENRYK              pr.       PALIKOT JANUSZ                   pr.   KOTLIŃSKI ROMAN               ng.
 DOMARACKI MAREK                 pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PENKALSKI WOJCIECH               pr.   SZYMIEC-RACZYŃSKA HALINA      ng.
-DZIADZIO DARIUSZ CEZAR          pr.   KRUPA ŁUKASZ                pr.       PIĄ TAK ANDRZEJ                  pr.
+DZIADZIO DARIUSZ CEZAR          pr.   KRUPA ŁUKASZ                pr.       PIĄTAK ANDRZEJ                  pr.
 
 
  PSL (28)                     GŁOSOWAŁO - 25            ZA - 0    PRZECIW - 25               WSTRZYM. - 0             NIE GŁOS. - 3

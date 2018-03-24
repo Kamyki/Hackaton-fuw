@@ -47,7 +47,7 @@ DROZD EWA                            za    KOPACZ EWA                           
 DUNIN ARTUR                          za    KOPACZEWSKA DOMICELA                  za       PIERZCHAŁA ELŻBIETA APOLONIA       za   WARDZAŁA ROBERT                      za
 DURKA ZENON                          za    KORZENIOWSKI LESZEK                   za       PIETRASZEWSKA DANUTA               za   WIELICHOWSKA MONIKA                  za
 DZIĘCIOŁ JANUSZ                      za    KOSECKI ROMAN JACEK                   za       PIETRZCZYK LUCJAN MAREK            za   WITCZAK MARIUSZ                      za
-DZIKOWSKI WALDY                      za    KOWALSKI SŁAWOMIR                     za       PIĘ TA JAROSŁAW                    za   WITKOWSKI RADOSŁAW                   za
+DZIKOWSKI WALDY                      za    KOWALSKI SŁAWOMIR                     za       PIĘTA JAROSŁAW                    za   WITKOWSKI RADOSŁAW                   za
 FABISIAK JOANNA                      za    KOZACZYŃSKI JACEK                     za       PIOTROWSKA TERESA                  za   WOJNAROWSKI NORBERT                  za
 FEDOROWICZ JERZY                     za    KOZDROŃ JERZY                         za       PITERA JULIA                       za   WOJTKOWSKI MAREK                     za
 FIEDLER ARKADY                       za    KOZŁOWSKA IWONA                       za       PLOCKE KAZIMIERZ                   za   WOLAK EWA                            za
@@ -58,7 +58,7 @@ GAW ŁOWSKI STANISŁAW                 za    KROPIWNICKI ROBERT                 
 GĄDEK LIDIA                          za    KRZĄKAŁA MAREK                        za       RACZKOWSKI DAMIAN                  za   ZDROJEWSKI BOGDAN                    za
 GĄSIOR-MAREK MAGDALENA               za    KUCHARSKI CEZARY                      za       RADZISZEWSKA ELŻBIETA              za   ZIELIŃSKI MACIEJ                     za
 GELERT ELŻBIETA                      za    KUDRYCKA BARBARA                      za       RANIEWICZ GRZEGORZ                 za   ZIEMNIAK WOJCIECH                    za
-GIERADA ARTUR                        za    KULESZA TOMASZ                        za       RAŚ IRENEUSZ                       za   ZIĘ TEK JERZY                        za
+GIERADA ARTUR                        za    KULESZA TOMASZ                        za       RAŚ IRENEUSZ                       za   ZIĘTEK JERZY                        za
 GLUZA CZESŁAW                        za    KWIATKOWSKI KRZYSZTOF                 za       ROSATI DARIUSZ                     za   ŻALEK JACEK                          za
 GŁOGOWSKI TOMASZ                     za    LAMCZYK STANISŁAW                     za       ROZPONDEK HALINA                   za   ŻMIJAN STANISŁAW                     za
 GODSON JOHN ABRAHAM                  za    LASSOTA JÓZEF                         za       RUTKOWSKA DOROTA                   za   ŻMUDA-TRZEBIATOWSKA EWA              za
@@ -100,7 +100,7 @@ BŁASZCZAK MARIUSZ               ws.   KUŹMIUK ZBIGNIEW            ws.       SP
 BRUDZIŃSKI JOACHIM              ws.   KWIATKOWSKI ADAM            ws.       STRZAŁKOWSKI STEFAN                ws.   LATOS TOMASZ                    ng.
 BUBULA BARBARA                  ws.   LIPIEC KRZYSZTOF            ws.       SUSKI MAREK                        ws.   NOWAK MARIA                     ng.
 CHMIELOWIEC ZBIGNIEW            ws.   LIPIŃSKI ADAM               ws.       SZAŁAMACHA PAWEŁ                   ws.   PIECHA BOLESŁAW GRZEGORZ        ng.
-CZARNECKI WITOLD                ws.   ŁATAS MAREK                 ws.       SZARAMA WOJCIECH                   ws.   PIĘ TA STANISŁAW                ng.
+CZARNECKI WITOLD                ws.   ŁATAS MAREK                 ws.       SZARAMA WOJCIECH                   ws.   PIĘTA STANISŁAW                ng.
 CZARTORYSKI ARKADIUSZ           ws.   ŁOPIŃSKI MACIEJ             ws.       SZCZYPIŃSKA JOLANTA                ws.   ROGACKI ADAM                    ng.
 CZESAK EDWARD                   ws.   MACHAŁEK MARZENA            ws.       SZLACHTA ANDRZEJ                   ws.   SADURSKA MAŁGORZATA             ng.
 DOBRZYŃSKI LESZEK               ws.   MACIEREWICZ ANTONI          ws.       SZMIT JERZY                        ws.   SZCZERSKI KRZYSZTOF             ng.
@@ -113,14 +113,14 @@ DZIEDZICZAK JAN                 ws.   MASTALEREK MARCIN           ws.       ŚNI
 
 BANASZAK MACIEJ                 pr.   GIBAŁA ŁUKASZ               pr.       LEWANDOWSKI ANDRZEJ                pr.   POZNAŃSKI MAREK                 pr.
 BAUĆ PIOTR PAWEŁ                pr.   GÓRCZYŃSKI ARTUR            pr.       MAKOWSKI TOMASZ                    pr.   ROZENEK ANDRZEJ                 pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                pr.       MARCINKIEWICZ MAŁGORZATA           pr.   RYBAKOWICZ ADAM                 pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                pr.       MARCINKIEWICZ MAŁGORZATA           pr.   RYBAKOWICZ ADAM                 pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ           pr.       MROCZEK MACIEJ                     pr.   RYFIŃSKI ARMAND KAMIL           pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM               pr.       NAJDER JACEK                       pr.   SAJAK PAWEŁ                     pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD              pr.       NOWICKA WANDA                      pr.   STOLARSKI MAREK                 pr.
 CHMIELOWSKI PIOTR               pr.   KŁOSOWSKI KRZYSZTOF         pr.       PACHOLSKI MICHAŁ TOMASZ            pr.   WYDRZYŃSKI MACIEJ               pr.
 DĘBSKI ARTUR                    pr.   KMIECIK HENRYK              pr.       PALIKOT JANUSZ                     pr.   BIEDROŃ ROBERT                  ng.
 DOMARACKI MAREK                 pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PENKALSKI WOJCIECH                 pr.   KRUPA ŁUKASZ                    ng.
-DZIADZIO DARIUSZ CEZAR          pr.   KOTLIŃSKI ROMAN             pr.       PIĄ TAK ANDRZEJ                    pr.   SZYMIEC-RACZYŃSKA HALINA        ng.
+DZIADZIO DARIUSZ CEZAR          pr.   KOTLIŃSKI ROMAN             pr.       PIĄTAK ANDRZEJ                    pr.   SZYMIEC-RACZYŃSKA HALINA        ng.
 ELSNER WINCENTY                 pr.   KWIATKOWSKI JACEK           pr.       POPIOŁEK ZOFIA                     pr.
 
 

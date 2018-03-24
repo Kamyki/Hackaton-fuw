@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                   pr.   KONWIŃSKI ZBIGNIEW                 
 DĄBROWSKA ALICJA                     pr.   KOPACZ EWA                           pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WARDZAŁA ROBERT                 pr.
 DROZD EWA                            pr.   KOPACZEWSKA DOMICELA                 pr.       PIETRASZEWSKA DANUTA             pr.   WIELICHOWSKA MONIKA             pr.
 DUNIN ARTUR                          pr.   KORZENIOWSKI LESZEK                  pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITCZAK MARIUSZ                 pr.
-DURKA ZENON                          pr.   KOSECKI ROMAN JACEK                  pr.       PIĘ TA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
+DURKA ZENON                          pr.   KOSECKI ROMAN JACEK                  pr.       PIĘTA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
 DZIĘCIOŁ JANUSZ                      pr.   KOZACZYŃSKI JACEK                    pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                pr.
 DZIKOWSKI WALDY                      pr.   KOZDROŃ JERZY                        pr.       PITERA JULIA                     pr.   WOLAK EWA                       pr.
 FABISIAK JOANNA                      pr.   KOZŁOWSKA IWONA                      pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                    pr.
@@ -53,7 +53,7 @@ GADOWSKI KRZYSZTOF                   pr.   KRAJEWSKA LIGIA                      
 GAŁAŻEWSKI ANDRZEJ                   pr.   KROPIWNICKI ROBERT                   pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN               pr.
 GAPIŃSKA ELŻBIETA                    pr.   KRZĄKAŁA MAREK                       pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                pr.
 GAW ŁOWSKI STANISŁAW                 pr.   KUCHARSKI CEZARY                     pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH               pr.
-GĄDEK LIDIA                          pr.   KUDRYCKA BARBARA                     pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                   pr.
+GĄDEK LIDIA                          pr.   KUDRYCKA BARBARA                     pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                   pr.
 GĄSIOR-MAREK MAGDALENA               pr.   KULESZA TOMASZ                       pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                     pr.
 GELERT ELŻBIETA                      pr.   KWIATKOWSKI KRZYSZTOF                pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                pr.
 GIERADA ARTUR                        pr.   LAMCZYK STANISŁAW                    pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -80,7 +80,7 @@ ARENT IWONA EWA                 pr.   KACZMAREK TOMASZ            pr.       OŻ�
 AST MAREK                       pr.   KACZYŃSKI JAROSŁAW          pr.       PALUCH ANNA                      pr.   TELUS ROBERT                  pr.
 BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ            pr.       PAW ŁOWICZ KRYSTYNA              pr.   TERLECKI RYSZARD              pr.
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TOBISZOWSKI GRZEGORZ          pr.
-BARTUŚ BARBARA                  pr.   KLOC IZABELA                pr.       PIĘ TA STANISŁAW                 pr.   TOMASZEWSKI JAN               pr.
+BARTUŚ BARBARA                  pr.   KLOC IZABELA                pr.       PIĘTA STANISŁAW                 pr.   TOMASZEWSKI JAN               pr.
 BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIONTKOWSKI DARIUSZ              pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI LECH             pr.       PIOTROWICZ STANISŁAW             pr.   WARZECHA JAN                  pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI ROBERT           pr.       POLACZEK JERZY                   pr.   WIŚNIEWSKA JADWIGA            pr.
@@ -113,13 +113,13 @@ JACKIEWICZ DAWID                pr.   MAZUREK BEATA               pr.       SZMI
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY             pr.       KWIATKOWSKI JACEK                pr.   POZNAŃSKI MAREK               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ               pr.       LEWANDOWSKI ANDRZEJ              pr.   ROZENEK ANDRZEJ               pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR            pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ           pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                   pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM               pr.       NOWICKA WANDA                    pr.   STOLARSKI MAREK               pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD              pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ             pr.
 CHMIELOWSKI PIOTR               pr.   KŁOSOWSKI KRZYSZTOF         pr.       PALIKOT JANUSZ                   pr.   KOTLIŃSKI ROMAN               ng.
 DĘBSKI ARTUR                    pr.   KMIECIK HENRYK              pr.       PENKALSKI WOJCIECH               pr.   MARCINKIEWICZ MAŁGORZATA      ng.
-DOMARACKI MAREK                 pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PIĄ TAK ANDRZEJ                  pr.   SZYMIEC-RACZYŃSKA HALINA      ng.
+DOMARACKI MAREK                 pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PIĄTAK ANDRZEJ                  pr.   SZYMIEC-RACZYŃSKA HALINA      ng.
 DZIADZIO DARIUSZ CEZAR          pr.   KRUPA ŁUKASZ                pr.       POPIOŁEK ZOFIA                   pr.
 
 

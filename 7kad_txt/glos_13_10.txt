@@ -45,7 +45,7 @@ DROZD EWA                             za    KOPACZ EWA                          
 DUNIN ARTUR                           za    KOPACZEWSKA DOMICELA                  za       PIERZCHAŁA ELŻBIETA APOLONIA        za   WARDZAŁA ROBERT                 za
 DURKA ZENON                           za    KORZENIOWSKI LESZEK                   za       PIETRASZEWSKA DANUTA                za   WIELICHOWSKA MONIKA             za
 DZIĘCIOŁ JANUSZ                       za    KOSECKI ROMAN JACEK                   za       PIETRZCZYK LUCJAN MAREK             za   WITCZAK MARIUSZ                 za
-DZIKOWSKI WALDY                       za    KOWALSKI SŁAWOMIR                     za       PIĘ TA JAROSŁAW                     za   WITKOWSKI RADOSŁAW              za
+DZIKOWSKI WALDY                       za    KOWALSKI SŁAWOMIR                     za       PIĘTA JAROSŁAW                     za   WITKOWSKI RADOSŁAW              za
 FABISIAK JOANNA                       za    KOZACZYŃSKI JACEK                     za       PIOTROWSKA TERESA                   za   WOJNAROWSKI NORBERT             za
 FEDOROWICZ JERZY                      za    KOZDROŃ JERZY                         za       PITERA JULIA                        za   WOJTKOWSKI MAREK                za
 FIEDLER ARKADY                        za    KOZŁOWSKA IWONA                       za       PLOCKE KAZIMIERZ                    za   WOLAK EWA                       za
@@ -56,7 +56,7 @@ GAW ŁOWSKI STANISŁAW                  za    KROPIWNICKI ROBERT                
 GĄDEK LIDIA                           za    KRZĄKAŁA MAREK                        za       RACZKOWSKI DAMIAN                   za   ZDROJEWSKI BOGDAN               za
 GĄSIOR-MAREK MAGDALENA                za    KUCHARSKI CEZARY                      za       RADZISZEWSKA ELŻBIETA               za   ZIELIŃSKI MACIEJ                za
 GELERT ELŻBIETA                       za    KUDRYCKA BARBARA                      za       RANIEWICZ GRZEGORZ                  za   ZIEMNIAK WOJCIECH               za
-GIERADA ARTUR                         za    KULESZA TOMASZ                        za       RAŚ IRENEUSZ                        za   ZIĘ TEK JERZY                   za
+GIERADA ARTUR                         za    KULESZA TOMASZ                        za       RAŚ IRENEUSZ                        za   ZIĘTEK JERZY                   za
 GLUZA CZESŁAW                         za    KWIATKOWSKI KRZYSZTOF                 za       ROSATI DARIUSZ                      za   ŻALEK JACEK                     za
 GŁOGOWSKI TOMASZ                      za    LAMCZYK STANISŁAW                     za       ROZPONDEK HALINA                    za   ŻMIJAN STANISŁAW                za
 GODSON JOHN ABRAHAM                   za    LASSOTA JÓZEF                         za       RUTKOWSKA DOROTA                    za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -98,7 +98,7 @@ DZIUBA TADEUSZ                  pr.   MACIEREWICZ ANTONI          pr.       SUSK
 FALFUS JACEK                    pr.   MALIK EWA                   pr.       SZAŁAMACHA PAWEŁ                 pr.   LATOS TOMASZ                    ng.
 FOTYGA ANNA                     pr.   MAŁECKI MACIEJ              pr.       SZARAMA WOJCIECH                 pr.   NOWAK MARIA                     ng.
 GIRZYŃSKI ZBIGNIEW              pr.   MASŁOWSKA GABRIELA          pr.       SZCZYPIŃSKA JOLANTA              pr.   PIECHA BOLESŁAW GRZEGORZ        ng.
-GIŻYŃSKI SZYMON                 pr.   MASTALEREK MARCIN           pr.       SZLACHTA ANDRZEJ                 pr.   PIĘ TA STANISŁAW                ng.
+GIŻYŃSKI SZYMON                 pr.   MASTALEREK MARCIN           pr.       SZLACHTA ANDRZEJ                 pr.   PIĘTA STANISŁAW                ng.
 GOŁOJUCH KAZIMIERZ              pr.   MATERNA JERZY               pr.       SZMIT JERZY                      pr.   ROGACKI ADAM                    ng.
 GOSIEWSKA MAŁGORZATA            pr.   MATUSIAK GRZEGORZ           pr.       SZWED STANISŁAW                  pr.   SADURSKA MAŁGORZATA             ng.
 GÓRSKI ARTUR                    pr.   MATUSZEWSKI MAREK           pr.       SZYDŁO BEATA                     pr.   SZCZERSKI KRZYSZTOF             ng.
@@ -112,14 +112,14 @@ JACKIEWICZ DAWID                pr.   MOSKAL KAZIMIERZ            pr.       ŚWI
 BANASZAK MACIEJ                 za    ELSNER WINCENTY             za        KWIATKOWSKI JACEK                za    POPIOŁEK ZOFIA                  za
 BAUĆ PIOTR PAWEŁ                za    GIBAŁA ŁUKASZ               za        LEWANDOWSKI ANDRZEJ              za    POZNAŃSKI MAREK                 za
 BIEDROŃ ROBERT                  za    GÓRCZYŃSKI ARTUR            za        MAKOWSKI TOMASZ                  za    ROZENEK ANDRZEJ                 za
-BODIO BARTŁ OMIEJ               za    GRODZKA ANNA                za        MARCINKIEWICZ MAŁGORZATA         za    RYBAKOWICZ ADAM                 za
+BODIO BARTŁOMIEJ               za    GRODZKA ANNA                za        MARCINKIEWICZ MAŁGORZATA         za    RYBAKOWICZ ADAM                 za
 BORKOWSKI JERZY                 za    KABACIŃSKI MICHAŁ           za        MROCZEK MACIEJ                   za    RYFIŃSKI ARMAND KAMIL           za
 BRAMORA ARTUR                   za    KĘPIŃSKI ADAM               za        NAJDER JACEK                     za    SAJAK PAWEŁ                     za
 CEDZYŃSKI JAN                   za    KLEPACZ WITOLD              za        NOWICKA WANDA                    za    STOLARSKI MAREK                 za
 CHMIELOWSKI PIOTR               za    KŁOSOWSKI KRZYSZTOF         za        PACHOLSKI MICHAŁ TOMASZ          za    WYDRZYŃSKI MACIEJ               za
 DĘBSKI ARTUR                    za    KMIECIK HENRYK              za        PALIKOT JANUSZ                   za    KRUPA ŁUKASZ                    ng.
 DOMARACKI MAREK                 za    KOPYCIŃSKI SŁAWOMIR         za        PENKALSKI WOJCIECH               za    SZYMIEC-RACZYŃSKA HALINA        ng.
-DZIADZIO DARIUSZ CEZAR          za    KOTLIŃSKI ROMAN             za        PIĄ TAK ANDRZEJ                  za
+DZIADZIO DARIUSZ CEZAR          za    KOTLIŃSKI ROMAN             za        PIĄTAK ANDRZEJ                  za
 
 
  PSL (28)                     GŁOSOWAŁO - 25            ZA - 25   PRZECIW - 0                 WSTRZYM. - 0            NIE GŁOS. - 3

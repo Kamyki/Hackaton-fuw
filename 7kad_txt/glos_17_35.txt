@@ -33,9 +33,9 @@ BUŁA ANDRZEJ                        za    KOCHAN MAGDALENA                  za 
 BUTRYN RENATA                       za    KOLENDA-ŁABUŚ BRYGIDA             za       PĘPEK MAŁGORZATA                  za   ZAREMBA RENATA                  za
 CICHOŃ JANUSZ                       za    KOŁACZ-LESZCZYŃSKA AGNIESZKA      za       PIECHOTA SŁAWOMIR JAN             za   ZAWADZKI RYSZARD                za
 CYCOŃ MARIAN                        za    KOŁODZIEJ EWA                     za       PIERZCHAŁA ELŻBIETA APOLONIA      za   ZIELIŃSKI MACIEJ                za
-CZAPLICKA BARBARA                   za    KOPACZ EWA                        za       PIETRASZEWSKA DANUTA              za   ZIĘ TEK JERZY                   za
+CZAPLICKA BARBARA                   za    KOPACZ EWA                        za       PIETRASZEWSKA DANUTA              za   ZIĘTEK JERZY                   za
 CZECHYRA CZESŁAW                    za    KOPACZEWSKA DOMICELA              za       PIETRZCZYK LUCJAN MAREK           za   ŻALEK JACEK                     za
-CZERNOW ZOFIA                       za    KORZENIOWSKI LESZEK               za       PIĘ TA JAROSŁAW                   za   ŻMIJAN STANISŁAW                za
+CZERNOW ZOFIA                       za    KORZENIOWSKI LESZEK               za       PIĘTA JAROSŁAW                   za   ŻMIJAN STANISŁAW                za
 CZERWIŃSKI ANDRZEJ                  za    KOSECKI ROMAN JACEK               za       PIOTROWSKA TERESA                 za   ŻMUDA-TRZEBIATOWSKA EWA         za
 DĄBROWSKA ALICJA                    za    KOWALSKI SŁAWOMIR                 za       PITERA JULIA                      za   ŻYLIŃSKI ADAM                   za
 DROZD EWA                           za    KOZACZYŃSKI JACEK                 za       PLOCKE KAZIMIERZ                  za   CIEŚLIŃSKI PIOTR                ws.
@@ -91,7 +91,7 @@ CZARNECKI WITOLD                za    MACHAŁEK MARZENA                 za      
 CZESAK EDWARD                   za    MALIK EWA                        za        SZWED STANISŁAW                 za    MASTALEREK MARCIN               ng.
 DOBRZYŃSKI LESZEK               za    MAŁECKI MACIEJ                   za        SZYDŁO BEATA                    za    NAIMSKI PIOTR                   ng.
 DUDA ANDRZEJ                    za    MATERNA JERZY                    za        SZYSZKO JAN                     za    OSUCH JACEK                     ng.
-DZIUBA TADEUSZ                  za    MATUSIAK GRZEGORZ                za        ŚNIADEK JANUSZ                  za    PIĘ TA STANISŁAW                ng.
+DZIUBA TADEUSZ                  za    MATUSIAK GRZEGORZ                za        ŚNIADEK JANUSZ                  za    PIĘTA STANISŁAW                ng.
 FALFUS JACEK                    za    MATUSZEWSKI MAREK                za        ŚWIAT JACEK                     za    PIONTKOWSKI DARIUSZ             ng.
 FOTYGA ANNA                     za    MAZUREK BEATA                    za        TCHÓRZEWSKI KRZYSZTOF           za    POLACZEK JERZY                  ng.
 GIRZYŃSKI ZBIGNIEW              za    MICHAŁKIEWICZ KRZYSZTOF          za        TELUS ROBERT                    za    PYZIK PIOTR                     ng.
@@ -111,12 +111,12 @@ KACZMAREK TOMASZ                za    POLAK PIOTR                      za       
 
 BANASZAK MACIEJ                 za    GIBAŁA ŁUKASZ                    za        LEWANDOWSKI ANDRZEJ             za    SAJAK PAWEŁ                     za
 BIEDROŃ ROBERT                  za    GÓRCZYŃSKI ARTUR                 za        MAKOWSKI TOMASZ                 za    STOLARSKI MAREK                 za
-BODIO BARTŁ OMIEJ               za    GRODZKA ANNA                     za        MARCINKIEWICZ MAŁGORZATA        za    SZYMIEC-RACZYŃSKA HALINA        za
+BODIO BARTŁOMIEJ               za    GRODZKA ANNA                     za        MARCINKIEWICZ MAŁGORZATA        za    SZYMIEC-RACZYŃSKA HALINA        za
 BORKOWSKI JERZY                 za    KABACIŃSKI MICHAŁ                za        NAJDER JACEK                    za    WYDRZYŃSKI MACIEJ               za
 BRAMORA ARTUR                   za    KLEPACZ WITOLD                   za        NOWICKA WANDA                   za    BAUĆ PIOTR PAWEŁ                ng.
 CEDZYŃSKI JAN                   za    KŁOSOWSKI KRZYSZTOF              za        PACHOLSKI MICHAŁ TOMASZ         za    KĘPIŃSKI ADAM                   ng.
 CHMIELOWSKI PIOTR               za    KMIECIK HENRYK                   za        PENKALSKI WOJCIECH              za    MROCZEK MACIEJ                  ng.
-DĘBSKI ARTUR                    za    KOPYCIŃSKI SŁAWOMIR              za        PIĄ TAK ANDRZEJ                 za    PALIKOT JANUSZ                  ng.
+DĘBSKI ARTUR                    za    KOPYCIŃSKI SŁAWOMIR              za        PIĄTAK ANDRZEJ                 za    PALIKOT JANUSZ                  ng.
 DOMARACKI MAREK                 za    KOTLIŃSKI ROMAN                  za        POPIOŁEK ZOFIA                  za    ROZENEK ANDRZEJ                 ng.
 DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                     za        POZNAŃSKI MAREK                 za    RYFIŃSKI ARMAND KAMIL           ng.
 ELSNER WINCENTY                 za    KWIATKOWSKI JACEK                za        RYBAKOWICZ ADAM                 za

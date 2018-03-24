@@ -19,7 +19,7 @@ ADAMCZAK MAŁGORZATA                  za   ORZECHOWSKI MACIEJ                   
 BIERNACKI MAREK                      za   OŚWIĘCIMSKI KONSTANTY                 za        KOŁODZIEJ EWA                    pr.   GUZOWSKA IWONA                         ws.
 BOROWCZAK JERZY                      za   PACELT ZBIGNIEW                       za        KOPACZEWSKA DOMICELA             pr.   HALL KATARZYNA                         ws.
 BRZEZINKA JACEK                      za   PAHL WITOLD                           za        KOZŁOWSKA IWONA                  pr.   HUSKOWSKI STANISŁAW                    ws.
-BUBLEWICZ BEATA                      za   PIĘ TA JAROSŁAW                       za        KOŹLAKIEWICZ MIROSŁAW            pr.   JAROS MICHAŁ                           ws.
+BUBLEWICZ BEATA                      za   PIĘTA JAROSŁAW                       za        KOŹLAKIEWICZ MIROSŁAW            pr.   JAROS MICHAŁ                           ws.
 BUKIEWICZ BOŻENNA                    za   PIOTROWSKA TERESA                     za        KROPIWNICKI ROBERT               pr.   JASTRZĘBSKI LESZEK                     ws.
 CHARŁAMPOWICZ JAROSŁAW               za   PLOCKE KAZIMIERZ                      za        KRZĄKAŁA MAREK                   pr.   KATULSKI JAROSŁAW                      ws.
 CIEŚLIŃSKI PIOTR                     za   POMASKA AGNIESZKA                     za        KUDRYCKA BARBARA                 pr.   KAŹMIERCZAK JAN                        ws.
@@ -45,7 +45,7 @@ KIERWIŃSKI MARCIN                    za   WITKOWSKI RADOSŁAW                  
 KLUZIK-ROSTKOWSKA JOANNA             za   WOLAK EWA                             za        SZCZERBA MICHAŁ                  pr.   WIELICHOWSKA MONIKA                    ws.
 KŁOSIN KRYSTYNA                      za   WÓJCIK MAREK                          za        SZYMAŃSKI TOMASZ                 pr.   WOJTKOWSKI MAREK                       ws.
 KONWIŃSKI ZBIGNIEW                   za   ZIEMNIAK WOJCIECH                     za        VAN DER COGHEN PIOTR             pr.   ZAREMBA RENATA                         ws.
-KOPACZ EWA                           za   ZIĘ TEK JERZY                         za        WARDZAŁA ROBERT                  pr.   ZAWADZKI RYSZARD                       ws.
+KOPACZ EWA                           za   ZIĘTEK JERZY                         za        WARDZAŁA ROBERT                  pr.   ZAWADZKI RYSZARD                       ws.
 KOZACZYŃSKI JACEK                    za   ACHINGER ELŻBIETA                     pr.       ZIELIŃSKI MACIEJ                 pr.   ŻALEK JACEK                            ws.
 KOZDROŃ JERZY                        za   BUDNIK JERZY                          pr.       ŻMUDA-TRZEBIATOWSKA EWA          pr.   BLANIK LESZEK                          ng.
 KOZŁOWSKA-RAJEWICZ AGNIESZKA         za   CICHOŃ JANUSZ                         pr.       ŻYLIŃSKI ADAM                    pr.   CYCOŃ MARIAN                           ng.
@@ -75,7 +75,7 @@ ORZECHOWSKI ANDRZEJ                  za   KOLENDA-ŁABUŚ BRYGIDA               
  PiS (136)                    GŁOSOWAŁO - 123             ZA - 117   PRZECIW - 0                 WSTRZYM. - 6             NIE GŁOS. - 13
 
 ADAMCZYK ANDRZEJ                za    JAWORSKI ANDRZEJ               za        PIECHA BOLESŁAW GRZEGORZ          za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
-ANDZEL WALDEMAR                 za    JURGIEL KRZYSZTOF              za        PIĘ TA STANISŁAW                  za    WARZECHA JAN                  za
+ANDZEL WALDEMAR                 za    JURGIEL KRZYSZTOF              za        PIĘTA STANISŁAW                  za    WARZECHA JAN                  za
 ARCISZEWSKA-MIELEWCZYK DOROTA   za    KACZMAREK TOMASZ               za        PIONTKOWSKI DARIUSZ               za    WASZCZYKOWSKI WITOLD          za
 ARDANOWSKI JAN KRZYSZTOF        za    KAMIŃSKI MARIUSZ               za        PIOTROWICZ STANISŁAW              za    WIPLER PRZEMYSŁAW             za
 ARENT IWONA EWA                 za    KAMIŃSKI MARIUSZ ANTONI        za        POLACZEK JERZY                    za    WIŚNIEWSKA JADWIGA            za
@@ -115,9 +115,9 @@ JASIŃSKI WOJCIECH               za    PAW ŁOWICZ KRYSTYNA            za       
 BANASZAK MACIEJ                 za    KLEPACZ WITOLD                 za        PACHOLSKI MICHAŁ TOMASZ           za    WYDRZYŃSKI MACIEJ             za
 BORKOWSKI JERZY                 za    KŁOSOWSKI KRZYSZTOF            za        PALIKOT JANUSZ                    za    KWIATKOWSKI JACEK             pr.
 BRAMORA ARTUR                   za    KMIECIK HENRYK                 za        PENKALSKI WOJCIECH                za    CHMIELOWSKI PIOTR             ws.
-CEDZYŃSKI JAN                   za    KOPYCIŃSKI SŁAWOMIR            za        PIĄ TAK ANDRZEJ                   za    BAUĆ PIOTR PAWEŁ              ng.
+CEDZYŃSKI JAN                   za    KOPYCIŃSKI SŁAWOMIR            za        PIĄTAK ANDRZEJ                   za    BAUĆ PIOTR PAWEŁ              ng.
 DĘBSKI ARTUR                    za    KOTLIŃSKI ROMAN                za        POPIOŁEK ZOFIA                    za    BIEDROŃ ROBERT                ng.
-DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                   za        POZNAŃSKI MAREK                   za    BODIO BARTŁ OMIEJ             ng.
+DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                   za        POZNAŃSKI MAREK                   za    BODIO BARTŁOMIEJ             ng.
 ELSNER WINCENTY                 za    LEWANDOWSKI ANDRZEJ            za        ROZENEK ANDRZEJ                   za    DOMARACKI MAREK               ng.
 GIBAŁA ŁUKASZ                   za    MAKOWSKI TOMASZ                za        RYBAKOWICZ ADAM                   za    KĘPIŃSKI ADAM                 ng.
 GÓRCZYŃSKI ARTUR                za    MARCINKIEWICZ MAŁGORZATA       za        RYFIŃSKI ARMAND KAMIL             za    NOWICKA WANDA                 ng.

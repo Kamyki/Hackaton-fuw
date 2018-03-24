@@ -44,10 +44,10 @@ DĄBROWSKA ALICJA                     za     KOPACZ EWA                         
 DROZD EWA                            za     KOPACZEWSKA DOMICELA                 za       PIERZCHAŁA ELŻBIETA APOLONIA       za    WOLAK EWA                              za
 DUNIN ARTUR                          za     KORZENIOWSKI LESZEK                  za       PIETRASZEWSKA DANUTA               za    WÓJCIK MAREK                           za
 DURKA ZENON                          za     KOSECKI ROMAN JACEK                  za       PIETRZCZYK LUCJAN MAREK            za    ZAKRZEWSKA JADWIGA                     za
-DZIĘCIOŁ JANUSZ                      za     KOWALSKI SŁAWOMIR                    za       PIĘ TA JAROSŁAW                    za    ZAREMBA RENATA                         za
+DZIĘCIOŁ JANUSZ                      za     KOWALSKI SŁAWOMIR                    za       PIĘTA JAROSŁAW                    za    ZAREMBA RENATA                         za
 DZIKOWSKI WALDY                      za     KOZACZYŃSKI JACEK                    za       PIOTROWSKA TERESA                  za    ZAWADZKI RYSZARD                       za
 FABISIAK JOANNA                      za     KOZDROŃ JERZY                        za       PITERA JULIA                       za    ZIELIŃSKI MACIEJ                       za
-FIEDLER ARKADY                       za     KOZŁOWSKA IWONA                      za       PLOCKE KAZIMIERZ                   za    ZIĘ TEK JERZY                          za
+FIEDLER ARKADY                       za     KOZŁOWSKA IWONA                      za       PLOCKE KAZIMIERZ                   za    ZIĘTEK JERZY                          za
 GADOWSKI KRZYSZTOF                   za     KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLURA MAREK                        za    ŻALEK JACEK                            za
 GAŁAŻEWSKI ANDRZEJ                   za     KOŹLAKIEWICZ MIROSŁAW                za       PLUTA MIROSŁAW                     za    ŻMIJAN STANISŁAW                       za
 GAPIŃSKA ELŻBIETA                    za     KRAJEWSKA LIGIA                      za       POMASKA AGNIESZKA                  za    ŻMUDA-TRZEBIATOWSKA EWA                za
@@ -102,7 +102,7 @@ GIRZYŃSKI ZBIGNIEW              pr.   MALIK EWA                        pr.     
 GIŻYŃSKI SZYMON                 pr.   MAŁECKI MACIEJ                   pr.       SPRAWKA LECH                    pr.   ŻYŻYŃSKI JERZY                pr.
 GOŁOJUCH KAZIMIERZ              pr.   MASŁOWSKA GABRIELA               pr.       STRZAŁKOWSKI STEFAN             pr.   JACKIEWICZ DAWID              ng.
 GOSIEWSKA MAŁGORZATA            pr.   MASTALEREK MARCIN                pr.       SUSKI MAREK                     pr.   LATOS TOMASZ                  ng.
-GÓRSKI ARTUR                    pr.   MATERNA JERZY                    pr.       SZAŁAMACHA PAWEŁ                pr.   PIĘ TA STANISŁAW              ng.
+GÓRSKI ARTUR                    pr.   MATERNA JERZY                    pr.       SZAŁAMACHA PAWEŁ                pr.   PIĘTA STANISŁAW              ng.
 HOC CZESŁAW                     pr.   MATUSIAK GRZEGORZ                pr.       SZARAMA WOJCIECH                pr.   ZBONIKOWSKI ŁUKASZ            ng.
 HOFMAN ADAM                     pr.   MATUSZEWSKI MAREK                pr.       SZCZERSKI KRZYSZTOF             pr.
 
@@ -112,8 +112,8 @@ HOFMAN ADAM                     pr.   MATUSZEWSKI MAREK                pr.      
 BANASZAK MACIEJ                 za    KABACIŃSKI MICHAŁ                za        NAJDER JACEK                    za    SZYMIEC-RACZYŃSKA HALINA      za
 BORKOWSKI JERZY                 za    KLEPACZ WITOLD                   za        PACHOLSKI MICHAŁ TOMASZ         za    WYDRZYŃSKI MACIEJ             za
 BRAMORA ARTUR                   za    KŁOSOWSKI KRZYSZTOF              za        PENKALSKI WOJCIECH              za    BAUĆ PIOTR PAWEŁ              ng.
-CHMIELOWSKI PIOTR               za    KMIECIK HENRYK                   za        PIĄ TAK ANDRZEJ                 za    BIEDROŃ ROBERT                ng.
-DĘBSKI ARTUR                    za    KOPYCIŃSKI SŁAWOMIR              za        POPIOŁEK ZOFIA                  za    BODIO BARTŁ OMIEJ             ng.
+CHMIELOWSKI PIOTR               za    KMIECIK HENRYK                   za        PIĄTAK ANDRZEJ                 za    BIEDROŃ ROBERT                ng.
+DĘBSKI ARTUR                    za    KOPYCIŃSKI SŁAWOMIR              za        POPIOŁEK ZOFIA                  za    BODIO BARTŁOMIEJ             ng.
 DOMARACKI MAREK                 za    KOTLIŃSKI ROMAN                  za        POZNAŃSKI MAREK                 za    CEDZYŃSKI JAN                 ng.
 DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                     za        ROZENEK ANDRZEJ                 za    KĘPIŃSKI ADAM                 ng.
 ELSNER WINCENTY                 za    KWIATKOWSKI JACEK                za        RYBAKOWICZ ADAM                 za    MARCINKIEWICZ MAŁGORZATA      ng.

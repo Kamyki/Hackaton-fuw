@@ -45,7 +45,7 @@ DZIĘCIOŁ JANUSZ                       pr.   KOSECKI ROMAN JACEK               
 DZIKOWSKI WALDY                       pr.   KOWALSKI SŁAWOMIR                     pr.       PLOCKE KAZIMIERZ                 pr.   ZDROJEWSKI BOGDAN               pr.
 FABISIAK JOANNA                       pr.   KOZACZYŃSKI JACEK                     pr.       PLURA MAREK                      pr.   ZIELIŃSKI MACIEJ                pr.
 FEDOROWICZ JERZY                      pr.   KOZDROŃ JERZY                         pr.       PLUTA MIROSŁAW                   pr.   ZIEMNIAK WOJCIECH               pr.
-FIEDLER ARKADY                        pr.   KOZŁOWSKA IWONA                       pr.       POMASKA AGNIESZKA                pr.   ZIĘ TEK JERZY                   pr.
+FIEDLER ARKADY                        pr.   KOZŁOWSKA IWONA                       pr.       POMASKA AGNIESZKA                pr.   ZIĘTEK JERZY                   pr.
 GADOWSKI KRZYSZTOF                    pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA          pr.       RACZKOWSKI DAMIAN                pr.   ŻALEK JACEK                     pr.
 GAŁAŻEWSKI ANDRZEJ                    pr.   KOŹLAKIEWICZ MIROSŁAW                 pr.       RADZISZEWSKA ELŻBIETA            pr.   ŻMIJAN STANISŁAW                pr.
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       RANIEWICZ GRZEGORZ               pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -54,7 +54,7 @@ GĄDEK LIDIA                           pr.   KUDRYCKA BARBARA                   
 GĄSIOR-MAREK MAGDALENA                pr.   KULESZA TOMASZ                        pr.       ROZPONDEK HALINA                 pr.   KRAJEWSKA LIGIA                 ng.
 GELERT ELŻBIETA                       pr.   LAMCZYK STANISŁAW                     pr.       RUTNICKI JAKUB                   pr.   KUCHARSKI CEZARY                ng.
 GIBAŁA ŁUKASZ                         pr.   LASSOTA JÓZEF                         pr.       RYNASIEWICZ ZBIGNIEW             pr.   KWIATKOWSKI KRZYSZTOF           ng.
-GIERADA ARTUR                         pr.   LENZ TOMASZ                           pr.       RZĄSA MAREK                      pr.   PIĘ TA JAROSŁAW                 ng.
+GIERADA ARTUR                         pr.   LENZ TOMASZ                           pr.       RZĄSA MAREK                      pr.   PIĘTA JAROSŁAW                 ng.
 GLUZA CZESŁAW                         pr.   LESZCZYNA IZABELA                     pr.       SAŁUGA WOJCIECH                  pr.   POŚLEDNIA KRYSTYNA              ng.
 GŁOGOWSKI TOMASZ                      pr.   LITWIŃSKI ARKADIUSZ                   pr.       SCHETYNA GRZEGORZ                pr.   RUTKOWSKA DOROTA                ng.
 GODSON JOHN ABRAHAM                   pr.   ŁAPIŃSKI MAREK                        pr.       SIBIŃSKA KRYSTYNA                pr.   SŁUGOCKI WALDEMAR               ng.
@@ -79,7 +79,7 @@ AST MAREK                       za    KACZMAREK TOMASZ              za        O�
 BABALSKI ZBIGNIEW               za    KACZYŃSKI JAROSŁAW            za        PALUCH ANNA                      za    TOBISZOWSKI GRZEGORZ          za
 BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ              za        PAW ŁOWICZ KRYSTYNA              za    TOMASZEWSKI JAN               za
 BARTUŚ BARBARA                  za    KLOC IZABELA                  za        PIECHA BOLESŁAW GRZEGORZ         za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
-BĄK DARIUSZ                     za    KŁOSOWSKI SŁAWOMIR            za        PIĘ TA STANISŁAW                 za    WARZECHA JAN                  za
+BĄK DARIUSZ                     za    KŁOSOWSKI SŁAWOMIR            za        PIĘTA STANISŁAW                 za    WARZECHA JAN                  za
 BERNACKI W ŁODZIMIERZ           za    KOŁAKOWSKI LECH               za        PIOTROWICZ STANISŁAW             za    WASZCZYKOWSKI WITOLD          za
 BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI ROBERT             za        POLACZEK JERZY                   za    WIPLER PRZEMYSŁAW             za
 BŁASZCZAK MARIUSZ               za    KOWALCZYK HENRYK              za        POLAK MAREK                      za    WIŚNIEWSKA JADWIGA            za
@@ -108,9 +108,9 @@ HOC CZESŁAW                     za    MAZUREK BEATA                 za        S
  RP (41)                    GŁOSOWAŁO - 27               ZA - 0     PRZECIW - 27               WSTRZYM. - 0             NIE GŁOS. - 14
 
 BAUĆ PIOTR PAWEŁ                pr.   KMIECIK HENRYK                pr.       POPIOŁEK ZOFIA                   pr.   MAKOWSKI TOMASZ               ng.
-BODIO BARTŁ OMIEJ               pr.   KOPYCIŃSKI SŁAWOMIR           pr.       ROZENEK ANDRZEJ                  pr.   MARCINKIEWICZ MAŁGORZATA      ng.
+BODIO BARTŁOMIEJ               pr.   KOPYCIŃSKI SŁAWOMIR           pr.       ROZENEK ANDRZEJ                  pr.   MARCINKIEWICZ MAŁGORZATA      ng.
 BORKOWSKI JERZY                 pr.   KOTLIŃSKI ROMAN               pr.       SAJAK PAWEŁ                      pr.   PACHOLSKI MICHAŁ TOMASZ       ng.
-BRAMORA ARTUR                   pr.   KRUPA ŁUKASZ                  pr.       STOLARSKI MAREK                  pr.   PIĄ TAK ANDRZEJ               ng.
+BRAMORA ARTUR                   pr.   KRUPA ŁUKASZ                  pr.       STOLARSKI MAREK                  pr.   PIĄTAK ANDRZEJ               ng.
 CEDZYŃSKI JAN                   pr.   KWIATKOWSKI JACEK             pr.       SZYMIEC-RACZYŃSKA HALINA         pr.   POZNAŃSKI MAREK               ng.
 CHMIELOWSKI PIOTR               pr.   LEWANDOWSKI ANDRZEJ           pr.       BANASZAK MACIEJ                  ng.   RYBAKOWICZ ADAM               ng.
 DĘBSKI ARTUR                    pr.   MROCZEK MACIEJ                pr.       BIEDROŃ ROBERT                   ng.   RYFIŃSKI ARMAND KAMIL         ng.

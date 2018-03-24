@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    pr.   KONWIŃSKI ZBIGNIEW                
 DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                            pr.       PIECHOTA SŁAWOMIR JAN            pr.   WIELICHOWSKA MONIKA             pr.
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITCZAK MARIUSZ                 pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITKOWSKI RADOSŁAW              pr.
-DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIĘ TA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                pr.
+DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIĘTA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIOTROWSKA TERESA                pr.   WOLAK EWA                       pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PITERA JULIA                     pr.   WÓJCIK MAREK                    pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PLOCKE KAZIMIERZ                 pr.   ZAKRZEWSKA JADWIGA              pr.
@@ -52,7 +52,7 @@ FIEDLER ARKADY                        pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA       
 GADOWSKI KRZYSZTOF                    pr.   KOŹLAKIEWICZ MIROSŁAW                 pr.       POMASKA AGNIESZKA                pr.   ZDROJEWSKI BOGDAN               pr.
 GAŁAŻEWSKI ANDRZEJ                    pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.   ZIELIŃSKI MACIEJ                pr.
 GAPIŃSKA ELŻBIETA                     pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIEMNIAK WOJCIECH               pr.
-GAW ŁOWSKI STANISŁAW                  pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘ TEK JERZY                   pr.
+GAW ŁOWSKI STANISŁAW                  pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘTEK JERZY                   pr.
 GĄDEK LIDIA                           pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ŻALEK JACEK                     pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KULESZA TOMASZ                        pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                pr.
 GELERT ELŻBIETA                       pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -83,7 +83,7 @@ MAZUREK BEATA                   za    GOSIEWSKA MAŁGORZATA          ws.       M
 MICHAŁKIEWICZ KRZYSZTOF         za    GÓRSKI ARTUR                  ws.       NAIMSKI PIOTR                     ws.   TOMASZEWSKI JAN               ws.
 MOSKAL KAZIMIERZ                za    HRYNKIEWICZ JÓZEFA            ws.       NOWAK MARIA                       ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 OŻÓG STANISŁAW                  za    JACH MICHAŁ                   ws.       OPIOŁA MAREK                      ws.   WARZECHA JAN                  ws.
-PIĘ TA STANISŁAW                za    JACKIEWICZ DAWID              ws.       OSUCH JACEK                       ws.   WASZCZYKOWSKI WITOLD          ws.
+PIĘTA STANISŁAW                za    JACKIEWICZ DAWID              ws.       OSUCH JACEK                       ws.   WASZCZYKOWSKI WITOLD          ws.
 SADURSKA MAŁGORZATA             za    JANCZYK WIESŁAW STANISŁAW     ws.       PALUCH ANNA                       ws.   WIPLER PRZEMYSŁAW             ws.
 SZLACHTA ANDRZEJ                za    JASIŃSKI WOJCIECH             ws.       PAW ŁOWICZ KRYSTYNA               ws.   WIŚNIEWSKA JADWIGA            ws.
 SZMIT JERZY                     za    JĘDRYSEK MARIUSZ ORION        ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   WITEK ELŻBIETA                ws.
@@ -109,7 +109,7 @@ CZESAK EDWARD                   ws.   LIPIŃSKI ADAM                 ws.       S
 
  RP (43)                      GŁOSOWAŁO - 41              ZA - 10   PRZECIW - 30               WSTRZYM. - 1              NIE GŁOS. - 2
 
-DZIADZIO DARIUSZ CEZAR          za    BAUĆ PIOTR PAWEŁ              pr.       KĘPIŃSKI ADAM                     pr.   PIĄ TAK ANDRZEJ               pr.
+DZIADZIO DARIUSZ CEZAR          za    BAUĆ PIOTR PAWEŁ              pr.       KĘPIŃSKI ADAM                     pr.   PIĄTAK ANDRZEJ               pr.
 GÓRCZYŃSKI ARTUR                za    BIEDROŃ ROBERT                pr.       KŁOSOWSKI KRZYSZTOF               pr.   POPIOŁEK ZOFIA                pr.
 KABACIŃSKI MICHAŁ               za    BORKOWSKI JERZY               pr.       KOPYCIŃSKI SŁAWOMIR               pr.   ROZENEK ANDRZEJ               pr.
 KMIECIK HENRYK                  za    BRAMORA ARTUR                 pr.       KOTLIŃSKI ROMAN                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
@@ -117,7 +117,7 @@ KWIATKOWSKI JACEK               za    CEDZYŃSKI JAN                 pr.       K
 LEWANDOWSKI ANDRZEJ             za    CHMIELOWSKI PIOTR             pr.       MAKOWSKI TOMASZ                   pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 MARCINKIEWICZ MAŁGORZATA        za    DĘBSKI ARTUR                  pr.       MROCZEK MACIEJ                    pr.   WYDRZYŃSKI MACIEJ             pr.
 PALIKOT JANUSZ                  za    DOMARACKI MAREK               pr.       NAJDER JACEK                      pr.   KLEPACZ WITOLD                ws.
-POZNAŃSKI MAREK                 za    ELSNER WINCENTY               pr.       NOWICKA WANDA                     pr.   BODIO BARTŁ OMIEJ             ng.
+POZNAŃSKI MAREK                 za    ELSNER WINCENTY               pr.       NOWICKA WANDA                     pr.   BODIO BARTŁOMIEJ             ng.
 SAJAK PAWEŁ                     za    GIBAŁA ŁUKASZ                 pr.       PACHOLSKI MICHAŁ TOMASZ           pr.   RYBAKOWICZ ADAM               ng.
 BANASZAK MACIEJ                 pr.   GRODZKA ANNA                  pr.       PENKALSKI WOJCIECH                pr.
 

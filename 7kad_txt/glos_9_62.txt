@@ -40,13 +40,13 @@ CZERNOW ZOFIA                        za    KOPACZ EWA                           
 CZERWIŃSKI ANDRZEJ                   za    KOPACZEWSKA DOMICELA                 za       PIERZCHAŁA ELŻBIETA APOLONIA       za      WOJTKOWSKI MAREK                za
 DĄBROWSKA ALICJA                     za    KOSECKI ROMAN JACEK                  za       PIETRASZEWSKA DANUTA               za      WOLAK EWA                       za
 DROZD EWA                            za    KOWALSKI SŁAWOMIR                    za       PIETRZCZYK LUCJAN MAREK            za      WÓJCIK MAREK                    za
-DUNIN ARTUR                          za    KOZACZYŃSKI JACEK                    za       PIĘ TA JAROSŁAW                    za      ZAKRZEWSKA JADWIGA              za
+DUNIN ARTUR                          za    KOZACZYŃSKI JACEK                    za       PIĘTA JAROSŁAW                    za      ZAKRZEWSKA JADWIGA              za
 DURKA ZENON                          za    KOZDROŃ JERZY                        za       PIOTROWSKA TERESA                  za      ZAREMBA RENATA                  za
 DZIĘCIOŁ JANUSZ                      za    KOZŁOWSKA IWONA                      za       PITERA JULIA                       za      ZAWADZKI RYSZARD                za
 DZIKOWSKI WALDY                      za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLOCKE KAZIMIERZ                   za      ZDROJEWSKI BOGDAN               za
 FABISIAK JOANNA                      za    KOŹLAKIEWICZ MIROSŁAW                za       PLUTA MIROSŁAW                     za      ZIELIŃSKI MACIEJ                za
 FEDOROWICZ JERZY                     za    KRAJEWSKA LIGIA                      za       POMASKA AGNIESZKA                  za      ZIEMNIAK WOJCIECH               za
-FIEDLER ARKADY                       za    KROPIWNICKI ROBERT                   za       POŚLEDNIA KRYSTYNA                 za      ZIĘ TEK JERZY                   za
+FIEDLER ARKADY                       za    KROPIWNICKI ROBERT                   za       POŚLEDNIA KRYSTYNA                 za      ZIĘTEK JERZY                   za
 GADOWSKI KRZYSZTOF                   za    KRZĄKAŁA MAREK                       za       RACZKOWSKI DAMIAN                  za      ŻALEK JACEK                     za
 GAPIŃSKA ELŻBIETA                    za    KUCHARSKI CEZARY                     za       RADZISZEWSKA ELŻBIETA              za      ŻMIJAN STANISŁAW                za
 GAW ŁOWSKI STANISŁAW                 za    KUDRYCKA BARBARA                     za       RANIEWICZ GRZEGORZ                 za      ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -84,7 +84,7 @@ ABRAMOWICZ ADAM                 ws.   HRYNKIEWICZ JÓZEFA           ws.       O�
 ADAMCZYK ANDRZEJ                ws.   JACH MICHAŁ                  ws.       PALUCH ANNA                       ws.   WASZCZYKOWSKI WITOLD          ws.
 ANDZEL WALDEMAR                 ws.   JACKIEWICZ DAWID             ws.       PAW ŁOWICZ KRYSTYNA               ws.   WIŚNIEWSKA JADWIGA            ws.
 ARCISZEWSKA-MIELEWCZYK DOROTA   ws.   JANCZYK WIESŁAW STANISŁAW    ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   WITEK ELŻBIETA                ws.
-ARDANOWSKI JAN KRZYSZTOF        ws.   JASIŃSKI WOJCIECH            ws.       PIĘ TA STANISŁAW                  ws.   WITKO MARCIN                  ws.
+ARDANOWSKI JAN KRZYSZTOF        ws.   JASIŃSKI WOJCIECH            ws.       PIĘTA STANISŁAW                  ws.   WITKO MARCIN                  ws.
 ARENT IWONA EWA                 ws.   JAWORSKI ANDRZEJ             ws.       PIONTKOWSKI DARIUSZ               ws.   WOJTKIEWICZ MICHAŁ            ws.
 AST MAREK                       ws.   JURGIEL KRZYSZTOF            ws.       PIOTROWICZ STANISŁAW              ws.   WOŹNIAK GRZEGORZ ADAM         ws.
 BABALSKI ZBIGNIEW               ws.   KACZMAREK TOMASZ             ws.       POLACZEK JERZY                    ws.   ZALEWSKA ANNA                 ws.
@@ -111,12 +111,12 @@ DZIEDZICZAK JAN                 ws.   ŁOPIŃSKI MACIEJ              ws.       S
 DOMARACKI MAREK                 za    CEDZYŃSKI JAN                ws.       KRUPA ŁUKASZ                      ws.   POZNAŃSKI MAREK               ws.
 ELSNER WINCENTY                 za    CHMIELOWSKI PIOTR            ws.       KWIATKOWSKI JACEK                 ws.   ROZENEK ANDRZEJ               ws.
 KĘPIŃSKI ADAM                   za    DĘBSKI ARTUR                 ws.       LEWANDOWSKI ANDRZEJ               ws.   RYBAKOWICZ ADAM               ws.
-PIĄ TAK ANDRZEJ                 za    DZIADZIO DARIUSZ CEZAR       ws.       MAKOWSKI TOMASZ                   ws.   RYFIŃSKI ARMAND KAMIL         ws.
+PIĄTAK ANDRZEJ                 za    DZIADZIO DARIUSZ CEZAR       ws.       MAKOWSKI TOMASZ                   ws.   RYFIŃSKI ARMAND KAMIL         ws.
 POPIOŁEK ZOFIA                  za    GÓRCZYŃSKI ARTUR             ws.       MARCINKIEWICZ MAŁGORZATA          ws.   SAJAK PAWEŁ                   ws.
 BANASZAK MACIEJ                 ws.   GRODZKA ANNA                 ws.       MROCZEK MACIEJ                    ws.   STOLARSKI MAREK               ws.
 BAUĆ PIOTR PAWEŁ                ws.   KABACIŃSKI MICHAŁ            ws.       NAJDER JACEK                      ws.   SZYMIEC-RACZYŃSKA HALINA      ws.
 BIEDROŃ ROBERT                  ws.   KŁOSOWSKI KRZYSZTOF          ws.       NOWICKA WANDA                     ws.   WYDRZYŃSKI MACIEJ             ws.
-BODIO BARTŁ OMIEJ               ws.   KMIECIK HENRYK               ws.       PACHOLSKI MICHAŁ TOMASZ           ws.
+BODIO BARTŁOMIEJ               ws.   KMIECIK HENRYK               ws.       PACHOLSKI MICHAŁ TOMASZ           ws.
 BORKOWSKI JERZY                 ws.   KOPYCIŃSKI SŁAWOMIR          ws.       PALIKOT JANUSZ                    ws.
 BRAMORA ARTUR                   ws.   KOTLIŃSKI ROMAN              ws.       PENKALSKI WOJCIECH                ws.
 

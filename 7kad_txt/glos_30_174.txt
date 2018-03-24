@@ -44,7 +44,7 @@ DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                         
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.    WARDZAŁA ROBERT                 pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.    WIELICHOWSKA MONIKA             pr.
 DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.    WITCZAK MARIUSZ                 pr.
-DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
+DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.    WOJTKOWSKI MAREK                pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.    WOLAK EWA                       pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.    WÓJCIK MAREK                    pr.
@@ -54,7 +54,7 @@ GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                   
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.    ZDROJEWSKI BOGDAN               pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.    ZIELIŃSKI MACIEJ                pr.
 GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.    ZIEMNIAK WOJCIECH               pr.
-GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘ TEK JERZY                   pr.
+GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘTEK JERZY                   pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.    ŻALEK JACEK                     pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.    ŻMIJAN STANISŁAW                pr.
 GLUZA CZESŁAW                         pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.    ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -95,7 +95,7 @@ PALUCH ANNA                     za    GÓRSKI ARTUR                    ws.      
 PIOTROWICZ STANISŁAW            za    HOFMAN ADAM                     ws.       OŻÓG STANISŁAW                   ws.   ZBONIKOWSKI ŁUKASZ            ws.
 POLACZEK JERZY                  za    HRYNKIEWICZ JÓZEFA              ws.       PAW ŁOWICZ KRYSTYNA              ws.   ZIELIŃSKI JAROSŁAW            ws.
 POLAK MAREK                     za    JACH MICHAŁ                     ws.       PIECHA BOLESŁAW GRZEGORZ         ws.   ZŁOTOWSKI KOSMA               ws.
-POLAK PIOTR                     za    JACKIEWICZ DAWID                ws.       PIĘ TA STANISŁAW                 ws.   ZUBA MARIA                    ws.
+POLAK PIOTR                     za    JACKIEWICZ DAWID                ws.       PIĘTA STANISŁAW                 ws.   ZUBA MARIA                    ws.
 POPIOŁEK KRZYSZTOF              za    JASIŃSKI WOJCIECH               ws.       PIONTKOWSKI DARIUSZ              ws.   ZUBOWSKI WOJCIECH             ws.
 PYZIK PIOTR                     za    JĘDRYSEK MARIUSZ ORION          ws.       RAFALSKA ELŻBIETA                ws.   ŻYŻYŃSKI JERZY                ws.
 SELIGA DARIUSZ                  za    JURGIEL KRZYSZTOF               ws.       ROGACKI ADAM                     ws.   BRUDZIŃSKI JOACHIM            ng.
@@ -109,8 +109,8 @@ TOBISZOWSKI GRZEGORZ            za    KOWNACKI BARTOSZ                ws.       
 
  RP (43)                      GŁOSOWAŁO - 43            ZA - 10       PRZECIW - 32               WSTRZYM. - 1             NIE GŁOS. - 0
 
-BIEDROŃ ROBERT                  za    BAUĆ PIOTR PAWEŁ                pr.       KOTLIŃSKI ROMAN                  pr.   PIĄ TAK ANDRZEJ               pr.
-BODIO BARTŁ OMIEJ               za    BORKOWSKI JERZY                 pr.       KRUPA ŁUKASZ                     pr.   POPIOŁEK ZOFIA                pr.
+BIEDROŃ ROBERT                  za    BAUĆ PIOTR PAWEŁ                pr.       KOTLIŃSKI ROMAN                  pr.   PIĄTAK ANDRZEJ               pr.
+BODIO BARTŁOMIEJ               za    BORKOWSKI JERZY                 pr.       KRUPA ŁUKASZ                     pr.   POPIOŁEK ZOFIA                pr.
 DZIADZIO DARIUSZ CEZAR          za    BRAMORA ARTUR                   pr.       KWIATKOWSKI JACEK                pr.   POZNAŃSKI MAREK               pr.
 GIBAŁA ŁUKASZ                   za    CEDZYŃSKI JAN                   pr.       LEWANDOWSKI ANDRZEJ              pr.   ROZENEK ANDRZEJ               pr.
 GÓRCZYŃSKI ARTUR                za    CHMIELOWSKI PIOTR               pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.

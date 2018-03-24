@@ -45,14 +45,14 @@ DROZD EWA                             za    KOPACZEWSKA DOMICELA                
 DUNIN ARTUR                           za    KORZENIOWSKI LESZEK                   za       PIERZCHAŁA ELŻBIETA APOLONIA     za   WITCZAK MARIUSZ                 za
 DURKA ZENON                           za    KOSECKI ROMAN JACEK                   za       PIETRASZEWSKA DANUTA             za   WITKOWSKI RADOSŁAW              za
 DZIĘCIOŁ JANUSZ                       za    KOWALSKI SŁAWOMIR                     za       PIETRZCZYK LUCJAN MAREK          za   WOJTKOWSKI MAREK                za
-DZIKOWSKI WALDY                       za    KOZACZYŃSKI JACEK                     za       PIĘ TA JAROSŁAW                  za   WOLAK EWA                       za
+DZIKOWSKI WALDY                       za    KOZACZYŃSKI JACEK                     za       PIĘTA JAROSŁAW                  za   WOLAK EWA                       za
 FABISIAK JOANNA                       za    KOZDROŃ JERZY                         za       PIOTROWSKA TERESA                za   WÓJCIK MAREK                    za
 FEDOROWICZ JERZY                      za    KOZŁOWSKA IWONA                       za       PITERA JULIA                     za   ZAREMBA RENATA                  za
 FIEDLER ARKADY                        za    KOZŁOWSKA-RAJEWICZ AGNIESZKA          za       PLOCKE KAZIMIERZ                 za   ZAWADZKI RYSZARD                za
 GADOWSKI KRZYSZTOF                    za    KOŹLAKIEWICZ MIROSŁAW                 za       PLURA MAREK                      za   ZDROJEWSKI BOGDAN               za
 GAŁAŻEWSKI ANDRZEJ                    za    KRAJEWSKA LIGIA                       za       PLUTA MIROSŁAW                   za   ZIELIŃSKI MACIEJ                za
 GAPIŃSKA ELŻBIETA                     za    KROPIWNICKI ROBERT                    za       POMASKA AGNIESZKA                za   ZIEMNIAK WOJCIECH               za
-GAW ŁOWSKI STANISŁAW                  za    KRZĄKAŁA MAREK                        za       POŚLEDNIA KRYSTYNA               za   ZIĘ TEK JERZY                   za
+GAW ŁOWSKI STANISŁAW                  za    KRZĄKAŁA MAREK                        za       POŚLEDNIA KRYSTYNA               za   ZIĘTEK JERZY                   za
 GĄDEK LIDIA                           za    KUCHARSKI CEZARY                      za       RACZKOWSKI DAMIAN                za   ŻALEK JACEK                     za
 GĄSIOR-MAREK MAGDALENA                za    KUDRYCKA BARBARA                      za       RADZISZEWSKA ELŻBIETA            za   ŻMIJAN STANISŁAW                za
 GELERT ELŻBIETA                       za    KULESZA TOMASZ                        za       RANIEWICZ GRZEGORZ               za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -82,7 +82,7 @@ BABALSKI ZBIGNIEW               pr.   KACZMAREK TOMASZ            pr.       OŻ�
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ            pr.       PALUCH ANNA                      pr.   TELUS ROBERT                  pr.
 BARTUŚ BARBARA                  pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PAW ŁOWICZ KRYSTYNA              pr.   TERLECKI RYSZARD              pr.
 BĄK DARIUSZ                     pr.   KLOC IZABELA                pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TOBISZOWSKI GRZEGORZ          pr.
-BERNACKI W ŁODZIMIERZ           pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘ TA STANISŁAW                 pr.   TOMASZEWSKI JAN               pr.
+BERNACKI W ŁODZIMIERZ           pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘTA STANISŁAW                 pr.   TOMASZEWSKI JAN               pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI LECH             pr.       PIONTKOWSKI DARIUSZ              pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BŁASZCZAK MARIUSZ               pr.   KOŁAKOWSKI ROBERT           pr.       PIOTROWICZ STANISŁAW             pr.   WARZECHA JAN                  pr.
 BRUDZIŃSKI JOACHIM              pr.   KOWALCZYK HENRYK            pr.       POLACZEK JERZY                   pr.   WASZCZYKOWSKI WITOLD          pr.
@@ -110,13 +110,13 @@ HOFMAN ADAM                     pr.   MATUSZEWSKI MAREK           pr.       SZCZ
  RP (43)                      GŁOSOWAŁO - 38            ZA - 0    PRZECIW - 38               WSTRZYM. - 0             NIE GŁOS. - 5
 
 BANASZAK MACIEJ                 pr.   GÓRCZYŃSKI ARTUR            pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL         pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ           pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
 BRAMORA ARTUR                   pr.   KLEPACZ WITOLD              pr.       NAJDER JACEK                     pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF         pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ             pr.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK              pr.       PALIKOT JANUSZ                   pr.   BAUĆ PIOTR PAWEŁ              ng.
 DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PENKALSKI WOJCIECH               pr.   BIEDROŃ ROBERT                ng.
-DOMARACKI MAREK                 pr.   KOTLIŃSKI ROMAN             pr.       PIĄ TAK ANDRZEJ                  pr.   KĘPIŃSKI ADAM                 ng.
+DOMARACKI MAREK                 pr.   KOTLIŃSKI ROMAN             pr.       PIĄTAK ANDRZEJ                  pr.   KĘPIŃSKI ADAM                 ng.
 DZIADZIO DARIUSZ CEZAR          pr.   KRUPA ŁUKASZ                pr.       POPIOŁEK ZOFIA                   pr.   NOWICKA WANDA                 ng.
 ELSNER WINCENTY                 pr.   KWIATKOWSKI JACEK           pr.       POZNAŃSKI MAREK                  pr.   STOLARSKI MAREK               ng.
 GIBAŁA ŁUKASZ                   pr.   LEWANDOWSKI ANDRZEJ         pr.       ROZENEK ANDRZEJ                  pr.

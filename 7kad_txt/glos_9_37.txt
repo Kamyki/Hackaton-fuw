@@ -46,7 +46,7 @@ DROZD EWA                            za    KOPACZ EWA                           
 DUNIN ARTUR                          za    KOPACZEWSKA DOMICELA                 za       PIERZCHAŁA ELŻBIETA APOLONIA      za   WITCZAK MARIUSZ                          za
 DURKA ZENON                          za    KOSECKI ROMAN JACEK                  za       PIETRASZEWSKA DANUTA              za   WITKOWSKI RADOSŁAW                       za
 DZIĘCIOŁ JANUSZ                      za    KOWALSKI SŁAWOMIR                    za       PIETRZCZYK LUCJAN MAREK           za   WOJNAROWSKI NORBERT                      za
-DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                    za       PIĘ TA JAROSŁAW                   za   WOJTKOWSKI MAREK                         za
+DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                    za       PIĘTA JAROSŁAW                   za   WOJTKOWSKI MAREK                         za
 FABISIAK JOANNA                      za    KOZDROŃ JERZY                        za       PIOTROWSKA TERESA                 za   WOLAK EWA                                za
 FEDOROWICZ JERZY                     za    KOZŁOWSKA IWONA                      za       PITERA JULIA                      za   WÓJCIK MAREK                             za
 FIEDLER ARKADY                       za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLOCKE KAZIMIERZ                  za   ZAKRZEWSKA JADWIGA                       za
@@ -55,7 +55,7 @@ GAŁAŻEWSKI ANDRZEJ                   za    KRAJEWSKA LIGIA                    
 GAPIŃSKA ELŻBIETA                    za    KROPIWNICKI ROBERT                   za       POŚLEDNIA KRYSTYNA                za   ZDROJEWSKI BOGDAN                        za
 GAW ŁOWSKI STANISŁAW                 za    KRZĄKAŁA MAREK                       za       RACZKOWSKI DAMIAN                 za   ZIELIŃSKI MACIEJ                         za
 GĄDEK LIDIA                          za    KUCHARSKI CEZARY                     za       RADZISZEWSKA ELŻBIETA             za   ZIEMNIAK WOJCIECH                        za
-GĄSIOR-MAREK MAGDALENA               za    KUDRYCKA BARBARA                     za       RANIEWICZ GRZEGORZ                za   ZIĘ TEK JERZY                            za
+GĄSIOR-MAREK MAGDALENA               za    KUDRYCKA BARBARA                     za       RANIEWICZ GRZEGORZ                za   ZIĘTEK JERZY                            za
 GELERT ELŻBIETA                      za    KULESZA TOMASZ                       za       RAŚ IRENEUSZ                      za   ŻALEK JACEK                              za
 GIBAŁA ŁUKASZ                        za    KWIATKOWSKI KRZYSZTOF                za       ROSATI DARIUSZ                    za   ŻMIJAN STANISŁAW                         za
 GIERADA ARTUR                        za    LAMCZYK STANISŁAW                    za       ROZPONDEK HALINA                  za   ŻMUDA-TRZEBIATOWSKA EWA                  za
@@ -84,7 +84,7 @@ BABINETZ PIOTR                  pr.   KACZMAREK TOMASZ            pr.       OŻ�
 BARTUŚ BARBARA                  pr.   KACZYŃSKI JAROSŁAW          pr.       PALUCH ANNA                      pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 BĄK DARIUSZ                     pr.   KAMIŃSKI MARIUSZ            pr.       PAW ŁOWICZ KRYSTYNA              pr.   TELUS ROBERT                  pr.
 BERNACKI W ŁODZIMIERZ           pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TERLECKI RYSZARD              pr.
-BĘTKOWSKI ANDRZEJ               pr.   KLOC IZABELA                pr.       PIĘ TA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
+BĘTKOWSKI ANDRZEJ               pr.   KLOC IZABELA                pr.       PIĘTA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
 BŁASZCZAK MARIUSZ               pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIONTKOWSKI DARIUSZ              pr.   TOMASZEWSKI JAN               pr.
 BRUDZIŃSKI JOACHIM              pr.   KOŁAKOWSKI LECH             pr.       PIOTROWICZ STANISŁAW             pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BUBULA BARBARA                  pr.   KOŁAKOWSKI ROBERT           pr.       POLACZEK JERZY                   pr.   WARZECHA JAN                  pr.
@@ -113,13 +113,13 @@ HOC CZESŁAW                     pr.   MATERNA JERZY               pr.       SZA
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY             pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GÓRCZYŃSKI ARTUR            pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
 BIEDROŃ ROBERT                  pr.   GRODZKA ANNA                pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
-BODIO BARTŁ OMIEJ               pr.   KABACIŃSKI MICHAŁ           pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
+BODIO BARTŁOMIEJ               pr.   KABACIŃSKI MICHAŁ           pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BORKOWSKI JERZY                 pr.   KĘPIŃSKI ADAM               pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                   pr.
 BRAMORA ARTUR                   pr.   KŁOSOWSKI KRZYSZTOF         pr.       NOWICKA WANDA                    pr.   STOLARSKI MAREK               pr.
 CEDZYŃSKI JAN                   pr.   KMIECIK HENRYK              pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 CHMIELOWSKI PIOTR               pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PALIKOT JANUSZ                   pr.   WYDRZYŃSKI MACIEJ             pr.
 DĘBSKI ARTUR                    pr.   KOTLIŃSKI ROMAN             pr.       PENKALSKI WOJCIECH               pr.
-DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                pr.       PIĄ TAK ANDRZEJ                  pr.
+DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                pr.       PIĄTAK ANDRZEJ                  pr.
 DZIADZIO DARIUSZ CEZAR          pr.   KWIATKOWSKI JACEK           pr.       POPIOŁEK ZOFIA                   pr.
 
 

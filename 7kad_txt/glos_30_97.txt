@@ -44,7 +44,7 @@ DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                         
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.   WARDZAŁA ROBERT                 pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITCZAK MARIUSZ                 pr.
-DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
+DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.   WOLAK EWA                       pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                    pr.
@@ -54,7 +54,7 @@ GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                   
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN               pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                pr.
 GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH               pr.
-GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                   pr.
+GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                   pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                     pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                pr.
 GLUZA CZESŁAW                         pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -77,7 +77,7 @@ JĘDRYSEK MARIUSZ ORION          za    GOSIEWSKA MAŁGORZATA         ws.       M
 KRACZKOWSKI MAKS                za    GÓRSKI ARTUR                 ws.       MAZUREK BEATA                     ws.   ŚWIAT JACEK                   ws.
 LATOS TOMASZ                    za    HOC CZESŁAW                  ws.       MICHAŁKIEWICZ KRZYSZTOF           ws.   TCHÓRZEWSKI KRZYSZTOF         ws.
 MATERNA JERZY                   za    HOFMAN ADAM                  ws.       MOSKAL KAZIMIERZ                  ws.   TELUS ROBERT                  ws.
-PIĘ TA STANISŁAW                za    HRYNKIEWICZ JÓZEFA           ws.       NAIMSKI PIOTR                     ws.   TERLECKI RYSZARD              ws.
+PIĘTA STANISŁAW                za    HRYNKIEWICZ JÓZEFA           ws.       NAIMSKI PIOTR                     ws.   TERLECKI RYSZARD              ws.
 ROGACKI ADAM                    za    JACH MICHAŁ                  ws.       NOWAK MARIA                       ws.   TOMASZEWSKI JAN               ws.
 SASIN JACEK                     za    JACKIEWICZ DAWID             ws.       OPIOŁA MAREK                      ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 SZMIT JERZY                     za    JANCZYK WIESŁAW STANISŁAW    ws.       OSUCH JACEK                       ws.   WARZECHA JAN                  ws.
@@ -109,8 +109,8 @@ FALFUS JACEK                    ws.   MAŁECKI MACIEJ               ws.       SZ
 
  RP (43)                      GŁOSOWAŁO - 43             ZA - 9    PRZECIW - 34               WSTRZYM. - 0              NIE GŁOS. - 0
 
-BANASZAK MACIEJ                 za    BODIO BARTŁ OMIEJ            pr.       GRODZKA ANNA                      pr.   PENKALSKI WOJCIECH            pr.
-KABACIŃSKI MICHAŁ               za    BORKOWSKI JERZY              pr.       KĘPIŃSKI ADAM                     pr.   PIĄ TAK ANDRZEJ               pr.
+BANASZAK MACIEJ                 za    BODIO BARTŁOMIEJ            pr.       GRODZKA ANNA                      pr.   PENKALSKI WOJCIECH            pr.
+KABACIŃSKI MICHAŁ               za    BORKOWSKI JERZY              pr.       KĘPIŃSKI ADAM                     pr.   PIĄTAK ANDRZEJ               pr.
 KLEPACZ WITOLD                  za    BRAMORA ARTUR                pr.       KOPYCIŃSKI SŁAWOMIR               pr.   POPIOŁEK ZOFIA                pr.
 KŁOSOWSKI KRZYSZTOF             za    CEDZYŃSKI JAN                pr.       KOTLIŃSKI ROMAN                   pr.   POZNAŃSKI MAREK               pr.
 KMIECIK HENRYK                  za    CHMIELOWSKI PIOTR            pr.       KRUPA ŁUKASZ                      pr.   ROZENEK ANDRZEJ               pr.

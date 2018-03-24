@@ -42,14 +42,14 @@ CZERWIŃSKI ANDRZEJ                   za    KOPACZ EWA                          
 DĄBROWSKA ALICJA                     za    KOPACZEWSKA DOMICELA                 za       PIERZCHAŁA ELŻBIETA APOLONIA       za      WITKOWSKI RADOSŁAW              za
 DROZD EWA                            za    KOSECKI ROMAN JACEK                  za       PIETRASZEWSKA DANUTA               za      WOJTKOWSKI MAREK                za
 DUNIN ARTUR                          za    KOWALSKI SŁAWOMIR                    za       PIETRZCZYK LUCJAN MAREK            za      WOLAK EWA                       za
-DURKA ZENON                          za    KOZACZYŃSKI JACEK                    za       PIĘ TA JAROSŁAW                    za      WÓJCIK MAREK                    za
+DURKA ZENON                          za    KOZACZYŃSKI JACEK                    za       PIĘTA JAROSŁAW                    za      WÓJCIK MAREK                    za
 DZIĘCIOŁ JANUSZ                      za    KOZDROŃ JERZY                        za       PIOTROWSKA TERESA                  za      ZAKRZEWSKA JADWIGA              za
 DZIKOWSKI WALDY                      za    KOZŁOWSKA IWONA                      za       PITERA JULIA                       za      ZAREMBA RENATA                  za
 FABISIAK JOANNA                      za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLOCKE KAZIMIERZ                   za      ZAWADZKI RYSZARD                za
 FEDOROWICZ JERZY                     za    KOŹLAKIEWICZ MIROSŁAW                za       PLUTA MIROSŁAW                     za      ZDROJEWSKI BOGDAN               za
 FIEDLER ARKADY                       za    KRAJEWSKA LIGIA                      za       POMASKA AGNIESZKA                  za      ZIELIŃSKI MACIEJ                za
 GADOWSKI KRZYSZTOF                   za    KROPIWNICKI ROBERT                   za       POŚLEDNIA KRYSTYNA                 za      ZIEMNIAK WOJCIECH               za
-GAPIŃSKA ELŻBIETA                    za    KRZĄKAŁA MAREK                       za       RACZKOWSKI DAMIAN                  za      ZIĘ TEK JERZY                   za
+GAPIŃSKA ELŻBIETA                    za    KRZĄKAŁA MAREK                       za       RACZKOWSKI DAMIAN                  za      ZIĘTEK JERZY                   za
 GAW ŁOWSKI STANISŁAW                 za    KUCHARSKI CEZARY                     za       RADZISZEWSKA ELŻBIETA              za      ŻALEK JACEK                     za
 GĄDEK LIDIA                          za    KUDRYCKA BARBARA                     za       RANIEWICZ GRZEGORZ                 za      ŻMIJAN STANISŁAW                za
 GĄSIOR-MAREK MAGDALENA               za    KULESZA TOMASZ                       za       RAŚ IRENEUSZ                       za      ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -80,7 +80,7 @@ BABALSKI ZBIGNIEW               ws.   JURGIEL KRZYSZTOF           ws.       OŻ�
 BABINETZ PIOTR                  ws.   KACZMAREK TOMASZ            ws.       PALUCH ANNA                       ws.   TCHÓRZEWSKI KRZYSZTOF         ws.
 BARTUŚ BARBARA                  ws.   KACZYŃSKI JAROSŁAW          ws.       PAW ŁOWICZ KRYSTYNA               ws.   TELUS ROBERT                  ws.
 BĄK DARIUSZ                     ws.   KAMIŃSKI MARIUSZ            ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   TERLECKI RYSZARD              ws.
-BERNACKI W ŁODZIMIERZ           ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PIĘ TA STANISŁAW                  ws.   TOBISZOWSKI GRZEGORZ          ws.
+BERNACKI W ŁODZIMIERZ           ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PIĘTA STANISŁAW                  ws.   TOBISZOWSKI GRZEGORZ          ws.
 BĘTKOWSKI ANDRZEJ               ws.   KLOC IZABELA                ws.       PIONTKOWSKI DARIUSZ               ws.   TOMASZEWSKI JAN               ws.
 BŁASZCZAK MARIUSZ               ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIOTROWICZ STANISŁAW              ws.   WARZECHA JAN                  ws.
 BRUDZIŃSKI JOACHIM              ws.   KOŁAKOWSKI LECH             ws.       POLACZEK JERZY                    ws.   WASZCZYKOWSKI WITOLD          ws.
@@ -111,13 +111,13 @@ HOFMAN ADAM                     ws.   MATUSZEWSKI MAREK           ws.       SZCZ
 BANASZAK MACIEJ                 za    ELSNER WINCENTY             za        LEWANDOWSKI ANDRZEJ               za    POZNAŃSKI MAREK               za
 BAUĆ PIOTR PAWEŁ                za    GÓRCZYŃSKI ARTUR            za        MAKOWSKI TOMASZ                   za    ROZENEK ANDRZEJ               za
 BIEDROŃ ROBERT                  za    GRODZKA ANNA                za        MARCINKIEWICZ MAŁGORZATA          za    RYBAKOWICZ ADAM               za
-BODIO BARTŁ OMIEJ               za    KABACIŃSKI MICHAŁ           za        MROCZEK MACIEJ                    za    RYFIŃSKI ARMAND KAMIL         za
+BODIO BARTŁOMIEJ               za    KABACIŃSKI MICHAŁ           za        MROCZEK MACIEJ                    za    RYFIŃSKI ARMAND KAMIL         za
 BORKOWSKI JERZY                 za    KĘPIŃSKI ADAM               za        NAJDER JACEK                      za    SAJAK PAWEŁ                   za
 BRAMORA ARTUR                   za    KŁOSOWSKI KRZYSZTOF         za        NOWICKA WANDA                     za    STOLARSKI MAREK               za
 CEDZYŃSKI JAN                   za    KMIECIK HENRYK              za        PACHOLSKI MICHAŁ TOMASZ           za    SZYMIEC-RACZYŃSKA HALINA      za
 CHMIELOWSKI PIOTR               za    KOPYCIŃSKI SŁAWOMIR         za        PALIKOT JANUSZ                    za    WYDRZYŃSKI MACIEJ             za
 DĘBSKI ARTUR                    za    KOTLIŃSKI ROMAN             za        PENKALSKI WOJCIECH                za
-DOMARACKI MAREK                 za    KRUPA ŁUKASZ                za        PIĄ TAK ANDRZEJ                   za
+DOMARACKI MAREK                 za    KRUPA ŁUKASZ                za        PIĄTAK ANDRZEJ                   za
 DZIADZIO DARIUSZ CEZAR          za    KWIATKOWSKI JACEK           za        POPIOŁEK ZOFIA                    za
 
 

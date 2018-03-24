@@ -44,7 +44,7 @@ DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                         
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.   WARDZAŁA ROBERT                 pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITCZAK MARIUSZ                 pr.
-DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
+DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.   WOLAK EWA                       pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                    pr.
@@ -54,7 +54,7 @@ GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                   
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN               pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                pr.
 GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH               pr.
-GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                   pr.
+GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                   pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                     pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                pr.
 GLUZA CZESŁAW                         pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -99,7 +99,7 @@ CZARNECKI WITOLD                ws.   LIPIŃSKI ADAM                 ws.       S
 CZARTORYSKI ARKADIUSZ           ws.   ŁATAS MAREK                   ws.       SELLIN JAROSŁAW                   ws.   KRUK ELŻBIETA                 ng.
 CZESAK EDWARD                   ws.   ŁOPIŃSKI MACIEJ               ws.       SOBECKA ANNA ELŻBIETA             ws.   LATOS TOMASZ                  ng.
 DOBRZYŃSKI LESZEK               ws.   MACHAŁEK MARZENA              ws.       SPRAWKA LECH                      ws.   MALIK EWA                     ng.
-DOLATA ZBIGNIEW                 ws.   MACIEREWICZ ANTONI            ws.       STRZAŁKOWSKI STEFAN               ws.   PIĘ TA STANISŁAW              ng.
+DOLATA ZBIGNIEW                 ws.   MACIEREWICZ ANTONI            ws.       STRZAŁKOWSKI STEFAN               ws.   PIĘTA STANISŁAW              ng.
 DUDA ANDRZEJ                    ws.   MAŁECKI MACIEJ                ws.       SUSKI MAREK                       ws.   ŚNIADEK JANUSZ                ng.
 DZIUBA TADEUSZ                  ws.   MASŁOWSKA GABRIELA            ws.       SZAŁAMACHA PAWEŁ                  ws.   WIŚNIEWSKA JADWIGA            ng.
 FALFUS JACEK                    ws.   MASTALEREK MARCIN             ws.       SZARAMA WOJCIECH                  ws.
@@ -118,8 +118,8 @@ KĘPIŃSKI ADAM                   za    GIBAŁA ŁUKASZ                 pr.     
 KLEPACZ WITOLD                  za    GRODZKA ANNA                  pr.       NOWICKA WANDA                     pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 KOPYCIŃSKI SŁAWOMIR             za    KŁOSOWSKI KRZYSZTOF           pr.       PACHOLSKI MICHAŁ TOMASZ           pr.   WYDRZYŃSKI MACIEJ             pr.
 SAJAK PAWEŁ                     za    KMIECIK HENRYK                pr.       PALIKOT JANUSZ                    pr.   BAUĆ PIOTR PAWEŁ              ws.
-BANASZAK MACIEJ                 pr.   KOTLIŃSKI ROMAN               pr.       PENKALSKI WOJCIECH                pr.   BODIO BARTŁ OMIEJ             ng.
-BORKOWSKI JERZY                 pr.   KRUPA ŁUKASZ                  pr.       PIĄ TAK ANDRZEJ                   pr.
+BANASZAK MACIEJ                 pr.   KOTLIŃSKI ROMAN               pr.       PENKALSKI WOJCIECH                pr.   BODIO BARTŁOMIEJ             ng.
+BORKOWSKI JERZY                 pr.   KRUPA ŁUKASZ                  pr.       PIĄTAK ANDRZEJ                   pr.
 
 
  PSL (28)                   GŁOSOWAŁO - 27               ZA - 4     PRZECIW - 23               WSTRZYM. - 0              NIE GŁOS. - 1

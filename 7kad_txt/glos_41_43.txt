@@ -33,11 +33,11 @@ BUKIEWICZ BOŻENNA                   za    KOCHAN MAGDALENA                  za 
 BUŁA ANDRZEJ                        za    KOŁACZ-LESZCZYŃSKA AGNIESZKA      za       PIERZCHAŁA ELŻBIETA APOLONIA      za   WÓJCIK MAREK                    za
 CHARŁAMPOWICZ JAROSŁAW              za    KOŁODZIEJ EWA                     za       PIETRASZEWSKA DANUTA              za   ZAKRZEWSKA JADWIGA              za
 CICHOŃ JANUSZ                       za    KONWIŃSKI ZBIGNIEW                za       PIETRZCZYK LUCJAN MAREK           za   ZAREMBA RENATA                  za
-CYCOŃ MARIAN                        za    KOPACZ EWA                        za       PIĘ TA JAROSŁAW                   za   ZAWADZKI RYSZARD                za
+CYCOŃ MARIAN                        za    KOPACZ EWA                        za       PIĘTA JAROSŁAW                   za   ZAWADZKI RYSZARD                za
 CZAPLICKA BARBARA                   za    KOPACZEWSKA DOMICELA              za       PIOTROWSKA TERESA                 za   ZDROJEWSKI BOGDAN               za
 CZECHYRA CZESŁAW                    za    KORZENIOWSKI LESZEK               za       PITERA JULIA                      za   ZIELIŃSKI MACIEJ                za
 CZERNOW ZOFIA                       za    KOSECKI ROMAN JACEK               za       PLOCKE KAZIMIERZ                  za   ZIEMNIAK WOJCIECH               za
-CZERWIŃSKI ANDRZEJ                  za    KOWALSKI SŁAWOMIR                 za       PLURA MAREK                       za   ZIĘ TEK JERZY                   za
+CZERWIŃSKI ANDRZEJ                  za    KOWALSKI SŁAWOMIR                 za       PLURA MAREK                       za   ZIĘTEK JERZY                   za
 DĄBROWSKA ALICJA                    za    KOZDROŃ JERZY                     za       PLUTA MIROSŁAW                    za   ŻALEK JACEK                     za
 DROZD EWA                           za    KOZŁOWSKA IWONA                   za       RACZKOWSKI DAMIAN                 za   ŻMIJAN STANISŁAW                za
 DUNIN ARTUR                         za    KOZŁOWSKA-RAJEWICZ AGNIESZKA      za       RADZISZEWSKA ELŻBIETA             za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -72,7 +72,7 @@ HALL KATARZYNA                      za    MUCHA JOANNA                      za  
  PiS (138)                    GŁOSOWAŁO - 123          ZA - 123   PRZECIW - 0               WSTRZYM. - 0             NIE GŁOS. - 15
 
 ABRAMOWICZ ADAM                 za   JURGIEL KRZYSZTOF            za       PALUCH ANNA                      za    TOBISZOWSKI GRZEGORZ          za
-ADAMCZYK ANDRZEJ                za   KACZMAREK TOMASZ             za       PIĘ TA STANISŁAW                 za    TOMASZEWSKI JAN               za
+ADAMCZYK ANDRZEJ                za   KACZMAREK TOMASZ             za       PIĘTA STANISŁAW                 za    TOMASZEWSKI JAN               za
 ANDZEL WALDEMAR                 za   KACZYŃSKI JAROSŁAW           za       PIONTKOWSKI DARIUSZ              za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 ARCISZEWSKA-MIELEWCZYK DOROTA   za   KAMIŃSKI MARIUSZ             za       PIOTROWICZ STANISŁAW             za    WARZECHA JAN                  za
 ARDANOWSKI JAN KRZYSZTOF        za   KAMIŃSKI MARIUSZ ANTONI      za       POLACZEK JERZY                   za    WASZCZYKOWSKI WITOLD          za
@@ -119,7 +119,7 @@ CEDZYŃSKI JAN                   za   KŁOSOWSKI KRZYSZTOF          za       NAJ
 CHMIELOWSKI PIOTR               za   KMIECIK HENRYK               za       PACHOLSKI MICHAŁ TOMASZ          za    SZYMIEC-RACZYŃSKA HALINA      za
 DĘBSKI ARTUR                    za   KOPYCIŃSKI SŁAWOMIR          za       PALIKOT JANUSZ                   za    WYDRZYŃSKI MACIEJ             za
 DOMARACKI MAREK                 za   KOTLIŃSKI ROMAN              za       PENKALSKI WOJCIECH               za    GIBAŁA ŁUKASZ                 ng.
-DZIADZIO DARIUSZ CEZAR          za   KRUPA ŁUKASZ                 za       PIĄ TAK ANDRZEJ                  za    ROZENEK ANDRZEJ               ng.
+DZIADZIO DARIUSZ CEZAR          za   KRUPA ŁUKASZ                 za       PIĄTAK ANDRZEJ                  za    ROZENEK ANDRZEJ               ng.
 
 
  PSL (29)                     GŁOSOWAŁO - 24           ZA - 24    PRZECIW - 0               WSTRZYM. - 0             NIE GŁOS. - 5
@@ -156,7 +156,7 @@ JAKI PATRYK                     za   SZELIGA PIOTR                za       ŻACZ
 
  niez. (5)                    GŁOSOWAŁO - 4            ZA - 4     PRZECIW - 0               WSTRZYM. - 0             NIE GŁOS. - 1
 
-BODIO BARTŁ OMIEJ               za   JAGIEŁŁO JAROSŁAW TOMASZ     za       NOWICKA WANDA                    ng.
+BODIO BARTŁOMIEJ               za   JAGIEŁŁO JAROSŁAW TOMASZ     za       NOWICKA WANDA                    ng.
 GALLA RYSZARD                   za   KALISZ RYSZARD               za
 
 

@@ -44,7 +44,7 @@ CZERWIŃSKI ANDRZEJ                   pr.   KONWIŃSKI ZBIGNIEW                 
 DĄBROWSKA ALICJA                     pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN             pr.   WARDZAŁA ROBERT                     pr.
 DROZD EWA                            pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA      pr.   WIELICHOWSKA MONIKA                 pr.
 DUNIN ARTUR                          pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK           pr.   WITCZAK MARIUSZ                     pr.
-DURKA ZENON                          pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                   pr.   WITKOWSKI RADOSŁAW                  pr.
+DURKA ZENON                          pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                   pr.   WITKOWSKI RADOSŁAW                  pr.
 DZIĘCIOŁ JANUSZ                      pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                 pr.   WOJTKOWSKI MAREK                    pr.
 DZIKOWSKI WALDY                      pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                      pr.   WOLAK EWA                           pr.
 FABISIAK JOANNA                      pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                  pr.   WÓJCIK MAREK                        pr.
@@ -54,7 +54,7 @@ GADOWSKI KRZYSZTOF                   pr.   KRAJEWSKA LIGIA                      
 GAŁAŻEWSKI ANDRZEJ                   pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA                pr.   ZDROJEWSKI BOGDAN                   pr.
 GAPIŃSKA ELŻBIETA                    pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                 pr.   ZIELIŃSKI MACIEJ                    pr.
 GAW ŁOWSKI STANISŁAW                 pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA             pr.   ZIEMNIAK WOJCIECH                   pr.
-GĄDEK LIDIA                          pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ                pr.   ZIĘ TEK JERZY                       pr.
+GĄDEK LIDIA                          pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ                pr.   ZIĘTEK JERZY                       pr.
 GĄSIOR-MAREK MAGDALENA               pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                      pr.   ŻALEK JACEK                         pr.
 GELERT ELŻBIETA                      pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                    pr.   ŻMIJAN STANISŁAW                    pr.
 GIERADA ARTUR                        pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                  pr.   ŻMUDA-TRZEBIATOWSKA EWA             pr.
@@ -83,7 +83,7 @@ BABINETZ PIOTR                  za    KACZYŃSKI JAROSŁAW               za     
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ                 za        PALUCH ANNA                     za    TELUS ROBERT                  za
 BĄK DARIUSZ                     za    KAMIŃSKI MARIUSZ ANTONI          za        PAW ŁOWICZ KRYSTYNA             za    TERLECKI RYSZARD              za
 BERNACKI W ŁODZIMIERZ           za    KLOC IZABELA                     za        PIECHA BOLESŁAW GRZEGORZ        za    TOBISZOWSKI GRZEGORZ          za
-BĘTKOWSKI ANDRZEJ               za    KŁOSOWSKI SŁAWOMIR               za        PIĘ TA STANISŁAW                za    TOMASZEWSKI JAN               za
+BĘTKOWSKI ANDRZEJ               za    KŁOSOWSKI SŁAWOMIR               za        PIĘTA STANISŁAW                za    TOMASZEWSKI JAN               za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI LECH                  za        PIONTKOWSKI DARIUSZ             za    WARZECHA JAN                  za
 BRUDZIŃSKI JOACHIM              za    KOŁAKOWSKI ROBERT                za        PIOTROWICZ STANISŁAW            za    WASZCZYKOWSKI WITOLD          za
 BUBULA BARBARA                  za    KOWALCZYK HENRYK                 za        POLACZEK JERZY                  za    WIPLER PRZEMYSŁAW             za
@@ -113,14 +113,14 @@ HRYNKIEWICZ JÓZEFA              za    MATUSIAK GRZEGORZ                za      
 BIEDROŃ ROBERT                  za    ELSNER WINCENTY                  pr.       KRUPA ŁUKASZ                    pr.   POPIOŁEK ZOFIA                pr.
 BANASZAK MACIEJ                 pr.   GIBAŁA ŁUKASZ                    pr.       LEWANDOWSKI ANDRZEJ             pr.   POZNAŃSKI MAREK               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GÓRCZYŃSKI ARTUR                 pr.       MAKOWSKI TOMASZ                 pr.   ROZENEK ANDRZEJ               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                     pr.       MARCINKIEWICZ MAŁGORZATA        pr.   RYBAKOWICZ ADAM               pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                     pr.       MARCINKIEWICZ MAŁGORZATA        pr.   RYBAKOWICZ ADAM               pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ                pr.       MROCZEK MACIEJ                  pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM                    pr.       NAJDER JACEK                    pr.   SAJAK PAWEŁ                   pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD                   pr.       NOWICKA WANDA                   pr.   STOLARSKI MAREK               pr.
 CHMIELOWSKI PIOTR               pr.   KŁOSOWSKI KRZYSZTOF              pr.       PACHOLSKI MICHAŁ TOMASZ         pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 DĘBSKI ARTUR                    pr.   KMIECIK HENRYK                   pr.       PALIKOT JANUSZ                  pr.   WYDRZYŃSKI MACIEJ             pr.
 DOMARACKI MAREK                 pr.   KOPYCIŃSKI SŁAWOMIR              pr.       PENKALSKI WOJCIECH              pr.   KWIATKOWSKI JACEK             ws.
-DZIADZIO DARIUSZ CEZAR          pr.   KOTLIŃSKI ROMAN                  pr.       PIĄ TAK ANDRZEJ                 pr.
+DZIADZIO DARIUSZ CEZAR          pr.   KOTLIŃSKI ROMAN                  pr.       PIĄTAK ANDRZEJ                 pr.
 
 
  PSL (28)                     GŁOSOWAŁO - 25            ZA - 0         PRZECIW - 25               WSTRZYM. - 0            NIE GŁOS. - 3

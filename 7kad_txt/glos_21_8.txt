@@ -45,13 +45,13 @@ DROZD EWA                            za     KOPACZEWSKA DOMICELA                
 DUNIN ARTUR                          za     KORZENIOWSKI LESZEK                  za       PIERZCHAŁA ELŻBIETA APOLONIA       za    WITKOWSKI RADOSŁAW                 za
 DURKA ZENON                          za     KOSECKI ROMAN JACEK                  za       PIETRASZEWSKA DANUTA               za    WOJTKOWSKI MAREK                   za
 DZIĘCIOŁ JANUSZ                      za     KOWALSKI SŁAWOMIR                    za       PIETRZCZYK LUCJAN MAREK            za    WOLAK EWA                          za
-DZIKOWSKI WALDY                      za     KOZACZYŃSKI JACEK                    za       PIĘ TA JAROSŁAW                    za    WÓJCIK MAREK                       za
+DZIKOWSKI WALDY                      za     KOZACZYŃSKI JACEK                    za       PIĘTA JAROSŁAW                    za    WÓJCIK MAREK                       za
 FABISIAK JOANNA                      za     KOZDROŃ JERZY                        za       PIOTROWSKA TERESA                  za    ZAREMBA RENATA                     za
 FEDOROWICZ JERZY                     za     KOZŁOWSKA IWONA                      za       PITERA JULIA                       za    ZAWADZKI RYSZARD                   za
 FIEDLER ARKADY                       za     KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLOCKE KAZIMIERZ                   za    ZDROJEWSKI BOGDAN                  za
 GADOWSKI KRZYSZTOF                   za     KOŹLAKIEWICZ MIROSŁAW                za       PLURA MAREK                        za    ZIELIŃSKI MACIEJ                   za
 GAŁAŻEWSKI ANDRZEJ                   za     KRAJEWSKA LIGIA                      za       PLUTA MIROSŁAW                     za    ZIEMNIAK WOJCIECH                  za
-GAPIŃSKA ELŻBIETA                    za     KROPIWNICKI ROBERT                   za       POMASKA AGNIESZKA                  za    ZIĘ TEK JERZY                      za
+GAPIŃSKA ELŻBIETA                    za     KROPIWNICKI ROBERT                   za       POMASKA AGNIESZKA                  za    ZIĘTEK JERZY                      za
 GAW ŁOWSKI STANISŁAW                 za     KRZĄKAŁA MAREK                       za       POŚLEDNIA KRYSTYNA                 za    ŻALEK JACEK                        za
 GĄDEK LIDIA                          za     KUCHARSKI CEZARY                     za       RACZKOWSKI DAMIAN                  za    ŻMIJAN STANISŁAW                   za
 GĄSIOR-MAREK MAGDALENA               za     KUDRYCKA BARBARA                     za       RADZISZEWSKA ELŻBIETA              za    ŻMUDA-TRZEBIATOWSKA EWA            za
@@ -82,7 +82,7 @@ BABALSKI ZBIGNIEW               za    KACZMAREK TOMASZ             za        OŻ
 BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ             za        PALUCH ANNA                      za    TCHÓRZEWSKI KRZYSZTOF         za
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ ANTONI      za        PAW ŁOWICZ KRYSTYNA              za    TELUS ROBERT                  za
 BĄK DARIUSZ                     za    KLOC IZABELA                 za        PIECHA BOLESŁAW GRZEGORZ         za    TERLECKI RYSZARD              za
-BERNACKI W ŁODZIMIERZ           za    KŁOSOWSKI SŁAWOMIR           za        PIĘ TA STANISŁAW                 za    TOBISZOWSKI GRZEGORZ          za
+BERNACKI W ŁODZIMIERZ           za    KŁOSOWSKI SŁAWOMIR           za        PIĘTA STANISŁAW                 za    TOBISZOWSKI GRZEGORZ          za
 BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIONTKOWSKI DARIUSZ              za    TOMASZEWSKI JAN               za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI ROBERT            za        PIOTROWICZ STANISŁAW             za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BRUDZIŃSKI JOACHIM              za    KOWALCZYK HENRYK             za        POLACZEK JERZY                   za    WARZECHA JAN                  za
@@ -110,13 +110,13 @@ HOFMAN ADAM                     za    MATUSZEWSKI MAREK            za        SZC
  RP (43)                      GŁOSOWAŁO - 38            ZA - 0     PRZECIW - 38               WSTRZYM. - 0             NIE GŁOS. - 5
 
 BANASZAK MACIEJ                 pr.   GÓRCZYŃSKI ARTUR             pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                 pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL         pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                 pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ            pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
 BRAMORA ARTUR                   pr.   KLEPACZ WITOLD               pr.       NAJDER JACEK                     pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF          pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ             pr.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK               pr.       PALIKOT JANUSZ                   pr.   BAUĆ PIOTR PAWEŁ              ng.
 DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PENKALSKI WOJCIECH               pr.   BIEDROŃ ROBERT                ng.
-DOMARACKI MAREK                 pr.   KOTLIŃSKI ROMAN              pr.       PIĄ TAK ANDRZEJ                  pr.   KĘPIŃSKI ADAM                 ng.
+DOMARACKI MAREK                 pr.   KOTLIŃSKI ROMAN              pr.       PIĄTAK ANDRZEJ                  pr.   KĘPIŃSKI ADAM                 ng.
 DZIADZIO DARIUSZ CEZAR          pr.   KRUPA ŁUKASZ                 pr.       POPIOŁEK ZOFIA                   pr.   NOWICKA WANDA                 ng.
 ELSNER WINCENTY                 pr.   KWIATKOWSKI JACEK            pr.       POZNAŃSKI MAREK                  pr.   STOLARSKI MAREK               ng.
 GIBAŁA ŁUKASZ                   pr.   LEWANDOWSKI ANDRZEJ          pr.       ROZENEK ANDRZEJ                  pr.

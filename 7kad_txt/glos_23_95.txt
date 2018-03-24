@@ -44,7 +44,7 @@ DĄBROWSKA ALICJA                       pr.   KOPACZEWSKA DOMICELA              
 DROZD EWA                              pr.   KORZENIOWSKI LESZEK                     pr.       PIERZCHAŁA ELŻBIETA APOLONIA      pr.   WARDZAŁA ROBERT                 pr.
 DUNIN ARTUR                            pr.   KOSECKI ROMAN JACEK                     pr.       PIETRASZEWSKA DANUTA              pr.   WIELICHOWSKA MONIKA             pr.
 DURKA ZENON                            pr.   KOWALSKI SŁAWOMIR                       pr.       PIETRZCZYK LUCJAN MAREK           pr.   WITCZAK MARIUSZ                 pr.
-DZIĘCIOŁ JANUSZ                        pr.   KOZACZYŃSKI JACEK                       pr.       PIĘ TA JAROSŁAW                   pr.   WITKOWSKI RADOSŁAW              pr.
+DZIĘCIOŁ JANUSZ                        pr.   KOZACZYŃSKI JACEK                       pr.       PIĘTA JAROSŁAW                   pr.   WITKOWSKI RADOSŁAW              pr.
 DZIKOWSKI WALDY                        pr.   KOZDROŃ JERZY                           pr.       PIOTROWSKA TERESA                 pr.   WOJTKOWSKI MAREK                pr.
 FABISIAK JOANNA                        pr.   KOZŁOWSKA IWONA                         pr.       PITERA JULIA                      pr.   WOLAK EWA                       pr.
 FEDOROWICZ JERZY                       pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA            pr.       PLOCKE KAZIMIERZ                  pr.   WÓJCIK MAREK                    pr.
@@ -54,7 +54,7 @@ GAŁAŻEWSKI ANDRZEJ                     pr.   KROPIWNICKI ROBERT               
 GAPIŃSKA ELŻBIETA                      pr.   KRZĄKAŁA MAREK                          pr.       POŚLEDNIA KRYSTYNA                pr.   ZDROJEWSKI BOGDAN               pr.
 GAW ŁOWSKI STANISŁAW                   pr.   KUCHARSKI CEZARY                        pr.       RACZKOWSKI DAMIAN                 pr.   ZIELIŃSKI MACIEJ                pr.
 GĄDEK LIDIA                            pr.   KUDRYCKA BARBARA                        pr.       RADZISZEWSKA ELŻBIETA             pr.   ZIEMNIAK WOJCIECH               pr.
-GĄSIOR-MAREK MAGDALENA                 pr.   KULESZA TOMASZ                          pr.       RANIEWICZ GRZEGORZ                pr.   ZIĘ TEK JERZY                   pr.
+GĄSIOR-MAREK MAGDALENA                 pr.   KULESZA TOMASZ                          pr.       RANIEWICZ GRZEGORZ                pr.   ZIĘTEK JERZY                   pr.
 GELERT ELŻBIETA                        pr.   KWIATKOWSKI KRZYSZTOF                   pr.       RAŚ IRENEUSZ                      pr.   ŻALEK JACEK                     pr.
 GIERADA ARTUR                          pr.   LAMCZYK STANISŁAW                       pr.       ROSATI DARIUSZ                    pr.   ŻMIJAN STANISŁAW                pr.
 GLUZA CZESŁAW                          pr.   LASSOTA JÓZEF                           pr.       ROZPONDEK HALINA                  pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -82,7 +82,7 @@ BABINETZ PIOTR                  za    KACZYŃSKI JAROSŁAW           za        O
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ             za        PALUCH ANNA                      za    TCHÓRZEWSKI KRZYSZTOF         za
 BĄK DARIUSZ                     za    KAMIŃSKI MARIUSZ ANTONI      za        PAW ŁOWICZ KRYSTYNA              za    TELUS ROBERT                  za
 BERNACKI W ŁODZIMIERZ           za    KŁOSOWSKI SŁAWOMIR           za        PIECHA BOLESŁAW GRZEGORZ         za    TERLECKI RYSZARD              za
-BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘ TA STANISŁAW                 za    TOBISZOWSKI GRZEGORZ          za
+BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘTA STANISŁAW                 za    TOBISZOWSKI GRZEGORZ          za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI ROBERT            za        PIONTKOWSKI DARIUSZ              za    TOMASZEWSKI JAN               za
 BRUDZIŃSKI JOACHIM              za    KOWALCZYK HENRYK             za        PIOTROWICZ STANISŁAW             za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BUBULA BARBARA                  za    KOWNACKI BARTOSZ             za        POLACZEK JERZY                   za    WARZECHA JAN                  za
@@ -111,11 +111,11 @@ HOFMAN ADAM                     za    MATUSIAK GRZEGORZ            za        SZA
 BANASZAK MACIEJ                 pr.   GÓRCZYŃSKI ARTUR             pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GRODZKA ANNA                 pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BIEDROŃ ROBERT                  pr.   KABACIŃSKI MICHAŁ            pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
-BODIO BARTŁ OMIEJ               pr.   KĘPIŃSKI ADAM                pr.       NAJDER JACEK                     pr.   STOLARSKI MAREK               pr.
+BODIO BARTŁOMIEJ               pr.   KĘPIŃSKI ADAM                pr.       NAJDER JACEK                     pr.   STOLARSKI MAREK               pr.
 BORKOWSKI JERZY                 pr.   KLEPACZ WITOLD               pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 BRAMORA ARTUR                   pr.   KŁOSOWSKI KRZYSZTOF          pr.       PALIKOT JANUSZ                   pr.   WYDRZYŃSKI MACIEJ             pr.
 CEDZYŃSKI JAN                   pr.   KMIECIK HENRYK               pr.       PENKALSKI WOJCIECH               pr.   DOMARACKI MAREK               ng.
-CHMIELOWSKI PIOTR               pr.   KOTLIŃSKI ROMAN              pr.       PIĄ TAK ANDRZEJ                  pr.   GIBAŁA ŁUKASZ                 ng.
+CHMIELOWSKI PIOTR               pr.   KOTLIŃSKI ROMAN              pr.       PIĄTAK ANDRZEJ                  pr.   GIBAŁA ŁUKASZ                 ng.
 DĘBSKI ARTUR                    pr.   KRUPA ŁUKASZ                 pr.       POPIOŁEK ZOFIA                   pr.   KOPYCIŃSKI SŁAWOMIR           ng.
 DZIADZIO DARIUSZ CEZAR          pr.   KWIATKOWSKI JACEK            pr.       POZNAŃSKI MAREK                  pr.   NOWICKA WANDA                 ng.
 ELSNER WINCENTY                 pr.   LEWANDOWSKI ANDRZEJ          pr.       ROZENEK ANDRZEJ                  pr.

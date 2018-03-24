@@ -40,14 +40,14 @@ CZECHYRA CZESŁAW                      pr.   KOŁODZIEJ EWA                     
 CZERNOW ZOFIA                         pr.   KONWIŃSKI ZBIGNIEW                    pr.       PIECHOTA SŁAWOMIR JAN             pr.   WITCZAK MARIUSZ                           pr.
 CZERWIŃSKI ANDRZEJ                    pr.   KOPACZ EWA                            pr.       PIETRASZEWSKA DANUTA              pr.   WITKOWSKI RADOSŁAW                        pr.
 DĄBROWSKA ALICJA                      pr.   KOPACZEWSKA DOMICELA                  pr.       PIETRZCZYK LUCJAN MAREK           pr.   WOJNAROWSKI NORBERT                       pr.
-DROZD EWA                             pr.   KORZENIOWSKI LESZEK                   pr.       PIĘ TA JAROSŁAW                   pr.   WOJTKOWSKI MAREK                          pr.
+DROZD EWA                             pr.   KORZENIOWSKI LESZEK                   pr.       PIĘTA JAROSŁAW                   pr.   WOJTKOWSKI MAREK                          pr.
 DUNIN ARTUR                           pr.   KOSECKI ROMAN JACEK                   pr.       PIOTROWSKA TERESA                 pr.   WOLAK EWA                                 pr.
 DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PITERA JULIA                      pr.   WÓJCIK MAREK                              pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOZACZYŃSKI JACEK                     pr.       PLOCKE KAZIMIERZ                  pr.   ZAREMBA RENATA                            pr.
 DZIKOWSKI WALDY                       pr.   KOZDROŃ JERZY                         pr.       PLURA MAREK                       pr.   ZAWADZKI RYSZARD                          pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       PLUTA MIROSŁAW                    pr.   ZIELIŃSKI MACIEJ                          pr.
 FIEDLER ARKADY                        pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA          pr.       POMASKA AGNIESZKA                 pr.   ZIEMNIAK WOJCIECH                         pr.
-GADOWSKI KRZYSZTOF                    pr.   KOŹLAKIEWICZ MIROSŁAW                 pr.       RACZKOWSKI DAMIAN                 pr.   ZIĘ TEK JERZY                             pr.
+GADOWSKI KRZYSZTOF                    pr.   KOŹLAKIEWICZ MIROSŁAW                 pr.       RACZKOWSKI DAMIAN                 pr.   ZIĘTEK JERZY                             pr.
 GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                       pr.       RADZISZEWSKA ELŻBIETA             pr.   ŻALEK JACEK                               pr.
 GAPIŃSKA ELŻBIETA                     pr.   KRZĄKAŁA MAREK                        pr.       RANIEWICZ GRZEGORZ                pr.   ŻMIJAN STANISŁAW                          pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KUCHARSKI CEZARY                      pr.       RAŚ IRENEUSZ                      pr.   ŻMUDA-TRZEBIATOWSKA EWA                   pr.
@@ -77,7 +77,7 @@ ARDANOWSKI JAN KRZYSZTOF        za    JURGIEL KRZYSZTOF                za       
 ARENT IWONA EWA                 za    KACZMAREK TOMASZ                 za        PALUCH ANNA                      za    TELUS ROBERT                  za
 AST MAREK                       za    KAMIŃSKI MARIUSZ                 za        PAW ŁOWICZ KRYSTYNA              za    TOBISZOWSKI GRZEGORZ          za
 BABALSKI ZBIGNIEW               za    KAMIŃSKI MARIUSZ ANTONI          za        PIECHA BOLESŁAW GRZEGORZ         za    TOMASZEWSKI JAN               za
-BABINETZ PIOTR                  za    KLOC IZABELA                     za        PIĘ TA STANISŁAW                 za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
+BABINETZ PIOTR                  za    KLOC IZABELA                     za        PIĘTA STANISŁAW                 za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BARTUŚ BARBARA                  za    KŁOSOWSKI SŁAWOMIR               za        PIONTKOWSKI DARIUSZ              za    WARZECHA JAN                  za
 BĄK DARIUSZ                     za    KOŁAKOWSKI LECH                  za        PIOTROWICZ STANISŁAW             za    WASZCZYKOWSKI WITOLD          za
 BERNACKI W ŁODZIMIERZ           za    KOŁAKOWSKI ROBERT                za        POLACZEK JERZY                   za    WIPLER PRZEMYSŁAW             za
@@ -110,12 +110,12 @@ JACKIEWICZ DAWID                za    NAIMSKI PIOTR                    za       
 
 BANASZAK MACIEJ                 ws.   GIBAŁA ŁUKASZ                    ws.       MAKOWSKI TOMASZ                  ws.   RYFIŃSKI ARMAND KAMIL         ws.
 BAUĆ PIOTR PAWEŁ                ws.   GÓRCZYŃSKI ARTUR                 ws.       MARCINKIEWICZ MAŁGORZATA         ws.   SAJAK PAWEŁ                   ws.
-BODIO BARTŁ OMIEJ               ws.   KABACIŃSKI MICHAŁ                ws.       MROCZEK MACIEJ                   ws.   SZYMIEC-RACZYŃSKA HALINA      ws.
+BODIO BARTŁOMIEJ               ws.   KABACIŃSKI MICHAŁ                ws.       MROCZEK MACIEJ                   ws.   SZYMIEC-RACZYŃSKA HALINA      ws.
 BORKOWSKI JERZY                 ws.   KĘPIŃSKI ADAM                    ws.       NAJDER JACEK                     ws.   WYDRZYŃSKI MACIEJ             ws.
 BRAMORA ARTUR                   ws.   KLEPACZ WITOLD                   ws.       NOWICKA WANDA                    ws.   BIEDROŃ ROBERT                ng.
 CEDZYŃSKI JAN                   ws.   KŁOSOWSKI KRZYSZTOF              ws.       PACHOLSKI MICHAŁ TOMASZ          ws.   GRODZKA ANNA                  ng.
 CHMIELOWSKI PIOTR               ws.   KMIECIK HENRYK                   ws.       PENKALSKI WOJCIECH               ws.   KRUPA ŁUKASZ                  ng.
-DĘBSKI ARTUR                    ws.   KOPYCIŃSKI SŁAWOMIR              ws.       PIĄ TAK ANDRZEJ                  ws.   PALIKOT JANUSZ                ng.
+DĘBSKI ARTUR                    ws.   KOPYCIŃSKI SŁAWOMIR              ws.       PIĄTAK ANDRZEJ                  ws.   PALIKOT JANUSZ                ng.
 DOMARACKI MAREK                 ws.   KOTLIŃSKI ROMAN                  ws.       POPIOŁEK ZOFIA                   ws.   RYBAKOWICZ ADAM               ng.
 DZIADZIO DARIUSZ CEZAR          ws.   KWIATKOWSKI JACEK                ws.       POZNAŃSKI MAREK                  ws.   STOLARSKI MAREK               ng.
 ELSNER WINCENTY                 ws.   LEWANDOWSKI ANDRZEJ              ws.       ROZENEK ANDRZEJ                  ws.

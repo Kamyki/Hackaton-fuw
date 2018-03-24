@@ -44,12 +44,12 @@ MROCZEK CZESŁAW                      za    HUSKOWSKI STANISŁAW                
 OŚWIĘCIMSKI KONSTANTY                za    JANYSKA MARIA MAŁGORZATA             pr.       OLSZEWSKI PAWEŁ                  pr.   ZAWADZKI RYSZARD                pr.
 PĘPEK MAŁGORZATA                     za    JARMUZIEWICZ TADEUSZ                 pr.       ORZECHOWSKI ANDRZEJ              pr.   ZDROJEWSKI BOGDAN               pr.
 PIETRZCZYK LUCJAN MAREK              za    JAROS MICHAŁ                         pr.       PACELT ZBIGNIEW                  pr.   ZIELIŃSKI MACIEJ                pr.
-PLOCKE KAZIMIERZ                     za    JASTRZĘBSKI LESZEK                   pr.       PAHL WITOLD                      pr.   ZIĘ TEK JERZY                   pr.
+PLOCKE KAZIMIERZ                     za    JASTRZĘBSKI LESZEK                   pr.       PAHL WITOLD                      pr.   ZIĘTEK JERZY                   pr.
 PLUTA MIROSŁAW                       za    KAMIŃSKA BOŻENA                      pr.       PAPKE PAWEŁ                      pr.   ŻMIJAN STANISŁAW                pr.
 RACZKOWSKI DAMIAN                    za    KARPIŃSKI W ŁODZIMIERZ               pr.       PIECHOTA SŁAWOMIR JAN            pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
 RADZISZEWSKA ELŻBIETA                za    KATULSKI JAROSŁAW                    pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   ŻYLIŃSKI ADAM                   pr.
 RANIEWICZ GRZEGORZ                   za    KIDAWA-BŁOŃSKA MAŁGORZATA            pr.       PIETRASZEWSKA DANUTA             pr.   BIERNAT ANDRZEJ                 ws.
-RAŚ IRENEUSZ                         za    KIERWIŃSKI MARCIN                    pr.       PIĘ TA JAROSŁAW                  pr.   BREJZA KRZYSZTOF                ws.
+RAŚ IRENEUSZ                         za    KIERWIŃSKI MARCIN                    pr.       PIĘTA JAROSŁAW                  pr.   BREJZA KRZYSZTOF                ws.
 SAŁUGA WOJCIECH                      za    KLUZIK-ROSTKOWSKA JOANNA             pr.       PIOTROWSKA TERESA                pr.   CZECHYRA CZESŁAW                ws.
 SIBIŃSKA KRYSTYNA                    za    KŁOSIN KRYSTYNA                      pr.       PITERA JULIA                     pr.   DURKA ZENON                     ws.
 SIEDLACZEK HENRYK                    za    KOCHAN MAGDALENA                     pr.       PLURA MAREK                      pr.   KAŹMIERCZAK JAN                 ws.
@@ -83,7 +83,7 @@ BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ             za        O�
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ ANTONI      za        PALUCH ANNA                      za    ŚWIAT JACEK                   za
 BĄK DARIUSZ                     za    KLOC IZABELA                 za        PAW ŁOWICZ KRYSTYNA              za    TCHÓRZEWSKI KRZYSZTOF         za
 BERNACKI W ŁODZIMIERZ           za    KŁOSOWSKI SŁAWOMIR           za        PIECHA BOLESŁAW GRZEGORZ         za    TELUS ROBERT                  za
-BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘ TA STANISŁAW                 za    TERLECKI RYSZARD              za
+BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH              za        PIĘTA STANISŁAW                 za    TERLECKI RYSZARD              za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI ROBERT            za        PIONTKOWSKI DARIUSZ              za    TOBISZOWSKI GRZEGORZ          za
 BRUDZIŃSKI JOACHIM              za    KOWALCZYK HENRYK             za        PIOTROWICZ STANISŁAW             za    TOMASZEWSKI JAN               za
 BUBULA BARBARA                  za    KOWNACKI BARTOSZ             za        POLACZEK JERZY                   za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
@@ -110,10 +110,10 @@ HRYNKIEWICZ JÓZEFA              za    MATUSIAK GRZEGORZ            za        SZ
 
  RP (43)                      GŁOSOWAŁO - 42            ZA - 0     PRZECIW - 42               WSTRZYM. - 0             NIE GŁOS. - 1
 
-BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       KRUPA ŁUKASZ                     pr.   PIĄ TAK ANDRZEJ               pr.
+BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       KRUPA ŁUKASZ                     pr.   PIĄTAK ANDRZEJ               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                pr.       KWIATKOWSKI JACEK                pr.   POPIOŁEK ZOFIA                pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR             pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                 pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                 pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ            pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM                pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD               pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                   pr.

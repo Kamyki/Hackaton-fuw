@@ -46,7 +46,7 @@ DZIĘCIOŁ JANUSZ                      za    KOZŁOWSKA IWONA                   
 DZIKOWSKI WALDY                      za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLUTA MIROSŁAW                    za    ZDROJEWSKI BOGDAN               za
 FABISIAK JOANNA                      za    KOŹLAKIEWICZ MIROSŁAW                za       POMASKA AGNIESZKA                 za    ZIELIŃSKI MACIEJ                za
 FEDOROWICZ JERZY                     za    KRAJEWSKA LIGIA                      za       POŚLEDNIA KRYSTYNA                za    ZIEMNIAK WOJCIECH               za
-FIEDLER ARKADY                       za    KROPIWNICKI ROBERT                   za       RACZKOWSKI DAMIAN                 za    ZIĘ TEK JERZY                   za
+FIEDLER ARKADY                       za    KROPIWNICKI ROBERT                   za       RACZKOWSKI DAMIAN                 za    ZIĘTEK JERZY                   za
 GADOWSKI KRZYSZTOF                   za    KRZĄKAŁA MAREK                       za       RADZISZEWSKA ELŻBIETA             za    ŻALEK JACEK                     za
 GAŁAŻEWSKI ANDRZEJ                   za    KUCHARSKI CEZARY                     za       RANIEWICZ GRZEGORZ                za    ŻMIJAN STANISŁAW                za
 GAPIŃSKA ELŻBIETA                    za    KUDRYCKA BARBARA                     za       RAŚ IRENEUSZ                      za    ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -57,7 +57,7 @@ GELERT ELŻBIETA                      za    LENZ TOMASZ                         
 GIERADA ARTUR                        za    LESZCZYNA IZABELA                    za       RYNASIEWICZ ZBIGNIEW              za    HUSKOWSKI STANISŁAW             ng.
 GLUZA CZESŁAW                        za    LITWIŃSKI ARKADIUSZ                  za       RZĄSA MAREK                       za    KACZOR ROMAN                    ng.
 GŁOGOWSKI TOMASZ                     za    ŁAPIŃSKI MAREK                       za       SAŁUGA WOJCIECH                   za    LASSOTA JÓZEF                   ng.
-GODSON JOHN ABRAHAM                  za    ŁAWRYNOWICZ ZOFIA                    za       SCHETYNA GRZEGORZ                 za    PIĘ TA JAROSŁAW                 ng.
+GODSON JOHN ABRAHAM                  za    ŁAWRYNOWICZ ZOFIA                    za       SCHETYNA GRZEGORZ                 za    PIĘTA JAROSŁAW                 ng.
 GOWIN JAROSŁAW                       za    MAŁECKA-LIBERA BEATA                 za       SIBIŃSKA KRYSTYNA                 za    SIKORSKI RADOSŁAW               ng.
 GRABARCZYK CEZARY                    za    MARCZUŁAJTIS-WALCZAK JAGNA           za       SIEDLACZEK HENRYK                 za    SMOLARZ TOMASZ                  ng.
 GRAD MARIUSZ                         za    MATUSIK-LIPIEC KATARZYNA             za       SKOWROŃSKA KRYSTYNA               za    ZAKRZEWSKA JADWIGA              ng.
@@ -78,7 +78,7 @@ ARDANOWSKI JAN KRZYSZTOF        za   KACZMAREK TOMASZ             za        OŻ�
 ARENT IWONA EWA                 za   KAMIŃSKI MARIUSZ             za        PALUCH ANNA                      za   TELUS ROBERT                  za
 AST MAREK                       za   KAMIŃSKI MARIUSZ ANTONI      za        PAW ŁOWICZ KRYSTYNA              za   TERLECKI RYSZARD              za
 BABALSKI ZBIGNIEW               za   KLOC IZABELA                 za        PIECHA BOLESŁAW GRZEGORZ         za   TOMASZEWSKI JAN               za
-BABINETZ PIOTR                  za   KŁOSOWSKI SŁAWOMIR           za        PIĘ TA STANISŁAW                 za   UJAZDOWSKI KAZIMIERZ MICHAŁ   za
+BABINETZ PIOTR                  za   KŁOSOWSKI SŁAWOMIR           za        PIĘTA STANISŁAW                 za   UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BARTUŚ BARBARA                  za   KOŁAKOWSKI LECH              za        PIONTKOWSKI DARIUSZ              za   WARZECHA JAN                  za
 BĄK DARIUSZ                     za   KOŁAKOWSKI ROBERT            za        PIOTROWICZ STANISŁAW             za   WASZCZYKOWSKI WITOLD          za
 BERNACKI W ŁODZIMIERZ           za   KOWALCZYK HENRYK             za        POLACZEK JERZY                   za   WIPLER PRZEMYSŁAW             za
@@ -109,10 +109,10 @@ JACKIEWICZ DAWID                za   MOSKAL KAZIMIERZ             za        SZWE
 
  RP (43)                      GŁOSOWAŁO - 41           ZA - 41    PRZECIW - 0                WSTRZYM. - 0            NIE GŁOS. - 2
 
-BANASZAK MACIEJ                 za   ELSNER WINCENTY              za        KRUPA ŁUKASZ                     za   PIĄ TAK ANDRZEJ               za
+BANASZAK MACIEJ                 za   ELSNER WINCENTY              za        KRUPA ŁUKASZ                     za   PIĄTAK ANDRZEJ               za
 BAUĆ PIOTR PAWEŁ                za   GIBAŁA ŁUKASZ                za        KWIATKOWSKI JACEK                za   POPIOŁEK ZOFIA                za
 BIEDROŃ ROBERT                  za   GÓRCZYŃSKI ARTUR             za        LEWANDOWSKI ANDRZEJ              za   POZNAŃSKI MAREK               za
-BODIO BARTŁ OMIEJ               za   GRODZKA ANNA                 za        MAKOWSKI TOMASZ                  za   ROZENEK ANDRZEJ               za
+BODIO BARTŁOMIEJ               za   GRODZKA ANNA                 za        MAKOWSKI TOMASZ                  za   ROZENEK ANDRZEJ               za
 BORKOWSKI JERZY                 za   KABACIŃSKI MICHAŁ            za        MARCINKIEWICZ MAŁGORZATA         za   RYFIŃSKI ARMAND KAMIL         za
 BRAMORA ARTUR                   za   KĘPIŃSKI ADAM                za        MROCZEK MACIEJ                   za   SAJAK PAWEŁ                   za
 CEDZYŃSKI JAN                   za   KLEPACZ WITOLD               za        NAJDER JACEK                     za   STOLARSKI MAREK               za

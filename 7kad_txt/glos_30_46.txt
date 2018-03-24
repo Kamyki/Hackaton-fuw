@@ -44,7 +44,7 @@ DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                         
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.    WARDZAŁA ROBERT                 pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.    WIELICHOWSKA MONIKA             pr.
 DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.    WITCZAK MARIUSZ                 pr.
-DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
+DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.    WITKOWSKI RADOSŁAW              pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.    WOJTKOWSKI MAREK                pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.    WOLAK EWA                       pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.    WÓJCIK MAREK                    pr.
@@ -54,7 +54,7 @@ GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                   
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.    ZDROJEWSKI BOGDAN               pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.    ZIELIŃSKI MACIEJ                pr.
 GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.    ZIEMNIAK WOJCIECH               pr.
-GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘ TEK JERZY                   pr.
+GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.    ZIĘTEK JERZY                   pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.    ŻALEK JACEK                     pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.    ŻMIJAN STANISŁAW                pr.
 GLUZA CZESŁAW                         pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.    ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -83,7 +83,7 @@ ANDZEL WALDEMAR                 ws.   JĘDRYSEK MARIUSZ ORION       ws.       O�
 ARCISZEWSKA-MIELEWCZYK DOROTA   ws.   KACZMAREK TOMASZ             ws.       PALUCH ANNA                       ws.   TELUS ROBERT                  ws.
 ARDANOWSKI JAN KRZYSZTOF        ws.   KACZYŃSKI JAROSŁAW           ws.       PAW ŁOWICZ KRYSTYNA               ws.   TOBISZOWSKI GRZEGORZ          ws.
 ARENT IWONA EWA                 ws.   KAMIŃSKI MARIUSZ             ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   TOMASZEWSKI JAN               ws.
-AST MAREK                       ws.   KAMIŃSKI MARIUSZ ANTONI      ws.       PIĘ TA STANISŁAW                  ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
+AST MAREK                       ws.   KAMIŃSKI MARIUSZ ANTONI      ws.       PIĘTA STANISŁAW                  ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 BABALSKI ZBIGNIEW               ws.   KLOC IZABELA                 ws.       PIONTKOWSKI DARIUSZ               ws.   WARZECHA JAN                  ws.
 BABINETZ PIOTR                  ws.   KŁOSOWSKI SŁAWOMIR           ws.       PIOTROWICZ STANISŁAW              ws.   WASZCZYKOWSKI WITOLD          ws.
 BARTUŚ BARBARA                  ws.   KOŁAKOWSKI LECH              ws.       POLACZEK JERZY                    ws.   WIPLER PRZEMYSŁAW             ws.
@@ -109,8 +109,8 @@ GOŁOJUCH KAZIMIERZ              ws.   MATERNA JERZY                ws.       SZ
 
  RP (43)                      GŁOSOWAŁO - 43             ZA - 11   PRZECIW - 30               WSTRZYM. - 2              NIE GŁOS. - 0
 
-BANASZAK MACIEJ                 za    BIEDROŃ ROBERT               pr.       KOTLIŃSKI ROMAN                   pr.   PIĄ TAK ANDRZEJ               pr.
-CHMIELOWSKI PIOTR               za    BODIO BARTŁ OMIEJ            pr.       KRUPA ŁUKASZ                      pr.   POZNAŃSKI MAREK               pr.
+BANASZAK MACIEJ                 za    BIEDROŃ ROBERT               pr.       KOTLIŃSKI ROMAN                   pr.   PIĄTAK ANDRZEJ               pr.
+CHMIELOWSKI PIOTR               za    BODIO BARTŁOMIEJ            pr.       KRUPA ŁUKASZ                      pr.   POZNAŃSKI MAREK               pr.
 GÓRCZYŃSKI ARTUR                za    BORKOWSKI JERZY              pr.       KWIATKOWSKI JACEK                 pr.   ROZENEK ANDRZEJ               pr.
 KABACIŃSKI MICHAŁ               za    BRAMORA ARTUR                pr.       LEWANDOWSKI ANDRZEJ               pr.   RYBAKOWICZ ADAM               pr.
 KĘPIŃSKI ADAM                   za    CEDZYŃSKI JAN                pr.       MAKOWSKI TOMASZ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.

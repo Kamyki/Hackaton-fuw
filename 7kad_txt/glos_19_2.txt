@@ -26,7 +26,7 @@ KROPIWNICKI ROBERT                    za    GĄSIOR-MAREK MAGDALENA             
 KUDRYCKA BARBARA                      za    GELERT ELŻBIETA                        pr.       NOWAK TOMASZ PIOTR               pr.   ZAWADZKI RYSZARD                pr.
 LESZCZYNA IZABELA                     za    GLUZA CZESŁAW                          pr.       NYKIEL MIROSŁAWA                 pr.   ZIELIŃSKI MACIEJ                pr.
 LITWIŃSKI ARKADIUSZ                   za    GŁOGOWSKI TOMASZ                       pr.       OKŁA-DREWNOWICZ MARZENA          pr.   ZIEMNIAK WOJCIECH               pr.
-MARCZUŁAJTIS-WALCZAK JAGNA            za    GODSON JOHN ABRAHAM                    pr.       OKRĄGŁY JANINA                   pr.   ZIĘ TEK JERZY                   pr.
+MARCZUŁAJTIS-WALCZAK JAGNA            za    GODSON JOHN ABRAHAM                    pr.       OKRĄGŁY JANINA                   pr.   ZIĘTEK JERZY                   pr.
 MUCHA JOANNA                          za    GRAŚ PAWEŁ                             pr.       OLECHOWSKA ALICJA                pr.   ŻALEK JACEK                     pr.
 POMASKA AGNIESZKA                     za    GRUPIŃSKI RAFAŁ                        pr.       OLSZEWSKI PAWEŁ                  pr.   ŻMIJAN STANISŁAW                pr.
 RZĄSA MAREK                           za    GUT-MOSTOWY ANDRZEJ                    pr.       ORZECHOWSKI ANDRZEJ              pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -40,7 +40,7 @@ ZDROJEWSKI BOGDAN                     za    KACZOR ROMAN                        
 ACHINGER ELŻBIETA                     pr.   KANIA ANDRZEJ                          pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   ŁAWRYNOWICZ ZOFIA               ws.
 ADAMCZAK MAŁGORZATA                   pr.   KARPIŃSKI W ŁODZIMIERZ                 pr.       PIETRASZEWSKA DANUTA             pr.   NEMŚ ANNA                       ws.
 ARKIT TADEUSZ                         pr.   KAŹMIERCZAK JAN                        pr.       PIETRZCZYK LUCJAN MAREK          pr.   PLUTA MIROSŁAW                  ws.
-ARNDT PAWEŁ                           pr.   KIERWIŃSKI MARCIN                      pr.       PIĘ TA JAROSŁAW                  pr.   RUTNICKI JAKUB                  ws.
+ARNDT PAWEŁ                           pr.   KIERWIŃSKI MARCIN                      pr.       PIĘTA JAROSŁAW                  pr.   RUTNICKI JAKUB                  ws.
 AUGUSTYN URSZULA                      pr.   KLUZIK-ROSTKOWSKA JOANNA               pr.       PIOTROWSKA TERESA                pr.   SŁAWIAK BOŻENA                  ws.
 AZIEWICZ TADEUSZ                      pr.   KŁOSIN KRYSTYNA                        pr.       PITERA JULIA                     pr.   SZEJNFELD ADAM                  ws.
 BIERNACKI MAREK                       pr.   KOCHAN MAGDALENA                       pr.       PLOCKE KAZIMIERZ                 pr.   TOMCZYK CEZARY                  ws.
@@ -79,7 +79,7 @@ AST MAREK                       pr.   KACZYŃSKI JAROSŁAW          pr.       O�
 BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ            pr.       PALUCH ANNA                      pr.   TERLECKI RYSZARD                pr.
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PAW ŁOWICZ KRYSTYNA              pr.   TOBISZOWSKI GRZEGORZ            pr.
 BARTUŚ BARBARA                  pr.   KLOC IZABELA                pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TOMASZEWSKI JAN                 pr.
-BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘ TA STANISŁAW                 pr.   WARZECHA JAN                    pr.
+BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘTA STANISŁAW                 pr.   WARZECHA JAN                    pr.
 BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI LECH             pr.       PIONTKOWSKI DARIUSZ              pr.   WASZCZYKOWSKI WITOLD            pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI ROBERT           pr.       PIOTROWICZ STANISŁAW             pr.   WIPLER PRZEMYSŁAW               pr.
 BŁASZCZAK MARIUSZ               pr.   KOWALCZYK HENRYK            pr.       POLACZEK JERZY                   pr.   WIŚNIEWSKA JADWIGA              pr.
@@ -112,14 +112,14 @@ JACKIEWICZ DAWID                pr.   MOSKAL KAZIMIERZ            pr.       SZWE
 BANASZAK MACIEJ                 za    ELSNER WINCENTY             za        KWIATKOWSKI JACEK                za    POPIOŁEK ZOFIA                  za
 BAUĆ PIOTR PAWEŁ                za    GIBAŁA ŁUKASZ               za        LEWANDOWSKI ANDRZEJ              za    POZNAŃSKI MAREK                 za
 BIEDROŃ ROBERT                  za    GÓRCZYŃSKI ARTUR            za        MAKOWSKI TOMASZ                  za    ROZENEK ANDRZEJ                 za
-BODIO BARTŁ OMIEJ               za    GRODZKA ANNA                za        MARCINKIEWICZ MAŁGORZATA         za    RYBAKOWICZ ADAM                 za
+BODIO BARTŁOMIEJ               za    GRODZKA ANNA                za        MARCINKIEWICZ MAŁGORZATA         za    RYBAKOWICZ ADAM                 za
 BORKOWSKI JERZY                 za    KABACIŃSKI MICHAŁ           za        MROCZEK MACIEJ                   za    RYFIŃSKI ARMAND KAMIL           za
 BRAMORA ARTUR                   za    KĘPIŃSKI ADAM               za        NAJDER JACEK                     za    SAJAK PAWEŁ                     za
 CEDZYŃSKI JAN                   za    KLEPACZ WITOLD              za        NOWICKA WANDA                    za    SZYMIEC-RACZYŃSKA HALINA        za
 CHMIELOWSKI PIOTR               za    KŁOSOWSKI KRZYSZTOF         za        PACHOLSKI MICHAŁ TOMASZ          za    WYDRZYŃSKI MACIEJ               za
 DĘBSKI ARTUR                    za    KMIECIK HENRYK              za        PALIKOT JANUSZ                   za    KOTLIŃSKI ROMAN                 ng.
 DOMARACKI MAREK                 za    KOPYCIŃSKI SŁAWOMIR         za        PENKALSKI WOJCIECH               za    STOLARSKI MAREK                 ng.
-DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                za        PIĄ TAK ANDRZEJ                  za
+DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                za        PIĄTAK ANDRZEJ                  za
 
 
  PSL (28)                     GŁOSOWAŁO - 25            ZA - 0    PRZECIW - 25               WSTRZYM. - 0             NIE GŁOS. - 3

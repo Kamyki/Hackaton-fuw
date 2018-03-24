@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    pr.   KONWIŃSKI ZBIGNIEW                
 DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                            pr.       PIECHOTA SŁAWOMIR JAN            pr.   WARDZAŁA ROBERT                 pr.
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITCZAK MARIUSZ                 pr.
-DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIĘ TA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
+DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIĘTA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PITERA JULIA                     pr.   WOLAK EWA                       pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                    pr.
@@ -53,7 +53,7 @@ GADOWSKI KRZYSZTOF                    pr.   KOŹLAKIEWICZ MIROSŁAW             
 GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                       pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN               pr.
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH               pr.
-GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                   pr.
+GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                   pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                     pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -81,7 +81,7 @@ BABALSKI ZBIGNIEW               za    KACZMAREK TOMASZ             za        OŻ
 BABINETZ PIOTR                  za    KACZYŃSKI JAROSŁAW           za        PALUCH ANNA                      za    TCHÓRZEWSKI KRZYSZTOF         za
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ             za        PAW ŁOWICZ KRYSTYNA              za    TELUS ROBERT                  za
 BĄK DARIUSZ                     za    KAMIŃSKI MARIUSZ ANTONI      za        PIECHA BOLESŁAW GRZEGORZ         za    TERLECKI RYSZARD              za
-BERNACKI W ŁODZIMIERZ           za    KLOC IZABELA                 za        PIĘ TA STANISŁAW                 za    TOBISZOWSKI GRZEGORZ          za
+BERNACKI W ŁODZIMIERZ           za    KLOC IZABELA                 za        PIĘTA STANISŁAW                 za    TOBISZOWSKI GRZEGORZ          za
 BĘTKOWSKI ANDRZEJ               za    KŁOSOWSKI SŁAWOMIR           za        PIONTKOWSKI DARIUSZ              za    TOMASZEWSKI JAN               za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI LECH              za        PIOTROWICZ STANISŁAW             za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BRUDZIŃSKI JOACHIM              za    KOŁAKOWSKI ROBERT            za        POLACZEK JERZY                   za    WARZECHA JAN                  za
@@ -109,7 +109,7 @@ HRYNKIEWICZ JÓZEFA              za    MATUSZEWSKI MAREK            za        SZ
 
  RP (43)                      GŁOSOWAŁO - 40            ZA - 12    PRZECIW - 28               WSTRZYM. - 0             NIE GŁOS. - 3
 
-BORKOWSKI JERZY                 za    STOLARSKI MAREK              za        KOTLIŃSKI ROMAN                  pr.   PIĄ TAK ANDRZEJ               pr.
+BORKOWSKI JERZY                 za    STOLARSKI MAREK              za        KOTLIŃSKI ROMAN                  pr.   PIĄTAK ANDRZEJ               pr.
 CHMIELOWSKI PIOTR               za    BANASZAK MACIEJ              pr.       KRUPA ŁUKASZ                     pr.   POPIOŁEK ZOFIA                pr.
 DZIADZIO DARIUSZ CEZAR          za    BIEDROŃ ROBERT               pr.       KWIATKOWSKI JACEK                pr.   POZNAŃSKI MAREK               pr.
 GÓRCZYŃSKI ARTUR                za    BRAMORA ARTUR                pr.       LEWANDOWSKI ANDRZEJ              pr.   ROZENEK ANDRZEJ               pr.
@@ -117,7 +117,7 @@ GRODZKA ANNA                    za    CEDZYŃSKI JAN                pr.       MA
 KABACIŃSKI MICHAŁ               za    DĘBSKI ARTUR                 pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 KĘPIŃSKI ADAM                   za    DOMARACKI MAREK              pr.       NAJDER JACEK                     pr.   WYDRZYŃSKI MACIEJ             pr.
 KLEPACZ WITOLD                  za    ELSNER WINCENTY              pr.       NOWICKA WANDA                    pr.   BAUĆ PIOTR PAWEŁ              ng.
-KMIECIK HENRYK                  za    GIBAŁA ŁUKASZ                pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   BODIO BARTŁ OMIEJ             ng.
+KMIECIK HENRYK                  za    GIBAŁA ŁUKASZ                pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   BODIO BARTŁOMIEJ             ng.
 MARCINKIEWICZ MAŁGORZATA        za    KŁOSOWSKI KRZYSZTOF          pr.       PALIKOT JANUSZ                   pr.   SZYMIEC-RACZYŃSKA HALINA      ng.
 SAJAK PAWEŁ                     za    KOPYCIŃSKI SŁAWOMIR          pr.       PENKALSKI WOJCIECH               pr.
 

@@ -40,14 +40,14 @@ CZAPLICKA BARBARA                     pr.   KOŁODZIEJ EWA                      
 CZECHYRA CZESŁAW                      pr.   KONWIŃSKI ZBIGNIEW                    pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WOJNAROWSKI NORBERT             pr.
 CZERNOW ZOFIA                         pr.   KOPACZ EWA                            pr.       PIETRASZEWSKA DANUTA             pr.   WOJTKOWSKI MAREK                pr.
 CZERWIŃSKI ANDRZEJ                    pr.   KOPACZEWSKA DOMICELA                  pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOLAK EWA                       pr.
-DĄBROWSKA ALICJA                      pr.   KOSECKI ROMAN JACEK                   pr.       PIĘ TA JAROSŁAW                  pr.   WÓJCIK MAREK                    pr.
+DĄBROWSKA ALICJA                      pr.   KOSECKI ROMAN JACEK                   pr.       PIĘTA JAROSŁAW                  pr.   WÓJCIK MAREK                    pr.
 DROZD EWA                             pr.   KOWALSKI SŁAWOMIR                     pr.       PIOTROWSKA TERESA                pr.   ZAKRZEWSKA JADWIGA              pr.
 DUNIN ARTUR                           pr.   KOZACZYŃSKI JACEK                     pr.       PITERA JULIA                     pr.   ZAREMBA RENATA                  pr.
 DURKA ZENON                           pr.   KOZDROŃ JERZY                         pr.       PLOCKE KAZIMIERZ                 pr.   ZAWADZKI RYSZARD                pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOZŁOWSKA IWONA                       pr.       PLURA MAREK                      pr.   ZDROJEWSKI BOGDAN               pr.
 DZIKOWSKI WALDY                       pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA          pr.       PLUTA MIROSŁAW                   pr.   ZIELIŃSKI MACIEJ                pr.
 FABISIAK JOANNA                       pr.   KOŹLAKIEWICZ MIROSŁAW                 pr.       POMASKA AGNIESZKA                pr.   ZIEMNIAK WOJCIECH               pr.
-FEDOROWICZ JERZY                      pr.   KRAJEWSKA LIGIA                       pr.       POŚLEDNIA KRYSTYNA               pr.   ZIĘ TEK JERZY                   pr.
+FEDOROWICZ JERZY                      pr.   KRAJEWSKA LIGIA                       pr.       POŚLEDNIA KRYSTYNA               pr.   ZIĘTEK JERZY                   pr.
 FIEDLER ARKADY                        pr.   KROPIWNICKI ROBERT                    pr.       RACZKOWSKI DAMIAN                pr.   ŻALEK JACEK                     pr.
 GADOWSKI KRZYSZTOF                    pr.   KRZĄKAŁA MAREK                        pr.       RADZISZEWSKA ELŻBIETA            pr.   ŻMIJAN STANISŁAW                pr.
 GAŁAŻEWSKI ANDRZEJ                    pr.   KUCHARSKI CEZARY                      pr.       RANIEWICZ GRZEGORZ               pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -82,7 +82,7 @@ BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ              za        O
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ ANTONI       za        PALUCH ANNA                      za    ŚWIAT JACEK                   za
 BĄK DARIUSZ                     za    KLOC IZABELA                  za        PAW ŁOWICZ KRYSTYNA              za    TCHÓRZEWSKI KRZYSZTOF         za
 BERNACKI W ŁODZIMIERZ           za    KŁOSOWSKI SŁAWOMIR            za        PIECHA BOLESŁAW GRZEGORZ         za    TELUS ROBERT                  za
-BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH               za        PIĘ TA STANISŁAW                 za    TERLECKI RYSZARD              za
+BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI LECH               za        PIĘTA STANISŁAW                 za    TERLECKI RYSZARD              za
 BŁASZCZAK MARIUSZ               za    KOŁAKOWSKI ROBERT             za        PIONTKOWSKI DARIUSZ              za    TOBISZOWSKI GRZEGORZ          za
 BRUDZIŃSKI JOACHIM              za    KOWALCZYK HENRYK              za        PIOTROWICZ STANISŁAW             za    TOMASZEWSKI JAN               za
 BUBULA BARBARA                  za    KOWNACKI BARTOSZ              za        POLACZEK JERZY                   za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
@@ -109,7 +109,7 @@ HRYNKIEWICZ JÓZEFA              za    MATUSIAK GRZEGORZ             za        S
 
  RP (42)                      GŁOSOWAŁO - 37             ZA - 3     PRZECIW - 32               WSTRZYM. - 2             NIE GŁOS. - 5
 
-BODIO BARTŁ OMIEJ               za    ELSNER WINCENTY               pr.       MROCZEK MACIEJ                   pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
+BODIO BARTŁOMIEJ               za    ELSNER WINCENTY               pr.       MROCZEK MACIEJ                   pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 DZIADZIO DARIUSZ CEZAR          za    GÓRCZYŃSKI ARTUR              pr.       NAJDER JACEK                     pr.   WYDRZYŃSKI MACIEJ             pr.
 RYBAKOWICZ ADAM                 za    KABACIŃSKI MICHAŁ             pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   BAUĆ PIOTR PAWEŁ              ws.
 BANASZAK MACIEJ                 pr.   KĘPIŃSKI ADAM                 pr.       PALIKOT JANUSZ                   pr.   GRODZKA ANNA                  ws.
@@ -117,7 +117,7 @@ BIEDROŃ ROBERT                  pr.   KLEPACZ WITOLD                pr.       P
 BORKOWSKI JERZY                 pr.   KŁOSOWSKI KRZYSZTOF           pr.       POPIOŁEK ZOFIA                   pr.   KMIECIK HENRYK                ng.
 BRAMORA ARTUR                   pr.   KOPYCIŃSKI SŁAWOMIR           pr.       POZNAŃSKI MAREK                  pr.   KOTLIŃSKI ROMAN               ng.
 CEDZYŃSKI JAN                   pr.   KWIATKOWSKI JACEK             pr.       ROZENEK ANDRZEJ                  pr.   KRUPA ŁUKASZ                  ng.
-CHMIELOWSKI PIOTR               pr.   LEWANDOWSKI ANDRZEJ           pr.       RYFIŃSKI ARMAND KAMIL            pr.   PIĄ TAK ANDRZEJ               ng.
+CHMIELOWSKI PIOTR               pr.   LEWANDOWSKI ANDRZEJ           pr.       RYFIŃSKI ARMAND KAMIL            pr.   PIĄTAK ANDRZEJ               ng.
 DĘBSKI ARTUR                    pr.   MAKOWSKI TOMASZ               pr.       SAJAK PAWEŁ                      pr.
 DOMARACKI MAREK                 pr.   MARCINKIEWICZ MAŁGORZATA      pr.       STOLARSKI MAREK                  pr.
 

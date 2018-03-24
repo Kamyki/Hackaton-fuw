@@ -44,7 +44,7 @@ DĄBROWSKA ALICJA                      pr.   KOPACZ EWA                         
 DROZD EWA                             pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.   WIELICHOWSKA MONIKA             pr.
 DUNIN ARTUR                           pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITCZAK MARIUSZ                 pr.
 DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITKOWSKI RADOSŁAW              pr.
-DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                pr.
+DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.   WOJTKOWSKI MAREK                pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.   WOLAK EWA                       pr.
 FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.   WÓJCIK MAREK                    pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.   ZAKRZEWSKA JADWIGA              pr.
@@ -53,7 +53,7 @@ GADOWSKI KRZYSZTOF                    pr.   KOŹLAKIEWICZ MIROSŁAW             
 GAŁAŻEWSKI ANDRZEJ                    pr.   KRAJEWSKA LIGIA                       pr.       POMASKA AGNIESZKA                pr.   ZDROJEWSKI BOGDAN               pr.
 GAPIŃSKA ELŻBIETA                     pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.   ZIELIŃSKI MACIEJ                pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIEMNIAK WOJCIECH               pr.
-GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘ TEK JERZY                   pr.
+GĄDEK LIDIA                           pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIĘTEK JERZY                   pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ŻALEK JACEK                     pr.
 GELERT ELŻBIETA                       pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.   ŻMIJAN STANISŁAW                pr.
 GIERADA ARTUR                         pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -82,7 +82,7 @@ BABALSKI ZBIGNIEW               pr.   KACZYŃSKI JAROSŁAW          pr.       O�
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ            pr.       PALUCH ANNA                      pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 BARTUŚ BARBARA                  pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PAW ŁOWICZ KRYSTYNA              pr.   TELUS ROBERT                  pr.
 BĄK DARIUSZ                     pr.   KLOC IZABELA                pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TERLECKI RYSZARD              pr.
-BERNACKI W ŁODZIMIERZ           pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘ TA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
+BERNACKI W ŁODZIMIERZ           pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIĘTA STANISŁAW                 pr.   TOBISZOWSKI GRZEGORZ          pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI LECH             pr.       PIONTKOWSKI DARIUSZ              pr.   TOMASZEWSKI JAN               pr.
 BŁASZCZAK MARIUSZ               pr.   KOŁAKOWSKI ROBERT           pr.       PIOTROWICZ STANISŁAW             pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BRUDZIŃSKI JOACHIM              pr.   KOWALCZYK HENRYK            pr.       POLACZEK JERZY                   pr.   WARZECHA JAN                  pr.
@@ -112,13 +112,13 @@ HRYNKIEWICZ JÓZEFA              pr.   MATUSIAK GRZEGORZ           pr.       SZA
 BANASZAK MACIEJ                 za    ELSNER WINCENTY             za        KWIATKOWSKI JACEK                za    POZNAŃSKI MAREK               za
 BAUĆ PIOTR PAWEŁ                za    GIBAŁA ŁUKASZ               za        LEWANDOWSKI ANDRZEJ              za    ROZENEK ANDRZEJ               za
 BIEDROŃ ROBERT                  za    GÓRCZYŃSKI ARTUR            za        MAKOWSKI TOMASZ                  za    RYBAKOWICZ ADAM               za
-BODIO BARTŁ OMIEJ               za    GRODZKA ANNA                za        MARCINKIEWICZ MAŁGORZATA         za    SAJAK PAWEŁ                   za
+BODIO BARTŁOMIEJ               za    GRODZKA ANNA                za        MARCINKIEWICZ MAŁGORZATA         za    SAJAK PAWEŁ                   za
 BORKOWSKI JERZY                 za    KABACIŃSKI MICHAŁ           za        MROCZEK MACIEJ                   za    STOLARSKI MAREK               za
 BRAMORA ARTUR                   za    KĘPIŃSKI ADAM               za        NAJDER JACEK                     za    SZYMIEC-RACZYŃSKA HALINA      za
 CEDZYŃSKI JAN                   za    KLEPACZ WITOLD              za        NOWICKA WANDA                    za    WYDRZYŃSKI MACIEJ             za
 CHMIELOWSKI PIOTR               za    KŁOSOWSKI KRZYSZTOF         za        PACHOLSKI MICHAŁ TOMASZ          za    KOPYCIŃSKI SŁAWOMIR           ng.
 DĘBSKI ARTUR                    za    KMIECIK HENRYK              za        PENKALSKI WOJCIECH               za    PALIKOT JANUSZ                ng.
-DOMARACKI MAREK                 za    KOTLIŃSKI ROMAN             za        PIĄ TAK ANDRZEJ                  za    RYFIŃSKI ARMAND KAMIL         ng.
+DOMARACKI MAREK                 za    KOTLIŃSKI ROMAN             za        PIĄTAK ANDRZEJ                  za    RYFIŃSKI ARMAND KAMIL         ng.
 DZIADZIO DARIUSZ CEZAR          za    KRUPA ŁUKASZ                za        POPIOŁEK ZOFIA                   za
 
 

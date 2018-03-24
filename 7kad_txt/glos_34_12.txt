@@ -42,14 +42,14 @@ CZECHYRA CZESŁAW                      za    KONWIŃSKI ZBIGNIEW                
 CZERNOW ZOFIA                         za    KOPACZ EWA                            za       PIERZCHAŁA ELŻBIETA APOLONIA        za   WOJNAROWSKI NORBERT                    za
 CZERWIŃSKI ANDRZEJ                    za    KOPACZEWSKA DOMICELA                  za       PIETRASZEWSKA DANUTA                za   WOJTKOWSKI MAREK                       za
 DĄBROWSKA ALICJA                      za    KORZENIOWSKI LESZEK                   za       PIETRZCZYK LUCJAN MAREK             za   WOLAK EWA                              za
-DROZD EWA                             za    KOSECKI ROMAN JACEK                   za       PIĘ TA JAROSŁAW                     za   WÓJCIK MAREK                           za
+DROZD EWA                             za    KOSECKI ROMAN JACEK                   za       PIĘTA JAROSŁAW                     za   WÓJCIK MAREK                           za
 DUNIN ARTUR                           za    KOWALSKI SŁAWOMIR                     za       PIOTROWSKA TERESA                   za   ZAKRZEWSKA JADWIGA                     za
 DURKA ZENON                           za    KOZACZYŃSKI JACEK                     za       PITERA JULIA                        za   ZAREMBA RENATA                         za
 DZIĘCIOŁ JANUSZ                       za    KOZDROŃ JERZY                         za       PLOCKE KAZIMIERZ                    za   ZAWADZKI RYSZARD                       za
 DZIKOWSKI WALDY                       za    KOZŁOWSKA IWONA                       za       PLURA MAREK                         za   ZDROJEWSKI BOGDAN                      za
 FABISIAK JOANNA                       za    KOZŁOWSKA-RAJEWICZ AGNIESZKA          za       PLUTA MIROSŁAW                      za   ZIELIŃSKI MACIEJ                       za
 FEDOROWICZ JERZY                      za    KOŹLAKIEWICZ MIROSŁAW                 za       POMASKA AGNIESZKA                   za   ZIEMNIAK WOJCIECH                      za
-FIEDLER ARKADY                        za    KRAJEWSKA LIGIA                       za       POŚLEDNIA KRYSTYNA                  za   ZIĘ TEK JERZY                          za
+FIEDLER ARKADY                        za    KRAJEWSKA LIGIA                       za       POŚLEDNIA KRYSTYNA                  za   ZIĘTEK JERZY                          za
 GADOWSKI KRZYSZTOF                    za    KROPIWNICKI ROBERT                    za       RACZKOWSKI DAMIAN                   za   ŻALEK JACEK                            za
 GAŁAŻEWSKI ANDRZEJ                    za    KRZĄKAŁA MAREK                        za       RADZISZEWSKA ELŻBIETA               za   ŻMIJAN STANISŁAW                       za
 GAPIŃSKA ELŻBIETA                     za    KUCHARSKI CEZARY                      za       RANIEWICZ GRZEGORZ                  za   ŻMUDA-TRZEBIATOWSKA EWA                za
@@ -83,7 +83,7 @@ BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ             pr.       O�
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ ANTONI      pr.       PALUCH ANNA                      pr.   ŚWIAT JACEK                   pr.
 BĄK DARIUSZ                     pr.   KLOC IZABELA                 pr.       PAW ŁOWICZ KRYSTYNA              pr.   TCHÓRZEWSKI KRZYSZTOF         pr.
 BERNACKI W ŁODZIMIERZ           pr.   KŁOSOWSKI SŁAWOMIR           pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TELUS ROBERT                  pr.
-BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI LECH              pr.       PIĘ TA STANISŁAW                 pr.   TERLECKI RYSZARD              pr.
+BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI LECH              pr.       PIĘTA STANISŁAW                 pr.   TERLECKI RYSZARD              pr.
 BŁASZCZAK MARIUSZ               pr.   KOŁAKOWSKI ROBERT            pr.       PIONTKOWSKI DARIUSZ              pr.   TOBISZOWSKI GRZEGORZ          pr.
 BRUDZIŃSKI JOACHIM              pr.   KOWALCZYK HENRYK             pr.       PIOTROWICZ STANISŁAW             pr.   TOMASZEWSKI JAN               pr.
 BUBULA BARBARA                  pr.   KOWNACKI BARTOSZ             pr.       POLACZEK JERZY                   pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
@@ -114,12 +114,12 @@ JACH MICHAŁ                     pr.   MATUSZEWSKI MAREK            pr.       SZ
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       LEWANDOWSKI ANDRZEJ              pr.   ROZENEK ANDRZEJ               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GÓRCZYŃSKI ARTUR             pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM               pr.
 BIEDROŃ ROBERT                  pr.   GRODZKA ANNA                 pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL         pr.
-BODIO BARTŁ OMIEJ               pr.   KABACIŃSKI MICHAŁ            pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
+BODIO BARTŁOMIEJ               pr.   KABACIŃSKI MICHAŁ            pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                   pr.
 BORKOWSKI JERZY                 pr.   KĘPIŃSKI ADAM                pr.       NAJDER JACEK                     pr.   STOLARSKI MAREK               pr.
 BRAMORA ARTUR                   pr.   KLEPACZ WITOLD               pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF          pr.       PALIKOT JANUSZ                   pr.   WYDRZYŃSKI MACIEJ             pr.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK               pr.       PENKALSKI WOJCIECH               pr.   GIBAŁA ŁUKASZ                 ng.
-DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PIĄ TAK ANDRZEJ                  pr.   KOTLIŃSKI ROMAN               ng.
+DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PIĄTAK ANDRZEJ                  pr.   KOTLIŃSKI ROMAN               ng.
 DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                 pr.       POPIOŁEK ZOFIA                   pr.
 DZIADZIO DARIUSZ CEZAR          pr.   KWIATKOWSKI JACEK            pr.       POZNAŃSKI MAREK                  pr.
 

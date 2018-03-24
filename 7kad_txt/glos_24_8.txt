@@ -40,7 +40,7 @@ CZECHYRA CZESŁAW                    pr.   KOŁODZIEJ EWA                       
 CZERNOW ZOFIA                       pr.   KONWIŃSKI ZBIGNIEW                  pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 CZERWIŃSKI ANDRZEJ                  pr.   KOPACZ EWA                          pr.       PIETRASZEWSKA DANUTA             pr.   WITCZAK MARIUSZ                 pr.
 DĄBROWSKA ALICJA                    pr.   KOPACZEWSKA DOMICELA                pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITKOWSKI RADOSŁAW              pr.
-DROZD EWA                           pr.   KORZENIOWSKI LESZEK                 pr.       PIĘ TA JAROSŁAW                  pr.   WOJNAROWSKI NORBERT             pr.
+DROZD EWA                           pr.   KORZENIOWSKI LESZEK                 pr.       PIĘTA JAROSŁAW                  pr.   WOJNAROWSKI NORBERT             pr.
 DUNIN ARTUR                         pr.   KOZACZYŃSKI JACEK                   pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                pr.
 DZIĘCIOŁ JANUSZ                     pr.   KOZDROŃ JERZY                       pr.       PITERA JULIA                     pr.   WOLAK EWA                       pr.
 DZIKOWSKI WALDY                     pr.   KOZŁOWSKA IWONA                     pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                    pr.
@@ -50,7 +50,7 @@ FIEDLER ARKADY                      pr.   KRAJEWSKA LIGIA                     pr
 GADOWSKI KRZYSZTOF                  pr.   KROPIWNICKI ROBERT                  pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN               pr.
 GAŁAŻEWSKI ANDRZEJ                  pr.   KRZĄKAŁA MAREK                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIELIŃSKI MACIEJ                pr.
 GAPIŃSKA ELŻBIETA                   pr.   KUDRYCKA BARBARA                    pr.       RANIEWICZ GRZEGORZ               pr.   ZIEMNIAK WOJCIECH               pr.
-GAW ŁOWSKI STANISŁAW                pr.   KULESZA TOMASZ                      pr.       RAŚ IRENEUSZ                     pr.   ZIĘ TEK JERZY                   pr.
+GAW ŁOWSKI STANISŁAW                pr.   KULESZA TOMASZ                      pr.       RAŚ IRENEUSZ                     pr.   ZIĘTEK JERZY                   pr.
 GĄDEK LIDIA                         pr.   KWIATKOWSKI KRZYSZTOF               pr.       ROSATI DARIUSZ                   pr.   ŻALEK JACEK                     pr.
 GĄSIOR-MAREK MAGDALENA              pr.   LAMCZYK STANISŁAW                   pr.       ROZPONDEK HALINA                 pr.   ŻMIJAN STANISŁAW                pr.
 GELERT ELŻBIETA                     pr.   LASSOTA JÓZEF                       pr.       RUTKOWSKA DOROTA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -77,7 +77,7 @@ ARCISZEWSKA-MIELEWCZYK DOROTA   ws.   JAWORSKI ANDRZEJ            ws.       OŻ�
 ARDANOWSKI JAN KRZYSZTOF        ws.   JURGIEL KRZYSZTOF           ws.       PALUCH ANNA                        ws.   ŚWIAT JACEK                   ws.
 ARENT IWONA EWA                 ws.   KACZMAREK TOMASZ            ws.       PAW ŁOWICZ KRYSTYNA                ws.   TCHÓRZEWSKI KRZYSZTOF         ws.
 AST MAREK                       ws.   KACZYŃSKI JAROSŁAW          ws.       PIECHA BOLESŁAW GRZEGORZ           ws.   TELUS ROBERT                  ws.
-BABALSKI ZBIGNIEW               ws.   KAMIŃSKI MARIUSZ            ws.       PIĘ TA STANISŁAW                   ws.   TERLECKI RYSZARD              ws.
+BABALSKI ZBIGNIEW               ws.   KAMIŃSKI MARIUSZ            ws.       PIĘTA STANISŁAW                   ws.   TERLECKI RYSZARD              ws.
 BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PIONTKOWSKI DARIUSZ                ws.   TOBISZOWSKI GRZEGORZ          ws.
 BARTUŚ BARBARA                  ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIOTROWICZ STANISŁAW               ws.   TOMASZEWSKI JAN               ws.
 BĄK DARIUSZ                     ws.   KOŁAKOWSKI LECH             ws.       POLACZEK JERZY                     ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
@@ -111,13 +111,13 @@ JACH MICHAŁ                     ws.   NAIMSKI PIOTR               ws.       SZM
 BANASZAK MACIEJ                 pr.   GÓRCZYŃSKI ARTUR            pr.       LEWANDOWSKI ANDRZEJ                pr.   POZNAŃSKI MAREK               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GRODZKA ANNA                pr.       MAKOWSKI TOMASZ                    pr.   ROZENEK ANDRZEJ               pr.
 BIEDROŃ ROBERT                  pr.   KABACIŃSKI MICHAŁ           pr.       MARCINKIEWICZ MAŁGORZATA           pr.   RYBAKOWICZ ADAM               pr.
-BODIO BARTŁ OMIEJ               pr.   KĘPIŃSKI ADAM               pr.       MROCZEK MACIEJ                     pr.   RYFIŃSKI ARMAND KAMIL         pr.
+BODIO BARTŁOMIEJ               pr.   KĘPIŃSKI ADAM               pr.       MROCZEK MACIEJ                     pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BORKOWSKI JERZY                 pr.   KLEPACZ WITOLD              pr.       NAJDER JACEK                       pr.   SAJAK PAWEŁ                   pr.
 CEDZYŃSKI JAN                   pr.   KŁOSOWSKI KRZYSZTOF         pr.       NOWICKA WANDA                      pr.   STOLARSKI MAREK               pr.
 CHMIELOWSKI PIOTR               pr.   KMIECIK HENRYK              pr.       PACHOLSKI MICHAŁ TOMASZ            pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 DĘBSKI ARTUR                    pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PALIKOT JANUSZ                     pr.   WYDRZYŃSKI MACIEJ             pr.
 DOMARACKI MAREK                 pr.   KOTLIŃSKI ROMAN             pr.       PENKALSKI WOJCIECH                 pr.   BRAMORA ARTUR                 ng.
-DZIADZIO DARIUSZ CEZAR          pr.   KRUPA ŁUKASZ                pr.       PIĄ TAK ANDRZEJ                    pr.   GIBAŁA ŁUKASZ                 ng.
+DZIADZIO DARIUSZ CEZAR          pr.   KRUPA ŁUKASZ                pr.       PIĄTAK ANDRZEJ                    pr.   GIBAŁA ŁUKASZ                 ng.
 ELSNER WINCENTY                 pr.   KWIATKOWSKI JACEK           pr.       POPIOŁEK ZOFIA                     pr.
 
 

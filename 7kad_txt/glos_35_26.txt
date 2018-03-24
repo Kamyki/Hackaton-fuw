@@ -46,7 +46,7 @@ DROZD EWA                            za    KOPACZEWSKA DOMICELA                 
 DUNIN ARTUR                          za    KORZENIOWSKI LESZEK                  za       PIERZCHAŁA ELŻBIETA APOLONIA       za   WARDZAŁA ROBERT                         za
 DURKA ZENON                          za    KOSECKI ROMAN JACEK                  za       PIETRASZEWSKA DANUTA               za   WIELICHOWSKA MONIKA                     za
 DZIĘCIOŁ JANUSZ                      za    KOWALSKI SŁAWOMIR                    za       PIETRZCZYK LUCJAN MAREK            za   WITCZAK MARIUSZ                         za
-DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                    za       PIĘ TA JAROSŁAW                    za   WITKOWSKI RADOSŁAW                      za
+DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                    za       PIĘTA JAROSŁAW                    za   WITKOWSKI RADOSŁAW                      za
 FABISIAK JOANNA                      za    KOZDROŃ JERZY                        za       PIOTROWSKA TERESA                  za   WOJNAROWSKI NORBERT                     za
 FEDOROWICZ JERZY                     za    KOZŁOWSKA IWONA                      za       PITERA JULIA                       za   WOJTKOWSKI MAREK                        za
 FIEDLER ARKADY                       za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLOCKE KAZIMIERZ                   za   WOLAK EWA                               za
@@ -57,7 +57,7 @@ GAW ŁOWSKI STANISŁAW                 za    KRZĄKAŁA MAREK                   
 GĄDEK LIDIA                          za    KUCHARSKI CEZARY                     za       RACZKOWSKI DAMIAN                  za   ZDROJEWSKI BOGDAN                       za
 GĄSIOR-MAREK MAGDALENA               za    KUDRYCKA BARBARA                     za       RADZISZEWSKA ELŻBIETA              za   ZIELIŃSKI MACIEJ                        za
 GELERT ELŻBIETA                      za    KULESZA TOMASZ                       za       RANIEWICZ GRZEGORZ                 za   ZIEMNIAK WOJCIECH                       za
-GIERADA ARTUR                        za    KWIATKOWSKI KRZYSZTOF                za       RAŚ IRENEUSZ                       za   ZIĘ TEK JERZY                           za
+GIERADA ARTUR                        za    KWIATKOWSKI KRZYSZTOF                za       RAŚ IRENEUSZ                       za   ZIĘTEK JERZY                           za
 GLUZA CZESŁAW                        za    LAMCZYK STANISŁAW                    za       ROSATI DARIUSZ                     za   ŻALEK JACEK                             za
 GŁOGOWSKI TOMASZ                     za    LASSOTA JÓZEF                        za       ROZPONDEK HALINA                   za   ŻMIJAN STANISŁAW                        za
 GODSON JOHN ABRAHAM                  za    LENZ TOMASZ                          za       RUTKOWSKA DOROTA                   za   ŻMUDA-TRZEBIATOWSKA EWA                 za
@@ -83,7 +83,7 @@ BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ             pr.       O�
 BARTUŚ BARBARA                  pr.   KAMIŃSKI MARIUSZ ANTONI      pr.       PALUCH ANNA                       pr.   TCHÓRZEWSKI KRZYSZTOF            pr.
 BĄK DARIUSZ                     pr.   KLOC IZABELA                 pr.       PAW ŁOWICZ KRYSTYNA               pr.   TELUS ROBERT                     pr.
 BERNACKI W ŁODZIMIERZ           pr.   KŁOSOWSKI SŁAWOMIR           pr.       PIECHA BOLESŁAW GRZEGORZ          pr.   TERLECKI RYSZARD                 pr.
-BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI LECH              pr.       PIĘ TA STANISŁAW                  pr.   TOBISZOWSKI GRZEGORZ             pr.
+BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI LECH              pr.       PIĘTA STANISŁAW                  pr.   TOBISZOWSKI GRZEGORZ             pr.
 BŁASZCZAK MARIUSZ               pr.   KOŁAKOWSKI ROBERT            pr.       PIONTKOWSKI DARIUSZ               pr.   TOMASZEWSKI JAN                  pr.
 BRUDZIŃSKI JOACHIM              pr.   KOWALCZYK HENRYK             pr.       PIOTROWICZ STANISŁAW              pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ      pr.
 BUBULA BARBARA                  pr.   KOWNACKI BARTOSZ             pr.       POLACZEK JERZY                    pr.   WARZECHA JAN                     pr.
@@ -113,10 +113,10 @@ JACH MICHAŁ                     pr.   MATUSIAK GRZEGORZ            pr.       SZ
 BANASZAK MACIEJ                 za    ELSNER WINCENTY              za        MROCZEK MACIEJ                    za    STOLARSKI MAREK                  za
 BAUĆ PIOTR PAWEŁ                za    GÓRCZYŃSKI ARTUR             za        NAJDER JACEK                      za    SZYMIEC-RACZYŃSKA HALINA         za
 BIEDROŃ ROBERT                  za    GRODZKA ANNA                 za        PACHOLSKI MICHAŁ TOMASZ           za    GIBAŁA ŁUKASZ                    ng.
-BODIO BARTŁ OMIEJ               za    KABACIŃSKI MICHAŁ            za        PALIKOT JANUSZ                    za    KŁOSOWSKI KRZYSZTOF              ng.
+BODIO BARTŁOMIEJ               za    KABACIŃSKI MICHAŁ            za        PALIKOT JANUSZ                    za    KŁOSOWSKI KRZYSZTOF              ng.
 BORKOWSKI JERZY                 za    KLEPACZ WITOLD               za        PENKALSKI WOJCIECH                za    KOTLIŃSKI ROMAN                  ng.
 BRAMORA ARTUR                   za    KMIECIK HENRYK               za        POPIOŁEK ZOFIA                    za    KRUPA ŁUKASZ                     ng.
-CEDZYŃSKI JAN                   za    KOPYCIŃSKI SŁAWOMIR          za        POZNAŃSKI MAREK                   za    PIĄ TAK ANDRZEJ                  ng.
+CEDZYŃSKI JAN                   za    KOPYCIŃSKI SŁAWOMIR          za        POZNAŃSKI MAREK                   za    PIĄTAK ANDRZEJ                  ng.
 CHMIELOWSKI PIOTR               za    KWIATKOWSKI JACEK            za        ROZENEK ANDRZEJ                   za    WYDRZYŃSKI MACIEJ                ng.
 DĘBSKI ARTUR                    za    LEWANDOWSKI ANDRZEJ          za        RYBAKOWICZ ADAM                   za
 DOMARACKI MAREK                 za    MAKOWSKI TOMASZ              za        RYFIŃSKI ARMAND KAMIL             za

@@ -40,13 +40,13 @@ CYCOŃ MARIAN                          za    KOŁODZIEJ EWA                     
 CZAPLICKA BARBARA                     za    KONWIŃSKI ZBIGNIEW                    za       PIERZCHAŁA ELŻBIETA APOLONIA       za    WOJNAROWSKI NORBERT             za
 CZECHYRA CZESŁAW                      za    KOPACZ EWA                            za       PIETRASZEWSKA DANUTA               za    WOJTKOWSKI MAREK                za
 CZERNOW ZOFIA                         za    KOPACZEWSKA DOMICELA                  za       PIETRZCZYK LUCJAN MAREK            za    WOLAK EWA                       za
-CZERWIŃSKI ANDRZEJ                    za    KORZENIOWSKI LESZEK                   za       PIĘ TA JAROSŁAW                    za    WÓJCIK MAREK                    za
+CZERWIŃSKI ANDRZEJ                    za    KORZENIOWSKI LESZEK                   za       PIĘTA JAROSŁAW                    za    WÓJCIK MAREK                    za
 DĄBROWSKA ALICJA                      za    KOSECKI ROMAN JACEK                   za       PIOTROWSKA TERESA                  za    ZAREMBA RENATA                  za
 DROZD EWA                             za    KOWALSKI SŁAWOMIR                     za       PITERA JULIA                       za    ZAWADZKI RYSZARD                za
 DUNIN ARTUR                           za    KOZACZYŃSKI JACEK                     za       PLOCKE KAZIMIERZ                   za    ZDROJEWSKI BOGDAN               za
 DURKA ZENON                           za    KOZDROŃ JERZY                         za       PLURA MAREK                        za    ZIELIŃSKI MACIEJ                za
 DZIĘCIOŁ JANUSZ                       za    KOZŁOWSKA IWONA                       za       PLUTA MIROSŁAW                     za    ZIEMNIAK WOJCIECH               za
-DZIKOWSKI WALDY                       za    KOZŁOWSKA-RAJEWICZ AGNIESZKA          za       POMASKA AGNIESZKA                  za    ZIĘ TEK JERZY                   za
+DZIKOWSKI WALDY                       za    KOZŁOWSKA-RAJEWICZ AGNIESZKA          za       POMASKA AGNIESZKA                  za    ZIĘTEK JERZY                   za
 FABISIAK JOANNA                       za    KOŹLAKIEWICZ MIROSŁAW                 za       RACZKOWSKI DAMIAN                  za    ŻALEK JACEK                     za
 FEDOROWICZ JERZY                      za    KRAJEWSKA LIGIA                       za       RADZISZEWSKA ELŻBIETA              za    ŻMIJAN STANISŁAW                za
 FIEDLER ARKADY                        za    KROPIWNICKI ROBERT                    za       RANIEWICZ GRZEGORZ                 za    ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -77,7 +77,7 @@ ANDZEL WALDEMAR                 za   JĘDRYSEK MARIUSZ ORION       za       OSUC
 ARCISZEWSKA-MIELEWCZYK DOROTA   za   JURGIEL KRZYSZTOF            za       OŻÓG STANISŁAW                   za    TERLECKI RYSZARD              za
 ARDANOWSKI JAN KRZYSZTOF        za   KACZMAREK TOMASZ             za       PALUCH ANNA                      za    TOBISZOWSKI GRZEGORZ          za
 ARENT IWONA EWA                 za   KACZYŃSKI JAROSŁAW           za       PAW ŁOWICZ KRYSTYNA              za    TOMASZEWSKI JAN               za
-AST MAREK                       za   KAMIŃSKI MARIUSZ             za       PIĘ TA STANISŁAW                 za    WARZECHA JAN                  za
+AST MAREK                       za   KAMIŃSKI MARIUSZ             za       PIĘTA STANISŁAW                 za    WARZECHA JAN                  za
 BABALSKI ZBIGNIEW               za   KAMIŃSKI MARIUSZ ANTONI      za       PIONTKOWSKI DARIUSZ              za    WASZCZYKOWSKI WITOLD          za
 BABINETZ PIOTR                  za   KLOC IZABELA                 za       PIOTROWICZ STANISŁAW             za    WIPLER PRZEMYSŁAW             za
 BARTUŚ BARBARA                  za   KŁOSOWSKI SŁAWOMIR           za       POLACZEK JERZY                   za    WIŚNIEWSKA JADWIGA            za
@@ -110,7 +110,7 @@ JANCZYK WIESŁAW                 za   NAIMSKI PIOTR                za       SZYS
 
  RP (40)                      GŁOSOWAŁO - 40           ZA - 40    PRZECIW - 0               WSTRZYM. - 0             NIE GŁOS. - 0
 
-BANASZAK MACIEJ                 za   ELSNER WINCENTY              za       KRUPA ŁUKASZ                     za    PIĄ TAK ANDRZEJ               za
+BANASZAK MACIEJ                 za   ELSNER WINCENTY              za       KRUPA ŁUKASZ                     za    PIĄTAK ANDRZEJ               za
 BAUĆ PIOTR PAWEŁ                za   GIBAŁA ŁUKASZ                za       KWIATKOWSKI JACEK                za    POPIOŁEK ZOFIA                za
 BIEDROŃ ROBERT                  za   GÓRCZYŃSKI ARTUR             za       LEWANDOWSKI ANDRZEJ              za    POZNAŃSKI MAREK               za
 BORKOWSKI JERZY                 za   GRODZKA ANNA                 za       MAKOWSKI TOMASZ                  za    ROZENEK ANDRZEJ               za
@@ -156,7 +156,7 @@ KEMPA BEATA                     za   SZELIGA PIOTR                za       ŻACZ
 
  niez. (5)                    GŁOSOWAŁO - 4            ZA - 4     PRZECIW - 0               WSTRZYM. - 0             NIE GŁOS. - 1
 
-BODIO BARTŁ OMIEJ               za   JAGIEŁŁO JAROSŁAW TOMASZ     za       KALISZ RYSZARD                   ng.
+BODIO BARTŁOMIEJ               za   JAGIEŁŁO JAROSŁAW TOMASZ     za       KALISZ RYSZARD                   ng.
 GALLA RYSZARD                   za   NOWICKA WANDA                za
 
 
