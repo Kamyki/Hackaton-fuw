@@ -1,1 +1,1 @@
-# Hackaton---analiza-g-osowa-sejmu
+# Hackaton---analiza-głosowa-sejmu
