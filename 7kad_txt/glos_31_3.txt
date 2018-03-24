@@ -15,7 +15,7 @@
 ADAMCZAK MAŁGORZATA                  za    HALL KATARZYNA                        za       MILLER RAJMUND                   za   SŁUGOCKI WALDEMAR               za
 ARKIT TADEUSZ                        za    HANAJCZYK AGNIESZKA                   za       MIODOWICZ KONSTANTY              za   SMOLARZ TOMASZ                  za
 ARŁUKOWICZ BARTOSZ                   za    HOK MAREK                             za       MROCZEK CZESŁAW                  za   STAROŃ LIDIA                    za
-ARNDT PAWEŁ                          za    HOPPE TERESA                          za       MRZYGŁ OCKA IZABELA KATARZYNA    za   SUCHOWIEJKO WIESŁAW             za
+ARNDT PAWEŁ                          za    HOPPE TERESA                          za       MRZYGŁOCKA IZABELA KATARZYNA    za   SUCHOWIEJKO WIESŁAW             za
 AUGUSTYN URSZULA                     za    HUSKOWSKI STANISŁAW                   za       MUCHA JOANNA                     za   SUSKI PAWEŁ                     za
 AZIEWICZ TADEUSZ                     za    JANYSKA MARIA MAŁGORZATA              za       MUNYAMA KILLION                  za   SYCZ MIRON                      za
 BIERNACKI MAREK                      za    JARMUZIEWICZ TADEUSZ                  za       NEMŚ ANNA                        za   SZCZERBA MICHAŁ                 za
@@ -41,7 +41,7 @@ DĄBROWSKA ALICJA                     za    KOPACZEWSKA DOMICELA                
 DROZD EWA                            za    KORZENIOWSKI LESZEK                   za       PIERZCHAŁA ELŻBIETA APOLONIA     za   WITCZAK MARIUSZ                 za
 DUNIN ARTUR                          za    KOSECKI ROMAN JACEK                   za       PIETRASZEWSKA DANUTA             za   WITKOWSKI RADOSŁAW              za
 DURKA ZENON                          za    KOWALSKI SŁAWOMIR                     za       PIETRZCZYK LUCJAN MAREK          za   WOJTKOWSKI MAREK                za
-DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                     za       PIĘ TA JAROSŁAW                  za   WOLAK EWA                       za
+DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                     za       PIĘTA JAROSŁAW                  za   WOLAK EWA                       za
 FABISIAK JOANNA                      za    KOZDROŃ JERZY                         za       PIOTROWSKA TERESA                za   WÓJCIK MAREK                    za
 FEDOROWICZ JERZY                     za    KOZŁOWSKA IWONA                       za       PITERA JULIA                     za   ZAKRZEWSKA JADWIGA              za
 FIEDLER ARKADY                       za    KOZŁOWSKA-RAJEWICZ AGNIESZKA          za       PLOCKE KAZIMIERZ                 za   ZAREMBA RENATA                  za
@@ -49,7 +49,7 @@ GADOWSKI KRZYSZTOF                   za    KOŹLAKIEWICZ MIROSŁAW              
 GAŁAŻEWSKI ANDRZEJ                   za    KRAJEWSKA LIGIA                       za       PLUTA MIROSŁAW                   za   ZDROJEWSKI BOGDAN               za
 GAPIŃSKA ELŻBIETA                    za    KROPIWNICKI ROBERT                    za       POMASKA AGNIESZKA                za   ZIELIŃSKI MACIEJ                za
 GAW ŁOWSKI STANISŁAW                 za    KRZĄKAŁA MAREK                        za       RACZKOWSKI DAMIAN                za   ZIEMNIAK WOJCIECH               za
-GĄDEK LIDIA                          za    KUCHARSKI CEZARY                      za       RADZISZEWSKA ELŻBIETA            za   ZIĘ TEK JERZY                   za
+GĄDEK LIDIA                          za    KUCHARSKI CEZARY                      za       RADZISZEWSKA ELŻBIETA            za   ZIĘTEK JERZY                   za
 GĄSIOR-MAREK MAGDALENA               za    KUDRYCKA BARBARA                      za       RANIEWICZ GRZEGORZ               za   ŻALEK JACEK                     za
 GELERT ELŻBIETA                      za    KULESZA TOMASZ                        za       RAŚ IRENEUSZ                     za   ŻMIJAN STANISŁAW                za
 GIERADA ARTUR                        za    KWIATKOWSKI KRZYSZTOF                 za       ROSATI DARIUSZ                   za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -80,7 +80,7 @@ ARENT IWONA EWA                 pr.   KACZMAREK TOMASZ            pr.       OŻ�
 AST MAREK                       pr.   KACZYŃSKI JAROSŁAW          pr.       PALUCH ANNA                      pr.   TELUS ROBERT                  pr.
 BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ            pr.       PAW ŁOWICZ KRYSTYNA              pr.   TERLECKI RYSZARD              pr.
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIECHA BOLESŁAW GRZEGORZ         pr.   TOBISZOWSKI GRZEGORZ          pr.
-BARTUŚ BARBARA                  pr.   KLOC IZABELA                pr.       PIĘ TA STANISŁAW                 pr.   TOMASZEWSKI JAN               pr.
+BARTUŚ BARBARA                  pr.   KLOC IZABELA                pr.       PIĘTA STANISŁAW                 pr.   TOMASZEWSKI JAN               pr.
 BĄK DARIUSZ                     pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIONTKOWSKI DARIUSZ              pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BERNACKI W ŁODZIMIERZ           pr.   KOŁAKOWSKI LECH             pr.       POLACZEK JERZY                   pr.   WARZECHA JAN                  pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI ROBERT           pr.       POLAK MAREK                      pr.   WASZCZYKOWSKI WITOLD          pr.
@@ -112,12 +112,12 @@ JACH MICHAŁ                     pr.   MICHAŁKIEWICZ KRZYSZTOF     pr.       SZ
 
 BANASZAK MACIEJ                 pr.   GRODZKA ANNA                pr.       NAJDER JACEK                     pr.   BAUĆ PIOTR PAWEŁ              ng.
 BIEDROŃ ROBERT                  pr.   KĘPIŃSKI ADAM               pr.       NOWICKA WANDA                    pr.   BRAMORA ARTUR                 ng.
-BODIO BARTŁ OMIEJ               pr.   KLEPACZ WITOLD              pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   GIBAŁA ŁUKASZ                 ng.
+BODIO BARTŁOMIEJ               pr.   KLEPACZ WITOLD              pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   GIBAŁA ŁUKASZ                 ng.
 BORKOWSKI JERZY                 pr.   KŁOSOWSKI KRZYSZTOF         pr.       PENKALSKI WOJCIECH               pr.   KABACIŃSKI MICHAŁ             ng.
 CEDZYŃSKI JAN                   pr.   KMIECIK HENRYK              pr.       POPIOŁEK ZOFIA                   pr.   KOTLIŃSKI ROMAN               ng.
 CHMIELOWSKI PIOTR               pr.   KOPYCIŃSKI SŁAWOMIR         pr.       POZNAŃSKI MAREK                  pr.   LEWANDOWSKI ANDRZEJ           ng.
 DĘBSKI ARTUR                    pr.   KRUPA ŁUKASZ                pr.       ROZENEK ANDRZEJ                  pr.   PALIKOT JANUSZ                ng.
-DOMARACKI MAREK                 pr.   KWIATKOWSKI JACEK           pr.       RYFIŃSKI ARMAND KAMIL            pr.   PIĄ TAK ANDRZEJ               ng.
+DOMARACKI MAREK                 pr.   KWIATKOWSKI JACEK           pr.       RYFIŃSKI ARMAND KAMIL            pr.   PIĄTAK ANDRZEJ               ng.
 DZIADZIO DARIUSZ CEZAR          pr.   MAKOWSKI TOMASZ             pr.       STOLARSKI MAREK                  pr.   RYBAKOWICZ ADAM               ng.
 ELSNER WINCENTY                 pr.   MARCINKIEWICZ MAŁGORZATA    pr.       SZYMIEC-RACZYŃSKA HALINA         pr.   SAJAK PAWEŁ                   ng.
 GÓRCZYŃSKI ARTUR                pr.   MROCZEK MACIEJ              pr.       WYDRZYŃSKI MACIEJ                pr.

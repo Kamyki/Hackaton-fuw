@@ -12,7 +12,7 @@
  PO (207)                         GŁOSOWAŁO - 151                ZA - 0            PRZECIW - 151            WSTRZYM. - 0               NIE GŁOS. - 56
 
 ARKIT TADEUSZ                         pr.   JASTRZĘBSKI LESZEK                    pr.       PIETRZCZYK LUCJAN MAREK           pr.   GAW ŁOWSKI STANISŁAW            ng.
-ARNDT PAWEŁ                           pr.   KACZOR ROMAN                          pr.       PIĘ TA JAROSŁAW                   pr.   GĄDEK LIDIA                     ng.
+ARNDT PAWEŁ                           pr.   KACZOR ROMAN                          pr.       PIĘTA JAROSŁAW                   pr.   GĄDEK LIDIA                     ng.
 AUGUSTYN URSZULA                      pr.   KANIA ANDRZEJ                         pr.       PIOTROWSKA TERESA                 pr.   GIBAŁA ŁUKASZ                   ng.
 AZIEWICZ TADEUSZ                      pr.   KATULSKI JAROSŁAW                     pr.       PLURA MAREK                       pr.   GOWIN JAROSŁAW                  ng.
 BIERNACKI MAREK                       pr.   KIDAWA-BŁOŃSKA MAŁGORZATA             pr.       PLUTA MIROSŁAW                    pr.   GRAD ALEKSANDER                 ng.
@@ -43,7 +43,7 @@ DZIĘCIOŁ JANUSZ                       pr.   MĘŻYDŁO ANTONI                 
 DZIKOWSKI WALDY                       pr.   MILLER RAJMUND                        pr.       TOMCZYK CEZARY                    pr.   PITERA JULIA                    ng.
 FEDOROWICZ JERZY                      pr.   MIODOWICZ KONSTANTY                   pr.       TRYBUŚ ALEKSANDRA                 pr.   PLOCKE KAZIMIERZ                ng.
 FIEDLER ARKADY                        pr.   MROCZEK CZESŁAW                       pr.       VAN DER COGHEN PIOTR              pr.   RACZKOWSKI DAMIAN               ng.
-GADOWSKI KRZYSZTOF                    pr.   MRZYGŁ OCKA IZABELA KATARZYNA         pr.       VINCENT-ROSTOWSKI JAN             pr.   RADZISZEWSKA ELŻBIETA           ng.
+GADOWSKI KRZYSZTOF                    pr.   MRZYGŁOCKA IZABELA KATARZYNA         pr.       VINCENT-ROSTOWSKI JAN             pr.   RADZISZEWSKA ELŻBIETA           ng.
 GAŁAŻEWSKI ANDRZEJ                    pr.   MUCHA JOANNA                          pr.       WARDZAŁA ROBERT                   pr.   ROSATI DARIUSZ                  ng.
 GAPIŃSKA ELŻBIETA                     pr.   MUNYAMA KILLION                       pr.       WIELICHOWSKA MONIKA               pr.   RUTKOWSKA DOROTA                ng.
 GĄSIOR-MAREK MAGDALENA                pr.   NEMŚ ANNA                             pr.       WITCZAK MARIUSZ                   pr.   SIKORSKI RADOSŁAW               ng.
@@ -55,7 +55,7 @@ GODSON JOHN ABRAHAM                   pr.   NOWAK TOMASZ PIOTR                  
 GRABARCZYK CEZARY                     pr.   OLECHOWSKA ALICJA                     pr.       ZAWADZKI RYSZARD                  pr.   ŚLEDZIŃSKA-KATARASIŃSKA IWONA   ng.
 GRAD MARIUSZ                          pr.   OLSZEWSKI PAWEŁ                       pr.       ZIELIŃSKI MACIEJ                  pr.   TOMCZAK JACEK                   ng.
 GRUPIŃSKI RAFAŁ                       pr.   ORZECHOWSKI ANDRZEJ                   pr.       ZIEMNIAK WOJCIECH                 pr.   TOMCZYKIEWICZ TOMASZ            ng.
-GUZOWSKA IWONA                        pr.   ORZECHOWSKI MACIEJ                    pr.       ZIĘ TEK JERZY                     pr.   TUSK DONALD                     ng.
+GUZOWSKA IWONA                        pr.   ORZECHOWSKI MACIEJ                    pr.       ZIĘTEK JERZY                     pr.   TUSK DONALD                     ng.
 HALL KATARZYNA                        pr.   OŚWIĘCIMSKI KONSTANTY                 pr.       ŻMIJAN STANISŁAW                  pr.   TYSZKIEWICZ ROBERT              ng.
 HANAJCZYK AGNIESZKA                   pr.   PACELT ZBIGNIEW                       pr.       ŻMUDA-TRZEBIATOWSKA EWA           pr.   WOJNAROWSKI NORBERT             ng.
 HOK MAREK                             pr.   PAHL WITOLD                           pr.       ADAMCZAK MAŁGORZATA               ng.   WOLAK EWA                       ng.
@@ -103,17 +103,17 @@ JASIŃSKI WOJCIECH               za    OŻÓG STANISŁAW               za       
 JAWORSKI ANDRZEJ                za    PALUCH ANNA                  za        WARZECHA JAN                     za    SPRAWKA LECH                 ng.
 JURGIEL KRZYSZTOF               za    PAW ŁOWICZ KRYSTYNA          za        WASZCZYKOWSKI WITOLD             za    STRZAŁKOWSKI STEFAN          ng.
 KACZYŃSKI JAROSŁAW              za    PIECHA BOLESŁAW GRZEGORZ     za        WIPLER PRZEMYSŁAW                za    WOJTKIEWICZ MICHAŁ           ng.
-KLOC IZABELA                    za    PIĘ TA STANISŁAW             za        WIŚNIEWSKA JADWIGA               za    ZBONIKOWSKI ŁUKASZ           ng.
+KLOC IZABELA                    za    PIĘTA STANISŁAW             za        WIŚNIEWSKA JADWIGA               za    ZBONIKOWSKI ŁUKASZ           ng.
 
 
  RP (41)                      GŁOSOWAŁO - 34            ZA - 30    PRZECIW - 0                WSTRZYM. - 4             NIE GŁOS. - 7
 
 BANASZAK MACIEJ                 za    KABACIŃSKI MICHAŁ            za        PACHOLSKI MICHAŁ TOMASZ          za    PALIKOT JANUSZ               ws.
 BAUĆ PIOTR PAWEŁ                za    KĘPIŃSKI ADAM                za        POPIOŁEK ZOFIA                   za    BIEDROŃ ROBERT               ng.
-BRAMORA ARTUR                   za    KŁOSOWSKI KRZYSZTOF          za        POZNAŃSKI MAREK                  za    BODIO BARTŁ OMIEJ            ng.
+BRAMORA ARTUR                   za    KŁOSOWSKI KRZYSZTOF          za        POZNAŃSKI MAREK                  za    BODIO BARTŁOMIEJ            ng.
 CEDZYŃSKI JAN                   za    KMIECIK HENRYK               za        RYBAKOWICZ ADAM                  za    KOTLIŃSKI ROMAN              ng.
 CHMIELOWSKI PIOTR               za    KRUPA ŁUKASZ                 za        SAJAK PAWEŁ                      za    PENKALSKI WOJCIECH           ng.
-DĘBSKI ARTUR                    za    KWIATKOWSKI JACEK            za        STOLARSKI MAREK                  za    PIĄ TAK ANDRZEJ              ng.
+DĘBSKI ARTUR                    za    KWIATKOWSKI JACEK            za        STOLARSKI MAREK                  za    PIĄTAK ANDRZEJ              ng.
 DOMARACKI MAREK                 za    LEWANDOWSKI ANDRZEJ          za        SZYMIEC-RACZYŃSKA HALINA         za    ROZENEK ANDRZEJ              ng.
 DZIADZIO DARIUSZ CEZAR          za    MAKOWSKI TOMASZ              za        WYDRZYŃSKI MACIEJ                za    RYFIŃSKI ARMAND KAMIL        ng.
 ELSNER WINCENTY                 za    MARCINKIEWICZ MAŁGORZATA     za        BORKOWSKI JERZY                  ws.

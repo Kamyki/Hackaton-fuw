@@ -12,7 +12,7 @@
 
  PO (206)                         GŁOSOWAŁO - 187                ZA - 0            PRZECIW - 187              WSTRZYM. - 0             NIE GŁOS. - 19
 
-ACHINGER ELŻBIETA                     pr.   GUT-MOSTOWY ANDRZEJ                    pr.       MRZYGŁ OCKA IZABELA KATARZYNA    pr.   SZUMILAS KRYSTYNA               pr.
+ACHINGER ELŻBIETA                     pr.   GUT-MOSTOWY ANDRZEJ                    pr.       MRZYGŁOCKA IZABELA KATARZYNA    pr.   SZUMILAS KRYSTYNA               pr.
 ADAMCZAK MAŁGORZATA                   pr.   GUZOWSKA IWONA                         pr.       MUCHA JOANNA                     pr.   SZYDŁOWSKA BOŻENA               pr.
 ARKIT TADEUSZ                         pr.   HALICKI ANDRZEJ                        pr.       MUNYAMA KILLION                  pr.   SZYMAŃSKI TOMASZ                pr.
 ARŁUKOWICZ BARTOSZ                    pr.   HALL KATARZYNA                         pr.       NEMŚ ANNA                        pr.   ŚLEDZIŃSKA-KATARASIŃSKA IWONA   pr.
@@ -34,12 +34,12 @@ BUŁA ANDRZEJ                          pr.   KIERWIŃSKI MARCIN                 
 BUTRYN RENATA                         pr.   KŁOSIN KRYSTYNA                        pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WOLAK EWA                       pr.
 CHARŁAMPOWICZ JAROSŁAW                pr.   KOCHAN MAGDALENA                       pr.       PIETRASZEWSKA DANUTA             pr.   WÓJCIK MAREK                    pr.
 CICHOŃ JANUSZ                         pr.   KOŁACZ-LESZCZYŃSKA AGNIESZKA           pr.       PIETRZCZYK LUCJAN MAREK          pr.   ZAKRZEWSKA JADWIGA              pr.
-CIEŚLIŃSKI PIOTR                      pr.   KOŁODZIEJ EWA                          pr.       PIĘ TA JAROSŁAW                  pr.   ZAREMBA RENATA                  pr.
+CIEŚLIŃSKI PIOTR                      pr.   KOŁODZIEJ EWA                          pr.       PIĘTA JAROSŁAW                  pr.   ZAREMBA RENATA                  pr.
 CYCOŃ MARIAN                          pr.   KONWIŃSKI ZBIGNIEW                     pr.       PIOTROWSKA TERESA                pr.   ZAWADZKI RYSZARD                pr.
 CZAPLICKA BARBARA                     pr.   KOPACZ EWA                             pr.       PITERA JULIA                     pr.   ZDROJEWSKI BOGDAN               pr.
 CZECHYRA CZESŁAW                      pr.   KOPACZEWSKA DOMICELA                   pr.       PLOCKE KAZIMIERZ                 pr.   ZIELIŃSKI MACIEJ                pr.
 CZERNOW ZOFIA                         pr.   KOSECKI ROMAN JACEK                    pr.       PLURA MAREK                      pr.   ZIEMNIAK WOJCIECH               pr.
-CZERWIŃSKI ANDRZEJ                    pr.   KOWALSKI SŁAWOMIR                      pr.       PLUTA MIROSŁAW                   pr.   ZIĘ TEK JERZY                   pr.
+CZERWIŃSKI ANDRZEJ                    pr.   KOWALSKI SŁAWOMIR                      pr.       PLUTA MIROSŁAW                   pr.   ZIĘTEK JERZY                   pr.
 DĄBROWSKA ALICJA                      pr.   KOZACZYŃSKI JACEK                      pr.       POMASKA AGNIESZKA                pr.   ŻALEK JACEK                     pr.
 DROZD EWA                             pr.   KOZDROŃ JERZY                          pr.       POŚLEDNIA KRYSTYNA               pr.   ŻMIJAN STANISŁAW                pr.
 DUNIN ARTUR                           pr.   KOZŁOWSKA IWONA                        pr.       RACZKOWSKI DAMIAN                pr.   ŻYLIŃSKI ADAM                   pr.
@@ -104,7 +104,7 @@ JACH MICHAŁ                     za    NAIMSKI PIOTR                 za        T
 JACKIEWICZ DAWID                za    OPIOŁA MAREK                  za        TOMASZEWSKI JAN                    za    WARZECHA JAN                    ng.
 JANCZYK WIESŁAW                 za    PALUCH ANNA                   za        UJAZDOWSKI KAZIMIERZ MICHAŁ        za    WIPLER PRZEMYSŁAW               ng.
 JANIK GRZEGORZ                  za    PAW ŁOWICZ KRYSTYNA           za        WASZCZYKOWSKI WITOLD               za    ZBONIKOWSKI ŁUKASZ              ng.
-JASIŃSKI WOJCIECH               za    PIĘ TA STANISŁAW              za        WIŚNIEWSKA JADWIGA                 za
+JASIŃSKI WOJCIECH               za    PIĘTA STANISŁAW              za        WIŚNIEWSKA JADWIGA                 za
 JAWORSKI ANDRZEJ                za    PIONTKOWSKI DARIUSZ           za        WITEK ELŻBIETA                     za
 
 
@@ -114,7 +114,7 @@ BANASZAK MACIEJ                 za    GIBAŁA ŁUKASZ                 za        
 BAUĆ PIOTR PAWEŁ                za    GÓRCZYŃSKI ARTUR              za        NAJDER JACEK                       za    GRODZKA ANNA                    ng.
 BIEDROŃ ROBERT                  za    KABACIŃSKI MICHAŁ             za        PACHOLSKI MICHAŁ TOMASZ            za    KLEPACZ WITOLD                  ng.
 BORKOWSKI JERZY                 za    KŁOSOWSKI KRZYSZTOF           za        PENKALSKI WOJCIECH                 za    KMIECIK HENRYK                  ng.
-BRAMORA ARTUR                   za    KOPYCIŃSKI SŁAWOMIR           za        PIĄ TAK ANDRZEJ                    za    KOTLIŃSKI ROMAN                 ng.
+BRAMORA ARTUR                   za    KOPYCIŃSKI SŁAWOMIR           za        PIĄTAK ANDRZEJ                    za    KOTLIŃSKI ROMAN                 ng.
 CEDZYŃSKI JAN                   za    KRUPA ŁUKASZ                  za        POPIOŁEK ZOFIA                     za    PALIKOT JANUSZ                  ng.
 DĘBSKI ARTUR                    za    KWIATKOWSKI JACEK             za        POZNAŃSKI MAREK                    za    ROZENEK ANDRZEJ                 ng.
 DOMARACKI MAREK                 za    LEWANDOWSKI ANDRZEJ           za        STOLARSKI MAREK                    za    RYBAKOWICZ ADAM                 ng.
@@ -156,7 +156,7 @@ JAKI PATRYK                     za    SIARKA EDWARD                 za        ZI
 
  niez. (5)                    GŁOSOWAŁO - 5              ZA - 2     PRZECIW - 2                   WSTRZYM. - 1            NIE GŁOS. - 0
 
-JAGIEŁŁO JAROSŁAW TOMASZ        za    GALLA RYSZARD                 pr.       BODIO BARTŁ OMIEJ                  ws.
+JAGIEŁŁO JAROSŁAW TOMASZ        za    GALLA RYSZARD                 pr.       BODIO BARTŁOMIEJ                  ws.
 NOWICKA WANDA                   za    KALISZ RYSZARD                pr.
 
 

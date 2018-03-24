@@ -23,9 +23,9 @@ BOBOWSKA JOANNA                       pr.   KAŹMIERCZAK JAN                    
 BOROWCZAK JERZY                       pr.   KIDAWA-BŁOŃSKA MAŁGORZATA             pr.       PIECHOTA SŁAWOMIR JAN            pr.   ZAKRZEWSKA JADWIGA             pr.
 BOROWIAK ŁUKASZ                       pr.   KIERWIŃSKI MARCIN                     pr.       PIETRASZEWSKA DANUTA             pr.   ZAREMBA RENATA                 pr.
 BREJZA KRZYSZTOF                      pr.   KŁOSIN KRYSTYNA                       pr.       PIETRZCZYK LUCJAN MAREK          pr.   ZAWADZKI RYSZARD               pr.
-BRZEZINKA JACEK                       pr.   KOCHAN MAGDALENA                      pr.       PIĘ TA JAROSŁAW                  pr.   ZIELIŃSKI MACIEJ               pr.
+BRZEZINKA JACEK                       pr.   KOCHAN MAGDALENA                      pr.       PIĘTA JAROSŁAW                  pr.   ZIELIŃSKI MACIEJ               pr.
 BUDKA BORYS                           pr.   KOLENDA-ŁABUŚ BRYGIDA                 pr.       PIOTROWSKA TERESA                pr.   ZIEMNIAK WOJCIECH              pr.
-BUDNIK JERZY                          pr.   KOŁACZ-LESZCZYŃSKA AGNIESZKA          pr.       PITERA JULIA                     pr.   ZIĘ TEK JERZY                  pr.
+BUDNIK JERZY                          pr.   KOŁACZ-LESZCZYŃSKA AGNIESZKA          pr.       PITERA JULIA                     pr.   ZIĘTEK JERZY                  pr.
 BUŁA ANDRZEJ                          pr.   KOŁODZIEJ EWA                         pr.       PLOCKE KAZIMIERZ                 pr.   ŻALEK JACEK                    pr.
 BUTRYN RENATA                         pr.   KONWIŃSKI ZBIGNIEW                    pr.       PLUTA MIROSŁAW                   pr.   ŻMIJAN STANISŁAW               pr.
 CHARŁAMPOWICZ JAROSŁAW                pr.   KOPACZ EWA                            pr.       POMASKA AGNIESZKA                pr.   ŻMUDA-TRZEBIATOWSKA EWA        pr.
@@ -52,7 +52,7 @@ GĄDEK LIDIA                           pr.   MATUSIK-LIPIEC KATARZYNA           
 GĄSIOR-MAREK MAGDALENA                pr.   MĘŻYDŁO ANTONI                        pr.       SZCZERBA MICHAŁ                  pr.   MROCZEK CZESŁAW                ng.
 GIBAŁA ŁUKASZ                         pr.   MILLER RAJMUND                        pr.       SZEJNFELD ADAM                   pr.   MUCHA JOANNA                   ng.
 GIERADA ARTUR                         pr.   MIODOWICZ KONSTANTY                   pr.       SZTOLCMAN GRZEGORZ               pr.   NOWAK SŁAWOMIR                 ng.
-GLUZA CZESŁAW                         pr.   MRZYGŁ OCKA IZABELA KATARZYNA         pr.       SZULC JAKUB                      pr.   PIERZCHAŁA ELŻBIETA APOLONIA   ng.
+GLUZA CZESŁAW                         pr.   MRZYGŁOCKA IZABELA KATARZYNA         pr.       SZULC JAKUB                      pr.   PIERZCHAŁA ELŻBIETA APOLONIA   ng.
 GODSON JOHN ABRAHAM                   pr.   MUNYAMA KILLION                       pr.       SZYDŁOWSKA BOŻENA                pr.   PLURA MAREK                    ng.
 GRABARCZYK CEZARY                     pr.   NEMŚ ANNA                             pr.       SZYMAŃSKI TOMASZ                 pr.   RADZISZEWSKA ELŻBIETA          ng.
 GRAD ALEKSANDER                       pr.   NEUMANN SŁAWOMIR                      pr.       ŚLEDZIŃSKA-KATARASIŃSKA IWONA    pr.   RANIEWICZ GRZEGORZ             ng.
@@ -71,7 +71,7 @@ HOK MAREK                             pr.   OKRĄGŁY JANINA                    
  PiS (136)                    GŁOSOWAŁO - 116           ZA - 116   PRZECIW - 0                WSTRZYM. - 0             NIE GŁOS. - 20
 
 ABRAMOWICZ ADAM                 za    KACZYŃSKI JAROSŁAW           za        PIECHA BOLESŁAW GRZEGORZ         za    WARZECHA JAN                    za
-ADAMCZYK ANDRZEJ                za    KAMIŃSKI MARIUSZ             za        PIĘ TA STANISŁAW                 za    WASZCZYKOWSKI WITOLD            za
+ADAMCZYK ANDRZEJ                za    KAMIŃSKI MARIUSZ             za        PIĘTA STANISŁAW                 za    WASZCZYKOWSKI WITOLD            za
 ANDZEL WALDEMAR                 za    KAMIŃSKI MARIUSZ ANTONI      za        PIONTKOWSKI DARIUSZ              za    WIPLER PRZEMYSŁAW               za
 ARDANOWSKI JAN KRZYSZTOF        za    KŁOSOWSKI SŁAWOMIR           za        PIOTROWICZ STANISŁAW             za    WIŚNIEWSKA JADWIGA              za
 ARENT IWONA EWA                 za    KOŁAKOWSKI LECH              za        POLACZEK JERZY                   za    WITEK ELŻBIETA                  za
@@ -111,11 +111,11 @@ KACZMAREK TOMASZ                za    PAW ŁOWICZ KRYSTYNA          za        TO
 BANASZAK MACIEJ                 za    ELSNER WINCENTY              za        MAKOWSKI TOMASZ                  za    RYBAKOWICZ ADAM                 za
 BAUĆ PIOTR PAWEŁ                za    GÓRCZYŃSKI ARTUR             za        MARCINKIEWICZ MAŁGORZATA         za    RYFIŃSKI ARMAND KAMIL           za
 BIEDROŃ ROBERT                  za    GRODZKA ANNA                 za        MROCZEK MACIEJ                   za    SAJAK PAWEŁ                     za
-BODIO BARTŁ OMIEJ               za    KABACIŃSKI MICHAŁ            za        NOWICKA WANDA                    za    STOLARSKI MAREK                 za
+BODIO BARTŁOMIEJ               za    KABACIŃSKI MICHAŁ            za        NOWICKA WANDA                    za    STOLARSKI MAREK                 za
 BORKOWSKI JERZY                 za    KĘPIŃSKI ADAM                za        PACHOLSKI MICHAŁ TOMASZ          za    SZYMIEC-RACZYŃSKA HALINA        za
 BRAMORA ARTUR                   za    KŁOSOWSKI KRZYSZTOF          za        PALIKOT JANUSZ                   za    WYDRZYŃSKI MACIEJ               za
 CEDZYŃSKI JAN                   za    KMIECIK HENRYK               za        PENKALSKI WOJCIECH               za    KRUPA ŁUKASZ                    ng.
-CHMIELOWSKI PIOTR               za    KOPYCIŃSKI SŁAWOMIR          za        PIĄ TAK ANDRZEJ                  za    NAJDER JACEK                    ng.
+CHMIELOWSKI PIOTR               za    KOPYCIŃSKI SŁAWOMIR          za        PIĄTAK ANDRZEJ                  za    NAJDER JACEK                    ng.
 DĘBSKI ARTUR                    za    KOTLIŃSKI ROMAN              za        POPIOŁEK ZOFIA                   za
 DOMARACKI MAREK                 za    KWIATKOWSKI JACEK            za        POZNAŃSKI MAREK                  za
 DZIADZIO DARIUSZ CEZAR          za    LEWANDOWSKI ANDRZEJ          za        ROZENEK ANDRZEJ                  za

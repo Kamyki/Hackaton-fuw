@@ -21,9 +21,9 @@ BIERNAT ANDRZEJ                       pr.   KLUZIK-ROSTKOWSKA JOANNA            
 BLANIK LESZEK                         pr.   KŁOSIN KRYSTYNA                       pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   ZAKRZEWSKA JADWIGA         pr.
 BOBOWSKA JOANNA                       pr.   KOCHAN MAGDALENA                      pr.       PIETRASZEWSKA DANUTA             pr.   ZAREMBA RENATA             pr.
 BRZEZINKA JACEK                       pr.   KOLENDA-ŁABUŚ BRYGIDA                 pr.       PIETRZCZYK LUCJAN MAREK          pr.   ZAWADZKI RYSZARD           pr.
-BUDNIK JERZY                          pr.   KOŁACZ-LESZCZYŃSKA AGNIESZKA          pr.       PIĘ TA JAROSŁAW                  pr.   ZIELIŃSKI MACIEJ           pr.
+BUDNIK JERZY                          pr.   KOŁACZ-LESZCZYŃSKA AGNIESZKA          pr.       PIĘTA JAROSŁAW                  pr.   ZIELIŃSKI MACIEJ           pr.
 BUŁA ANDRZEJ                          pr.   KOŁODZIEJ EWA                         pr.       PIOTROWSKA TERESA                pr.   ZIEMNIAK WOJCIECH          pr.
-BUTRYN RENATA                         pr.   KOPACZ EWA                            pr.       PITERA JULIA                     pr.   ZIĘ TEK JERZY              pr.
+BUTRYN RENATA                         pr.   KOPACZ EWA                            pr.       PITERA JULIA                     pr.   ZIĘTEK JERZY              pr.
 CHARŁAMPOWICZ JAROSŁAW                pr.   KOPACZEWSKA DOMICELA                  pr.       PLOCKE KAZIMIERZ                 pr.   ŻMIJAN STANISŁAW           pr.
 CICHOŃ JANUSZ                         pr.   KOSECKI ROMAN JACEK                   pr.       PLUTA MIROSŁAW                   pr.   ŻMUDA-TRZEBIATOWSKA EWA    pr.
 CIEŚLIŃSKI PIOTR                      pr.   KOWALSKI SŁAWOMIR                     pr.       POMASKA AGNIESZKA                pr.   BOROWIAK ŁUKASZ            ws.
@@ -49,7 +49,7 @@ GIERADA ARTUR                         pr.   MAŁECKA-LIBERA BEATA               
 GLUZA CZESŁAW                         pr.   MARCZUŁAJTIS-WALCZAK JAGNA            pr.       SYCZ MIRON                       pr.   MATUSIK-LIPIEC KATARZYNA   ng.
 GŁOGOWSKI TOMASZ                      pr.   MIODOWICZ KONSTANTY                   pr.       SZCZERBA MICHAŁ                  pr.   MĘŻYDŁO ANTONI             ng.
 GODSON JOHN ABRAHAM                   pr.   MROCZEK CZESŁAW                       pr.       SZEJNFELD ADAM                   pr.   MILLER RAJMUND             ng.
-GRABARCZYK CEZARY                     pr.   MRZYGŁ OCKA IZABELA KATARZYNA         pr.       SZTOLCMAN GRZEGORZ               pr.   NIEMCZYK MAŁGORZATA        ng.
+GRABARCZYK CEZARY                     pr.   MRZYGŁOCKA IZABELA KATARZYNA         pr.       SZTOLCMAN GRZEGORZ               pr.   NIEMCZYK MAŁGORZATA        ng.
 GRAD ALEKSANDER                       pr.   MUCHA JOANNA                          pr.       SZULC JAKUB                      pr.   PAPKE PAWEŁ                ng.
 GRAŚ PAWEŁ                            pr.   MUNYAMA KILLION                       pr.       SZUMILAS KRYSTYNA                pr.   PLURA MAREK                ng.
 GRUPIŃSKI RAFAŁ                       pr.   NEMŚ ANNA                             pr.       SZYDŁOWSKA BOŻENA                pr.   RACZKOWSKI DAMIAN          ng.
@@ -75,7 +75,7 @@ ADAMCZYK ANDRZEJ                za    JANCZYK WIESŁAW STANISŁAW    za        O
 ANDZEL WALDEMAR                 za    JASIŃSKI WOJCIECH            za        PALUCH ANNA                      za    TOBISZOWSKI GRZEGORZ            za
 ARDANOWSKI JAN KRZYSZTOF        za    JAWORSKI ANDRZEJ             za        PAW ŁOWICZ KRYSTYNA              za    WARZECHA JAN                    za
 ARENT IWONA EWA                 za    JURGIEL KRZYSZTOF            za        PIECHA BOLESŁAW GRZEGORZ         za    WASZCZYKOWSKI WITOLD            za
-AST MAREK                       za    KACZMAREK TOMASZ             za        PIĘ TA STANISŁAW                 za    WIPLER PRZEMYSŁAW               za
+AST MAREK                       za    KACZMAREK TOMASZ             za        PIĘTA STANISŁAW                 za    WIPLER PRZEMYSŁAW               za
 BABINETZ PIOTR                  za    KACZYŃSKI JAROSŁAW           za        PIONTKOWSKI DARIUSZ              za    WIŚNIEWSKA JADWIGA              za
 BARTUŚ BARBARA                  za    KAMIŃSKI MARIUSZ             za        PIOTROWICZ STANISŁAW             za    WITEK ELŻBIETA                  za
 BĄK DARIUSZ                     za    KAMIŃSKI MARIUSZ ANTONI      za        POLACZEK JERZY                   za    WOJTKIEWICZ MICHAŁ              za
@@ -108,14 +108,14 @@ JACH MICHAŁ                     za    NAIMSKI PIOTR                za        Ś
 
  RP (41)                      GŁOSOWAŁO - 39            ZA - 1     PRZECIW - 38               WSTRZYM. - 0             NIE GŁOS. - 2
 
-BODIO BARTŁ OMIEJ               za    ELSNER WINCENTY              pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM                 pr.
+BODIO BARTŁOMIEJ               za    ELSNER WINCENTY              pr.       MAKOWSKI TOMASZ                  pr.   RYBAKOWICZ ADAM                 pr.
 BANASZAK MACIEJ                 pr.   GÓRCZYŃSKI ARTUR             pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYFIŃSKI ARMAND KAMIL           pr.
 BAUĆ PIOTR PAWEŁ                pr.   GRODZKA ANNA                 pr.       MROCZEK MACIEJ                   pr.   SAJAK PAWEŁ                     pr.
 BIEDROŃ ROBERT                  pr.   KABACIŃSKI MICHAŁ            pr.       NAJDER JACEK                     pr.   STOLARSKI MAREK                 pr.
 BORKOWSKI JERZY                 pr.   KĘPIŃSKI ADAM                pr.       NOWICKA WANDA                    pr.   SZYMIEC-RACZYŃSKA HALINA        pr.
 BRAMORA ARTUR                   pr.   KŁOSOWSKI KRZYSZTOF          pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ               pr.
 CEDZYŃSKI JAN                   pr.   KMIECIK HENRYK               pr.       PALIKOT JANUSZ                   pr.   KWIATKOWSKI JACEK               ng.
-CHMIELOWSKI PIOTR               pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PENKALSKI WOJCIECH               pr.   PIĄ TAK ANDRZEJ                 ng.
+CHMIELOWSKI PIOTR               pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PENKALSKI WOJCIECH               pr.   PIĄTAK ANDRZEJ                 ng.
 DĘBSKI ARTUR                    pr.   KOTLIŃSKI ROMAN              pr.       POPIOŁEK ZOFIA                   pr.
 DOMARACKI MAREK                 pr.   KRUPA ŁUKASZ                 pr.       POZNAŃSKI MAREK                  pr.
 DZIADZIO DARIUSZ CEZAR          pr.   LEWANDOWSKI ANDRZEJ          pr.       ROZENEK ANDRZEJ                  pr.

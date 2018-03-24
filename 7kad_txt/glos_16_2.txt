@@ -14,7 +14,7 @@
 ADAMCZAK MAŁGORZATA                   pr.   GUT-MOSTOWY ANDRZEJ                   pr.       MILLER RAJMUND                    pr.   SUCHOWIEJKO WIESŁAW                       pr.
 ARKIT TADEUSZ                         pr.   GUZOWSKA IWONA                        pr.       MIODOWICZ KONSTANTY               pr.   SUSKI PAWEŁ                               pr.
 ARŁUKOWICZ BARTOSZ                    pr.   HALICKI ANDRZEJ                       pr.       MROCZEK CZESŁAW                   pr.   SYCZ MIRON                                pr.
-ARNDT PAWEŁ                           pr.   HANAJCZYK AGNIESZKA                   pr.       MRZYGŁ OCKA IZABELA KATARZYNA     pr.   SZCZERBA MICHAŁ                           pr.
+ARNDT PAWEŁ                           pr.   HANAJCZYK AGNIESZKA                   pr.       MRZYGŁOCKA IZABELA KATARZYNA     pr.   SZCZERBA MICHAŁ                           pr.
 AUGUSTYN URSZULA                      pr.   HOK MAREK                             pr.       MUCHA JOANNA                      pr.   SZEJNFELD ADAM                            pr.
 AZIEWICZ TADEUSZ                      pr.   HOPPE TERESA                          pr.       MUNYAMA KILLION                   pr.   SZTOLCMAN GRZEGORZ                        pr.
 BIERNACKI MAREK                       pr.   HUSKOWSKI STANISŁAW                   pr.       NEMŚ ANNA                         pr.   SZULC JAKUB                               pr.
@@ -38,12 +38,12 @@ CZAPLICKA BARBARA                     pr.   KOŁACZ-LESZCZYŃSKA AGNIESZKA      
 CZECHYRA CZESŁAW                      pr.   KOŁODZIEJ EWA                         pr.       PIECHOTA SŁAWOMIR JAN             pr.   WITKOWSKI RADOSŁAW                        pr.
 CZERNOW ZOFIA                         pr.   KONWIŃSKI ZBIGNIEW                    pr.       PIETRASZEWSKA DANUTA              pr.   WOJNAROWSKI NORBERT                       pr.
 CZERWIŃSKI ANDRZEJ                    pr.   KOPACZ EWA                            pr.       PIETRZCZYK LUCJAN MAREK           pr.   WOJTKOWSKI MAREK                          pr.
-DĄBROWSKA ALICJA                      pr.   KOPACZEWSKA DOMICELA                  pr.       PIĘ TA JAROSŁAW                   pr.   WOLAK EWA                                 pr.
+DĄBROWSKA ALICJA                      pr.   KOPACZEWSKA DOMICELA                  pr.       PIĘTA JAROSŁAW                   pr.   WOLAK EWA                                 pr.
 DROZD EWA                             pr.   KORZENIOWSKI LESZEK                   pr.       PIOTROWSKA TERESA                 pr.   WÓJCIK MAREK                              pr.
 DURKA ZENON                           pr.   KOSECKI ROMAN JACEK                   pr.       PITERA JULIA                      pr.   ZAREMBA RENATA                            pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOWALSKI SŁAWOMIR                     pr.       PLOCKE KAZIMIERZ                  pr.   ZAWADZKI RYSZARD                          pr.
 DZIKOWSKI WALDY                       pr.   KOZACZYŃSKI JACEK                     pr.       PLURA MAREK                       pr.   ZIELIŃSKI MACIEJ                          pr.
-FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PLUTA MIROSŁAW                    pr.   ZIĘ TEK JERZY                             pr.
+FABISIAK JOANNA                       pr.   KOZDROŃ JERZY                         pr.       PLUTA MIROSŁAW                    pr.   ZIĘTEK JERZY                             pr.
 FEDOROWICZ JERZY                      pr.   KOZŁOWSKA IWONA                       pr.       POMASKA AGNIESZKA                 pr.   ŻALEK JACEK                               pr.
 FIEDLER ARKADY                        pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA          pr.       RACZKOWSKI DAMIAN                 pr.   ŻMIJAN STANISŁAW                          pr.
 GADOWSKI KRZYSZTOF                    pr.   KOŹLAKIEWICZ MIROSŁAW                 pr.       RADZISZEWSKA ELŻBIETA             pr.   ŻMUDA-TRZEBIATOWSKA EWA                   pr.
@@ -78,7 +78,7 @@ ARDANOWSKI JAN KRZYSZTOF        za    JURGIEL KRZYSZTOF            za        OŻ
 ARENT IWONA EWA                 za    KACZMAREK TOMASZ             za        PALUCH ANNA                      za    TCHÓRZEWSKI KRZYSZTOF            za
 AST MAREK                       za    KAMIŃSKI MARIUSZ             za        PAW ŁOWICZ KRYSTYNA              za    TELUS ROBERT                     za
 BABALSKI ZBIGNIEW               za    KAMIŃSKI MARIUSZ ANTONI      za        PIECHA BOLESŁAW GRZEGORZ         za    TOBISZOWSKI GRZEGORZ             za
-BABINETZ PIOTR                  za    KLOC IZABELA                 za        PIĘ TA STANISŁAW                 za    TOMASZEWSKI JAN                  za
+BABINETZ PIOTR                  za    KLOC IZABELA                 za        PIĘTA STANISŁAW                 za    TOMASZEWSKI JAN                  za
 BARTUŚ BARBARA                  za    KŁOSOWSKI SŁAWOMIR           za        PIONTKOWSKI DARIUSZ              za    UJAZDOWSKI KAZIMIERZ MICHAŁ      za
 BĄK DARIUSZ                     za    KOŁAKOWSKI LECH              za        PIOTROWICZ STANISŁAW             za    WARZECHA JAN                     za
 BERNACKI W ŁODZIMIERZ           za    KOŁAKOWSKI ROBERT            za        POLACZEK JERZY                   za    WASZCZYKOWSKI WITOLD             za
@@ -112,9 +112,9 @@ BANASZAK MACIEJ                 ws.   GÓRCZYŃSKI ARTUR             ws.       M
 BAUĆ PIOTR PAWEŁ                ws.   KABACIŃSKI MICHAŁ            ws.       MROCZEK MACIEJ                   ws.   SZYMIEC-RACZYŃSKA HALINA         ws.
 BORKOWSKI JERZY                 ws.   KĘPIŃSKI ADAM                ws.       NAJDER JACEK                     ws.   WYDRZYŃSKI MACIEJ                ws.
 BRAMORA ARTUR                   ws.   KLEPACZ WITOLD               ws.       NOWICKA WANDA                    ws.   BIEDROŃ ROBERT                   ng.
-CEDZYŃSKI JAN                   ws.   KŁOSOWSKI KRZYSZTOF          ws.       PACHOLSKI MICHAŁ TOMASZ          ws.   BODIO BARTŁ OMIEJ                ng.
+CEDZYŃSKI JAN                   ws.   KŁOSOWSKI KRZYSZTOF          ws.       PACHOLSKI MICHAŁ TOMASZ          ws.   BODIO BARTŁOMIEJ                ng.
 CHMIELOWSKI PIOTR               ws.   KMIECIK HENRYK               ws.       PENKALSKI WOJCIECH               ws.   GRODZKA ANNA                     ng.
-DĘBSKI ARTUR                    ws.   KOPYCIŃSKI SŁAWOMIR          ws.       PIĄ TAK ANDRZEJ                  ws.   KRUPA ŁUKASZ                     ng.
+DĘBSKI ARTUR                    ws.   KOPYCIŃSKI SŁAWOMIR          ws.       PIĄTAK ANDRZEJ                  ws.   KRUPA ŁUKASZ                     ng.
 DOMARACKI MAREK                 ws.   KOTLIŃSKI ROMAN              ws.       POPIOŁEK ZOFIA                   ws.   PALIKOT JANUSZ                   ng.
 DZIADZIO DARIUSZ CEZAR          ws.   KWIATKOWSKI JACEK            ws.       POZNAŃSKI MAREK                  ws.   RYBAKOWICZ ADAM                  ng.
 ELSNER WINCENTY                 ws.   LEWANDOWSKI ANDRZEJ          ws.       ROZENEK ANDRZEJ                  ws.   STOLARSKI MAREK                  ng.

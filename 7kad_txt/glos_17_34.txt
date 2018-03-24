@@ -17,7 +17,7 @@ ARŁUKOWICZ BARTOSZ                   za    HALICKI ANDRZEJ                     
 ARNDT PAWEŁ                          za    HALL KATARZYNA                        za       MILLER RAJMUND                   za   SUCHOWIEJKO WIESŁAW             za
 AUGUSTYN URSZULA                     za    HANAJCZYK AGNIESZKA                   za       MIODOWICZ KONSTANTY              za   SUSKI PAWEŁ                     za
 AZIEWICZ TADEUSZ                     za    HOK MAREK                             za       MROCZEK CZESŁAW                  za   SYCZ MIRON                      za
-BIERNACKI MAREK                      za    HOPPE TERESA                          za       MRZYGŁ OCKA IZABELA KATARZYNA    za   SZCZERBA MICHAŁ                 za
+BIERNACKI MAREK                      za    HOPPE TERESA                          za       MRZYGŁOCKA IZABELA KATARZYNA    za   SZCZERBA MICHAŁ                 za
 BIERNAT ANDRZEJ                      za    HUSKOWSKI STANISŁAW                   za       MUNYAMA KILLION                  za   SZEJNFELD ADAM                  za
 BLANIK LESZEK                        za    JANYSKA MARIA MAŁGORZATA              za       NEMŚ ANNA                        za   SZTOLCMAN GRZEGORZ              za
 BOBOWSKA JOANNA                      za    JARMUZIEWICZ TADEUSZ                  za       NEUMANN SŁAWOMIR                 za   SZULC JAKUB                     za
@@ -42,8 +42,8 @@ DĄBROWSKA ALICJA                     za    KOPACZ EWA                          
 DROZD EWA                            za    KOPACZEWSKA DOMICELA                  za       PIERZCHAŁA ELŻBIETA APOLONIA     za   ZAKRZEWSKA JADWIGA              za
 DUNIN ARTUR                          za    KORZENIOWSKI LESZEK                   za       PIETRASZEWSKA DANUTA             za   ZAREMBA RENATA                  za
 DURKA ZENON                          za    KOSECKI ROMAN JACEK                   za       PIETRZCZYK LUCJAN MAREK          za   ZAWADZKI RYSZARD                za
-DZIĘCIOŁ JANUSZ                      za    KOWALSKI SŁAWOMIR                     za       PIĘ TA JAROSŁAW                  za   ZIELIŃSKI MACIEJ                za
-DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                     za       PIOTROWSKA TERESA                za   ZIĘ TEK JERZY                   za
+DZIĘCIOŁ JANUSZ                      za    KOWALSKI SŁAWOMIR                     za       PIĘTA JAROSŁAW                  za   ZIELIŃSKI MACIEJ                za
+DZIKOWSKI WALDY                      za    KOZACZYŃSKI JACEK                     za       PIOTROWSKA TERESA                za   ZIĘTEK JERZY                   za
 FABISIAK JOANNA                      za    KOZDROŃ JERZY                         za       PITERA JULIA                     za   ŻALEK JACEK                     za
 FEDOROWICZ JERZY                     za    KOZŁOWSKA IWONA                       za       PLOCKE KAZIMIERZ                 za   ŻMIJAN STANISŁAW                za
 FIEDLER ARKADY                       za    KOZŁOWSKA-RAJEWICZ AGNIESZKA          za       PLURA MAREK                      za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -98,7 +98,7 @@ FOTYGA ANNA                     pr.   MALIK EWA                        pr.      
 GIRZYŃSKI ZBIGNIEW              pr.   MAŁECKI MACIEJ                   pr.       SPRAWKA LECH                    pr.   JACKIEWICZ DAWID                ng.
 GIŻYŃSKI SZYMON                 pr.   MASŁOWSKA GABRIELA               pr.       STRZAŁKOWSKI STEFAN             pr.   KLOC IZABELA                    ng.
 GOŁOJUCH KAZIMIERZ              pr.   MASTALEREK MARCIN                pr.       SUSKI MAREK                     pr.   LATOS TOMASZ                    ng.
-GOSIEWSKA MAŁGORZATA            pr.   MATERNA JERZY                    pr.       SZAŁAMACHA PAWEŁ                pr.   PIĘ TA STANISŁAW                ng.
+GOSIEWSKA MAŁGORZATA            pr.   MATERNA JERZY                    pr.       SZAŁAMACHA PAWEŁ                pr.   PIĘTA STANISŁAW                ng.
 GÓRSKI ARTUR                    pr.   MATUSIAK GRZEGORZ                pr.       SZARAMA WOJCIECH                pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ     ng.
 HOC CZESŁAW                     pr.   MATUSZEWSKI MAREK                pr.       SZCZERSKI KRZYSZTOF             pr.   WIŚNIEWSKA JADWIGA              ng.
 HOFMAN ADAM                     pr.   MAZUREK BEATA                    pr.       SZCZYPIŃSKA JOLANTA             pr.   WOJTKIEWICZ MICHAŁ              ng.
@@ -110,9 +110,9 @@ JACH MICHAŁ                     pr.   MOSKAL KAZIMIERZ                 pr.     
 
 BANASZAK MACIEJ                 za    KABACIŃSKI MICHAŁ                za        NAJDER JACEK                    za    SZYMIEC-RACZYŃSKA HALINA        za
 BIEDROŃ ROBERT                  za    KLEPACZ WITOLD                   za        NOWICKA WANDA                   za    WYDRZYŃSKI MACIEJ               za
-BORKOWSKI JERZY                 za    KŁOSOWSKI KRZYSZTOF              za        PACHOLSKI MICHAŁ TOMASZ         za    BODIO BARTŁ OMIEJ               pr.
+BORKOWSKI JERZY                 za    KŁOSOWSKI KRZYSZTOF              za        PACHOLSKI MICHAŁ TOMASZ         za    BODIO BARTŁOMIEJ               pr.
 BRAMORA ARTUR                   za    KOPYCIŃSKI SŁAWOMIR              za        PENKALSKI WOJCIECH              za    DZIADZIO DARIUSZ CEZAR          pr.
-CEDZYŃSKI JAN                   za    KOTLIŃSKI ROMAN                  za        PIĄ TAK ANDRZEJ                 za    ELSNER WINCENTY                 pr.
+CEDZYŃSKI JAN                   za    KOTLIŃSKI ROMAN                  za        PIĄTAK ANDRZEJ                 za    ELSNER WINCENTY                 pr.
 CHMIELOWSKI PIOTR               za    KRUPA ŁUKASZ                     za        POPIOŁEK ZOFIA                  za    KMIECIK HENRYK                  pr.
 DĘBSKI ARTUR                    za    KWIATKOWSKI JACEK                za        POZNAŃSKI MAREK                 za    RYBAKOWICZ ADAM                 pr.
 DOMARACKI MAREK                 za    LEWANDOWSKI ANDRZEJ              za        ROZENEK ANDRZEJ                 za    BAUĆ PIOTR PAWEŁ                ng.

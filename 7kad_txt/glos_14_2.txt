@@ -19,7 +19,7 @@ ARNDT PAWEŁ                          za    HALICKI ANDRZEJ                     
 AUGUSTYN URSZULA                     za    HALL KATARZYNA                           za       MILLER RAJMUND                   za   SMOLARZ TOMASZ                  za
 AZIEWICZ TADEUSZ                     za    HANAJCZYK AGNIESZKA                      za       MIODOWICZ KONSTANTY              za   STAROŃ LIDIA                    za
 BIERNACKI MAREK                      za    HOK MAREK                                za       MROCZEK CZESŁAW                  za   SUCHOWIEJKO WIESŁAW             za
-BIERNAT ANDRZEJ                      za    HOPPE TERESA                             za       MRZYGŁ OCKA IZABELA KATARZYNA    za   SUSKI PAWEŁ                     za
+BIERNAT ANDRZEJ                      za    HOPPE TERESA                             za       MRZYGŁOCKA IZABELA KATARZYNA    za   SUSKI PAWEŁ                     za
 BLANIK LESZEK                        za    HUSKOWSKI STANISŁAW                      za       MUCHA JOANNA                     za   SYCZ MIRON                      za
 BOBOWSKA JOANNA                      za    JANYSKA MARIA MAŁGORZATA                 za       MUNYAMA KILLION                  za   SZCZERBA MICHAŁ                 za
 BOROWCZAK JERZY                      za    JARMUZIEWICZ TADEUSZ                     za       NEMŚ ANNA                        za   SZEJNFELD ADAM                  za
@@ -44,7 +44,7 @@ DROZD EWA                            za    KOPACZ EWA                           
 DUNIN ARTUR                          za    KOPACZEWSKA DOMICELA                     za       PIERZCHAŁA ELŻBIETA APOLONIA     za   WITCZAK MARIUSZ                 za
 DURKA ZENON                          za    KORZENIOWSKI LESZEK                      za       PIETRASZEWSKA DANUTA             za   WITKOWSKI RADOSŁAW              za
 DZIĘCIOŁ JANUSZ                      za    KOSECKI ROMAN JACEK                      za       PIETRZCZYK LUCJAN MAREK          za   WOJNAROWSKI NORBERT             za
-DZIKOWSKI WALDY                      za    KOWALSKI SŁAWOMIR                        za       PIĘ TA JAROSŁAW                  za   WOJTKOWSKI MAREK                za
+DZIKOWSKI WALDY                      za    KOWALSKI SŁAWOMIR                        za       PIĘTA JAROSŁAW                  za   WOJTKOWSKI MAREK                za
 FABISIAK JOANNA                      za    KOZACZYŃSKI JACEK                        za       PIOTROWSKA TERESA                za   WOLAK EWA                       za
 FEDOROWICZ JERZY                     za    KOZDROŃ JERZY                            za       PITERA JULIA                     za   WÓJCIK MAREK                    za
 FIEDLER ARKADY                       za    KOZŁOWSKA IWONA                          za       PLOCKE KAZIMIERZ                 za   ZAKRZEWSKA JADWIGA              za
@@ -53,7 +53,7 @@ GAŁAŻEWSKI ANDRZEJ                   za    KOŹLAKIEWICZ MIROSŁAW            
 GAPIŃSKA ELŻBIETA                    za    KRAJEWSKA LIGIA                          za       POMASKA AGNIESZKA                za   ZDROJEWSKI BOGDAN               za
 GAW ŁOWSKI STANISŁAW                 za    KROPIWNICKI ROBERT                       za       RACZKOWSKI DAMIAN                za   ZIELIŃSKI MACIEJ                za
 GĄDEK LIDIA                          za    KRZĄKAŁA MAREK                           za       RADZISZEWSKA ELŻBIETA            za   ZIEMNIAK WOJCIECH               za
-GĄSIOR-MAREK MAGDALENA               za    KUCHARSKI CEZARY                         za       RANIEWICZ GRZEGORZ               za   ZIĘ TEK JERZY                   za
+GĄSIOR-MAREK MAGDALENA               za    KUCHARSKI CEZARY                         za       RANIEWICZ GRZEGORZ               za   ZIĘTEK JERZY                   za
 GELERT ELŻBIETA                      za    KUDRYCKA BARBARA                         za       RAŚ IRENEUSZ                     za   ŻALEK JACEK                     za
 GIERADA ARTUR                        za    KULESZA TOMASZ                           za       ROSATI DARIUSZ                   za   ŻMUDA-TRZEBIATOWSKA EWA         za
 GLUZA CZESŁAW                        za    KWIATKOWSKI KRZYSZTOF                    za       ROZPONDEK HALINA                 za   ŻYLIŃSKI ADAM                   za
@@ -82,7 +82,7 @@ BABALSKI ZBIGNIEW               pr.   KACZYŃSKI JAROSŁAW           pr.       O
 BABINETZ PIOTR                  pr.   KAMIŃSKI MARIUSZ             pr.       PALUCH ANNA                     pr.   TELUS ROBERT                     pr.
 BARTUŚ BARBARA                  pr.   KAMIŃSKI MARIUSZ ANTONI      pr.       PAW ŁOWICZ KRYSTYNA             pr.   TERLECKI RYSZARD                 pr.
 BĄK DARIUSZ                     pr.   KLOC IZABELA                 pr.       PIECHA BOLESŁAW GRZEGORZ        pr.   TOBISZOWSKI GRZEGORZ             pr.
-BERNACKI W ŁODZIMIERZ           pr.   KŁOSOWSKI SŁAWOMIR           pr.       PIĘ TA STANISŁAW                pr.   TOMASZEWSKI JAN                  pr.
+BERNACKI W ŁODZIMIERZ           pr.   KŁOSOWSKI SŁAWOMIR           pr.       PIĘTA STANISŁAW                pr.   TOMASZEWSKI JAN                  pr.
 BĘTKOWSKI ANDRZEJ               pr.   KOŁAKOWSKI LECH              pr.       PIONTKOWSKI DARIUSZ             pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ      pr.
 BŁASZCZAK MARIUSZ               pr.   KOŁAKOWSKI ROBERT            pr.       PIOTROWICZ STANISŁAW            pr.   WARZECHA JAN                     pr.
 BRUDZIŃSKI JOACHIM              pr.   KOWALCZYK HENRYK             pr.       POLAK MAREK                     pr.   WASZCZYKOWSKI WITOLD             pr.
@@ -117,8 +117,8 @@ RYBAKOWICZ ADAM                 za    ELSNER WINCENTY              pr.       MAK
 BANASZAK MACIEJ                 pr.   GIBAŁA ŁUKASZ                pr.       MARCINKIEWICZ MAŁGORZATA        pr.   SZYMIEC-RACZYŃSKA HALINA         pr.
 BAUĆ PIOTR PAWEŁ                pr.   GÓRCZYŃSKI ARTUR             pr.       MROCZEK MACIEJ                  pr.   WYDRZYŃSKI MACIEJ                pr.
 BIEDROŃ ROBERT                  pr.   GRODZKA ANNA                 pr.       NOWICKA WANDA                   pr.   KABACIŃSKI MICHAŁ                ng.
-BODIO BARTŁ OMIEJ               pr.   KĘPIŃSKI ADAM                pr.       PALIKOT JANUSZ                  pr.   KOTLIŃSKI ROMAN                  ng.
-BORKOWSKI JERZY                 pr.   KLEPACZ WITOLD               pr.       PIĄ TAK ANDRZEJ                 pr.   NAJDER JACEK                     ng.
+BODIO BARTŁOMIEJ               pr.   KĘPIŃSKI ADAM                pr.       PALIKOT JANUSZ                  pr.   KOTLIŃSKI ROMAN                  ng.
+BORKOWSKI JERZY                 pr.   KLEPACZ WITOLD               pr.       PIĄTAK ANDRZEJ                 pr.   NAJDER JACEK                     ng.
 BRAMORA ARTUR                   pr.   KŁOSOWSKI KRZYSZTOF          pr.       POPIOŁEK ZOFIA                  pr.
 
 

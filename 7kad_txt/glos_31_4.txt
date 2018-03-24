@@ -17,7 +17,7 @@ ADAMCZAK MAŁGORZATA                 za     HALICKI ANDRZEJ                     
 ARKIT TADEUSZ                       za     HALL KATARZYNA                      za       MILLER RAJMUND                    za   SŁUGOCKI WALDEMAR               za
 ARŁUKOWICZ BARTOSZ                  za     HANAJCZYK AGNIESZKA                 za       MIODOWICZ KONSTANTY               za   SMOLARZ TOMASZ                  za
 ARNDT PAWEŁ                         za     HOK MAREK                           za       MROCZEK CZESŁAW                   za   STAROŃ LIDIA                    za
-AUGUSTYN URSZULA                    za     HOPPE TERESA                        za       MRZYGŁ OCKA IZABELA KATARZYNA     za   SUCHOWIEJKO WIESŁAW             za
+AUGUSTYN URSZULA                    za     HOPPE TERESA                        za       MRZYGŁOCKA IZABELA KATARZYNA     za   SUCHOWIEJKO WIESŁAW             za
 AZIEWICZ TADEUSZ                    za     HUSKOWSKI STANISŁAW                 za       MUCHA JOANNA                      za   SUSKI PAWEŁ                     za
 BIERNACKI MAREK                     za     JANYSKA MARIA MAŁGORZATA            za       MUNYAMA KILLION                   za   SYCZ MIRON                      za
 BLANIK LESZEK                       za     JARMUZIEWICZ TADEUSZ                za       NEMŚ ANNA                         za   SZCZERBA MICHAŁ                 za
@@ -43,7 +43,7 @@ DROZD EWA                           za     KOPACZEWSKA DOMICELA                z
 DUNIN ARTUR                         za     KORZENIOWSKI LESZEK                 za       PIERZCHAŁA ELŻBIETA APOLONIA      za   WITCZAK MARIUSZ                 za
 DURKA ZENON                         za     KOSECKI ROMAN JACEK                 za       PIETRASZEWSKA DANUTA              za   WITKOWSKI RADOSŁAW              za
 DZIĘCIOŁ JANUSZ                     za     KOWALSKI SŁAWOMIR                   za       PIETRZCZYK LUCJAN MAREK           za   WOJTKOWSKI MAREK                za
-DZIKOWSKI WALDY                     za     KOZACZYŃSKI JACEK                   za       PIĘ TA JAROSŁAW                   za   WOLAK EWA                       za
+DZIKOWSKI WALDY                     za     KOZACZYŃSKI JACEK                   za       PIĘTA JAROSŁAW                   za   WOLAK EWA                       za
 FABISIAK JOANNA                     za     KOZDROŃ JERZY                       za       PIOTROWSKA TERESA                 za   WÓJCIK MAREK                    za
 FEDOROWICZ JERZY                    za     KOZŁOWSKA IWONA                     za       PITERA JULIA                      za   ZAKRZEWSKA JADWIGA              za
 FIEDLER ARKADY                      za     KOZŁOWSKA-RAJEWICZ AGNIESZKA        za       PLOCKE KAZIMIERZ                  za   ZAREMBA RENATA                  za
@@ -51,7 +51,7 @@ GADOWSKI KRZYSZTOF                  za     KOŹLAKIEWICZ MIROSŁAW              
 GAŁAŻEWSKI ANDRZEJ                  za     KRAJEWSKA LIGIA                     za       PLUTA MIROSŁAW                    za   ZDROJEWSKI BOGDAN               za
 GAPIŃSKA ELŻBIETA                   za     KROPIWNICKI ROBERT                  za       POMASKA AGNIESZKA                 za   ZIELIŃSKI MACIEJ                za
 GAW ŁOWSKI STANISŁAW                za     KRZĄKAŁA MAREK                      za       RACZKOWSKI DAMIAN                 za   ZIEMNIAK WOJCIECH               za
-GĄDEK LIDIA                         za     KUCHARSKI CEZARY                    za       RADZISZEWSKA ELŻBIETA             za   ZIĘ TEK JERZY                   za
+GĄDEK LIDIA                         za     KUCHARSKI CEZARY                    za       RADZISZEWSKA ELŻBIETA             za   ZIĘTEK JERZY                   za
 GĄSIOR-MAREK MAGDALENA              za     KUDRYCKA BARBARA                    za       RANIEWICZ GRZEGORZ                za   ŻALEK JACEK                     za
 GELERT ELŻBIETA                     za     KULESZA TOMASZ                      za       RAŚ IRENEUSZ                      za   ŻMIJAN STANISŁAW                za
 GIERADA ARTUR                       za     KWIATKOWSKI KRZYSZTOF               za       ROSATI DARIUSZ                    za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -80,7 +80,7 @@ ARENT IWONA EWA                 za   KACZMAREK TOMASZ             za       OŻÓ
 AST MAREK                       za   KACZYŃSKI JAROSŁAW           za       PALUCH ANNA                      za    TELUS ROBERT                  za
 BABALSKI ZBIGNIEW               za   KAMIŃSKI MARIUSZ             za       PAW ŁOWICZ KRYSTYNA              za    TERLECKI RYSZARD              za
 BABINETZ PIOTR                  za   KAMIŃSKI MARIUSZ ANTONI      za       PIECHA BOLESŁAW GRZEGORZ         za    TOBISZOWSKI GRZEGORZ          za
-BARTUŚ BARBARA                  za   KLOC IZABELA                 za       PIĘ TA STANISŁAW                 za    TOMASZEWSKI JAN               za
+BARTUŚ BARBARA                  za   KLOC IZABELA                 za       PIĘTA STANISŁAW                 za    TOMASZEWSKI JAN               za
 BĄK DARIUSZ                     za   KŁOSOWSKI SŁAWOMIR           za       PIONTKOWSKI DARIUSZ              za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
 BERNACKI W ŁODZIMIERZ           za   KOŁAKOWSKI LECH              za       POLACZEK JERZY                   za    WARZECHA JAN                  za
 BĘTKOWSKI ANDRZEJ               za   KOŁAKOWSKI ROBERT            za       POLAK MAREK                      za    WASZCZYKOWSKI WITOLD          za
@@ -112,12 +112,12 @@ JACH MICHAŁ                     za   MICHAŁKIEWICZ KRZYSZTOF      za       SZM
 
 BANASZAK MACIEJ                 za   GRODZKA ANNA                 za       NAJDER JACEK                     za    BAUĆ PIOTR PAWEŁ              ng.
 BIEDROŃ ROBERT                  za   KĘPIŃSKI ADAM                za       NOWICKA WANDA                    za    BRAMORA ARTUR                 ng.
-BODIO BARTŁ OMIEJ               za   KLEPACZ WITOLD               za       PACHOLSKI MICHAŁ TOMASZ          za    GIBAŁA ŁUKASZ                 ng.
+BODIO BARTŁOMIEJ               za   KLEPACZ WITOLD               za       PACHOLSKI MICHAŁ TOMASZ          za    GIBAŁA ŁUKASZ                 ng.
 BORKOWSKI JERZY                 za   KŁOSOWSKI KRZYSZTOF          za       PENKALSKI WOJCIECH               za    KABACIŃSKI MICHAŁ             ng.
 CEDZYŃSKI JAN                   za   KMIECIK HENRYK               za       POPIOŁEK ZOFIA                   za    KOTLIŃSKI ROMAN               ng.
 CHMIELOWSKI PIOTR               za   KOPYCIŃSKI SŁAWOMIR          za       POZNAŃSKI MAREK                  za    LEWANDOWSKI ANDRZEJ           ng.
 DĘBSKI ARTUR                    za   KRUPA ŁUKASZ                 za       ROZENEK ANDRZEJ                  za    PALIKOT JANUSZ                ng.
-DOMARACKI MAREK                 za   KWIATKOWSKI JACEK            za       RYFIŃSKI ARMAND KAMIL            za    PIĄ TAK ANDRZEJ               ng.
+DOMARACKI MAREK                 za   KWIATKOWSKI JACEK            za       RYFIŃSKI ARMAND KAMIL            za    PIĄTAK ANDRZEJ               ng.
 DZIADZIO DARIUSZ CEZAR          za   MAKOWSKI TOMASZ              za       STOLARSKI MAREK                  za    RYBAKOWICZ ADAM               ng.
 ELSNER WINCENTY                 za   MARCINKIEWICZ MAŁGORZATA     za       SZYMIEC-RACZYŃSKA HALINA         za    SAJAK PAWEŁ                   ng.
 GÓRCZYŃSKI ARTUR                za   MROCZEK MACIEJ               za       WYDRZYŃSKI MACIEJ                za

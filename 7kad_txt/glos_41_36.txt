@@ -15,7 +15,7 @@
 ACHINGER ELŻBIETA                   za   GRUPIŃSKI RAFAŁ                      za       MĘŻYDŁO ANTONI                   za   SŁUGOCKI WALDEMAR               za
 ADAMCZAK MAŁGORZATA                 za   GUT-MOSTOWY ANDRZEJ                  za       MILLER RAJMUND                   za   SMOLARZ TOMASZ                  za
 ARKIT TADEUSZ                       za   HALICKI ANDRZEJ                      za       MROCZEK CZESŁAW                  za   STAROŃ LIDIA                    za
-ARŁUKOWICZ BARTOSZ                  za   HALL KATARZYNA                       za       MRZYGŁ OCKA IZABELA KATARZYNA    za   SUCHOWIEJKO WIESŁAW             za
+ARŁUKOWICZ BARTOSZ                  za   HALL KATARZYNA                       za       MRZYGŁOCKA IZABELA KATARZYNA    za   SUCHOWIEJKO WIESŁAW             za
 ARNDT PAWEŁ                         za   HANAJCZYK AGNIESZKA                  za       MUCHA JOANNA                     za   SUSKI PAWEŁ                     za
 AUGUSTYN URSZULA                    za   HOK MAREK                            za       MUNYAMA KILLION                  za   SYCZ MIRON                      za
 AZIEWICZ TADEUSZ                    za   HOPPE TERESA                         za       NEMŚ ANNA                        za   SZCZERBA MICHAŁ                 za
@@ -41,7 +41,7 @@ CZECHYRA CZESŁAW                    za   KOPACZ EWA                           z
 CZERNOW ZOFIA                       za   KOPACZEWSKA DOMICELA                 za       PIERZCHAŁA ELŻBIETA APOLONIA     za   WITKOWSKI RADOSŁAW              za
 CZERWIŃSKI ANDRZEJ                  za   KORZENIOWSKI LESZEK                  za       PIETRASZEWSKA DANUTA             za   WOJNAROWSKI NORBERT             za
 DĄBROWSKA ALICJA                    za   KOSECKI ROMAN JACEK                  za       PIETRZCZYK LUCJAN MAREK          za   WOJTKOWSKI MAREK                za
-DROZD EWA                           za   KOWALSKI SŁAWOMIR                    za       PIĘ TA JAROSŁAW                  za   WOLAK EWA                       za
+DROZD EWA                           za   KOWALSKI SŁAWOMIR                    za       PIĘTA JAROSŁAW                  za   WOLAK EWA                       za
 DUNIN ARTUR                         za   KOZACZYŃSKI JACEK                    za       PIOTROWSKA TERESA                za   WÓJCIK MAREK                    za
 DURKA ZENON                         za   KOZDROŃ JERZY                        za       PITERA JULIA                     za   ZAKRZEWSKA JADWIGA              za
 DZIĘCIOŁ JANUSZ                     za   KOZŁOWSKA IWONA                      za       PLOCKE KAZIMIERZ                 za   ZAREMBA RENATA                  za
@@ -49,7 +49,7 @@ DZIKOWSKI WALDY                     za   KOZŁOWSKA-RAJEWICZ AGNIESZKA         z
 FABISIAK JOANNA                     za   KOŹLAKIEWICZ MIROSŁAW                za       PLUTA MIROSŁAW                   za   ZDROJEWSKI BOGDAN               za
 FEDOROWICZ JERZY                    za   KRAJEWSKA LIGIA                      za       POMASKA AGNIESZKA                za   ZIELIŃSKI MACIEJ                za
 FIEDLER ARKADY                      za   KROPIWNICKI ROBERT                   za       RACZKOWSKI DAMIAN                za   ZIEMNIAK WOJCIECH               za
-GADOWSKI KRZYSZTOF                  za   KRZĄKAŁA MAREK                       za       RADZISZEWSKA ELŻBIETA            za   ZIĘ TEK JERZY                   za
+GADOWSKI KRZYSZTOF                  za   KRZĄKAŁA MAREK                       za       RADZISZEWSKA ELŻBIETA            za   ZIĘTEK JERZY                   za
 GAŁAŻEWSKI ANDRZEJ                  za   KUCHARSKI CEZARY                     za       RANIEWICZ GRZEGORZ               za   ŻALEK JACEK                     za
 GAPIŃSKA ELŻBIETA                   za   KUDRYCKA BARBARA                     za       RAŚ IRENEUSZ                     za   ŻMIJAN STANISŁAW                za
 GAW ŁOWSKI STANISŁAW                za   KULESZA TOMASZ                       za       ROZPONDEK HALINA                 za   ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -79,7 +79,7 @@ ANDZEL WALDEMAR                 ws.   JURGIEL KRZYSZTOF           ws.       OSUC
 ARCISZEWSKA-MIELEWCZYK DOROTA   ws.   KACZMAREK TOMASZ            ws.       OŻÓG STANISŁAW                    ws.   TELUS ROBERT                  ws.
 ARDANOWSKI JAN KRZYSZTOF        ws.   KACZYŃSKI JAROSŁAW          ws.       PALUCH ANNA                       ws.   TERLECKI RYSZARD              ws.
 ARENT IWONA EWA                 ws.   KAMIŃSKI MARIUSZ            ws.       PAW ŁOWICZ KRYSTYNA               ws.   TOBISZOWSKI GRZEGORZ          ws.
-AST MAREK                       ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PIĘ TA STANISŁAW                  ws.   TOMASZEWSKI JAN               ws.
+AST MAREK                       ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PIĘTA STANISŁAW                  ws.   TOMASZEWSKI JAN               ws.
 BABALSKI ZBIGNIEW               ws.   KLOC IZABELA                ws.       PIONTKOWSKI DARIUSZ               ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 BABINETZ PIOTR                  ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIOTROWICZ STANISŁAW              ws.   WARZECHA JAN                  ws.
 BARTUŚ BARBARA                  ws.   KOŁAKOWSKI LECH             ws.       POLACZEK JERZY                    ws.   WASZCZYKOWSKI WITOLD          ws.
@@ -110,7 +110,7 @@ JACH MICHAŁ                     ws.   MICHAŁKIEWICZ KRZYSZTOF     ws.       SZ
 
  RP (40)                      GŁOSOWAŁO - 40            ZA - 40   PRZECIW - 0                WSTRZYM. - 0              NIE GŁOS. - 0
 
-BANASZAK MACIEJ                 za    ELSNER WINCENTY             za        KRUPA ŁUKASZ                      za    PIĄ TAK ANDRZEJ               za
+BANASZAK MACIEJ                 za    ELSNER WINCENTY             za        KRUPA ŁUKASZ                      za    PIĄTAK ANDRZEJ               za
 BAUĆ PIOTR PAWEŁ                za    GIBAŁA ŁUKASZ               za        KWIATKOWSKI JACEK                 za    POPIOŁEK ZOFIA                za
 BIEDROŃ ROBERT                  za    GÓRCZYŃSKI ARTUR            za        LEWANDOWSKI ANDRZEJ               za    POZNAŃSKI MAREK               za
 BORKOWSKI JERZY                 za    GRODZKA ANNA                za        MAKOWSKI TOMASZ                   za    ROZENEK ANDRZEJ               za
@@ -156,7 +156,7 @@ JAKI PATRYK                     ws.   SIARKA EDWARD               ws.       ZIOB
 
  niez. (5)                    GŁOSOWAŁO - 4             ZA - 2    PRZECIW - 1                WSTRZYM. - 1              NIE GŁOS. - 1
 
-BODIO BARTŁ OMIEJ               za    GALLA RYSZARD               pr.       NOWICKA WANDA                     ng.
+BODIO BARTŁOMIEJ               za    GALLA RYSZARD               pr.       NOWICKA WANDA                     ng.
 KALISZ RYSZARD                  za    JAGIEŁŁO JAROSŁAW TOMASZ    ws.
 
 

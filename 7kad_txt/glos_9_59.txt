@@ -16,7 +16,7 @@ ARKIT TADEUSZ                        za    GUT-MOSTOWY ANDRZEJ                  
 ARŁUKOWICZ BARTOSZ                   za    GUZOWSKA IWONA                       za       MILLER RAJMUND                     za      SMOLARZ TOMASZ                  za
 ARNDT PAWEŁ                          za    HALICKI ANDRZEJ                      za       MIODOWICZ KONSTANTY                za      STAROŃ LIDIA                    za
 AUGUSTYN URSZULA                     za    HALL KATARZYNA                       za       MROCZEK CZESŁAW                    za      SUCHOWIEJKO WIESŁAW             za
-AZIEWICZ TADEUSZ                     za    HANAJCZYK AGNIESZKA                  za       MRZYGŁ OCKA IZABELA KATARZYNA      za      SUSKI PAWEŁ                     za
+AZIEWICZ TADEUSZ                     za    HANAJCZYK AGNIESZKA                  za       MRZYGŁOCKA IZABELA KATARZYNA      za      SUSKI PAWEŁ                     za
 BIERNACKI MAREK                      za    HOK MAREK                            za       MUCHA JOANNA                       za      SYCZ MIRON                      za
 BIERNAT ANDRZEJ                      za    HOPPE TERESA                         za       MUNYAMA KILLION                    za      SZCZERBA MICHAŁ                 za
 BLANIK LESZEK                        za    HUSKOWSKI STANISŁAW                  za       NEMŚ ANNA                          za      SZEJNFELD ADAM                  za
@@ -42,13 +42,13 @@ CZERWIŃSKI ANDRZEJ                   za    KOPACZ EWA                          
 DĄBROWSKA ALICJA                     za    KOPACZEWSKA DOMICELA                 za       PIERZCHAŁA ELŻBIETA APOLONIA       za      WOJTKOWSKI MAREK                za
 DROZD EWA                            za    KOSECKI ROMAN JACEK                  za       PIETRASZEWSKA DANUTA               za      WOLAK EWA                       za
 DUNIN ARTUR                          za    KOWALSKI SŁAWOMIR                    za       PIETRZCZYK LUCJAN MAREK            za      WÓJCIK MAREK                    za
-DURKA ZENON                          za    KOZACZYŃSKI JACEK                    za       PIĘ TA JAROSŁAW                    za      ZAKRZEWSKA JADWIGA              za
+DURKA ZENON                          za    KOZACZYŃSKI JACEK                    za       PIĘTA JAROSŁAW                    za      ZAKRZEWSKA JADWIGA              za
 DZIĘCIOŁ JANUSZ                      za    KOZDROŃ JERZY                        za       PIOTROWSKA TERESA                  za      ZAREMBA RENATA                  za
 DZIKOWSKI WALDY                      za    KOZŁOWSKA IWONA                      za       PITERA JULIA                       za      ZAWADZKI RYSZARD                za
 FABISIAK JOANNA                      za    KOZŁOWSKA-RAJEWICZ AGNIESZKA         za       PLOCKE KAZIMIERZ                   za      ZDROJEWSKI BOGDAN               za
 FEDOROWICZ JERZY                     za    KOŹLAKIEWICZ MIROSŁAW                za       PLUTA MIROSŁAW                     za      ZIELIŃSKI MACIEJ                za
 FIEDLER ARKADY                       za    KRAJEWSKA LIGIA                      za       POMASKA AGNIESZKA                  za      ZIEMNIAK WOJCIECH               za
-GADOWSKI KRZYSZTOF                   za    KROPIWNICKI ROBERT                   za       POŚLEDNIA KRYSTYNA                 za      ZIĘ TEK JERZY                   za
+GADOWSKI KRZYSZTOF                   za    KROPIWNICKI ROBERT                   za       POŚLEDNIA KRYSTYNA                 za      ZIĘTEK JERZY                   za
 GAPIŃSKA ELŻBIETA                    za    KRZĄKAŁA MAREK                       za       RACZKOWSKI DAMIAN                  za      ŻALEK JACEK                     za
 GAW ŁOWSKI STANISŁAW                 za    KUCHARSKI CEZARY                     za       RADZISZEWSKA ELŻBIETA              za      ŻMIJAN STANISŁAW                za
 GĄDEK LIDIA                          za    KUDRYCKA BARBARA                     za       RANIEWICZ GRZEGORZ                 za      ŻMUDA-TRZEBIATOWSKA EWA         za
@@ -85,7 +85,7 @@ BABALSKI ZBIGNIEW               ws.   KACZMAREK TOMASZ             ws.       OŻ
 BABINETZ PIOTR                  ws.   KACZYŃSKI JAROSŁAW           ws.       PALUCH ANNA                       ws.   TERLECKI RYSZARD              ws.
 BARTUŚ BARBARA                  ws.   KAMIŃSKI MARIUSZ             ws.       PAW ŁOWICZ KRYSTYNA               ws.   TOBISZOWSKI GRZEGORZ          ws.
 BĄK DARIUSZ                     ws.   KAMIŃSKI MARIUSZ ANTONI      ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   TOMASZEWSKI JAN               ws.
-BERNACKI W ŁODZIMIERZ           ws.   KLOC IZABELA                 ws.       PIĘ TA STANISŁAW                  ws.   WARZECHA JAN                  ws.
+BERNACKI W ŁODZIMIERZ           ws.   KLOC IZABELA                 ws.       PIĘTA STANISŁAW                  ws.   WARZECHA JAN                  ws.
 BĘTKOWSKI ANDRZEJ               ws.   KŁOSOWSKI SŁAWOMIR           ws.       PIONTKOWSKI DARIUSZ               ws.   WASZCZYKOWSKI WITOLD          ws.
 BŁASZCZAK MARIUSZ               ws.   KOŁAKOWSKI LECH              ws.       PIOTROWICZ STANISŁAW              ws.   WIPLER PRZEMYSŁAW             ws.
 BRUDZIŃSKI JOACHIM              ws.   KOŁAKOWSKI ROBERT            ws.       POLACZEK JERZY                    ws.   WITEK ELŻBIETA                ws.
@@ -109,7 +109,7 @@ GOSIEWSKA MAŁGORZATA            ws.   MAŁECKI MACIEJ               ws.       S
  RP (41)                      GŁOSOWAŁO - 38             ZA - 9    PRZECIW - 1                WSTRZYM. - 28             NIE GŁOS. - 3
 
 BANASZAK MACIEJ                 za    BIEDROŃ ROBERT               ws.       KOTLIŃSKI ROMAN                   ws.   ROZENEK ANDRZEJ               ws.
-DOMARACKI MAREK                 za    BODIO BARTŁ OMIEJ            ws.       KRUPA ŁUKASZ                      ws.   RYBAKOWICZ ADAM               ws.
+DOMARACKI MAREK                 za    BODIO BARTŁOMIEJ            ws.       KRUPA ŁUKASZ                      ws.   RYBAKOWICZ ADAM               ws.
 KĘPIŃSKI ADAM                   za    BORKOWSKI JERZY              ws.       KWIATKOWSKI JACEK                 ws.   RYFIŃSKI ARMAND KAMIL         ws.
 KŁOSOWSKI KRZYSZTOF             za    BRAMORA ARTUR                ws.       LEWANDOWSKI ANDRZEJ               ws.   SAJAK PAWEŁ                   ws.
 MARCINKIEWICZ MAŁGORZATA        za    CHMIELOWSKI PIOTR            ws.       MAKOWSKI TOMASZ                   ws.   WYDRZYŃSKI MACIEJ             ws.
@@ -117,7 +117,7 @@ NAJDER JACEK                    za    DĘBSKI ARTUR                 ws.       MR
 POPIOŁEK ZOFIA                  za    DZIADZIO DARIUSZ CEZAR       ws.       NOWICKA WANDA                     ws.   ELSNER WINCENTY               ng.
 STOLARSKI MAREK                 za    GÓRCZYŃSKI ARTUR             ws.       PALIKOT JANUSZ                    ws.   PACHOLSKI MICHAŁ TOMASZ       ng.
 SZYMIEC-RACZYŃSKA HALINA        za    GRODZKA ANNA                 ws.       PENKALSKI WOJCIECH                ws.
-KMIECIK HENRYK                  pr.   KABACIŃSKI MICHAŁ            ws.       PIĄ TAK ANDRZEJ                   ws.
+KMIECIK HENRYK                  pr.   KABACIŃSKI MICHAŁ            ws.       PIĄTAK ANDRZEJ                   ws.
 BAUĆ PIOTR PAWEŁ                ws.   KOPYCIŃSKI SŁAWOMIR          ws.       POZNAŃSKI MAREK                   ws.
 
 

@@ -21,7 +21,7 @@ ARŁUKOWICZ BARTOSZ                  pr.   HALICKI ANDRZEJ                     p
 ARNDT PAWEŁ                         pr.   HALL KATARZYNA                      pr.       MILLER RAJMUND                   pr.   SŁUGOCKI WALDEMAR               pr.
 AUGUSTYN URSZULA                    pr.   HANAJCZYK AGNIESZKA                 pr.       MIODOWICZ KONSTANTY              pr.   SMOLARZ TOMASZ                  pr.
 AZIEWICZ TADEUSZ                    pr.   HOK MAREK                           pr.       MROCZEK CZESŁAW                  pr.   STAROŃ LIDIA                    pr.
-BIERNACKI MAREK                     pr.   HOPPE TERESA                        pr.       MRZYGŁ OCKA IZABELA KATARZYNA    pr.   SUCHOWIEJKO WIESŁAW             pr.
+BIERNACKI MAREK                     pr.   HOPPE TERESA                        pr.       MRZYGŁOCKA IZABELA KATARZYNA    pr.   SUCHOWIEJKO WIESŁAW             pr.
 BIERNAT ANDRZEJ                     pr.   HUSKOWSKI STANISŁAW                 pr.       MUCHA JOANNA                     pr.   SUSKI PAWEŁ                     pr.
 BLANIK LESZEK                       pr.   JANYSKA MARIA MAŁGORZATA            pr.       MUNYAMA KILLION                  pr.   SYCZ MIRON                      pr.
 BOBOWSKA JOANNA                     pr.   JARMUZIEWICZ TADEUSZ                pr.       NEMŚ ANNA                        pr.   SZCZERBA MICHAŁ                 pr.
@@ -46,13 +46,13 @@ DĄBROWSKA ALICJA                    pr.   KOPACZ EWA                          p
 DROZD EWA                           pr.   KOPACZEWSKA DOMICELA                pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WITKOWSKI RADOSŁAW              pr.
 DUNIN ARTUR                         pr.   KORZENIOWSKI LESZEK                 pr.       PIETRASZEWSKA DANUTA             pr.   WOJTKOWSKI MAREK                pr.
 DURKA ZENON                         pr.   KOSECKI ROMAN JACEK                 pr.       PIETRZCZYK LUCJAN MAREK          pr.   WOLAK EWA                       pr.
-DZIĘCIOŁ JANUSZ                     pr.   KOWALSKI SŁAWOMIR                   pr.       PIĘ TA JAROSŁAW                  pr.   WÓJCIK MAREK                    pr.
+DZIĘCIOŁ JANUSZ                     pr.   KOWALSKI SŁAWOMIR                   pr.       PIĘTA JAROSŁAW                  pr.   WÓJCIK MAREK                    pr.
 DZIKOWSKI WALDY                     pr.   KOZACZYŃSKI JACEK                   pr.       PIOTROWSKA TERESA                pr.   ZAREMBA RENATA                  pr.
 FABISIAK JOANNA                     pr.   KOZDROŃ JERZY                       pr.       PITERA JULIA                     pr.   ZAWADZKI RYSZARD                pr.
 FEDOROWICZ JERZY                    pr.   KOZŁOWSKA IWONA                     pr.       PLOCKE KAZIMIERZ                 pr.   ZDROJEWSKI BOGDAN               pr.
 FIEDLER ARKADY                      pr.   KOZŁOWSKA-RAJEWICZ AGNIESZKA        pr.       PLURA MAREK                      pr.   ZIELIŃSKI MACIEJ                pr.
 GADOWSKI KRZYSZTOF                  pr.   KOŹLAKIEWICZ MIROSŁAW               pr.       PLUTA MIROSŁAW                   pr.   ZIEMNIAK WOJCIECH               pr.
-GAŁAŻEWSKI ANDRZEJ                  pr.   KRAJEWSKA LIGIA                     pr.       POMASKA AGNIESZKA                pr.   ZIĘ TEK JERZY                   pr.
+GAŁAŻEWSKI ANDRZEJ                  pr.   KRAJEWSKA LIGIA                     pr.       POMASKA AGNIESZKA                pr.   ZIĘTEK JERZY                   pr.
 GAPIŃSKA ELŻBIETA                   pr.   KROPIWNICKI ROBERT                  pr.       POŚLEDNIA KRYSTYNA               pr.   ŻALEK JACEK                     pr.
 GAW ŁOWSKI STANISŁAW                pr.   KRZĄKAŁA MAREK                      pr.       RACZKOWSKI DAMIAN                pr.   ŻMIJAN STANISŁAW                pr.
 GĄDEK LIDIA                         pr.   KUCHARSKI CEZARY                    pr.       RADZISZEWSKA ELŻBIETA            pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -82,7 +82,7 @@ BABALSKI ZBIGNIEW               ws.   KACZMAREK TOMASZ            ws.       OŻ�
 BABINETZ PIOTR                  ws.   KAMIŃSKI MARIUSZ            ws.       PALUCH ANNA                       ws.   TCHÓRZEWSKI KRZYSZTOF         ws.
 BARTUŚ BARBARA                  ws.   KAMIŃSKI MARIUSZ ANTONI     ws.       PAW ŁOWICZ KRYSTYNA               ws.   TELUS ROBERT                  ws.
 BĄK DARIUSZ                     ws.   KLOC IZABELA                ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   TERLECKI RYSZARD              ws.
-BERNACKI W ŁODZIMIERZ           ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIĘ TA STANISŁAW                  ws.   TOBISZOWSKI GRZEGORZ          ws.
+BERNACKI W ŁODZIMIERZ           ws.   KŁOSOWSKI SŁAWOMIR          ws.       PIĘTA STANISŁAW                  ws.   TOBISZOWSKI GRZEGORZ          ws.
 BĘTKOWSKI ANDRZEJ               ws.   KOŁAKOWSKI LECH             ws.       PIONTKOWSKI DARIUSZ               ws.   TOMASZEWSKI JAN               ws.
 BŁASZCZAK MARIUSZ               ws.   KOŁAKOWSKI ROBERT           ws.       PIOTROWICZ STANISŁAW              ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
 BRUDZIŃSKI JOACHIM              ws.   KOWALCZYK HENRYK            ws.       POLACZEK JERZY                    ws.   WARZECHA JAN                  ws.
@@ -110,13 +110,13 @@ HOFMAN ADAM                     ws.   MATUSZEWSKI MAREK           ws.       SZCZ
  RP (43)                      GŁOSOWAŁO - 38            ZA - 0    PRZECIW - 0                WSTRZYM. - 38             NIE GŁOS. - 5
 
 BANASZAK MACIEJ                 ws.   GÓRCZYŃSKI ARTUR            ws.       MAKOWSKI TOMASZ                   ws.   RYBAKOWICZ ADAM               ws.
-BODIO BARTŁ OMIEJ               ws.   GRODZKA ANNA                ws.       MARCINKIEWICZ MAŁGORZATA          ws.   RYFIŃSKI ARMAND KAMIL         ws.
+BODIO BARTŁOMIEJ               ws.   GRODZKA ANNA                ws.       MARCINKIEWICZ MAŁGORZATA          ws.   RYFIŃSKI ARMAND KAMIL         ws.
 BORKOWSKI JERZY                 ws.   KABACIŃSKI MICHAŁ           ws.       MROCZEK MACIEJ                    ws.   SAJAK PAWEŁ                   ws.
 BRAMORA ARTUR                   ws.   KLEPACZ WITOLD              ws.       NAJDER JACEK                      ws.   SZYMIEC-RACZYŃSKA HALINA      ws.
 CEDZYŃSKI JAN                   ws.   KŁOSOWSKI KRZYSZTOF         ws.       PACHOLSKI MICHAŁ TOMASZ           ws.   WYDRZYŃSKI MACIEJ             ws.
 CHMIELOWSKI PIOTR               ws.   KMIECIK HENRYK              ws.       PALIKOT JANUSZ                    ws.   BAUĆ PIOTR PAWEŁ              ng.
 DĘBSKI ARTUR                    ws.   KOPYCIŃSKI SŁAWOMIR         ws.       PENKALSKI WOJCIECH                ws.   BIEDROŃ ROBERT                ng.
-DOMARACKI MAREK                 ws.   KOTLIŃSKI ROMAN             ws.       PIĄ TAK ANDRZEJ                   ws.   KĘPIŃSKI ADAM                 ng.
+DOMARACKI MAREK                 ws.   KOTLIŃSKI ROMAN             ws.       PIĄTAK ANDRZEJ                   ws.   KĘPIŃSKI ADAM                 ng.
 DZIADZIO DARIUSZ CEZAR          ws.   KRUPA ŁUKASZ                ws.       POPIOŁEK ZOFIA                    ws.   NOWICKA WANDA                 ng.
 ELSNER WINCENTY                 ws.   KWIATKOWSKI JACEK           ws.       POZNAŃSKI MAREK                   ws.   STOLARSKI MAREK               ng.
 GIBAŁA ŁUKASZ                   ws.   LEWANDOWSKI ANDRZEJ         ws.       ROZENEK ANDRZEJ                   ws.

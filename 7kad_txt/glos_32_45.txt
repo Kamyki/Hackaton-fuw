@@ -15,7 +15,7 @@
 ACHINGER ELŻBIETA                     za    MĘŻYDŁO ANTONI                        za        FEDOROWICZ JERZY                 pr.   SZEJNFELD ADAM                  pr.
 ADAMCZAK MAŁGORZATA                   za    MIODOWICZ KONSTANTY                   za        GAW ŁOWSKI STANISŁAW             pr.   SZTOLCMAN GRZEGORZ              pr.
 ARKIT TADEUSZ                         za    MROCZEK CZESŁAW                       za        GRABARCZYK CEZARY                pr.   SZULC JAKUB                     pr.
-ARNDT PAWEŁ                           za    MRZYGŁ OCKA IZABELA KATARZYNA         za        GRAŚ PAWEŁ                       pr.   SZUMILAS KRYSTYNA               pr.
+ARNDT PAWEŁ                           za    MRZYGŁOCKA IZABELA KATARZYNA         za        GRAŚ PAWEŁ                       pr.   SZUMILAS KRYSTYNA               pr.
 AUGUSTYN URSZULA                      za    NEUMANN SŁAWOMIR                      za        GRUPIŃSKI RAFAŁ                  pr.   SZYDŁOWSKA BOŻENA               pr.
 BIERNACKI MAREK                       za    NOWAK TOMASZ PIOTR                    za        GUZOWSKA IWONA                   pr.   SZYMAŃSKI TOMASZ                pr.
 BIERNAT ANDRZEJ                       za    OKŁA-DREWNOWICZ MARZENA               za        HALL KATARZYNA                   pr.   ŚLEDZIŃSKA-KATARASIŃSKA IWONA   pr.
@@ -28,7 +28,7 @@ BUDNIK JERZY                          za    PIECHOTA SŁAWOMIR JAN              
 BUŁA ANDRZEJ                          za    PIERZCHAŁA ELŻBIETA APOLONIA          za        KLUZIK-ROSTKOWSKA JOANNA         pr.   WITKOWSKI RADOSŁAW              pr.
 BUTRYN RENATA                         za    PIETRASZEWSKA DANUTA                  za        KOCHAN MAGDALENA                 pr.   WOJNAROWSKI NORBERT             pr.
 CHARŁAMPOWICZ JAROSŁAW                za    PIETRZCZYK LUCJAN MAREK               za        KOLENDA-ŁABUŚ BRYGIDA            pr.   WOLAK EWA                       pr.
-CYCOŃ MARIAN                          za    PIĘ TA JAROSŁAW                       za        KOŁODZIEJ EWA                    pr.   WÓJCIK MAREK                    pr.
+CYCOŃ MARIAN                          za    PIĘTA JAROSŁAW                       za        KOŁODZIEJ EWA                    pr.   WÓJCIK MAREK                    pr.
 CZERWIŃSKI ANDRZEJ                    za    PIOTROWSKA TERESA                     za        KOPACZ EWA                       pr.   ZAREMBA RENATA                  pr.
 DURKA ZENON                           za    PITERA JULIA                          za        KOPACZEWSKA DOMICELA             pr.   ZAWADZKI RYSZARD                pr.
 DZIKOWSKI WALDY                       za    PLOCKE KAZIMIERZ                      za        KOZŁOWSKA IWONA                  pr.   ZDROJEWSKI BOGDAN               pr.
@@ -51,7 +51,7 @@ JASTRZĘBSKI LESZEK                    za    TOMAŃSKI PIOTR                    
 KACZOR ROMAN                          za    TOMCZAK JACEK                         za        NIEMCZYK MAŁGORZATA              pr.   ROZPONDEK HALINA                ws.
 KANIA ANDRZEJ                         za    TOMCZYKIEWICZ TOMASZ                  za        NOWAK SŁAWOMIR                   pr.   RUTKOWSKA DOROTA                ws.
 KAŹMIERCZAK JAN                       za    ZIEMNIAK WOJCIECH                     za        NYKIEL MIROSŁAWA                 pr.   SŁAWIAK BOŻENA                  ws.
-KIERWIŃSKI MARCIN                     za    ZIĘ TEK JERZY                         za        OKRĄGŁY JANINA                   pr.   TUSK DONALD                     ws.
+KIERWIŃSKI MARCIN                     za    ZIĘTEK JERZY                         za        OKRĄGŁY JANINA                   pr.   TUSK DONALD                     ws.
 KOŁACZ-LESZCZYŃSKA AGNIESZKA          za    ŻALEK JACEK                           za        OLECHOWSKA ALICJA                pr.   TYSZKIEWICZ ROBERT              ws.
 KORZENIOWSKI LESZEK                   za    ŻYLIŃSKI ADAM                         za        OLSZEWSKI PAWEŁ                  pr.   VAN DER COGHEN PIOTR            ws.
 KOSECKI ROMAN JACEK                   za    ARŁUKOWICZ BARTOSZ                    pr.       PAHL WITOLD                      pr.   VINCENT-ROSTOWSKI JAN           ws.
@@ -82,7 +82,7 @@ BABALSKI ZBIGNIEW               za    KACZMAREK TOMASZ             za        OŻ
 BABINETZ PIOTR                  za    KAMIŃSKI MARIUSZ             za        PALUCH ANNA                      za    ŚWIAT JACEK                   za
 BARTUŚ BARBARA                  za    KLOC IZABELA                 za        PAW ŁOWICZ KRYSTYNA              za    TCHÓRZEWSKI KRZYSZTOF         za
 BĄK DARIUSZ                     za    KŁOSOWSKI SŁAWOMIR           za        PIECHA BOLESŁAW GRZEGORZ         za    TELUS ROBERT                  za
-BERNACKI W ŁODZIMIERZ           za    KOŁAKOWSKI LECH              za        PIĘ TA STANISŁAW                 za    TERLECKI RYSZARD              za
+BERNACKI W ŁODZIMIERZ           za    KOŁAKOWSKI LECH              za        PIĘTA STANISŁAW                 za    TERLECKI RYSZARD              za
 BĘTKOWSKI ANDRZEJ               za    KOŁAKOWSKI ROBERT            za        PIONTKOWSKI DARIUSZ              za    TOBISZOWSKI GRZEGORZ          za
 BŁASZCZAK MARIUSZ               za    KOWALCZYK HENRYK             za        PIOTROWICZ STANISŁAW             za    TOMASZEWSKI JAN               za
 BRUDZIŃSKI JOACHIM              za    KOWNACKI BARTOSZ             za        POLACZEK JERZY                   za    UJAZDOWSKI KAZIMIERZ MICHAŁ   za
@@ -110,10 +110,10 @@ HRYNKIEWICZ JÓZEFA              za    MATUSZEWSKI MAREK            za        SZ
 
  RP (43)                      GŁOSOWAŁO - 42            ZA - 0     PRZECIW - 42               WSTRZYM. - 0             NIE GŁOS. - 1
 
-BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       KRUPA ŁUKASZ                     pr.   PIĄ TAK ANDRZEJ               pr.
+BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       KRUPA ŁUKASZ                     pr.   PIĄTAK ANDRZEJ               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                pr.       KWIATKOWSKI JACEK                pr.   POPIOŁEK ZOFIA                pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR             pr.       LEWANDOWSKI ANDRZEJ              pr.   POZNAŃSKI MAREK               pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                 pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                 pr.       MAKOWSKI TOMASZ                  pr.   ROZENEK ANDRZEJ               pr.
 BORKOWSKI JERZY                 pr.   KABACIŃSKI MICHAŁ            pr.       MARCINKIEWICZ MAŁGORZATA         pr.   RYBAKOWICZ ADAM               pr.
 BRAMORA ARTUR                   pr.   KĘPIŃSKI ADAM                pr.       MROCZEK MACIEJ                   pr.   RYFIŃSKI ARMAND KAMIL         pr.
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD               pr.       NAJDER JACEK                     pr.   SAJAK PAWEŁ                   pr.

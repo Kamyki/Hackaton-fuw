@@ -18,7 +18,7 @@ ARŁUKOWICZ BARTOSZ                    pr.   GUZOWSKA IWONA                     
 ARNDT PAWEŁ                           pr.   HALICKI ANDRZEJ                       pr.       MILLER RAJMUND                   pr.   SŁAWIAK BOŻENA                  pr.
 AUGUSTYN URSZULA                      pr.   HALL KATARZYNA                        pr.       MIODOWICZ KONSTANTY              pr.   SŁUGOCKI WALDEMAR               pr.
 AZIEWICZ TADEUSZ                      pr.   HANAJCZYK AGNIESZKA                   pr.       MROCZEK CZESŁAW                  pr.   SMOLARZ TOMASZ                  pr.
-BIERNACKI MAREK                       pr.   HOPPE TERESA                          pr.       MRZYGŁ OCKA IZABELA KATARZYNA    pr.   STAROŃ LIDIA                    pr.
+BIERNACKI MAREK                       pr.   HOPPE TERESA                          pr.       MRZYGŁOCKA IZABELA KATARZYNA    pr.   STAROŃ LIDIA                    pr.
 BIERNAT ANDRZEJ                       pr.   HUSKOWSKI STANISŁAW                   pr.       MUCHA JOANNA                     pr.   SUCHOWIEJKO WIESŁAW             pr.
 BLANIK LESZEK                         pr.   JANYSKA MARIA MAŁGORZATA              pr.       MUNYAMA KILLION                  pr.   SUSKI PAWEŁ                     pr.
 BOBOWSKA JOANNA                       pr.   JARMUZIEWICZ TADEUSZ                  pr.       NEMŚ ANNA                        pr.   SYCZ MIRON                      pr.
@@ -43,7 +43,7 @@ CZERWIŃSKI ANDRZEJ                    pr.   KOPACZ EWA                         
 DĄBROWSKA ALICJA                      pr.   KOPACZEWSKA DOMICELA                  pr.       PIECHOTA SŁAWOMIR JAN            pr.   WARDZAŁA ROBERT                 pr.
 DROZD EWA                             pr.   KORZENIOWSKI LESZEK                   pr.       PIERZCHAŁA ELŻBIETA APOLONIA     pr.   WIELICHOWSKA MONIKA             pr.
 DUNIN ARTUR                           pr.   KOSECKI ROMAN JACEK                   pr.       PIETRZCZYK LUCJAN MAREK          pr.   WITCZAK MARIUSZ                 pr.
-DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘ TA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
+DURKA ZENON                           pr.   KOWALSKI SŁAWOMIR                     pr.       PIĘTA JAROSŁAW                  pr.   WITKOWSKI RADOSŁAW              pr.
 DZIĘCIOŁ JANUSZ                       pr.   KOZACZYŃSKI JACEK                     pr.       PIOTROWSKA TERESA                pr.   WOJTKOWSKI MAREK                pr.
 DZIKOWSKI WALDY                       pr.   KOZDROŃ JERZY                         pr.       PITERA JULIA                     pr.   WOLAK EWA                       pr.
 FABISIAK JOANNA                       pr.   KOZŁOWSKA IWONA                       pr.       PLOCKE KAZIMIERZ                 pr.   WÓJCIK MAREK                    pr.
@@ -53,7 +53,7 @@ GADOWSKI KRZYSZTOF                    pr.   KRAJEWSKA LIGIA                     
 GAŁAŻEWSKI ANDRZEJ                    pr.   KROPIWNICKI ROBERT                    pr.       POŚLEDNIA KRYSTYNA               pr.   ZDROJEWSKI BOGDAN               pr.
 GAPIŃSKA ELŻBIETA                     pr.   KRZĄKAŁA MAREK                        pr.       RACZKOWSKI DAMIAN                pr.   ZIELIŃSKI MACIEJ                pr.
 GAW ŁOWSKI STANISŁAW                  pr.   KUCHARSKI CEZARY                      pr.       RADZISZEWSKA ELŻBIETA            pr.   ZIEMNIAK WOJCIECH               pr.
-GĄDEK LIDIA                           pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘ TEK JERZY                   pr.
+GĄDEK LIDIA                           pr.   KUDRYCKA BARBARA                      pr.       RANIEWICZ GRZEGORZ               pr.   ZIĘTEK JERZY                   pr.
 GĄSIOR-MAREK MAGDALENA                pr.   KULESZA TOMASZ                        pr.       RAŚ IRENEUSZ                     pr.   ŻALEK JACEK                     pr.
 GELERT ELŻBIETA                       pr.   KWIATKOWSKI KRZYSZTOF                 pr.       ROSATI DARIUSZ                   pr.   ŻMIJAN STANISŁAW                pr.
 GIERADA ARTUR                         pr.   LAMCZYK STANISŁAW                     pr.       ROZPONDEK HALINA                 pr.   ŻMUDA-TRZEBIATOWSKA EWA         pr.
@@ -83,7 +83,7 @@ ARCISZEWSKA-MIELEWCZYK DOROTA   ws.   JURGIEL KRZYSZTOF            ws.       OŻ
 ARDANOWSKI JAN KRZYSZTOF        ws.   KACZMAREK TOMASZ             ws.       PALUCH ANNA                       ws.   TOBISZOWSKI GRZEGORZ          ws.
 ARENT IWONA EWA                 ws.   KACZYŃSKI JAROSŁAW           ws.       PAW ŁOWICZ KRYSTYNA               ws.   TOMASZEWSKI JAN               ws.
 AST MAREK                       ws.   KAMIŃSKI MARIUSZ             ws.       PIECHA BOLESŁAW GRZEGORZ          ws.   UJAZDOWSKI KAZIMIERZ MICHAŁ   ws.
-BABALSKI ZBIGNIEW               ws.   KAMIŃSKI MARIUSZ ANTONI      ws.       PIĘ TA STANISŁAW                  ws.   WARZECHA JAN                  ws.
+BABALSKI ZBIGNIEW               ws.   KAMIŃSKI MARIUSZ ANTONI      ws.       PIĘTA STANISŁAW                  ws.   WARZECHA JAN                  ws.
 BABINETZ PIOTR                  ws.   KLOC IZABELA                 ws.       PIONTKOWSKI DARIUSZ               ws.   WASZCZYKOWSKI WITOLD          ws.
 BARTUŚ BARBARA                  ws.   KŁOSOWSKI SŁAWOMIR           ws.       PIOTROWICZ STANISŁAW              ws.   WIPLER PRZEMYSŁAW             ws.
 BĄK DARIUSZ                     ws.   KOŁAKOWSKI LECH              ws.       POLACZEK JERZY                    ws.   WIŚNIEWSKA JADWIGA            ws.
@@ -109,13 +109,13 @@ GOŁOJUCH KAZIMIERZ              ws.   MATERNA JERZY                ws.       SZ
 
  RP (43)                      GŁOSOWAŁO - 43             ZA - 3    PRZECIW - 39               WSTRZYM. - 1              NIE GŁOS. - 0
 
-KABACIŃSKI MICHAŁ               za    DĘBSKI ARTUR                 pr.       KRUPA ŁUKASZ                      pr.   PIĄ TAK ANDRZEJ               pr.
+KABACIŃSKI MICHAŁ               za    DĘBSKI ARTUR                 pr.       KRUPA ŁUKASZ                      pr.   PIĄTAK ANDRZEJ               pr.
 KMIECIK HENRYK                  za    DOMARACKI MAREK              pr.       KWIATKOWSKI JACEK                 pr.   POPIOŁEK ZOFIA                pr.
 POZNAŃSKI MAREK                 za    DZIADZIO DARIUSZ CEZAR       pr.       LEWANDOWSKI ANDRZEJ               pr.   ROZENEK ANDRZEJ               pr.
 BANASZAK MACIEJ                 pr.   ELSNER WINCENTY              pr.       MAKOWSKI TOMASZ                   pr.   RYBAKOWICZ ADAM               pr.
 BAUĆ PIOTR PAWEŁ                pr.   GIBAŁA ŁUKASZ                pr.       MARCINKIEWICZ MAŁGORZATA          pr.   RYFIŃSKI ARMAND KAMIL         pr.
 BIEDROŃ ROBERT                  pr.   GÓRCZYŃSKI ARTUR             pr.       MROCZEK MACIEJ                    pr.   SAJAK PAWEŁ                   pr.
-BODIO BARTŁ OMIEJ               pr.   GRODZKA ANNA                 pr.       NAJDER JACEK                      pr.   STOLARSKI MAREK               pr.
+BODIO BARTŁOMIEJ               pr.   GRODZKA ANNA                 pr.       NAJDER JACEK                      pr.   STOLARSKI MAREK               pr.
 BORKOWSKI JERZY                 pr.   KĘPIŃSKI ADAM                pr.       NOWICKA WANDA                     pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 BRAMORA ARTUR                   pr.   KŁOSOWSKI KRZYSZTOF          pr.       PACHOLSKI MICHAŁ TOMASZ           pr.   WYDRZYŃSKI MACIEJ             pr.
 CEDZYŃSKI JAN                   pr.   KOPYCIŃSKI SŁAWOMIR          pr.       PALIKOT JANUSZ                    pr.   KLEPACZ WITOLD                ws.

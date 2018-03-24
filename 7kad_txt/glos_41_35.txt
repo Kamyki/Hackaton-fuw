@@ -16,7 +16,7 @@ ACHINGER ELŻBIETA                    za    GRAŚ PAWEŁ                        
 ADAMCZAK MAŁGORZATA                  za    GRUPIŃSKI RAFAŁ                      za       MĘŻYDŁO ANTONI                     za   SŁUGOCKI WALDEMAR               za
 ARKIT TADEUSZ                        za    GUT-MOSTOWY ANDRZEJ                  za       MILLER RAJMUND                     za   SMOLARZ TOMASZ                  za
 ARŁUKOWICZ BARTOSZ                   za    HALICKI ANDRZEJ                      za       MROCZEK CZESŁAW                    za   STAROŃ LIDIA                    za
-ARNDT PAWEŁ                          za    HALL KATARZYNA                       za       MRZYGŁ OCKA IZABELA KATARZYNA      za   SUCHOWIEJKO WIESŁAW             za
+ARNDT PAWEŁ                          za    HALL KATARZYNA                       za       MRZYGŁOCKA IZABELA KATARZYNA      za   SUCHOWIEJKO WIESŁAW             za
 AUGUSTYN URSZULA                     za    HANAJCZYK AGNIESZKA                  za       MUCHA JOANNA                       za   SUSKI PAWEŁ                     za
 AZIEWICZ TADEUSZ                     za    HOK MAREK                            za       MUNYAMA KILLION                    za   SYCZ MIRON                      za
 BIERNACKI MAREK                      za    HOPPE TERESA                         za       NEMŚ ANNA                          za   SZCZERBA MICHAŁ                 za
@@ -42,7 +42,7 @@ CZECHYRA CZESŁAW                     za    KOPACZ EWA                          
 CZERNOW ZOFIA                        za    KOPACZEWSKA DOMICELA                 za       PIERZCHAŁA ELŻBIETA APOLONIA       za   WITKOWSKI RADOSŁAW              za
 CZERWIŃSKI ANDRZEJ                   za    KORZENIOWSKI LESZEK                  za       PIETRASZEWSKA DANUTA               za   WOJNAROWSKI NORBERT             za
 DĄBROWSKA ALICJA                     za    KOSECKI ROMAN JACEK                  za       PIETRZCZYK LUCJAN MAREK            za   WOJTKOWSKI MAREK                za
-DROZD EWA                            za    KOWALSKI SŁAWOMIR                    za       PIĘ TA JAROSŁAW                    za   WOLAK EWA                       za
+DROZD EWA                            za    KOWALSKI SŁAWOMIR                    za       PIĘTA JAROSŁAW                    za   WOLAK EWA                       za
 DUNIN ARTUR                          za    KOZACZYŃSKI JACEK                    za       PIOTROWSKA TERESA                  za   WÓJCIK MAREK                    za
 DURKA ZENON                          za    KOZDROŃ JERZY                        za       PITERA JULIA                       za   ZAKRZEWSKA JADWIGA              za
 DZIĘCIOŁ JANUSZ                      za    KOZŁOWSKA IWONA                      za       PLOCKE KAZIMIERZ                   za   ZAREMBA RENATA                  za
@@ -50,7 +50,7 @@ DZIKOWSKI WALDY                      za    KOZŁOWSKA-RAJEWICZ AGNIESZKA        
 FABISIAK JOANNA                      za    KOŹLAKIEWICZ MIROSŁAW                za       PLUTA MIROSŁAW                     za   ZDROJEWSKI BOGDAN               za
 FEDOROWICZ JERZY                     za    KRAJEWSKA LIGIA                      za       POMASKA AGNIESZKA                  za   ZIELIŃSKI MACIEJ                za
 FIEDLER ARKADY                       za    KROPIWNICKI ROBERT                   za       RACZKOWSKI DAMIAN                  za   ZIEMNIAK WOJCIECH               za
-GADOWSKI KRZYSZTOF                   za    KRZĄKAŁA MAREK                       za       RADZISZEWSKA ELŻBIETA              za   ZIĘ TEK JERZY                   za
+GADOWSKI KRZYSZTOF                   za    KRZĄKAŁA MAREK                       za       RADZISZEWSKA ELŻBIETA              za   ZIĘTEK JERZY                   za
 GAŁAŻEWSKI ANDRZEJ                   za    KUCHARSKI CEZARY                     za       RANIEWICZ GRZEGORZ                 za   ŻMIJAN STANISŁAW                za
 GAPIŃSKA ELŻBIETA                    za    KUDRYCKA BARBARA                     za       RAŚ IRENEUSZ                       za   ŻMUDA-TRZEBIATOWSKA EWA         za
 GAW ŁOWSKI STANISŁAW                 za    KULESZA TOMASZ                       za       ROZPONDEK HALINA                   za   ŻYLIŃSKI ADAM                   za
@@ -79,7 +79,7 @@ ARCISZEWSKA-MIELEWCZYK DOROTA   pr.   JURGIEL KRZYSZTOF           pr.       OSUC
 ARDANOWSKI JAN KRZYSZTOF        pr.   KACZMAREK TOMASZ            pr.       OŻÓG STANISŁAW                   pr.   TELUS ROBERT                  pr.
 ARENT IWONA EWA                 pr.   KACZYŃSKI JAROSŁAW          pr.       PALUCH ANNA                      pr.   TERLECKI RYSZARD              pr.
 AST MAREK                       pr.   KAMIŃSKI MARIUSZ            pr.       PAW ŁOWICZ KRYSTYNA              pr.   TOBISZOWSKI GRZEGORZ          pr.
-BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIĘ TA STANISŁAW                 pr.   TOMASZEWSKI JAN               pr.
+BABALSKI ZBIGNIEW               pr.   KAMIŃSKI MARIUSZ ANTONI     pr.       PIĘTA STANISŁAW                 pr.   TOMASZEWSKI JAN               pr.
 BABINETZ PIOTR                  pr.   KLOC IZABELA                pr.       PIONTKOWSKI DARIUSZ              pr.   UJAZDOWSKI KAZIMIERZ MICHAŁ   pr.
 BARTUŚ BARBARA                  pr.   KŁOSOWSKI SŁAWOMIR          pr.       PIOTROWICZ STANISŁAW             pr.   WARZECHA JAN                  pr.
 BĄK DARIUSZ                     pr.   KOŁAKOWSKI LECH             pr.       POLACZEK JERZY                   pr.   WASZCZYKOWSKI WITOLD          pr.
@@ -118,7 +118,7 @@ BRAMORA ARTUR                   pr.   KABACIŃSKI MICHAŁ           pr.       MA
 CEDZYŃSKI JAN                   pr.   KLEPACZ WITOLD              pr.       MROCZEK MACIEJ                   pr.   STOLARSKI MAREK               pr.
 CHMIELOWSKI PIOTR               pr.   KŁOSOWSKI KRZYSZTOF         pr.       NAJDER JACEK                     pr.   SZYMIEC-RACZYŃSKA HALINA      pr.
 DĘBSKI ARTUR                    pr.   KMIECIK HENRYK              pr.       PACHOLSKI MICHAŁ TOMASZ          pr.   WYDRZYŃSKI MACIEJ             pr.
-DOMARACKI MAREK                 pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PALIKOT JANUSZ                   pr.   PIĄ TAK ANDRZEJ               ws.
+DOMARACKI MAREK                 pr.   KOPYCIŃSKI SŁAWOMIR         pr.       PALIKOT JANUSZ                   pr.   PIĄTAK ANDRZEJ               ws.
 DZIADZIO DARIUSZ CEZAR          pr.   KOTLIŃSKI ROMAN             pr.       PENKALSKI WOJCIECH               pr.   POPIOŁEK ZOFIA                ws.
 
 
@@ -156,7 +156,7 @@ JAKI PATRYK                     pr.   SIARKA EDWARD               pr.       ZIOB
 
  niez. (5)                    GŁOSOWAŁO - 4             ZA - 3    PRZECIW - 1                WSTRZYM. - 0             NIE GŁOS. - 1
 
-BODIO BARTŁ OMIEJ               za    KALISZ RYSZARD              za        NOWICKA WANDA                    ng.
+BODIO BARTŁOMIEJ               za    KALISZ RYSZARD              za        NOWICKA WANDA                    ng.
 GALLA RYSZARD                   za    JAGIEŁŁO JAROSŁAW TOMASZ    pr.
 
 
