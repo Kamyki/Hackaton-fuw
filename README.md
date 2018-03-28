@@ -7,7 +7,7 @@ W ramach hackathonu Wydziału Fizyki UW w dniach 24-25.03.2018 roku pod opieką 
 
 [Analiza ogólnych danych o głosowaniach](../blob/master/Analiza-glosow.ipynb) - na przykład godziny głosowań
 
-[Analiza odległości](../blob/master/odleglosci-partia-posel.ipynb) - sprawdzenie względnych odległości między konretnymi posłami i partiami
+[Analiza odległości](../blob/master/odleglosci-partia-posel.ipynb) - sprawdzenie względnych odległości między konkretnymi posłami i partiami
 
 Dzięki!
 
